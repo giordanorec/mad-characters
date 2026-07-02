@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s092-r001",
+    "sheet_id": "s092",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Sir Cogsworth",
+    "character_desc": "O mestre-construtor da guilda a vapor: desenha a planta de toda a máquina antes que o latão esquente. Segura um compasso de bronze e uma planta enrolada.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of distinguished bearded inventor holding a brass drafting compass and an unrolled blueprint, wearing an engineer's leather apron and monocle, confident visionary pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r002",
+    "sheet_id": "s092",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Capitão Bielle",
+    "character_desc": "Lidera a bancada dos artífices, mão firme na alavanca central. Chave-mestra pendurada no cinto e mapa de engrenagens no braço.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of seasoned foreman with a master wrench on the belt and a rolled gear-schematic under the arm, hand resting on a central control lever, guiding expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r003",
+    "sheet_id": "s092",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Mestre Latão",
+    "character_desc": "Artífice sênior que resolve o que ninguém mais consegue, sem cargo de comando. Braços cruzados sobre ferramentas de precisão raras.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of senior master artisan with arms crossed over a bandolier of rare precision tools, calm authoritative expression, ornate brass shoulder pauldrons, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r004",
+    "sheet_id": "s092",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Arqui-Vapor",
+    "character_desc": "O maior engenheiro da cidade das caldeiras, referência técnica suprema. Coroa de tubos de cobre e óculos de aumento múltiplo.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of principal engineer with a crown of copper pipes and multi-lens magnifying goggles, holding a glowing pressure gauge, revered technical aura, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r005",
+    "sheet_id": "s092",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Dona Engrenar",
+    "character_desc": "Cuida dos artífices como de sua própria oficina: afia talentos, não só engrenagens. Prancheta de latão e chave de ajuste gentil.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of warm managerial matron holding a brass clipboard and a small adjustment key, nurturing gesture toward unseen workers, tidy Victorian coat, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r006",
+    "sheet_id": "s092",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Visão Cobre",
+    "character_desc": "Decide qual invenção a guilda vai forjar em seguida, ouvindo o mercado das ruas de vapor. Segura um mapa de demandas e uma bússola de latão.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of product visionary holding a demand-map scroll and a brass compass, thoughtful strategic gaze, pointing forward, tailored waistcoat, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r007",
+    "sheet_id": "s092",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Barão da Lista",
+    "character_desc": "Guardião do pergaminho de prioridades da oficina: risca e reordena o que será construído. Rolo de pergaminho longo com selos de cera.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of product owner clutching a long priority scroll with wax seals and a quill, prioritizing gesture, pragmatic expression, brass-buttoned vest, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r008",
+    "sheet_id": "s092",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Regente Rodas",
+    "character_desc": "Sincroniza várias oficinas ao mesmo tempo, como um maestro de linhas de vapor. Batuta-alavanca e painel de mostradores no peito.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of program conductor with a lever-baton and a chest-mounted panel of coordinated dials, orchestrating many-lines pose, composed expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r009",
+    "sheet_id": "s092",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Cronos Pêndulo",
+    "character_desc": "Mantém o cronograma da forja no ritmo, relógio de bolso sempre aberto. Ampulheta de latão e caderno de prazos.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of project keeper with an open brass pocket-watch, a small hourglass and a schedule ledger, time-conscious focused expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r010",
+    "sheet_id": "s092",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Mestre Roldana",
+    "character_desc": "Remove os atritos entre as engrenagens da equipe, óleo lubrificante na mão. Sino de cerimônia e lata de óleo.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of servant-leader holding a ceremony bell and an oil can removing friction, facilitating open-handed gesture, friendly encouraging smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r011",
+    "sheet_id": "s092",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Fornalha Vex",
+    "character_desc": "Alimenta o motor invisível que move tudo por baixo, mãos sujas de graxa. Pá de carvão e válvula de pressão.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of backend stoker with a coal shovel and a pressure valve, soot-smudged hands and rolled sleeves, tending a hidden furnace, sturdy expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r012",
+    "sheet_id": "s092",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Encaixe Bronze",
+    "character_desc": "Desenha as conexões perfeitas entre máquinas: cada bocal encaixa no outro. Segura acopladores de latão intercambiáveis.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of API designer holding a set of interchangeable brass coupling ports, arranging connections, precise craftsman gaze, tool-bandolier, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r013",
+    "sheet_id": "s092",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Miniatura Cog",
+    "character_desc": "Constrói dezenas de pequenas máquinas autônomas que conversam por tubos. Segura três autômatos de latão do tamanho da mão.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of microservices engineer holding three palm-sized brass automatons linked by tiny tubes, modular arrangement, inventive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r014",
+    "sheet_id": "s092",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Duto Sena",
+    "character_desc": "Encanador-mor que move o fluido de dados por tubos de cobre sem vazar. Cachecol de mangueiras e chave de tubulação.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of pipeline plumber wrapped in copper hose-scarf holding a large pipe wrench, directing flow gesture, focused practical expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r015",
+    "sheet_id": "s092",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Coletor Vale",
+    "character_desc": "Recolhe matéria-prima bruta e a refina em barris organizados. Funil de latão e barris etiquetados com engrenagens.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of data engineer with a large brass funnel channeling material into labeled barrels, refining pose, methodical expression, work gloves, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r016",
+    "sheet_id": "s092",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Guarda-Cofre Gear",
+    "character_desc": "Zela pelo grande arquivo de gavetas de bronze onde tudo é guardado. Molho enorme de chaves e lanterna a vapor.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of database keeper holding a huge ring of brass keys and a steam lantern before a wall of bronze filing drawers, vigilant caretaker pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r017",
+    "sheet_id": "s092",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Consulta Íris",
+    "character_desc": "Encontra a gaveta certa no arquivo instantaneamente, com uma lente que filtra. Lupa articulada e fichas indexadas.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of query specialist peering through an articulated magnifying lens over indexed brass cards, searching gesture, sharp attentive eyes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r018",
+    "sheet_id": "s092",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Reserva Cobre",
+    "character_desc": "Guarda cópias quentes à mão para não reacender a fornalha toda hora. Bandeja de frascos pré-aquecidos e ampulheta rápida.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of caching engineer holding a tray of pre-warmed brass vials and a quick sandglass, ready-at-hand gesture, efficient calm expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r019",
+    "sheet_id": "s092",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Esteira Fila",
+    "character_desc": "Organiza as encomendas numa esteira de latão para nada se perder. Segura tíquetes numerados e alavanca de esteira.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of message-queue operator managing a brass conveyor of numbered order tickets, orderly sequencing pose, patient expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r020",
+    "sheet_id": "s092",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Farol Busca",
+    "character_desc": "Ilumina o depósito imenso para achar qualquer peça num relance. Holofote de latão giratório e catálogo.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of search engineer aiming a rotating brass spotlight over a vast catalog, illuminating-to-find pose, keen scanning expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r021",
+    "sheet_id": "s092",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Vitrine Belle",
+    "character_desc": "Constrói a fachada reluzente que o público vê e toca. Painel de mostradores polidos e manivela de vitrine.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of frontend artisan presenting a polished panel of gleaming brass dials and a display crank, showcasing gesture, bright welcoming smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r022",
+    "sheet_id": "s092",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Botão Vero",
+    "character_desc": "Forja os botões e alavancas com que as pessoas comandam a máquina. Cinto de botões de latão sortidos.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of UI engineer with a belt of assorted brass buttons and levers, fitting a control in place, tinkering focused expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r023",
+    "sheet_id": "s092",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Fluxo Aurora",
+    "character_desc": "Estuda como as mãos do público percorrem a máquina e suaviza o caminho. Mapa de trilhas de latão e pena.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of UX designer holding a brass path-map showing user routes and a quill, empathetic studying gaze, smoothing gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r024",
+    "sheet_id": "s092",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Molde Padrão",
+    "character_desc": "Cria os moldes-mestre para que toda peça saia idêntica na guilda. Bandeja de estampas de latão reutilizáveis.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of design-systems engineer holding a tray of reusable master stamps and identical brass tokens, standardizing pose, orderly expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r025",
+    "sheet_id": "s092",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Rampa Cara",
+    "character_desc": "Garante que todos alcancem as alavancas, altos ou baixos. Rampa dobrável de latão e trombeta de escuta.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of accessibility specialist holding a folding brass ramp and an ear trumpet, inclusive welcoming gesture, considerate expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r026",
+    "sheet_id": "s092",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Turbo Fina",
+    "character_desc": "Enxuga cada segundo perdido na máquina, tornando-a veloz. Cronômetro duplo e pena aerodinâmica de latão.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of web-performance engineer with a dual stopwatch and a streamlined brass fin, tuning-for-speed pose, sharp swift expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r027",
+    "sheet_id": "s092",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Verniz Cássio",
+    "character_desc": "Dá o acabamento e o brilho da carcaça, cada curva no lugar. Pincel de verniz e régua curva de latão.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of CSS specialist holding a varnish brush and a curved brass ruler, polishing the shell, meticulous aesthetic expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r028",
+    "sheet_id": "s092",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Mola Anima",
+    "character_desc": "Faz as peças ganharem movimento fluido, molas que dançam. Bobina de molas e pêndulo articulado.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of animation engineer holding a coil of springs and an articulated pendulum, setting things in motion, playful lively expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r029",
+    "sheet_id": "s092",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Bolso Móvel",
+    "character_desc": "Constrói máquinas de vapor que cabem na palma e vão a qualquer lugar. Autômato portátil de latão com alça.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of mobile developer cradling a palm-sized portable brass steam-device with a handle, on-the-go pose, adaptable expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r030",
+    "sheet_id": "s092",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Maçã Ferro",
+    "character_desc": "Especialista nas máquinas polidas da marca da maçã de latão. Dispositivo elegante minimalista e pano de polir.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of iOS developer holding a sleek minimalist brass device engraved with an apple motif and a polishing cloth, refined tidy expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r031",
+    "sheet_id": "s092",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Verdílio Andro",
+    "character_desc": "Domina os autômatos verdes de mil formatos e tamanhos. Pequeno robô-inseto de latão esverdeado.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of Android developer holding a small green-tinted brass insect-robot, versatile many-forms gesture, cheerful tinkerer expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r032",
+    "sheet_id": "s092",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Ponte Nativa",
+    "character_desc": "Constrói uma máquina só que finge ser duas, com ponte de latão. Dispositivo duplo espelhado e ponte-viga.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of React Native developer holding a mirrored dual device joined by a small brass bridge-beam, bridging gesture, clever expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r033",
+    "sheet_id": "s092",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Asa Fluta",
+    "character_desc": "Cria máquinas que rodam iguais em qualquer trilho, leves como pássaro. Autômato alado azul-latão único.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of Flutter developer holding a single winged blue-brass automaton that runs on any rail, smooth uniform pose, breezy expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r034",
+    "sheet_id": "s092",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Oráculo Data",
+    "character_desc": "Lê padrões nas nuvens de vapor e prevê o futuro da guilda. Globo de vapor com gráficos e óculos analíticos.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of data scientist gazing into a steam-globe swirling with charts, holding analytic goggles, pattern-divining thoughtful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r035",
+    "sheet_id": "s092",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Autômato Sábio",
+    "character_desc": "Ensina as máquinas a aprender sozinhas, ajustando pesos de latão. Balança de pesos e cérebro mecânico exposto.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of ML engineer adjusting brass weights on a balance beside an exposed mechanical brain, teaching-machines pose, studious expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r036",
+    "sheet_id": "s092",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Trilho Mestre",
+    "character_desc": "Mantém os autômatos aprendizes rodando na esteira sem descarrilar. Trilho de latão e lata de óleo para engrenagens.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of MLOps engineer maintaining a brass rail of learning-automatons with an oil can, keeping-it-running pose, dependable expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r037",
+    "sheet_id": "s092",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Sonhador Éter",
+    "character_desc": "Investiga máquinas que ninguém ousou imaginar, caderno cheio de esboços. Lupa e caderno de invenções fantásticas.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of AI researcher with a magnifier and a notebook of fantastical mechanism sketches, curious visionary gaze, ether-lit expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r038",
+    "sheet_id": "s092",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Sussurro Válvula",
+    "character_desc": "Sabe as palavras exatas para comandar o grande autômato falante. Tubo acústico ornamentado e cartões de comando.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of prompt engineer speaking into an ornate acoustic tube holding command cards, coaxing-the-automaton pose, clever articulate expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r039",
+    "sheet_id": "s092",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Língua Cobre",
+    "character_desc": "Ensina a máquina a entender a fala humana, decifrando sons em engrenagens. Fonógrafo de latão e diapasão.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of NLP engineer with a brass phonograph horn and a tuning fork translating speech to gears, decoding pose, attentive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r040",
+    "sheet_id": "s092",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Olho Lente",
+    "character_desc": "Dá visão às máquinas com lentes que enxergam formas. Câmera-caixa de latão e várias lentes intercambiáveis.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of computer-vision engineer holding a brass box-camera with interchangeable lenses, giving-sight gesture, observant focused expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r041",
+    "sheet_id": "s092",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Régua Vera",
+    "character_desc": "Mede e compara os números da guilda com precisão de relojoeiro. Régua de cálculo e planilha de latão gravada.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of data analyst holding a slide rule and an engraved brass spreadsheet, measuring and comparing, precise attentive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r042",
+    "sheet_id": "s092",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Painel Íris",
+    "character_desc": "Transforma números em mostradores que a diretoria entende num relance. Painel de manômetros coloridos.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of BI analyst presenting a panel of colorful pressure gauges summarizing numbers, insight-at-a-glance gesture, clear confident expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r043",
+    "sheet_id": "s092",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Alicerce Numa",
+    "character_desc": "Prepara os números crus para que todos leiam a mesma verdade. Barris rotulados e funil de refino de dados.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of analytics engineer aligning labeled data-barrels through a refining funnel, single-source-of-truth pose, methodical expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r044",
+    "sheet_id": "s092",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Gravura Vívi",
+    "character_desc": "Desenha os gráficos mais belos da guilda, gravados em placas de latão. Placa gravada com curvas e buril.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of data-viz specialist holding an engraved brass plate of elegant charts and an engraving burin, artful clarifying pose, aesthetic eye, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r045",
+    "sheet_id": "s092",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Ponte Ops",
+    "character_desc": "Une a forja e a fornalha para que a produção nunca pare. Chave inglesa e engrenagem de acoplamento dupla.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of DevOps engineer holding a large wrench and a double coupling gear joining build and run, uniting pose, capable can-do expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r046",
+    "sheet_id": "s092",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Sentinela Bar",
+    "character_desc": "Vigia a pressão das caldeiras para que nada exploda de madrugada. Manômetro central e alarme de sino.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of SRE watching a central pressure gauge with an alarm bell, ever-vigilant guardian pose, steady reliable expression, night-watch coat, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r047",
+    "sheet_id": "s092",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Alicerce Platt",
+    "character_desc": "Constrói a base de latão sobre a qual todas as oficinas se apoiam. Bloco-base modular e nível de bolha.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of platform engineer holding a modular brass foundation block and a bubble level, building-the-base pose, solid dependable expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r048",
+    "sheet_id": "s092",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Nuvem Cirro",
+    "character_desc": "Projeta cidades flutuantes de vapor onde as máquinas moram. Maquete de dirigível-plataforma nas mãos.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of cloud architect holding a model of a floating airship-platform city, sky-planning gesture, expansive visionary expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r049",
+    "sheet_id": "s092",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Timoneiro Kube",
+    "character_desc": "Comanda uma frota de contêineres de latão como um capitão de porto. Leme de navio e contêineres em miniatura.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of Kubernetes admin at a brass ship's helm surrounded by miniature cargo containers, orchestrating-fleet pose, commanding expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r050",
+    "sheet_id": "s092",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Trama Fios",
+    "character_desc": "Tece a rede de tubos e fios que liga toda a cidade a vapor. Novelo de cabos de cobre e comutador.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of network engineer weaving a spool of copper cables into a brass switchboard, connecting-everything pose, meticulous expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r051",
+    "sheet_id": "s092",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Zelador Sys",
+    "character_desc": "Mantém cada máquina da oficina engraxada e funcionando. Lata de óleo, pano e molho de chaves de fenda.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of sysadmin with an oil can, rag and a ring of screwdrivers keeping machines running, dependable caretaker pose, practical expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r052",
+    "sheet_id": "s092",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Selo Lançar",
+    "character_desc": "Embala e lacra a máquina pronta para enviá-la ao mundo. Caixa de latão selada e carimbo de cera.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of release engineer sealing a finished brass crate with a wax stamp, ship-it pose, satisfied ceremonial expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r053",
+    "sheet_id": "s092",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Bigorna Bild",
+    "character_desc": "Monta as peças soltas numa máquina inteira, martelo na mão. Bigorna portátil e martelo de latão.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of build engineer at a portable anvil with a brass hammer assembling loose parts into a whole, forging pose, sturdy focused expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r054",
+    "sheet_id": "s092",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Esteira Contínua",
+    "character_desc": "Mantém a linha de montagem correndo do molde ao envio sem parar. Esteira circular de latão em loop.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of CI/CD engineer tending a looping brass assembly conveyor from mold to shipping, continuous-flow pose, tireless expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r055",
+    "sheet_id": "s092",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Cadeado Segur",
+    "character_desc": "Blinda a máquina contra intrusos, cadeados por toda parte. Cofre de latão e molho de cadeados.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of security engineer holding a brass strongbox hung with padlocks, fortifying gesture, watchful protective expression, armored vest, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r056",
+    "sheet_id": "s092",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Gazua Sombra",
+    "character_desc": "Tenta arrombar a própria máquina antes que um vilão o faça. Gazuas de latão e lanterna de ladino.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of penetration tester holding lock-picks and a rogue's lantern probing a lock, testing-the-defenses pose, sly clever expression, dark coat, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r057",
+    "sheet_id": "s092",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Escudo App",
+    "character_desc": "Reforça as juntas fracas da fachada contra sabotagem. Placa de blindagem e rebites de latão.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of AppSec engineer fitting a brass armor plate with rivets over weak joints, hardening pose, careful protective expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r058",
+    "sheet_id": "s092",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cifra Enig",
+    "character_desc": "Guarda segredos em cofres de rodas cifradas que só ela abre. Máquina de cifra de rodas de latão.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of cryptographer operating a brass cipher-wheel machine hiding secrets, encoding pose, enigmatic secretive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r059",
+    "sheet_id": "s092",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Selo Regra",
+    "character_desc": "Confere se cada máquina segue as leis da guilda antes de sair. Livro de regulamentos e selo de aprovação.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of compliance officer holding a thick rulebook and an approval seal, checking-against-the-law pose, upright formal expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r060",
+    "sheet_id": "s092",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Véu Priva",
+    "character_desc": "Protege os dados pessoais atrás de véus e cofres discretos. Cofrinho lacrado e véu de latão translúcido.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of privacy engineer holding a small sealed vault behind a translucent brass veil, shielding personal data, discreet careful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r061",
+    "sheet_id": "s092",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Alarme Prompt",
+    "character_desc": "Primeiro a chegar quando a caldeira estoura, extintor em punho. Extintor de vapor e sino de alarme na mão.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of incident responder rushing with a steam extinguisher and an alarm bell, emergency-ready pose, urgent decisive expression, soot marks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r062",
+    "sheet_id": "s092",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Mapa Ameaça",
+    "character_desc": "Imagina onde a máquina pode falhar antes que falhe, mapa de riscos. Mapa marcado com alfinetes vermelhos e lupa.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of threat modeler studying a risk-map pinned with red markers through a magnifier, anticipating-failure pose, cautious analytical expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r063",
+    "sheet_id": "s092",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Prova Kew",
+    "character_desc": "Testa cada alavanca da máquina em busca de defeitos escondidos. Lista de verificação e lupa de inspeção.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of QA engineer with an inspection checklist and a magnifying glass testing each lever, defect-hunting pose, meticulous skeptical expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r064",
+    "sheet_id": "s092",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Autômato Testa",
+    "character_desc": "Constrói pequenos robôs que testam a máquina sozinhos, sem cansar. Robô-inspetor de latão com braço de teste.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of SDET holding a small brass inspector-robot with a testing arm, automating-checks pose, clever efficient expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r065",
+    "sheet_id": "s092",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Prensa Carga",
+    "character_desc": "Empurra a máquina ao limite para ver quando ela cede. Alavanca de carga pesada e manômetro no vermelho.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of performance tester pushing a heavy load lever with a gauge in the red, stress-testing pose, determined intense expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r066",
+    "sheet_id": "s092",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Toque Manu",
+    "character_desc": "Experimenta a máquina com as próprias mãos, sentindo cada folga. Caderno de notas e dedos sobre uma alavanca.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of manual tester feeling a lever by hand with a notebook, hands-on probing pose, attentive patient expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r067",
+    "sheet_id": "s092",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Rampa Prova",
+    "character_desc": "Testa se todos conseguem usar a máquina, venda nos olhos. Venda de latão e bengala de teste.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of accessibility tester with a brass blindfold and a testing cane trying the machine, inclusive-verifying pose, empathetic focused expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r068",
+    "sheet_id": "s092",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Pena Docta",
+    "character_desc": "Escreve o manual gravado que ensina a operar a máquina. Pena de latão e placa-manual gravada.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of technical writer with a brass quill engraving an instruction plate, documenting pose, clear articulate expression, ink-stained cuffs, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r069",
+    "sheet_id": "s092",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Arauto Cobre",
+    "character_desc": "Viaja pelas praças mostrando as maravilhas da guilda ao povo. Megafone de latão e maquete de demonstração.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of developer advocate holding a brass megaphone and a demo model, evangelizing-to-the-crowd pose, enthusiastic charismatic expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r070",
+    "sheet_id": "s092",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Bússola Conto",
+    "character_desc": "Planeja qual história a guilda vai contar e em que ordem. Bússola de latão e mapa de narrativas.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of content strategist holding a brass compass over a narrative map, planning-the-story pose, thoughtful organized expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r071",
+    "sheet_id": "s092",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Tradutor Globo",
+    "character_desc": "Adapta a máquina para falar cada língua do mundo a vapor. Globo de latão e rodas de alfabetos giratórias.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of localization engineer with a brass globe and rotating alphabet wheels, adapting-for-languages pose, worldly attentive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r072",
+    "sheet_id": "s092",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Forma Prod",
+    "character_desc": "Molda a máquina inteira para que seja bela e útil ao mesmo tempo. Régua curva, molde de argila e estilete.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of product designer holding a curved ruler, a clay form and a stylus shaping the whole machine, form-and-function pose, refined eye, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r073",
+    "sheet_id": "s092",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Pincel Vísio",
+    "character_desc": "Pinta a paleta e o brilho visual da máquina, artista da carcaça. Paleta de tintas sépia e pincel fino.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of visual designer holding a sepia paint palette and a fine brush over a machine shell, aesthetic-crafting pose, artistic discerning expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r074",
+    "sheet_id": "s092",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Gesto Ínter",
+    "character_desc": "Desenha como cada toque responde: manivela que gira certo. Manivela de latão e cartões de gesto.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of interaction designer holding a brass crank and gesture cards designing responses, tuning-the-feel pose, attentive playful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r075",
+    "sheet_id": "s092",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Roldana Moto",
+    "character_desc": "Coreografa o movimento de cada peça como uma dança mecânica. Fitas de latão em movimento e roldana.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of motion designer choreographing flowing brass ribbons over a pulley, movement-as-dance pose, graceful dynamic expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r076",
+    "sheet_id": "s092",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Buril Ilus",
+    "character_desc": "Grava ilustrações delicadas nas placas de latão da máquina. Buril, placa gravada e pincéis finos.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of illustrator engraving delicate figures into a brass plate with a burin and fine brushes, illustrative pose, artistic focused expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r077",
+    "sheet_id": "s092",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Peça Asset",
+    "character_desc": "Forja as pecinhas decorativas reutilizáveis da guilda. Bandeja de ornamentos de latão idênticos.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of asset designer holding a tray of identical reusable brass ornaments, crafting-parts pose, tidy productive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r078",
+    "sheet_id": "s092",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Brasão Marca",
+    "character_desc": "Cria o emblema de latão que marca tudo o que a guilda faz. Carimbo-brasão e placa de emblema sem letras.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of brand designer holding a brass crest stamp and a textless emblem plate, identity-forging pose, proud tasteful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r079",
+    "sheet_id": "s092",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Sino Sono",
+    "character_desc": "Afina os sinos e apitos que dão voz sonora à máquina. Diapasão, apito de latão e trompa.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of sound designer holding a tuning fork, a brass whistle and a horn tuning the machine's voice, listening pose, attentive musical expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r080",
+    "sheet_id": "s092",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Molde Tridi",
+    "character_desc": "Esculpe os modelos em relevo pleno, formas que saltam do latão. Escultura de latão em relevo e cinzéis.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of 3D artist sculpting a full-relief brass form with chisels, dimensional-crafting pose, focused sculptor expression, clay-dusted apron, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r081",
+    "sheet_id": "s092",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Regra Jogo",
+    "character_desc": "Inventa as regras do grande autômato-de-diversão da guilda. Dados de latão, tabuleiro mecânico e cartas.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of game designer holding brass dice, a mechanical board and rule cards, inventing-the-rules pose, playful clever expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r082",
+    "sheet_id": "s092",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Trilha Nível",
+    "character_desc": "Desenha os labirintos por onde o autômato-jogo conduz. Maquete de labirinto de latão em camadas.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of level designer holding a layered brass maze model, path-crafting pose, imaginative planning expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r083",
+    "sheet_id": "s092",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Conto Roda",
+    "character_desc": "Tece a história que o autômato conta a cada volta de manivela. Livro-relógio e roda de enredos.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of narrative designer holding a clockwork storybook and a plot-wheel, story-weaving pose, thoughtful expressive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r084",
+    "sheet_id": "s092",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Motor Jogo",
+    "character_desc": "Constrói o motor do autômato-de-diversão, peça por peça. Engrenagem de brinquedo e chave de montagem.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of game developer assembling a toy-automaton engine with a gear and wrench, building-the-fun pose, energetic focused expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r085",
+    "sheet_id": "s092",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Prisma Sheider",
+    "character_desc": "Faz a luz e o brilho da máquina reluzirem em cores sépia. Prisma de latão e lente de refração.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of graphics engineer holding a brass prism and a refraction lens making light gleam, shading pose, dazzled precise expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r086",
+    "sheet_id": "s092",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Chip Miúdo",
+    "character_desc": "Encaixa cérebros minúsculos de latão dentro de máquinas pequenas. Placa mínima com micro-engrenagens e pinça.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of embedded engineer placing tiny brass micro-gears on a small board with tweezers, miniature-precision pose, meticulous expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r087",
+    "sheet_id": "s092",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Alma Firma",
+    "character_desc": "Grava a alma-instrução que faz o chip minúsculo despertar. Cartucho de latão e ferro de gravar.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of firmware engineer engraving a brass instruction-cartridge with a hot iron, breathing-life pose, careful low-level expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r088",
+    "sheet_id": "s092",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Enxame Iota",
+    "character_desc": "Liga centenas de pequenas máquinas sensoras espalhadas pela cidade. Cinto de sensores de latão e antena.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of IoT engineer with a belt of small brass sensor-devices and an antenna, connecting-the-swarm pose, networked attentive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r089",
+    "sheet_id": "s092",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Elo Cadeia",
+    "character_desc": "Forja uma corrente de blocos de latão que ninguém consegue quebrar. Corrente de blocos gravados e martelo.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of blockchain developer holding an unbreakable chain of engraved brass blocks and a hammer, forging-the-ledger pose, resolute expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r090",
+    "sheet_id": "s092",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Lupa Contrato",
+    "character_desc": "Inspeciona os elos da corrente em busca de falhas ocultas. Lupa sobre um bloco de latão e caneta vermelha.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of smart-contract auditor examining a brass chain-block through a magnifier with a red pen, flaw-hunting pose, sharp skeptical expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r091",
+    "sheet_id": "s092",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Lente Além",
+    "character_desc": "Constrói óculos de latão que mostram mundos sobre o mundo real. Óculos-visor duplo elaborado nas mãos.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of AR/VR engineer holding an elaborate dual-lens brass viewer-goggle, revealing-layered-worlds pose, wonder-struck inventive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r092",
+    "sheet_id": "s092",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Braço Robô",
+    "character_desc": "Dá vida a autômatos que caminham e agarram por conta própria. Braço mecânico de latão e controle.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of robotics engineer holding a brass mechanical arm and a control handle bringing an automaton to life, animating pose, proud focused expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r093",
+    "sheet_id": "s092",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Fole Cresce",
+    "character_desc": "Bombeia mais e mais público para dentro da guilda com engenhocas. Fole de latão e funil de multidão.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of growth engineer pumping a brass bellows into a crowd-funnel, expanding-reach pose, energetic opportunistic expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r094",
+    "sheet_id": "s092",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Farol Índex",
+    "character_desc": "Faz a máquina aparecer primeiro no grande índice da cidade. Bússola-índice e holofote de destaque.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of SEO specialist holding an index-compass and a spotlight raising visibility, be-found-first pose, strategic keen expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r095",
+    "sheet_id": "s092",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Alavanca Marc",
+    "character_desc": "Automatiza os anúncios a vapor que atraem clientes pela rua. Painel de alavancas e cartaz mecânico sem texto.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of marketing technologist at a lever-panel driving a textless mechanical billboard, automating-outreach pose, clever tactical expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r096",
+    "sheet_id": "s092",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Ponte Solva",
+    "character_desc": "Traduz os desejos do cliente em máquinas sob medida. Maleta de amostras de latão e planta de encaixe.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of solutions engineer opening a brass sample-case with a fit-blueprint, translating-needs pose, personable resourceful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r097",
+    "sheet_id": "s092",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Balcão Aju",
+    "character_desc": "Atende quem chega com a máquina emperrada e a conserta na hora. Kit de reparo de bancada e sino de balcão.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of support engineer at a repair bench with a toolkit and a counter bell fixing a jam, helpful-on-the-spot pose, patient friendly expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r098",
+    "sheet_id": "s092",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Vitrola Venda",
+    "character_desc": "Mostra a máquina funcionando ao cliente para fechar o negócio. Maquete demonstrativa e aperto de mão de latão.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of sales engineer demonstrating a working model with an offered brass handshake, closing-the-deal pose, confident persuasive smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r099",
+    "sheet_id": "s092",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Cofre Custo",
+    "character_desc": "Mede quanto vapor e latão cada máquina gasta e enxuga desperdício. Balança de moedas de latão e manômetro de custo.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of FinOps analyst weighing brass coins on a scale beside a cost-gauge, trimming-waste pose, shrewd careful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s092-r100",
+    "sheet_id": "s092",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Toga Lex",
+    "character_desc": "Guarda os contratos e leis da guilda em pergaminhos lacrados. Martelo de juiz de latão e pergaminho selado.",
+    "nano_prompt": "Sepia-toned steampunk illustration, aged brass and copper Victorian aesthetic, visible cogs gears and hissing steam, warm sepia palette, engraved patina, waist-up bust portrait of legal counsel holding a brass judge's gavel and a sealed contract scroll, upholding-the-law pose, formal composed expression, robed, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

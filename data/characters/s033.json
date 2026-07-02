@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s033-r001",
+    "sheet_id": "s033",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Chef Executivo Aurélio",
+    "character_desc": "O chef executivo que desenha o menu inteiro; segura a planta da cozinha e prova cada estação.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a confident executive head chef in a tall starched toque, holding a rolled kitchen blueprint of the whole menu, tasting spoon tucked in pocket, apron with many station badges, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r002",
+    "sheet_id": "s033",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Sous-Chef Téo",
+    "character_desc": "O sous-chef que comanda a linha; prancheta de comandas e concha de autoridade.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a sous-chef line leader in a white double-breasted jacket, holding an order-ticket clipboard in one hand and a ladle in the other, whistle on a lanyard, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r003",
+    "sheet_id": "s033",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Chef Mestre Estêvão",
+    "character_desc": "O cozinheiro de referência da casa; caderno de técnicas gasto e faca de mestre.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a seasoned master chef with graying temples, worn technique notebook under arm, a single revered chef's knife held upright, calm expert expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r004",
+    "sheet_id": "s033",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Grande Chef Prisco",
+    "character_desc": "O chef principal, autoridade máxima da brigada; medalha de guia gastronômico e colher cerimonial.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a principal grand chef in an immaculate jacket with a guide-star medal pinned, holding a ceremonial tasting spoon, dignified posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r005",
+    "sheet_id": "s033",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Chef de Cozinha Manô",
+    "character_desc": "Gerente da cozinha; escala de turnos na mão e olhar que cuida da brigada.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a kitchen manager chef holding a staff rota schedule board, warm caring expression, keys to the pantry on belt, tidy jacket, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r006",
+    "sheet_id": "s033",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Chef Menu Paloma",
+    "character_desc": "Define o que vai ao menu e por quê; prancheta de menu e lápis de degustação.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a menu-planning chef holding a large menu board with dish sketches, pencil behind ear, tasting the concept thoughtfully, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r007",
+    "sheet_id": "s033",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Dona do Cardápio Ivete",
+    "character_desc": "A voz do prato certo para o cliente; carta de menu priorizada e caneta vermelha.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a menu-owner chef holding a prioritized dish list with red pen marks, deciding the order of courses, decisive smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r008",
+    "sheet_id": "s033",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Coordenadora Neusa",
+    "character_desc": "Sincroniza várias cozinhas num banquete; painel de cronograma de serviço e sino.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a program-coordinator chef holding a service timeline board with multiple kitchens marked, small brass service bell, organized stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r009",
+    "sheet_id": "s033",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Chef de Serviço Bento",
+    "character_desc": "Toca um banquete do início ao fim; cronograma Gantt de pratos e ampulheta de cozinha.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a project-chef holding a course-timeline chart and a kitchen sand timer, apron pockets full of tickets, focused, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r010",
+    "sheet_id": "s033",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Facilitador Scrum Quim",
+    "character_desc": "Remove obstáculos da linha; quadro de comandas kanban e sineta de rodada.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a scrum-master cook standing by a small ticket kanban board, holding a round-service bell, encouraging gesture, sticky notes on apron, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r011",
+    "sheet_id": "s033",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Cozinheiro de Base Ravi",
+    "character_desc": "O cozinheiro do fundo da casa que faz o caldo-mãe; panela grande e cinta de facas.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a backend prep cook stirring a large stockpot of mother sauce, knife roll on belt, sturdy apron, steam rising, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r012",
+    "sheet_id": "s033",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Chef de Passagem Aline",
+    "character_desc": "Desenha o passe entre cozinha e salão; janela de expedição e comandas encaixadas.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of an api-designer expediting chef at a service pass window, arranging labeled ticket rails, plating spoon in hand, clear organized layout, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r013",
+    "sheet_id": "s033",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Cozinheiro de Estações Dinho",
+    "character_desc": "Divide o prato em pequenas estações independentes; várias panelinhas idênticas numa bandeja.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a microservices cook holding a tray of many small identical pots each with its own label, modular mise-en-place, methodical, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r014",
+    "sheet_id": "s033",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Chef da Linha Pipeline Célia",
+    "character_desc": "Monta a linha de produção do prato passo a passo; esteira de mise en place e concha.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a pipeline-line chef beside an assembly line of prep bowls flowing in sequence, ladle in hand, apron with flow-arrow patches, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r015",
+    "sheet_id": "s033",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Cozinheiro de Insumos Gael",
+    "character_desc": "Recebe e prepara toda a matéria-prima; caixotes de ingredientes e balança.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a data-ingredient cook carrying crates of raw produce to a big scale, sorting bins behind, weighing ingredients, robust apron, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r016",
+    "sheet_id": "s033",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Guardiã da Despensa Zilda",
+    "character_desc": "Administra a despensa e o estoque; prateleiras de conservas rotuladas e chave-mestra.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a pantry-database keeper holding a master key before shelves of neatly labeled jars, inventory ledger under arm, careful gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r017",
+    "sheet_id": "s033",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Cozinheiro de Consultas Íris",
+    "character_desc": "Acha o ingrediente exato na despensa num átimo; lupa e ficha de busca de conservas.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a query-specialist cook holding a magnifying glass over a labeled preserve jar, index card of shelf codes, precise expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r018",
+    "sheet_id": "s033",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Cozinheiro do Rechaud Caco",
+    "character_desc": "Mantém pratos quentes prontos na hora; rechaud/banho-maria e prato coberto.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a caching cook tending a warming bain-marie of ready plates, holding a domed cloche, quick-serve stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r019",
+    "sheet_id": "s033",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Cozinheiro do Passe Nara",
+    "character_desc": "Enfileira comandas na ordem certa; trilho de tickets e campainha de fila.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a message-queue cook managing a long ticket rail in order, ringing a queue bell, tickets clipped in sequence, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r020",
+    "sheet_id": "s033",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Cozinheira Buscadora Sol",
+    "character_desc": "Encontra qualquer receita no arquivão da casa; fichário giratório e lupa.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a search cook spinning a big recipe card index rolodex, magnifier in hand, finding the right card, alert look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r021",
+    "sheet_id": "s033",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Chef de Empratamento Bruna",
+    "character_desc": "Monta o prato que vai à mesa; pinça de plating e prato acabado bonito.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a frontend plating chef holding fine plating tweezers over a beautifully finished plate, squeeze bottle of sauce, artistic focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r022",
+    "sheet_id": "s033",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Cozinheiro de Guarnição Léo",
+    "character_desc": "Cuida dos componentes visíveis do prato; bandeja de guarnições e pincel de brilho.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a ui-garnish cook arranging visible plate components, pastry brush for glaze, tray of neat garnishes, tidy hands, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r023",
+    "sheet_id": "s033",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Chef de Experiência Dora",
+    "character_desc": "Pensa como o cliente sente o prato; storyboard de refeição e colher de prova.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a ux-chef holding a meal-experience storyboard of the dining journey, tasting spoon, empathetic thoughtful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r024",
+    "sheet_id": "s033",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Chef de Padrões Vítor",
+    "character_desc": "Cria o guia de empratamento da casa; molde de emplatamento e cartela de porções.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a design-systems chef holding plating stencils and a portion-swatch card, standard ring molds, consistent tidy layout, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r025",
+    "sheet_id": "s033",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Cozinheira Inclusiva Fê",
+    "character_desc": "Garante prato para todas as restrições; carta de alérgenos em braile e ícones.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of an accessibility cook holding an allergen chart with braille and clear icons, adaptive utensils, welcoming inclusive gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r026",
+    "sheet_id": "s033",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Cozinheiro Expresso Rui",
+    "character_desc": "Faz o prato sair rápido sem perder ponto; cronômetro e frigideira leve.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a web-performance cook holding a stopwatch and a light quick saute pan, motion of fast service, lean efficient stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r027",
+    "sheet_id": "s033",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Estilista de Prato Cléo",
+    "character_desc": "Cuida do acabamento e do estilo do prato; jogo de espátulas finas e pó decorativo.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a css-styling cook with a set of fine offset spatulas and a shaker of decorative powder, styling a plate edge, elegant touch, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r028",
+    "sheet_id": "s033",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Cozinheira de Movimento Duda",
+    "character_desc": "Faz o prato ganhar vida na mesa; molho flambado e gesto de finalização à la minute.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of an animation cook performing a tableside flambe with a small pan of flaming sauce, dramatic finishing gesture, sparks of motion, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r029",
+    "sheet_id": "s033",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Cozinheiro Ambulante Téo",
+    "character_desc": "Cozinha de food truck, cabe no bolso; caixa portátil de mise en place e frigideira compacta.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a mobile food-truck cook holding a compact portable mise-en-place kit and a small pan, on-the-go apron, cheerful, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r030",
+    "sheet_id": "s033",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Chef da Maçã Ian",
+    "character_desc": "Cozinha fina do ecossistema da fruta; avental impecável e faca de precisão polida.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of an iOS-apple chef in a sleek minimalist white apron, polishing a precision knife, a pristine apple garnish on the board, refined, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r031",
+    "sheet_id": "s033",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Cozinheiro Robozinho Dre",
+    "character_desc": "Cozinha aberta e versátil; avental verde-robô e espátula multiuso.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of an android cook in a green-tinted apron with a friendly robot pin, holding a versatile spatula, open toolkit of gadgets, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r032",
+    "sheet_id": "s033",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Cozinheira Ponte Nati",
+    "character_desc": "Um preparo que serve dois food trucks ao mesmo tempo; frigideira dupla e ponte de servir.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a react-native cook holding a double-sided pan bridging two service windows at once, dual apron ties, efficient smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r033",
+    "sheet_id": "s033",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Cozinheira Vibrante Bel",
+    "character_desc": "Prato bonito e fluido em qualquer casa; concha widget e paleta de molhos coloridos.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a flutter cook holding a palette of colorful sauces and a smooth ladle, vibrant plated bowl, fluid graceful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r034",
+    "sheet_id": "s033",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Cientista do Sabor Cira",
+    "character_desc": "Estuda o porquê do sabor; provetas de reduções e caderno de hipóteses de tempero.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a data-scientist cook holding test tubes of sauce reductions, seasoning-hypothesis notebook, curious analytical look, tasting spoon, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r035",
+    "sheet_id": "s033",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Chef de Fermento Malu",
+    "character_desc": "Ensina a massa a crescer sozinha; pote de fermento natural borbulhante e termômetro.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of an ML-engineer cook cradling a bubbling sourdough starter jar, dough thermometer in hand, nurturing training gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r036",
+    "sheet_id": "s033",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Cozinheiro de Escala Rob",
+    "character_desc": "Coloca a receita treinada em produção diária; esteira de fôrmas e painel de temperaturas.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of an MLOps cook by a conveyor of proofing molds and a temperature dashboard, deploying the recipe at scale, steady hands, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r037",
+    "sheet_id": "s033",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Pesquisador de Cozinha Nero",
+    "character_desc": "Inventa técnicas que ninguém fez; alambique experimental e caderno de descobertas.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of an AI-researcher cook at an experimental culinary still, scribbling in a discovery notebook, wild inventive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r038",
+    "sheet_id": "s033",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Chef Susurro Lia",
+    "character_desc": "Sussurra a instrução perfeita para o prato render; cartão de receita afiado e colher de prova.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a prompt-engineer cook holding a carefully worded recipe card and a tasting spoon, whispering the exact instruction, clever smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r039",
+    "sheet_id": "s033",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Cozinheira das Palavras Ju",
+    "character_desc": "Traduz o pedido falado do cliente em prato; bloco de comandas e ouvido atento.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of an NLP cook holding an order pad, hand cupped to ear translating a spoken request into a dish, attentive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r040",
+    "sheet_id": "s033",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Cozinheiro do Olho Vic",
+    "character_desc": "Reconhece o ponto do prato só de olhar; lupa sobre a grelha e escala de cor de assado.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a computer-vision cook inspecting a grill through a magnifier, holding a roast-color reference chart, keen eye, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r041",
+    "sheet_id": "s033",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Provador Analista Duca",
+    "character_desc": "Analisa e reporta o que o prato revela; ficha de degustação e roda de sabores.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a data-analyst taster holding a tasting scorecard and a flavor wheel, marking notes, focused evaluative look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r042",
+    "sheet_id": "s033",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Cozinheira de Painel Bia",
+    "character_desc": "Resume o serviço em números; quadro de vendas do dia e giz.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a BI-analyst cook chalking a daily specials sales board with simple charts, apron with chalk dust, presenting proudly, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r043",
+    "sheet_id": "s033",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Cozinheiro de Métricas Ari",
+    "character_desc": "Prepara os dados do serviço para virar painel; fichas organizadas e régua de medida.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of an analytics-engineer cook organizing service tally cards into neat stacks with a measuring ruler, tidy data mise-en-place, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r044",
+    "sheet_id": "s033",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Chef de Apresentação Van",
+    "character_desc": "Transforma números em prato visual; travessa em formato de gráfico e molhos coloridos.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a data-viz cook plating a chart-shaped platter with colorful sauce bars, squeeze bottles, artful presentation, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r045",
+    "sheet_id": "s033",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Cozinheiro de Instalação Dej",
+    "character_desc": "Monta e liga toda a cozinha; caixa de ferramentas e botijão de gás conectado.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a devops cook with a tool belt connecting a gas line to the stove, wrench in hand, setting up the whole kitchen, hands-on, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r046",
+    "sheet_id": "s033",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Guardião do Fogão Sil",
+    "character_desc": "Mantém a cozinha sempre de pé; extintor pequeno e checklist de confiabilidade.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of an SRE cook holding a small fire extinguisher and a reliability checklist, watching the stoves stay lit, vigilant calm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r047",
+    "sheet_id": "s033",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Chef de Plataforma Otto",
+    "character_desc": "Constrói a bancada onde todos cozinham; bancada modular e caixa de utensílios comuns.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a platform cook presenting a modular prep station with shared utensil trays, building the base others cook on, proud builder, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r048",
+    "sheet_id": "s033",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Arquiteta de Nuvem Céu",
+    "character_desc": "Projeta a cozinha central que serve muitas filiais; maquete de cozinha em nuvem de vapor.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a cloud-architect cook holding a model of a central kitchen amid rising steam clouds, blueprint of many branch stoves, visionary, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r049",
+    "sheet_id": "s033",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Timoneiro Kai",
+    "character_desc": "Coordena dezenas de panelas como um leme; roda de leme feita de conchas e avental naval.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a kubernetes cook steering a ship's-wheel made of ladles orchestrating dozens of pots, container crates behind, commanding, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r050",
+    "sheet_id": "s033",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Cozinheiro dos Canos Nel",
+    "character_desc": "Cuida do encanamento e do gás da cozinha; chave de cano e mangueira enrolada.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a network cook holding a pipe wrench with a coiled hose over shoulder, connecting kitchen plumbing, practical stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r051",
+    "sheet_id": "s033",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Zelador da Cozinha Val",
+    "character_desc": "Mantém tudo funcionando nos bastidores; molho de chaves e prancheta de manutenção.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a sysadmin cook with a big keyring and a maintenance clipboard, tending kitchen equipment, dependable expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r052",
+    "sheet_id": "s033",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Chef de Expedição Rô",
+    "character_desc": "Libera o prato para a mesa no ponto certo; carimbo de liberação e bandeja de saída.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a release cook holding an approval stamp over a finished plate on an outgoing tray, checking readiness, sign-off gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r053",
+    "sheet_id": "s033",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Cozinheiro de Montagem Gus",
+    "character_desc": "Junta os componentes no prato final; bandeja de peças de mise e esquema de montagem.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a build cook assembling plate components from a parts tray following an assembly diagram, methodical hands, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r054",
+    "sheet_id": "s033",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Cozinheira do Passe Contínuo Dê",
+    "character_desc": "Faz prato pronto virar servido sem parar; esteira contínua e sino de passe automático.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a CICD cook by a continuous conveyor moving ready plates to the pass with an auto bell, seamless flow, smooth motion, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r055",
+    "sheet_id": "s033",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Chef de Segurança Alimentar Ester",
+    "character_desc": "Blinda a cozinha contra contaminação; termômetro de segurança e luvas e escudo de higiene.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a food-safety chef holding a safety thermometer and wearing protective gloves, a hygiene shield emblem on apron, guarding expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r056",
+    "sheet_id": "s033",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Cozinheiro Testa-Falhas Pug",
+    "character_desc": "Tenta furar a segurança da cozinha antes do inspetor; luva preta e swab de teste.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a pentester cook in a black glove holding a contamination test swab, probing for weak spots, sly investigative look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r057",
+    "sheet_id": "s033",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Cozinheiro de Blindagem App Zé",
+    "character_desc": "Protege cada preparo individual; tampa lacrada e selo de segurança em cada pote.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of an appsec cook sealing each prep container with a security lid and tamper seal, careful protective gesture, row of sealed jars, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r058",
+    "sheet_id": "s033",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Chef dos Segredos Cifra",
+    "character_desc": "Guarda a receita secreta em código; livro de receitas cadeado e chave decodificadora.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a cryptographer chef holding a padlocked recipe book and a decoder key, secret-formula card half hidden, enigmatic smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r059",
+    "sheet_id": "s033",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Fiscal da Norma Cida",
+    "character_desc": "Garante que a cozinha segue todas as regras; manual de normas e selo de conformidade.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a compliance cook holding a regulations manual and a certification seal stamp, checking the kitchen against rules, upright posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r060",
+    "sheet_id": "s033",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Guardiã da Privacidade Perla",
+    "character_desc": "Protege os dados do cliente na comanda; comanda com nome tarjado e cofre de fichas.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a privacy cook holding an order ticket with the name redacted, a small locked ticket box, discreet protective gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r061",
+    "sheet_id": "s033",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Cozinheiro do Incêndio Brás",
+    "character_desc": "Age quando algo pega fogo na linha; extintor grande e capacete de emergência.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of an incident-responder cook gripping a large fire extinguisher, small emergency helmet, alert urgent stance, wisp of smoke, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r062",
+    "sheet_id": "s033",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Cozinheira do Mapa de Riscos Tuê",
+    "character_desc": "Antecipa onde a cozinha pode falhar; mapa da cozinha com pontos de perigo marcados.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a threat-modeler cook holding a kitchen floor map with hazard points circled in red, thoughtful anticipatory look, pointer in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r063",
+    "sheet_id": "s033",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Provadora-Chefe Quitéria",
+    "character_desc": "Prova tudo antes de ir à mesa; colher de prova e ficha de aprovação.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a QA head-taster cook holding a tasting spoon and an approval checklist card, evaluating a plate, discerning expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r064",
+    "sheet_id": "s033",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Cozinheiro do Robô-Prova Sam",
+    "character_desc": "Automatiza a degustação repetitiva; braço mecânico com colher e bateria de amostras.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of an SDET cook beside a small mechanical tasting arm holding a spoon over a row of sample cups, automation gadget, precise, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r065",
+    "sheet_id": "s033",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Cozinheiro de Carga Léo",
+    "character_desc": "Testa a cozinha no auge do movimento; pilha enorme de comandas e cronômetro.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a performance-tester cook holding a huge stack of order tickets and a stopwatch, stress-testing the line, sweaty determined, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r066",
+    "sheet_id": "s033",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Provador Manual Zeca",
+    "character_desc": "Prova prato por prato, com calma; colherzinha e caderninho de anotações.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a manual-tester cook tasting dish by dish with a small spoon and a little notebook, patient careful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r067",
+    "sheet_id": "s033",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Provadora Inclusiva Meg",
+    "character_desc": "Testa se todos conseguem apreciar o prato; carta de alérgenos e utensílio adaptado.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of an accessibility-tester cook checking a dish against an allergen card with an adaptive utensil, considerate testing gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r068",
+    "sheet_id": "s033",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Escrevente de Receitas Clô",
+    "character_desc": "Escreve a receita clara para qualquer um repetir; ficha de receita caprichada e pena.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a technical-writer cook penning a tidy recipe card with a quill, neat handwritten steps, organized apron of cards, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r069",
+    "sheet_id": "s033",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Cozinheira Demonstradora Bela",
+    "character_desc": "Mostra a receita ao vivo para a plateia; colher erguida e balcão de demonstração.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a developer-advocate cook holding a spoon up to an audience over a demo counter, enthusiastic teaching gesture, warm smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r070",
+    "sheet_id": "s033",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Estrategista de Menu Cau",
+    "character_desc": "Planeja a história que o menu conta; mapa de menu temático e caderno de conceito.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a content-strategist cook holding a thematic menu map and a concept notebook, planning the menu narrative, thoughtful, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r071",
+    "sheet_id": "s033",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Cozinheira Tradutora Kim",
+    "character_desc": "Adapta a receita para cada país; menu em vários idiomas e temperos regionais.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a localization cook holding a multi-language menu and a rack of regional spices, adapting the dish per culture, friendly, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r072",
+    "sheet_id": "s033",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Designer de Prato Lena",
+    "character_desc": "Desenha a experiência completa do prato; esboço do prato e paleta de ingredientes.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a product-designer cook holding a full plate concept sketch and an ingredient color palette, composing the dish, creative focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r073",
+    "sheet_id": "s033",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Cozinheira Visual Fabi",
+    "character_desc": "Cuida da beleza final do prato; pincel de molho e paleta de cores comestíveis.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a visual-designer cook with a saucing brush and a palette of edible colors, painting a plate, artistic elegant pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r074",
+    "sheet_id": "s033",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Cozinheiro de Interação Téo",
+    "character_desc": "Cria pratos que o cliente monta na mesa; kit de montar taco e gesto convidativo.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of an interaction-designer cook presenting a build-your-own taco kit with inviting hands, interactive components, playful, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r075",
+    "sheet_id": "s033",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Cozinheiro de Movimento Ciça",
+    "character_desc": "Faz o prato performar; jato de calda em fio e gesto de finalização fluida.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a motion-designer cook drizzling a flowing ribbon of sauce, dynamic finishing gesture, sense of graceful movement, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r076",
+    "sheet_id": "s033",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Ilustradora de Pratos Manu",
+    "character_desc": "Pinta cenas comestíveis no prato; pincel fino e prato com desenho de calda.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of an illustrator cook painting an edible scene on a plate with a fine brush, sauce-drawing in progress, delighted artistic look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r077",
+    "sheet_id": "s033",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Cozinheira de Guarnições Ester",
+    "character_desc": "Produz os enfeites reutilizáveis do prato; bandeja de guarnições prontas e cortadores.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of an asset-designer cook with a tray of ready-made reusable garnishes and shaped cutters, stocking decorative components, tidy, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r078",
+    "sheet_id": "s033",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Chef de Assinatura Nô",
+    "character_desc": "Cria a identidade da casa no prato; selo de calda com o brasão e prato-assinatura.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a brand-designer cook stamping a signature sauce crest onto a plate, holding the house emblem mold, proud identity gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r079",
+    "sheet_id": "s033",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Cozinheiro do Som Lino",
+    "character_desc": "Cuida do estalar e do chiar do prato; frigideira chiante e concha de escuta.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a sound-designer cook holding a sizzling pan to his ear, listening to the crackle, playful attentive expression, steam, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r080",
+    "sheet_id": "s033",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Escultor de Comida Ravi",
+    "character_desc": "Esculpe volumes no prato; faca de escultura e legume entalhado tridimensional.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a 3D-artist cook carving a sculpted vegetable centerpiece with a carving knife, three-dimensional food sculpture, focused craft, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r081",
+    "sheet_id": "s033",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Chef do Jogo do Menu Gil",
+    "character_desc": "Desenha o menu como um jogo de degustação; roleta de pratos e ficha de regras.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a game-designer cook holding a tasting-game spinner and a rules card, designing a playful menu, mischievous grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r082",
+    "sheet_id": "s033",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Chef do Percurso Nina",
+    "character_desc": "Desenha o passo a passo do menu degustação; mapa de percurso de pratos e marcadores.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a level-designer cook holding a tasting-menu course map with markers, laying out the meal path, planning gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r083",
+    "sheet_id": "s033",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Chef Contadora Sol",
+    "character_desc": "Conta uma história em cada prato do menu; livro de contos culinário e prato narrativo.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a narrative-designer cook holding an open culinary storybook beside a story-themed plate, gesturing a tale, warm expressive look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r084",
+    "sheet_id": "s033",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Cozinheiro do Jogo Dado",
+    "character_desc": "Cozinha experiências interativas e divertidas; espátula-controle e prato lúdico.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a game-developer cook holding a controller-shaped spatula over a playful themed plate, energetic fun expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r085",
+    "sheet_id": "s033",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Cozinheiro do Brilho Rai",
+    "character_desc": "Cuida do brilho e da textura da superfície; maçarico e prato com espelho de calda.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a graphics-shader cook wielding a kitchen torch glazing a mirror-shiny sauce surface, glossy finish, concentrated, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r086",
+    "sheet_id": "s033",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Cozinheiro Miniatura Bit",
+    "character_desc": "Cozinha em espaço mínimo com precisão; fogareiro minúsculo e pinça fina.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of an embedded cook at a tiny single-burner stove with fine tweezers, compact precise mise-en-place, meticulous, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r087",
+    "sheet_id": "s033",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Cozinheira das Brasas Fê",
+    "character_desc": "Domina o controle base do fogo; termômetro de brasa e leque de fogo.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a firmware cook controlling ember heat with a coal thermometer and a firefan, base-fire mastery, steady watchful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r088",
+    "sheet_id": "s033",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Cozinheiro Conectado Neo",
+    "character_desc": "Liga sensores por toda a cozinha; termômetros sem fio e painel de leituras.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of an IoT cook holding several wireless thermometers linked to a readings panel, sensors across the station, connected gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r089",
+    "sheet_id": "s033",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Cozinheiro do Livro-Razão Cripto",
+    "character_desc": "Registra cada receita num livro imutável e compartilhado; livro-corrente acorrentado e selo.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a blockchain cook holding a chained ledger book of recipes with wax seals, immutable record gesture, serious, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r090",
+    "sheet_id": "s033",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Auditora de Contratos Vera",
+    "character_desc": "Confere se a receita-contrato cumpre o combinado; ficha-contrato e lupa.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a smart-contract-auditor cook examining a contract-recipe card with a magnifier, checking each clause-step, scrutinizing look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r091",
+    "sheet_id": "s033",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Chef Imersivo Íris",
+    "character_desc": "Cria pratos com realidade aumentada na mesa; óculos AR e prato holográfico de vapor.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of an AR-VR cook wearing sleek AR goggles beside a plate with a holographic steam projection, immersive gesture, futuristic, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r092",
+    "sheet_id": "s033",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Cozinheiro Automatizado Bo",
+    "character_desc": "Constrói braços que cozinham sozinhos; braço robótico com concha e chave de robô.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a robotics cook adjusting a small robotic arm holding a ladle, robot wrench in hand, automation of cooking, inventive, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r093",
+    "sheet_id": "s033",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Cozinheiro do Crescimento Duda",
+    "character_desc": "Faz a casa lotar; funil de degustação e placa de fila crescente.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a growth cook holding a tasting funnel and a rising-crowd chart, drawing more diners in, upbeat inviting gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r094",
+    "sheet_id": "s033",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Cozinheira do Achado Nê",
+    "character_desc": "Faz o prato aparecer para quem procura; placa de destaque e ímã de clientes.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of an SEO cook holding a spotlight sign over a featured dish and a customer magnet, making the plate discoverable, bright smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r095",
+    "sheet_id": "s033",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Cozinheiro de Vitrine Téo",
+    "character_desc": "Divulga os pratos com apelo; carrinho de amostras e cartaz de degustação.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a marketing-tech cook pushing a sample cart with a tasting poster, promoting dishes, persuasive cheerful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r096",
+    "sheet_id": "s033",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Chef de Soluções Rafa",
+    "character_desc": "Adapta o prato ao gosto exato do cliente; menu customizável e caderno de pedidos especiais.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a solutions cook holding a customizable menu and a special-requests notebook, tailoring a dish to the guest, helpful, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r097",
+    "sheet_id": "s033",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Cozinheiro do Balcão Dão",
+    "character_desc": "Resolve o que deu errado no prato do cliente; comanda de troca e prato refeito na hora.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a support cook holding a redo-order ticket and a freshly remade plate, reassuring fix-it gesture, kind attentive look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r098",
+    "sheet_id": "s033",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Chef de Salão Vivi",
+    "character_desc": "Vende o prato à mesa com convicção; carrinho de degustação e menu aberto.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a sales cook presenting an open menu at a tasting trolley tableside, confident persuasive gesture, warm charismatic smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r099",
+    "sheet_id": "s033",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Cozinheira das Contas Fina",
+    "character_desc": "Controla o custo de cada prato; balança de porção e caderno de custos.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a finops cook weighing a portion on a cost scale beside a ledger of dish costs, thrifty measuring gesture, precise, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s033-r100",
+    "sheet_id": "s033",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Chef Jurídico Bento",
+    "character_desc": "Garante que a receita respeita direitos e normas; contrato de fornecedor e selo de aprovação.",
+    "nano_prompt": "Warm gouache recipe-card illustration, waist-up bust portrait of a legal-counsel cook holding a supplier contract and an approval seal, reviewing recipe rights, formal careful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

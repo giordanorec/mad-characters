@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s035-r001",
+    "sheet_id": "s035",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Maestro Solo",
+    "character_desc": "Maestro de orquestra sinfônica que rege todo o arranjo; batuta erguida e partitura-planta em pé musical.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a symphonic orchestra maestro in a tailored tuxedo, raising a conductor's baton over an oversized blueprint-like music score on a stand, commanding poised expression, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r002",
+    "sheet_id": "s035",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Capitão Riff",
+    "character_desc": "Frontman-líder de banda que rege os músicos com a guitarra; setlist no bolso e mão apontando o compasso.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a rock band leader frontman holding an electric guitar in one hand while pointing to cue the band, a setlist tucked in his jacket, confident leading stance, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r003",
+    "sheet_id": "s035",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Vovô Groove",
+    "character_desc": "Guitarrista de estúdio veterano, calejado, cercado de várias guitarras de anos de estrada.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a seasoned veteran session guitarist with grey-streaked hair, surrounded by several vintage guitars on stands, worn hands and calm mastery, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r004",
+    "sheet_id": "s035",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Virtuoso Grande",
+    "character_desc": "Pianista virtuose de concerto ao piano de cauda, imponente e magistral.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a grand concert pianist in formal tails standing beside a black grand piano, one hand on the keys, virtuoso commanding presence, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r005",
+    "sheet_id": "s035",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Regente Coral",
+    "character_desc": "Diretor de big band/coral com estante de partituras e fone, coordenando muitas vozes.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a big-band and choir director in a suit wearing a headset, conducting with both arms over a music stand, warm coordinating smile, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r006",
+    "sheet_id": "s035",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Compositor Chefe",
+    "character_desc": "Compositor-produtor de álbum-conceito com caderno de letras e uma vitrola planejando o disco.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a songwriter-producer holding a lyric notebook and a pencil, a portable turntable at his side, thoughtful visionary pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r007",
+    "sheet_id": "s035",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Dona do Hit",
+    "character_desc": "Autora de álbum-conceito segurando um compacto de 45 rpm, o hit único que define o disco.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a concept-album auteur proudly holding up a single 45 rpm vinyl record, other hand on hip, decisive owner's stance, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r008",
+    "sheet_id": "s035",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Turnê Mor",
+    "character_desc": "Empresária de turnê coordenando várias bandas; prancheta, crachá de backstage e roteiro.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a tour manager in a bomber jacket holding a clipboard with a backstage laminate pass around the neck, coordinating multiple acts, brisk pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r009",
+    "sheet_id": "s035",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Baliza",
+    "character_desc": "Mestre de fanfarra (drum major) com bastão e cronograma de marcha.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a marching-band drum major in an ornate uniform and tall shako hat, twirling a ceremonial mace baton, crisp scheduled stride, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r010",
+    "sheet_id": "s035",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Sr. Compasso",
+    "character_desc": "Guardião do ritmo que mantém o andamento; segura um metrônomo e um tamborim.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a rhythm-keeper musician holding a wooden metronome in one hand and a tambourine in the other, steady tempo-keeping smile, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r011",
+    "sheet_id": "s035",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Baixo Fundo",
+    "character_desc": "Baixista que sustenta o groove nos bastidores, a base invisível e essencial da banda.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a bass guitarist in the shadows laying down a deep groove, holding a four-string bass low, steady foundational stance, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r012",
+    "sheet_id": "s035",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Patchboard",
+    "character_desc": "Sintetista de patch-bay conectando cabos e conectores entre módulos.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a modular-synth performer plugging colorful patch cables into a large connector panel, precise interface-designing focus, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r013",
+    "sheet_id": "s035",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Sr. Muitos",
+    "character_desc": "Homem-orquestra com muitos instrumentinhos independentes: chocalho, gaita, pratos nos pés.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a one-man-band performer covered in many small independent instruments, harmonica, cymbals on knees, shaker on wrist, cheerful multitasking, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r014",
+    "sheet_id": "s035",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Metais em Fila",
+    "character_desc": "Instrumentista de naipe de metais roteando o som pela seção, trompete e trombone.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a funk brass-section player routing sound through a line of horns, holding a trumpet with a trombone slung, flowing pipeline pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r015",
+    "sheet_id": "s035",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Crateiro",
+    "character_desc": "Turntablista/sampler carregando engradados de discos (os dados) para a mesa.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a turntablist-sampler hauling crates of vinyl records to a mixing station, one record in hand, hard-working crate-digging pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r016",
+    "sheet_id": "s035",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Órgão-Mor",
+    "character_desc": "Organista tocando um imenso órgão de tubos (o banco), rodeado de teclas e registros.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a pipe-organ player seated at a towering pipe organ, hands spread across manuals and stops, custodial mastery, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r017",
+    "sheet_id": "s035",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Jazz Query",
+    "character_desc": "Pianista de jazz que 'consulta' acordes numa partitura densa, óculos e charme.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a jazz pianist querying complex chords from a dense sheet of music, wearing round glasses, smooth improvising expression, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r018",
+    "sheet_id": "s035",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Loop Guardado",
+    "character_desc": "Músico de loop-pedal que guarda e repete riffs prontos na hora.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a loop-pedal guitarist tapping a row of loop pedals to store and replay riffs, guitar in hand, quick-recall grin, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r019",
+    "sheet_id": "s035",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Fila de Conga",
+    "character_desc": "Percussionista de linha de congas passando o ritmo célula por célula.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a conga-line percussionist behind a row of congas passing rhythm down the line, arms mid-strike, orderly groove, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r020",
+    "sheet_id": "s035",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Garimpo DJ",
+    "character_desc": "DJ garimpeiro de vinil com lupa sobre um disco, achando a faixa certa.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a crate-digging DJ holding a magnifying glass over a vinyl record to find the right track, headphones on neck, searching focus, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r021",
+    "sheet_id": "s035",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Voz da Frente",
+    "character_desc": "Vocalista/frontman no microfone sob o holofote, a cara visível da banda.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a lead singer frontman gripping a vintage microphone under a spotlight, dynamic front-facing performance pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r022",
+    "sheet_id": "s035",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Keytar Neon",
+    "character_desc": "Performer synth-pop com keytar chamativo e visual reluzente de palco.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a synth-pop performer wielding a flashy neon keytar, shiny stage outfit, energetic showy pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r023",
+    "sheet_id": "s035",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Voz Gentil",
+    "character_desc": "Cantor-compositor acústico que conecta com a plateia, violão e sorriso caloroso.",
+    "nano_prompt": "Retro vinyl LP cover illustration of an acoustic singer-songwriter cradling a warm-toned guitar, leaning toward the audience with an empathetic inviting smile, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r024",
+    "sheet_id": "s035",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Sr. Modular",
+    "character_desc": "Construtor de sintetizador modular com grade de patches padronizada, sistema organizado.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a modular-synth builder standing before a tidy grid of matching synth modules and patch points, systematic organizing pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r025",
+    "sheet_id": "s035",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Todos Cantam",
+    "character_desc": "Performer inclusivo com cancioneiro em braille e rampa de acesso ao palco, gesto de libras.",
+    "nano_prompt": "Retro vinyl LP cover illustration of an inclusive performer holding a braille songbook, a ramp leading to the stage behind, making an open sign-language gesture, welcoming pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r026",
+    "sheet_id": "s035",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Shred Veloz",
+    "character_desc": "Guitarrista de speed-metal ultrarrápido com cronômetro no pulso, dedos borrados de velocidade.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a speed-metal shredder guitarist playing at blinding speed, a stopwatch on the wrist, motion-blur fingers, intense fast pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r027",
+    "sheet_id": "s035",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Glam Estilo",
+    "character_desc": "Estilista glam-rock esbanjando visual, spray de tinta e figurino extravagante colorido.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a flamboyant glam-rock stylist in an extravagant sequined costume holding a spray can, striking a stylish colorful pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r028",
+    "sheet_id": "s035",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Passo Fluido",
+    "character_desc": "Dançarino-coreógrafo musical em movimento, rastros de motion blur seguindo o gesto.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a dancer-choreographer musician mid-motion with sweeping motion-blur trails following the limbs, graceful animated pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r029",
+    "sheet_id": "s035",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Andarilho Amp",
+    "character_desc": "Músico de rua (busker) com amplificador portátil nas costas, viaja leve tocando em qualquer lugar.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a traveling street busker with a small portable amp strapped on the back, guitar in hands, light-on-the-feet wandering pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r030",
+    "sheet_id": "s035",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Cromado Limpo",
+    "character_desc": "Artista eletro minimalista e polido, instrumento cromado impecável, visual clean.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a sleek minimalist electro artist with a spotless chrome instrument, clean tailored outfit, polished refined pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r031",
+    "sheet_id": "s035",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Robô Verde",
+    "character_desc": "Baterista mascote em traje de robô verde amigável, lúdico e brincalhão.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a playful drummer in a friendly green robot mascot suit holding drumsticks, cheerful bouncy pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r032",
+    "sheet_id": "s035",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Duplo Braço",
+    "character_desc": "Guitarrista de guitarra de braço-duplo: um instrumento, duas plataformas.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a guitarist wielding a double-neck guitar, one instrument serving two necks, versatile cross-platform pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r033",
+    "sheet_id": "s035",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Asas Synth",
+    "character_desc": "Performer de synth com asas de borboleta coloridas, leve e vibrante.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a synth performer with vivid colorful butterfly wings on the back, floaty vibrant pose over a keyboard slung on, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r034",
+    "sheet_id": "s035",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Theremin Lab",
+    "character_desc": "Tocador de theremin em jaleco que lê sinais invisíveis no ar com as mãos.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a theremin player in a lab coat waving hands to read invisible signals in the air, curious scientific expression, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r035",
+    "sheet_id": "s035",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Arpejo Treinado",
+    "character_desc": "Programador de synth treinando um arpejador, pequeno robô backing ao lado.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a synth programmer training an arpeggiator sequencer, a small backing robot beside, focused pattern-teaching pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r036",
+    "sheet_id": "s035",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Rack Vivo",
+    "character_desc": "Engenheiro de estúdio mantendo o rack de IA, cabos e racks de equipamento sob controle.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a studio engineer maintaining a tall rack of humming gear, coiled cables over the shoulder, keeping-the-rig-running pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r037",
+    "sheet_id": "s035",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Som Estranho",
+    "character_desc": "Compositor experimental de vanguarda com um instrumento inédito e bizarro nunca visto.",
+    "nano_prompt": "Retro vinyl LP cover illustration of an avant-garde experimental composer holding a strange never-before-seen invented instrument, inquisitive exploratory pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r038",
+    "sheet_id": "s035",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Voz-Conjuro",
+    "character_desc": "Vocalista/beatboxer que conjura sons das palavras com microfone e megafone.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a beatboxing vocalist conjuring sounds from words, one hand cupping a microphone, a small megaphone at the hip, expressive summoning pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r039",
+    "sheet_id": "s035",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Verso Falado",
+    "character_desc": "Poeta de spoken-word ao microfone com rolos de letras desenrolando.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a spoken-word poet at a microphone with unfurling scrolls of lyrics around the feet, emotive reciting pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r040",
+    "sheet_id": "s035",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "VJ Olho",
+    "character_desc": "Músico visual (VJ) com câmera e projetor, enxergando a plateia através da lente.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a visual VJ musician holding a film camera with a projector beside, peering through the lens, observant pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r041",
+    "sheet_id": "s035",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Gráfico Jazz",
+    "character_desc": "Instrumentista de jazz lendo gráficos numa estante no lugar da partitura.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a jazz instrumentalist reading chart graphs on a music stand instead of sheet music, analytical playing pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r042",
+    "sheet_id": "s035",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Lounge Painel",
+    "character_desc": "Pianista de lounge com uma partitura em forma de painel de indicadores.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a lounge pianist at a small piano with a dashboard-style panel of gauges as the sheet music, relaxed reporting pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r043",
+    "sheet_id": "s035",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Mesa Medidor",
+    "character_desc": "Analista na mesa de mixagem lendo VU meters e faders para afinar os números.",
+    "nano_prompt": "Retro vinyl LP cover illustration of an analyst at a mixing desk reading VU meters and sliding faders, precise number-tuning pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r044",
+    "sheet_id": "s035",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Equalizador Vivo",
+    "character_desc": "Sinesteta de show de luzes pintando o som em barras de equalizador coloridas.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a light-show synesthete painting sound into glowing colorful equalizer bars, arms sweeping across the spectrum, vivid pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r045",
+    "sheet_id": "s035",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Roadie Mestre",
+    "character_desc": "Roadie que monta o palco inteiro, cinto de ferramentas e cabo enrolado no ombro.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a stage roadie setting up the whole stage, a tool belt around the waist and a coiled cable over the shoulder, hands-on setup pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r046",
+    "sheet_id": "s035",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Fone Vigia",
+    "character_desc": "Engenheiro de som-check monitorando confiabilidade com fones e um pager que apita.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a sound-check reliability engineer wearing large monitoring headphones, a beeping pager clipped on, vigilant listening pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r047",
+    "sheet_id": "s035",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Palco Base",
+    "character_desc": "Construtor de palco segurando um praticável/riser modular sobre o qual a banda toca.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a stage builder hoisting a modular stage riser platform, sturdy supportive stance under the band's floor, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r048",
+    "sheet_id": "s035",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Harpa Nuvem",
+    "character_desc": "Sintetista etéreo tocando uma harpa entre nuvens, som que paira no céu.",
+    "nano_prompt": "Retro vinyl LP cover illustration of an ethereal performer playing a cloud-shaped harp among floating clouds, dreamy skyward pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r049",
+    "sheet_id": "s035",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Timoneiro Robô",
+    "character_desc": "Regente de uma frota de bateristas-robôs idênticos (contêineres), leme de navio na mão.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a conductor commanding a fleet of identical robot drummers, holding a ship's helm wheel, orchestrating-the-fleet pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r050",
+    "sheet_id": "s035",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Cabo Mestre",
+    "character_desc": "Especialista em cabeamento ligando todos os amplificadores com cabos de patch entrelaçados.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a cabling specialist wiring a wall of amplifiers together with woven patch cables, connecting-everything pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r051",
+    "sheet_id": "s035",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Válvula Velha",
+    "character_desc": "Técnico de hi-fi à moda antiga cuidando de amplificadores valvulados que brilham.",
+    "nano_prompt": "Retro vinyl LP cover illustration of an old-school hi-fi technician tending glowing tube amplifiers with a screwdriver, careful maintaining pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r052",
+    "sheet_id": "s035",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Solta o Disco",
+    "character_desc": "O que 'lança' o álbum: segura um LP recém-prensado ainda brilhando, pronto pra sair.",
+    "nano_prompt": "Retro vinyl LP cover illustration of the one who drops the record, proudly holding a freshly pressed shining LP toward the viewer, releasing pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r053",
+    "sheet_id": "s035",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Luthier",
+    "character_desc": "Luthier construindo o instrumento na bancada com formão e corpo de guitarra em obra.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a luthier building a guitar at a workbench, chisel in hand over a half-finished guitar body, crafting pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r054",
+    "sheet_id": "s035",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Prensa Contínua",
+    "character_desc": "Músico de esteira que prensa discos em fluxo contínuo, LPs saindo em sequência.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a conveyor-belt musician rapidly pressing records in a continuous line, fresh LPs streaming out, automated flow pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r055",
+    "sheet_id": "s035",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Cadeado Riff",
+    "character_desc": "Segurança-guitarrista guardando o palco com um cadeado gigante pendurado.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a bouncer-guitarist guarding the stage, a large padlock hanging from the guitar strap, protective folded-arm pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r056",
+    "sheet_id": "s035",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Gazua Furtiva",
+    "character_desc": "Músico ladino de chapéu preto abrindo a fechadura dos bastidores com gazua.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a black-hat rogue musician picking a backstage door lock with lockpicks, sneaky testing-the-defenses pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r057",
+    "sheet_id": "s035",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Escudo Sônico",
+    "character_desc": "Performer blindado com uma guitarra em forma de escudo, defesa embutida.",
+    "nano_prompt": "Retro vinyl LP cover illustration of an armored performer holding a shield-shaped guitar, defensive guarding stance, sturdy protective pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r058",
+    "sheet_id": "s035",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cifra Enigma",
+    "character_desc": "Sintetista com um synth estilo máquina Enigma, rodas de cifra e teclas codificadas.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a synthesist at an Enigma-machine-style synth with cipher wheels and coded keys, secretive encoding pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r059",
+    "sheet_id": "s035",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Luva Branca",
+    "character_desc": "Lanterninha de luvas brancas conferindo ingressos com uma prancheta de regras.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a white-gloved usher checking tickets against a clipboard rulebook, precise by-the-book stance, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r060",
+    "sheet_id": "s035",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Máscara Anônima",
+    "character_desc": "Performer mascarado e anônimo atrás de uma cortina entreaberta, identidade oculta.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a masked anonymous performer stepping from behind a half-drawn curtain, identity hidden, discreet pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r061",
+    "sheet_id": "s035",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Alarme Rufo",
+    "character_desc": "Baterista-bombeiro correndo pro incêndio, capacete, luz vermelha e extintor.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a firefighter drummer rushing to a blaze with a red emergency light and a fire extinguisher, urgent responding pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r062",
+    "sheet_id": "s035",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Xadrez Sônico",
+    "character_desc": "Estrategista músico mapeando ataques sobre um tabuleiro de xadrez, planejando lances.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a strategist musician planning attacks over a chessboard on a stand, calculating anticipatory pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r063",
+    "sheet_id": "s035",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Check Mic",
+    "character_desc": "Testador de passagem de som batendo no microfone 'check', checklist na mão.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a sound-check tester tapping a microphone to test it, a checklist clipboard in the other hand, verifying pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r064",
+    "sheet_id": "s035",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Auto-Baque",
+    "character_desc": "Baterista-máquina robótica que testa a música automaticamente, braços mecânicos.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a robotic auto-testing drummer machine with mechanical arms striking drums automatically, precise automated pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r065",
+    "sheet_id": "s035",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Baque Pesado",
+    "character_desc": "Baterista testando sob carga pesada, halteres presos e suor, aguentando o estresse.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a drummer stress-testing under heavy load with weights strapped on, straining under pressure, endurance pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r066",
+    "sheet_id": "s035",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Dedo no Botão",
+    "character_desc": "Testador manual girando cada botão e knob do sintetizador, verificando na mão.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a hands-on tester twiddling every knob and dial on a synth panel one by one, meticulous manual-checking pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r067",
+    "sheet_id": "s035",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Prova Todos",
+    "character_desc": "Testador com aparato assistivo verificando o som: fones e cancioneiro em braille.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a tester verifying accessibility with monitoring headphones and a braille songbook, careful inclusive-checking pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r068",
+    "sheet_id": "s035",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Escriba Encarte",
+    "character_desc": "Escriba das liner notes com pena e um encarte de álbum manuscrito.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a liner-notes scribe writing on an album inner sleeve with a quill pen, careful documenting pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r069",
+    "sheet_id": "s035",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "MC Hype",
+    "character_desc": "Mestre de cerimônias animando a plateia com megafone, energia contagiante.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a hype-man MC rallying the crowd with a megaphone raised, arm up, energetic advocating pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r070",
+    "sheet_id": "s035",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Rádio DJ",
+    "character_desc": "Programador de rádio curando a playlist ao vivo, fones e microfone 'on air'.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a radio programmer curating a playlist on air, headphones on, one hand on a mic boom, strategic broadcasting pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r071",
+    "sheet_id": "s035",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Volta ao Mundo",
+    "character_desc": "Performer de world music com globo e bandeirinhas de vários países, multilíngue.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a world-music performer beside a spinning globe strung with little flags of many nations, multilingual welcoming pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r072",
+    "sheet_id": "s035",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Show Inteiro",
+    "character_desc": "Performer completo que desenha o show todo: caderno de esboços numa mão, violão na outra.",
+    "nano_prompt": "Retro vinyl LP cover illustration of an all-round performer designing the whole show, a sketchbook in one hand and a guitar in the other, holistic pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r073",
+    "sheet_id": "s035",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Pincel Capa",
+    "character_desc": "Pintor de capa de álbum no cavalete com paleta e pincel, criando a arte.",
+    "nano_prompt": "Retro vinyl LP cover illustration of an album-cover painter at an easel with a palette and brush, mid-stroke, artistic visual pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r074",
+    "sheet_id": "s035",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Chama e Responde",
+    "character_desc": "Performer de call-and-response engajando a plateia com gestos de mão convocando resposta.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a call-and-response performer engaging the crowd with beckoning hand gestures, interactive back-and-forth pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r075",
+    "sheet_id": "s035",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Giro Trilha",
+    "character_desc": "Breakdancer girando com rastros de luz seguindo o movimento, energia cinética.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a spinning breakdancer musician with glowing light trails following the spin, kinetic motion pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r076",
+    "sheet_id": "s035",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Lápis Cartum",
+    "character_desc": "Músico cartunista desenhando num bloco grande com lápis, traço solto e divertido.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a cartoonist musician drawing on a big sketchpad with a pencil, playful illustrating pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r077",
+    "sheet_id": "s035",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Coleção Peças",
+    "character_desc": "Fazedor de props com uma coleção de instrumentinhos e peças em prateleira portátil.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a prop-maker with a portable shelf of many small instruments and asset pieces, arranging-the-collection pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r078",
+    "sheet_id": "s035",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Estrela Marca",
+    "character_desc": "Ícone glam com um emblema-estrela reluzente costurado na jaqueta, identidade forte.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a glam icon wearing a jacket with a bold shining star emblem, striking a signature branded pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r079",
+    "sheet_id": "s035",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Mago Foley",
+    "character_desc": "Feiticeiro de foley/synth cercado de geradores de ruído estranhos e apitos.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a foley-synth wizard surrounded by an array of strange noise-makers and whistles, conjuring sounds pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r080",
+    "sheet_id": "s035",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Escultor Som",
+    "character_desc": "Músico escultor com um busto de argila e um compasso de calibre, moldando forma.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a sculptor musician holding calipers over a clay bust on a stand, shaping-in-three-dimensions pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r081",
+    "sheet_id": "s035",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Chip Arcade",
+    "character_desc": "Músico chiptune de arcade com joystick e synth 8-bit, visual pixelado retrô.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a chiptune arcade musician holding a joystick wired to an 8-bit synth, playful pixel-flavored pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r082",
+    "sheet_id": "s035",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Mapa Palco",
+    "character_desc": "Construtor de mapas com a planta do palco/fliperama sob o braço, desenhando fases.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a level-map builder holding a blueprint of the stage layout under one arm, planning-the-flow pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r083",
+    "sheet_id": "s035",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Bardo Conta",
+    "character_desc": "Bardo contador de histórias com alaúde e um livro de contos aberto.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a storyteller bard cradling a lute with an open storybook floating beside, narrating pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r084",
+    "sheet_id": "s035",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Console Riff",
+    "character_desc": "Banda chiptune com uma guitarra feita de controle de videogame retrô.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a chiptune band musician wielding a guitar built from a retro game controller, arcade-playing pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r085",
+    "sheet_id": "s035",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Prisma Laser",
+    "character_desc": "Artista de luz laser dobrando a luz num prisma que espalha arco-íris pelo palco.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a laser-light artist bending a beam through a prism that scatters a rainbow across the stage, shimmering pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r086",
+    "sheet_id": "s035",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Gaita Circuito",
+    "character_desc": "Tocador de gaita minúscula sobre uma placa de circuito, ferro de solda na mão.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a tiny-harmonica player perched over a circuit board, a soldering iron in hand, precise embedded-tinkering pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r087",
+    "sheet_id": "s035",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Caixa de Música",
+    "character_desc": "Afinador de mecanismo de caixa de música com engrenagens minúsculas e pinça.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a music-box mechanism tuner adjusting tiny gears with tweezers, meticulous firmware pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r088",
+    "sheet_id": "s035",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Orquestra Wi-Fi",
+    "character_desc": "Regente de uma orquestra de gadgets sem fio, antena na mão espalhando sinal.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a conductor of a wireless orchestra of small networked gadgets, holding an antenna beaming signal, connected pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r089",
+    "sheet_id": "s035",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Corrente Grave",
+    "character_desc": "Baixista com correntes de elos e medalhões encadeados, blocos ligados em sequência.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a bassist draped in linked chains and connected medallions, blocks strung together, immutable groove pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r090",
+    "sheet_id": "s035",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Selo Notário",
+    "character_desc": "Músico notário carimbando um livro-razão com lupa e selo de cera.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a notary musician stamping a ledger with a wax seal, a magnifying glass in the other hand, scrutinizing pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r091",
+    "sheet_id": "s035",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Synth Holo",
+    "character_desc": "Performer de synth com headset de realidade virtual e trajes holográficos, imersivo.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a synth performer wearing a VR headset and holographic gear reaching into projected shapes, immersive pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r092",
+    "sheet_id": "s035",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Titereiro Robô",
+    "character_desc": "Titereiro regendo uma banda de robôs com um controle pendente na mão.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a puppeteer conducting a band of robots with a handheld control pendant, orchestrating-machines pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r093",
+    "sheet_id": "s035",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Foguete Pop",
+    "character_desc": "Popstar viral com um foguete nas costas e um gráfico de vendas subindo ao lado.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a viral pop star with a small rocket on the back and a rising sales chart beside, launching-upward pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r094",
+    "sheet_id": "s035",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Antena Topo",
+    "character_desc": "DJ de rádio impulsionando o sinal ao topo das paradas, dial de antena girando.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a radio DJ boosting a signal up the charts, turning an antenna dial toward the top, ranking-climb pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r095",
+    "sheet_id": "s035",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Jingle Metal",
+    "character_desc": "Compositor de jingle publicitário com um trompete chamativo e melodia grudenta.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a jingle-writing adman blowing a catchy shiny trumpet, upbeat promotional pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r096",
+    "sheet_id": "s035",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Camaleão Cover",
+    "character_desc": "Camaleão de banda cover que se adapta a qualquer pedido, vários instrumentos à mão.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a chameleon cover-band musician surrounded by several different instruments ready to switch, adaptable pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r097",
+    "sheet_id": "s035",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Crooner Fone",
+    "character_desc": "Crooner de helpdesk com headset atendendo o telefone dos fãs enquanto canta.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a helpdesk crooner wearing a call-center headset with a mic, answering fan calls while singing, helpful pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r098",
+    "sheet_id": "s035",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Showman Aperto",
+    "character_desc": "Showman carismático apresentando do palco sob holofote, mão estendida pro aperto.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a smooth showman pitching from the stage under a spotlight, extending a hand for a handshake, persuasive pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r099",
+    "sheet_id": "s035",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Caixa Jazz",
+    "character_desc": "Pianista de jazz sobre uma caixa registradora contando moedas, livro-caixa ao lado.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a jazz pianist playing atop a cash register counting coins, a ledger book beside, budget-minded pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s035-r100",
+    "sheet_id": "s035",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Batuta Lei",
+    "character_desc": "Empresário-músico assinando contrato com uma batuta em forma de martelo e um pergaminho.",
+    "nano_prompt": "Retro vinyl LP cover illustration of a contract-signing manager musician holding a gavel-shaped baton over a scroll contract, authoritative legal pose, bold screenprint halftone texture, grainy analog print finish, warm limited 1970s retro color palette, dramatic album-cover lighting, full-body standing figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

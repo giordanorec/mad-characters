@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s006-r001",
+    "sheet_id": "s006",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Dom Cervo",
+    "character_desc": "Besouro-veado imponente que projeta estruturas: suas mandíbulas ramificadas parecem vigas de um blueprint. Segura um pergaminho de plantas e um compasso de desenho.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic stag beetle depicted full body in an upright dorsal display specimen pose, holding a rolled blueprint scroll and a brass drafting compass, wearing a tiny monocle, confident architectural mandibles, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r002",
+    "sheet_id": "s006",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Capitã Cupincha",
+    "character_desc": "Formiga-carpinteira que guia a colônia técnica; aponta o caminho com uma pequena batuta e usa capacetinho de obra.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic carpenter ant depicted full body in an upright dorsal display specimen pose, wearing a small hard hat, holding a conductor's baton and pointing forward, decisive leading gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r003",
+    "sheet_id": "s006",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Sênior Louvado",
+    "character_desc": "Louva-a-deus ponderado e experiente; equilibra uma chave inglesa e um esquema técnico com calma cirúrgica.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic praying mantis depicted full body in an upright dorsal display specimen pose, poised contemplative stance holding a wrench and an unrolled technical schematic, wise senior expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r004",
+    "sheet_id": "s006",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Barão Rinoceronte",
+    "character_desc": "Besouro-rinoceronte de chifre majestoso; carrega um grosso tomo de especificações como um decreto real.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic rhinoceros beetle depicted full body in an upright dorsal display specimen pose, holding a thick heavy spec tome, regal posture, prominent horn raised, authoritative, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r005",
+    "sheet_id": "s006",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Mel Gerente",
+    "character_desc": "Abelha organizadora que cuida da colmeia de gente; segura uma pranchetinha e usa uma gravata minúscula.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic honeybee depicted full body in an upright dorsal display specimen pose, wearing a tiny necktie, holding a clipboard, gentle organizing gesture, caring expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r006",
+    "sheet_id": "s006",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Visão Monarca",
+    "character_desc": "Borboleta-monarca visionária que enxerga o mercado; segura um roadmap enrolado e uma lupa voltada a uma flor.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic monarch butterfly depicted full body in an upright dorsal display specimen pose, holding a rolled roadmap and a magnifying glass turned toward a distant flower, visionary hopeful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r007",
+    "sheet_id": "s006",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Dona Prioris",
+    "character_desc": "Mamangava pragmática que ordena o backlog; segura uma pilha de cartões priorizados e aponta o topo.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic bumblebee depicted full body in an upright dorsal display specimen pose, holding a stack of priority cards, pointing at the top card, focused practical expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r008",
+    "sheet_id": "s006",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Libélula Coord",
+    "character_desc": "Libélula coordenadora que paira sobre tudo; segura vários fios que conectam frentes distintas.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic dragonfly depicted full body in an upright dorsal display specimen pose, hovering pose holding multiple connecting threads that link small parcels, multitasking coordinator expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r009",
+    "sheet_id": "s006",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Formi Prazo",
+    "character_desc": "Formiga metódica do cronograma; carrega um pergaminho de Gantt e um relógio de bolso.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic black ant depicted full body in an upright dorsal display specimen pose, holding a Gantt-chart scroll and a pocket watch, orderly diligent expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r010",
+    "sheet_id": "s006",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Grilo Ritmo",
+    "character_desc": "Grilo que marca a cadência do time; toca um sininho de facilitação e segura post-its.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic field cricket depicted full body in an upright dorsal display specimen pose, holding a small facilitation bell and sticky notes, rhythmic encouraging expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r011",
+    "sheet_id": "s006",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Toupo Fundo",
+    "character_desc": "Paquinha que trabalha no subsolo do sistema; empoeirada, segura engrenagens e um pente-servidor.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic mole cricket depicted full body in an upright dorsal display specimen pose, dusty underground worker, holding meshing gears and a server-rack-like comb structure, industrious, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r012",
+    "sheet_id": "s006",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Teca Elo",
+    "character_desc": "Formiga-tecelã que costura interfaces com seda; segura um plugue e conecta duas folhas.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic weaver ant depicted full body in an upright dorsal display specimen pose, holding a plug-and-socket connector, weaving silk thread between two leaves, interface-joining gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r013",
+    "sheet_id": "s006",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Modu Corte",
+    "character_desc": "Saúva que decompõe tudo em módulos; carrega várias caixinhas modulares empilhadas.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic leafcutter ant depicted full body in an upright dorsal display specimen pose, carrying several small neat modular boxes stacked, dividing-into-parts gesture, tidy expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r014",
+    "sheet_id": "s006",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Rola Tubo",
+    "character_desc": "Rola-bosta incansável que empurra dados por um cano; movimento constante de mão em roda.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic dung beetle depicted full body in an upright dorsal display specimen pose, rolling a data-ball along a curved tube, steady pushing pose, tireless expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r015",
+    "sheet_id": "s006",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Corre Fluxo",
+    "character_desc": "Alfaiate-d'água que canaliza correntes; segura funis e tubos guiando gotas.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic water strider depicted full body in an upright dorsal display specimen pose, holding funnels and pipes channeling water droplets through them, flow-directing gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r016",
+    "sheet_id": "s006",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Tatu Guardião",
+    "character_desc": "Tatuzinho-de-jardim que guarda gavetas de tabelas; enrola-se protetor e segura um molho de chaves.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic pill woodlouse depicted full body in an upright dorsal display specimen pose, guarding stacked labeled cabinet drawers, holding a keyring, protective curled stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r017",
+    "sheet_id": "s006",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Grãos SQL",
+    "character_desc": "Formiga-colheiteira que organiza sementes numa grade estruturada; consulta linha por linha.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic harvester ant depicted full body in an upright dorsal display specimen pose, sorting seeds into a labeled grid of rows and columns, holding a query wand, precise sorting gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r018",
+    "sheet_id": "s006",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Reple Cache",
+    "character_desc": "Formiga-pote de mel de saque rápido; abdômen inchado de reservas, pose de saque veloz.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic honeypot ant depicted full body in an upright dorsal display specimen pose, swollen storage abdomen full of golden reserves, quick-draw pose, holding a small fast hourglass, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r019",
+    "sheet_id": "s006",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Fila FIFO",
+    "character_desc": "Formiga da brigada de baldes que passa mensagens em ordem; segura parcelas numeradas em fila.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic black garden ant depicted full body in an upright dorsal display specimen pose, standing in a bucket-brigade line, passing numbered parcels in order, orderly relay gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r020",
+    "sheet_id": "s006",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Vaga Busca",
+    "character_desc": "Vaga-lume que ilumina e encontra o que procura; ergue uma lanterna e uma lupa brilhando.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic firefly depicted full body in an upright dorsal display specimen pose, glowing abdomen, raising a lantern and a magnifying glass illuminating a found item, searching expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r021",
+    "sheet_id": "s006",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Joia Front",
+    "character_desc": "Besouro-joia iridescente cuja carapaça parece uma interface polida; segura pincel e uma moldura de vidro.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic jewel beetle depicted full body in an upright dorsal display specimen pose, iridescent shiny shell, holding a paintbrush and a framed glass pane, presenting a polished surface, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r022",
+    "sheet_id": "s006",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Painel Leaf",
+    "character_desc": "Bicho-folha que alinha painéis com esmero; segura uma régua e um grid de janelas.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic leaf insect depicted full body in an upright dorsal display specimen pose, arranging tidy interface panels, holding a ruler and a grid of small window-panes, meticulous alignment, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r023",
+    "sheet_id": "s006",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Trilha UX",
+    "character_desc": "Borboleta que estuda os caminhos do usuário pelo jardim; segura um mapa de trilhas entre flores.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic swallowtail butterfly depicted full body in an upright dorsal display specimen pose, studying a garden-path map of user journeys between flowers, holding the route map, empathetic observing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r024",
+    "sheet_id": "s006",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Hexa Sistema",
+    "character_desc": "Abelha construtora de favos modulares; encaixa peças hexagonais reutilizáveis de um kit.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic honeybee depicted full body in an upright dorsal display specimen pose, assembling modular hexagonal component tiles from a kit into a honeycomb, systematic building gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r025",
+    "sheet_id": "s006",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Antena Acesso",
+    "character_desc": "Abelha de antenas atentas que inclui a todos; segura uma folha com pontos em braille e uma pequena rampa.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic honeybee depicted full body in an upright dorsal display specimen pose, large attentive antennae, holding a braille-dotted leaf and a small accessibility ramp, inclusive welcoming gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r026",
+    "sheet_id": "s006",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Tigre Veloz",
+    "character_desc": "Besouro-tigre, o mais rápido dos insetos, obcecado por velocidade; segura um cronômetro em pose de arranque.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic tiger beetle depicted full body in an upright dorsal display specimen pose, lean fast build, holding a stopwatch in a sprint-ready crouch, speed-focused expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r027",
+    "sheet_id": "s006",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Estilo CSS",
+    "character_desc": "Borboleta-pavão que estiliza padrões; segura amostras de cor e um pente de estilos.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic peacock butterfly depicted full body in an upright dorsal display specimen pose, vivid patterned wings, holding color swatch cards and a styling comb, aesthetic tuning gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r028",
+    "sheet_id": "s006",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Anima Voo",
+    "character_desc": "Mariposa-beija-flor capturada em pleno movimento; segura um flipbook, arcos de movimento ao redor das asas.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic hummingbird hawk-moth depicted full body in an upright dorsal display specimen pose, captured mid-motion with subtle motion-arc lines around the wings, holding a flipbook, dynamic frozen-frame pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r029",
+    "sheet_id": "s006",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Pula Mobile",
+    "character_desc": "Pulga ágil que salta entre dispositivos; segura duas folhas em forma de tablet.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic flea depicted full body in an upright dorsal display specimen pose, agile jumping stance, holding two small tablet-shaped leaves, hopping-between-devices gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r030",
+    "sheet_id": "s006",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Maçã iOS",
+    "character_desc": "Mariposa elegante e minimalista pousada numa maçã polida; segura uma folha em forma de maçã mordida.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic codling moth depicted full body in an upright dorsal display specimen pose, elegant minimalist pose on a polished apple, holding a bitten-apple-shaped leaf, refined clean expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r031",
+    "sheet_id": "s006",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Verde Droid",
+    "character_desc": "Louva-a-deus verde de ar robótico; segura uma figurinha de robozinho verde.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic green mantis depicted full body in an upright dorsal display specimen pose, android-green robotic bearing, holding a small green robot figurine, blocky mechanical stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r032",
+    "sheet_id": "s006",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Ponte Nativa",
+    "character_desc": "Besouro de carapaça bipartida que faz ponte entre dois mundos; conecta dois dispositivos-folha.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic split-colored beetle depicted full body in an upright dorsal display specimen pose, shell split into two halves, bridging two device-leaves with a connecting arch, cross-platform gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r033",
+    "sheet_id": "s006",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Flutter Azul",
+    "character_desc": "Borboleta vibrante que 'esvoaça' entre plataformas; pinta as duas asas idênticas com um só pincel.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic blue morpho butterfly depicted full body in an upright dorsal display specimen pose, vibrant symmetrical wings, painting both wings identically with a single brush, cross-platform fluttering pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r034",
+    "sheet_id": "s006",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Dado Joaninha",
+    "character_desc": "Joaninha que conta as próprias pintas como pontos de dados; segura lupa e ábaco, curiosa.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic ladybug depicted full body in an upright dorsal display specimen pose, counting its own spots as data points, holding a magnifier and an abacus, curious analytical expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r035",
+    "sheet_id": "s006",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Treina ML",
+    "character_desc": "Formiga que treina um pequeno pulgão-modelo; segura uma engrenagem-cérebro e alimenta dados.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic carpenter ant depicted full body in an upright dorsal display specimen pose, feeding data to a small aphid it is training, holding a gear-brain, patient mentoring gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r036",
+    "sheet_id": "s006",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Rola MLOps",
+    "character_desc": "Rola-bosta que mantém o modelo rodando em trilhos; segura chave inglesa e um cano de esteira.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic dung beetle depicted full body in an upright dorsal display specimen pose, maintaining a rolling model-ball on rails, holding a wrench and a pipeline segment, upkeep gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r037",
+    "sheet_id": "s006",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Ideia Mariposa",
+    "character_desc": "Mariposa atraída pela lâmpada das ideias; segura um caderno e um filamento incandescente.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic luna moth depicted full body in an upright dorsal display specimen pose, drawn toward a glowing idea-bulb, holding a research notebook and a luminous filament, wonder-struck expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r038",
+    "sheet_id": "s006",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Sussurro Prompt",
+    "character_desc": "Grilo que sussurra instruções a um oráculo-lanterna; segura um pergaminho de encantamentos.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic field cricket depicted full body in an upright dorsal display specimen pose, whispering to a glowing lantern-oracle, holding a scroll of incantations, coaxing speech gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r039",
+    "sheet_id": "s006",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Cigarra Fala",
+    "character_desc": "Cigarra da linguagem que afina palavras; segura um pergaminho de glifos e um diapasão.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic cicada depicted full body in an upright dorsal display specimen pose, language-tuner holding a glyph scroll and a tuning fork, articulate expressive stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r040",
+    "sheet_id": "s006",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Olho Visão",
+    "character_desc": "Libélula de olhos compostos gigantes que tudo observa; segura uma folha-lente de câmera.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic dragonfly depicted full body in an upright dorsal display specimen pose, huge compound eyes, holding a camera-lens leaf, keen observing expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r041",
+    "sheet_id": "s006",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Analisa Grão",
+    "character_desc": "Formiga que empilha sementes em barras de gráfico; aponta uma tendência com a lupa.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic black ant depicted full body in an upright dorsal display specimen pose, stacking seeds into bar-chart columns, holding a magnifier, pointing at a rising trend, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r042",
+    "sheet_id": "s006",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Painel BI",
+    "character_desc": "Abelha que apresenta uma flor-dashboard cheia de mostradores; usa uma varinha de apontar.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic honeybee depicted full body in an upright dorsal display specimen pose, presenting a dashboard-flower covered in gauges and dials, holding a pointer stick, presenting gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r043",
+    "sheet_id": "s006",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Cano Limpo",
+    "character_desc": "Besouro que monta canos limpos até um favo-gráfico organizado; chave e funil em mãos.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic ground beetle depicted full body in an upright dorsal display specimen pose, assembling clean pipes into a tidy chart-comb, holding a wrench and a funnel, tidy-engineering gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r044",
+    "sheet_id": "s006",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Asa Gráfico",
+    "character_desc": "Borboleta cujas asas desenham gráficos; segura uma paleta com formas de gráfico.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic painted lady butterfly depicted full body in an upright dorsal display specimen pose, wing patterns shaped like charts and graphs, holding an artist palette of graph-shapes, illustrative gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r045",
+    "sheet_id": "s006",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Toolbelt Ops",
+    "character_desc": "Formiga operária de cinto de ferramentas que une build e deploy; segura uma corda em laço-infinito e capacete.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic worker ant depicted full body in an upright dorsal display specimen pose, wearing a tool belt and hard hat, holding an infinity-loop rope linking build and deploy, hands-on gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r046",
+    "sheet_id": "s006",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Vigia SRE",
+    "character_desc": "Vaga-lume vigia noturno da confiabilidade; segura uma lanterna e um pager de alerta, atento a mostradores.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic firefly depicted full body in an upright dorsal display specimen pose, night-watch keeper glowing, holding a lantern and an alert pager, watching reliability dials, vigilant, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r047",
+    "sheet_id": "s006",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Cupim Base",
+    "character_desc": "Cupim que ergue a grande plataforma-cupinzeiro; segura um bloco de fundação.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic termite depicted full body in an upright dorsal display specimen pose, building a grand platform mound, holding a foundation block, structural-support gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r048",
+    "sheet_id": "s006",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Nuvem Arqui",
+    "character_desc": "Libélula que planeja entre nuvens estilizadas; segura um blueprint em forma de nuvem.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic dragonfly depicted full body in an upright dorsal display specimen pose, gliding among stylized clouds, holding a cloud-shaped blueprint, airy visionary pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r049",
+    "sheet_id": "s006",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Leme K8s",
+    "character_desc": "Besouro-d'água ao leme, pilotando contêineres hexagonais; segura o timão e caixotes.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic whirligig beetle depicted full body in an upright dorsal display specimen pose, at a ship's wheel steering hexagonal container crates, holding the helm, navigating orchestration pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r050",
+    "sheet_id": "s006",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Rede Renda",
+    "character_desc": "Crisopídeo de asas rendadas que tece cabos entre nós; segura um rolo de cabo.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic green lacewing depicted full body in an upright dorsal display specimen pose, weaving connecting cables between network nodes, holding a coil of cable, lacy delicate wiring gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r051",
+    "sheet_id": "s006",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Zela Sistema",
+    "character_desc": "Besouro zelador confiável que oleia a máquina-favo; segura molho de chaves e óleo.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic ground beetle depicted full body in an upright dorsal display specimen pose, maintenance janitor holding a keyring and an oil-can, tending a machine-comb, reliable weary expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r052",
+    "sheet_id": "s006",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Estreia Release",
+    "character_desc": "Cigarra que emerge para o lançamento; corta uma fita cerimonial num pacote.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic cicada depicted full body in an upright dorsal display specimen pose, freshly emerging, cutting a ribbon on a wrapped package, ceremonial launch gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r053",
+    "sheet_id": "s006",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Serra Build",
+    "character_desc": "Abelha-carpinteira que serra e monta tábuas num artefato; segura martelo e engrenagem.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic carpenter bee depicted full body in an upright dorsal display specimen pose, sawing and assembling planks into a build artifact, holding a hammer and a gear, constructing gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r054",
+    "sheet_id": "s006",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Esteira CI",
+    "character_desc": "Formiga numa esteira contínua em laço que carrega parcelas; ergue uma bandeirinha com visto verde.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic black ant depicted full body in an upright dorsal display specimen pose, walking a continuous conveyor loop carrying parcels, raising a small green check flag, automated pipeline pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r055",
+    "sheet_id": "s006",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Escudo Seguro",
+    "character_desc": "Percevejo-escudo blindado e vigilante; segura um escudo e um cadeado.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic shield bug depicted full body in an upright dorsal display specimen pose, armored vigilant stance, holding a shield and a padlock, protective guarding expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r056",
+    "sheet_id": "s006",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Espião Pentest",
+    "character_desc": "Percevejo-assassino furtivo que testa fechaduras; encapuzado, mexe numa fechadura com gazua.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic assassin bug depicted full body in an upright dorsal display specimen pose, stealthy hooded pose, probing a lock with a lockpick, sly probing grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r057",
+    "sheet_id": "s006",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Patch AppSec",
+    "character_desc": "Percevejo-escudo que inspeciona a folha-código em busca de brechas; segura lupa e kit de patch.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic shield bug depicted full body in an upright dorsal display specimen pose, inspecting a code-leaf with a magnifier for holes, holding a patch kit, careful auditing gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r058",
+    "sheet_id": "s006",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cifra Escaravelho",
+    "character_desc": "Escaravelho da cifra que gira uma roda-enigma; segura pergaminhos de runas e usa monóculo.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic scarab beetle depicted full body in an upright dorsal display specimen pose, turning an enigma cipher wheel, holding rune scrolls, wearing a monocle, secretive encoding gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r059",
+    "sheet_id": "s006",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Carimbo Norma",
+    "character_desc": "Formiga severa da conformidade; segura carimbo de borracha e um pergaminho de regras.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic black ant depicted full body in an upright dorsal display specimen pose, stern posture holding a rubber stamp and a rulebook scroll, checklist-in-hand compliance gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r060",
+    "sheet_id": "s006",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Véu Privado",
+    "character_desc": "Besouro que embrulha ovos-dados num manto protetor; segura uma cortina e um triturador.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic beetle depicted full body in an upright dorsal display specimen pose, wrapping data-eggs in a protective cloak, holding a privacy veil and a shredder, safeguarding gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r061",
+    "sheet_id": "s006",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Alarme Incidente",
+    "character_desc": "Vaga-lume bombeiro que responde à crise; segura lanterna vermelha de alarme e extintor.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic firefly depicted full body in an upright dorsal display specimen pose, firefighter urgency, holding a red alarm lantern and a small extinguisher, alert responding pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r062",
+    "sheet_id": "s006",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Mapa Ameaça",
+    "character_desc": "Louva-a-deus estrategista que mapeia árvores de ataque num quadro; segura ponteiro.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic praying mantis depicted full body in an upright dorsal display specimen pose, mapping an attack-tree diagram on a board, holding a pointer, strategic scheming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r063",
+    "sheet_id": "s006",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Caça Bug",
+    "character_desc": "Joaninha que caça bugs com checklist e lupa; carimba o que aprova.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic ladybug depicted full body in an upright dorsal display specimen pose, hunting bugs with a checklist and magnifier, holding an approval stamp, scrutinizing expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r064",
+    "sheet_id": "s006",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Robô Teste",
+    "character_desc": "Besouro mecânico de braço automatizado de testes; segura chave e um pergaminho de scripts.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic mechanical beetle depicted full body in an upright dorsal display specimen pose, robotic body with an automated test-arm, holding a wrench and a test-script scroll, gears exposed, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r065",
+    "sheet_id": "s006",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Carga Veloz",
+    "character_desc": "Besouro-tigre que mede desempenho sob carga; segura cronômetro e um manômetro de estresse.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic tiger beetle depicted full body in an upright dorsal display specimen pose, holding a stopwatch and a stress-load gauge, sprint stance, performance-measuring expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r066",
+    "sheet_id": "s006",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Toque Manual",
+    "character_desc": "Formiga paciente que testa folhas-formulário à mão; aponta campo por campo com checklist.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic black ant depicted full body in an upright dorsal display specimen pose, patiently clicking through leaf-forms with a pointer, holding a handwritten checklist, methodical gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r067",
+    "sheet_id": "s006",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Rampa Acesso",
+    "character_desc": "Besouro que testa acessibilidade com trombeta auditiva e folha em braille, checando uma rampa.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic beetle depicted full body in an upright dorsal display specimen pose, holding an ear-trumpet and a braille leaf while checking a small ramp, inclusive testing gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r068",
+    "sheet_id": "s006",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Traça Escriba",
+    "character_desc": "Traça-dos-livros que vive no papel; segura pena e um manual enrolado, erudita.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic silverfish depicted full body in an upright dorsal display specimen pose, living-in-paper scholar, holding a quill and a rolled manual, studious writing gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r069",
+    "sheet_id": "s006",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Cigarra Voz",
+    "character_desc": "Cigarra que reúne a multidão com um megafone; gesto acolhedor de palco.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic cicada depicted full body in an upright dorsal display specimen pose, rallying a crowd with a megaphone, friendly stage-presenting gesture, outgoing expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r070",
+    "sheet_id": "s006",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Calendário Conteúdo",
+    "character_desc": "Formiga que planeja um calendário editorial em grade-folha com alfinetes; segura pena.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic black ant depicted full body in an upright dorsal display specimen pose, planning an editorial calendar on a pinned leaf-grid, holding a quill, organizing content gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r071",
+    "sheet_id": "s006",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Globo i18n",
+    "character_desc": "Borboleta que traduz para o mundo; segura um globo e pétalas-bandeira de vários países.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic monarch butterfly depicted full body in an upright dorsal display specimen pose, holding a small globe surrounded by flag-petals of many nations, translating scroll, worldly gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r072",
+    "sheet_id": "s006",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Forma Produto",
+    "character_desc": "Borboleta que une forma e função no design; segura um caderno de esboços e uma folha-protótipo.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic swallowtail butterfly depicted full body in an upright dorsal display specimen pose, blending form and function, holding a sketchpad and a prototype leaf, thoughtful designing expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r073",
+    "sheet_id": "s006",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Visual Joia",
+    "character_desc": "Besouro-joia focado na estética; segura paleta e pincel, amostras de cor.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic jewel beetle depicted full body in an upright dorsal display specimen pose, aesthetics-focused, holding a color palette and a brush with swatch cards, refined visual eye, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r074",
+    "sheet_id": "s006",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Toque Interação",
+    "character_desc": "Libélula que demonstra o gesto de toque numa folha-tela; setas de movimento ao redor.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic dragonfly depicted full body in an upright dorsal display specimen pose, demonstrating a tap gesture on a leaf-screen with motion arrows, interactive designing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r075",
+    "sheet_id": "s006",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Cena Motion",
+    "character_desc": "Mariposa-beija-flor de asas borradas de movimento; segura um rolo de linha do tempo.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic hummingbird hawk-moth depicted full body in an upright dorsal display specimen pose, motion-blurred wings, holding a timeline reel, dynamic motion-design pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r076",
+    "sheet_id": "s006",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Pincel Ilustra",
+    "character_desc": "Louva-a-deus que pinta uma telinha com pincel fino; ao lado, um tinteiro.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic praying mantis depicted full body in an upright dorsal display specimen pose, painting a small canvas with a fine brush, an ink pot beside, delicate illustrating gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r077",
+    "sheet_id": "s006",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Recorte Asset",
+    "character_desc": "Saúva que recorta sprite-folhas em tiles limpos; segura uma prancha de ícones-folha.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic leafcutter ant depicted full body in an upright dorsal display specimen pose, cutting neat sprite-tiles, holding a sheet of icon-leaves, precise asset-cutting gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r078",
+    "sheet_id": "s006",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Marca Monarca",
+    "character_desc": "Borboleta-monarca cuja asa é um emblema icônico; segura um selo e um estandarte-pétala.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic monarch butterfly depicted full body in an upright dorsal display specimen pose, iconic emblem-like wing, holding a wax seal and a banner-petal, brand-defining pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r079",
+    "sheet_id": "s006",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Som Cigarra",
+    "character_desc": "Cigarra que desenha o som; segura diapasão com ondas sonoras e usa abafadores-folha.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic cicada depicted full body in an upright dorsal display specimen pose, sound-shaper holding a tuning fork radiating sound waves, wearing leaf ear-muffs, audio-tuning gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r080",
+    "sheet_id": "s006",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Escultor 3D",
+    "character_desc": "Escaravelho que esculpe uma esfera geodésica em wireframe; segura ferramentas de escultura.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic scarab beetle depicted full body in an upright dorsal display specimen pose, sculpting a wireframe geodesic sphere, holding sculpting tools, 3D-forming gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r081",
+    "sheet_id": "s006",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Jogo Gafanhoto",
+    "character_desc": "Gafanhoto brincalhão que projeta jogos; segura um dado e uma folha-tabuleiro.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic grasshopper depicted full body in an upright dorsal display specimen pose, playful game-designer holding a die and a board-leaf, inventive gaming gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r082",
+    "sheet_id": "s006",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Mapa Nível",
+    "character_desc": "Formiga arquiteta de níveis que traça um mapa-labirinto; segura blocos de terreno.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic black ant depicted full body in an upright dorsal display specimen pose, laying out a maze/terrain map, holding terrain blocks, level-building gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r083",
+    "sheet_id": "s006",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Enredo Mariposa",
+    "character_desc": "Mariposa que tece um pergaminho-história em torno da lanterna; segura pena e livro.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic luna moth depicted full body in an upright dorsal display specimen pose, spinning a story-scroll around a lantern, holding a quill and a storybook, narrative-weaving gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r084",
+    "sheet_id": "s006",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Dev Gafanhoto",
+    "character_desc": "Gafanhoto enérgico que codifica jogos; segura um graveto-joystick e uma sprite-folha.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic grasshopper depicted full body in an upright dorsal display specimen pose, energetic, holding a twig-joystick and a sprite-leaf, lively game-dev pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r085",
+    "sheet_id": "s006",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Prisma Shader",
+    "character_desc": "Besouro-joia que refrata luz em arco-íris por um prisma; segura um orbe-shader brilhante.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic jewel beetle depicted full body in an upright dorsal display specimen pose, refracting rainbow light through a prism, holding a glowing shader-orb, iridescent rendering gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r086",
+    "sheet_id": "s006",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Chip Embarcado",
+    "character_desc": "Besourinho que solda dentro de uma folha-circuito; segura um chip e ferro de solda.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic tiny beetle depicted full body in an upright dorsal display specimen pose, soldering inside a circuit-leaf, holding a chip and a soldering iron, close-up embedded work gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r087",
+    "sheet_id": "s006",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Flash Firmware",
+    "character_desc": "Besouro de baixo nível que grava uma placa; segura um micro-chip de memória e chave de fenda minúscula.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic beetle depicted full body in an upright dorsal display specimen pose, flashing a board low-level, holding a memory chip and a tiny screwdriver, firmware-writing gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r088",
+    "sheet_id": "s006",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Sensor IoT",
+    "character_desc": "Libélula que conecta flores-sensor sem fio; antenas e ondas de sinal ao redor.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic dragonfly depicted full body in an upright dorsal display specimen pose, wirelessly linking small sensor-flowers, antennae raised, signal waves radiating, connected-devices gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r089",
+    "sheet_id": "s006",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Bloco Corrente",
+    "character_desc": "Formiga que adiciona um bloco a uma corrente de pedras encadeadas; segura um elo e um livro-razão.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic black ant depicted full body in an upright dorsal display specimen pose, adding a block to a chain of linked stones, holding a chain-link and a ledger, block-appending gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r090",
+    "sheet_id": "s006",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Lupa Contrato",
+    "character_desc": "Besouro que examina um pergaminho encadeado à procura de trincas; segura lupa e caneta vermelha.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic beetle depicted full body in an upright dorsal display specimen pose, scrutinizing a chained scroll for cracks with a magnifier, holding a red pen, auditing gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r091",
+    "sheet_id": "s006",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Lente AR",
+    "character_desc": "Louva-a-deus de lentes-óculos que projeta uma folha holográfica; pose imersiva.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic praying mantis depicted full body in an upright dorsal display specimen pose, wearing goggle-lenses projecting a holographic leaf, immersive reaching gesture, augmented pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r092",
+    "sheet_id": "s006",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Autômato Robô",
+    "character_desc": "Besouro-veado mecânico de membros articulados robóticos; segura um controle e uma chave.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic mechanical stag beetle depicted full body in an upright dorsal display specimen pose, articulated robotic limbs, holding a control pad and a wrench, mechanical robotics pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r093",
+    "sheet_id": "s006",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Broto Growth",
+    "character_desc": "Pulgão que se multiplica rápido como uma curva de crescimento; segura um broto-gráfico em alta e um funil.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic aphid depicted full body in an upright dorsal display specimen pose, rapidly multiplying, holding a rising sprout-graph and a funnel, growth-curve gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r094",
+    "sheet_id": "s006",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Trilha SEO",
+    "character_desc": "Formiga que segue uma trilha de feromônio de palavras-chave ao topo de um ranking-folha; lupa e seta para cima.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic black ant depicted full body in an upright dorsal display specimen pose, following a keyword scent-trail up a leaf-ranking, holding a magnifier and an up-arrow, climbing-to-top gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r095",
+    "sheet_id": "s006",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Poliniza MarTech",
+    "character_desc": "Abelha que poliniza flores com um funil de ferramentas; segura um estandarte de campanha.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic honeybee depicted full body in an upright dorsal display specimen pose, cross-pollinating flowers with a tool-funnel, holding a campaign banner-petal, outreach gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r096",
+    "sheet_id": "s006",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Chave Solução",
+    "character_desc": "Besouro que encaixa uma chave-quebra-cabeça numa fechadura de cliente; segura maleta de ferramentas.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic ground beetle depicted full body in an upright dorsal display specimen pose, fitting a puzzle-key into a client lock, holding a toolkit, solution-fitting gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r097",
+    "sheet_id": "s006",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Ajuda Suporte",
+    "character_desc": "Vaga-lume calmo do suporte com lanterna de ajuda e headset-folha; segura chave e um coração.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic firefly depicted full body in an upright dorsal display specimen pose, calm helper glowing with a help-lantern and leaf-headset, holding a wrench and a small heart, supportive gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r098",
+    "sheet_id": "s006",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Pitch Vendas",
+    "character_desc": "Borboleta confiante que apresenta uma gema-produto com um gráfico; gesto de pitch.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic blue morpho butterfly depicted full body in an upright dorsal display specimen pose, confidently presenting a shiny product-gem beside a rising chart, persuasive pitching gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r099",
+    "sheet_id": "s006",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Balança FinOps",
+    "character_desc": "Formiga econômica que pesa moedas numa balança; ao lado, ábaco e medidor de custo.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic black ant depicted full body in an upright dorsal display specimen pose, weighing coins on a small scale, an abacus and a cost-gauge beside, thrifty budgeting gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s006-r100",
+    "sheet_id": "s006",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Gavel Jurídico",
+    "character_desc": "Besouro-veado togado com colarinho de juiz; segura martelo-gavel e um pergaminho de leis, balança ao lado.",
+    "nano_prompt": "Vintage entomological plate illustration, delicate hand-tinted copperplate engraving style with fine scientific linework and muted naturalist watercolor tones, a single anthropomorphic stag beetle depicted full body in an upright dorsal display specimen pose, wearing a tiny judge's collar, holding a gavel and a law scroll with a balance scale beside, judicious stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

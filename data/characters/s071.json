@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s071-r001",
+    "sheet_id": "s071",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Oni Arqui",
+    "character_desc": "Bolinho de arroz onigiri fofo que é o arquiteto da cozinha. Segura um mini rolo de blueprint e uma esquadria em T, com capacetinho de obra.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a plump onigiri rice ball wearing a tiny yellow hard hat, holding a rolled blueprint scroll in one hand and a small T-square ruler in the other, standing proudly, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r002",
+    "sheet_id": "s071",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Bentô Líder",
+    "character_desc": "Marmita bentô sorridente que lidera o time da cozinha. Segura uma pranchetinha e uma batuta, com uma estrelinha de líder no peito.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a cheerful bento lunchbox character with a tiny gold star badge on its chest, holding a small clipboard and a conductor's baton, confident leader pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r003",
+    "sheet_id": "s071",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Sushi Sábio",
+    "character_desc": "Rolinho de sushi experiente e calmo. Segura uma chave inglesa e uma engrenagem grande, com óculos redondos.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a wise sushi roll wearing small round glasses, holding a big wrench and a large gear, calm knowledgeable expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r004",
+    "sheet_id": "s071",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Panqueca Suprema",
+    "character_desc": "Pilha alta de panquecas com coroa, a mais graduada da cozinha. Segura um cetro de engrenagem dourada.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a tall stack of pancakes with maple syrup wearing a tiny golden crown, holding a golden gear-topped scepter, regal pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r005",
+    "sheet_id": "s071",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Cupcake Gestor",
+    "character_desc": "Cupcake organizador com headset. Segura uma prancheta com calendário e coordena o time.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a frosted cupcake wearing a small headset, holding a clipboard with a mini calendar, organizing gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r006",
+    "sheet_id": "s071",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Donut Produto",
+    "character_desc": "Donut visionário que cuida do produto. Segura um mapa de roadmap e post-its coloridos.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a glazed donut holding an unrolled roadmap map and a few colorful sticky notes, thoughtful planning pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r007",
+    "sheet_id": "s071",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Macaron Dono",
+    "character_desc": "Macaron que prioriza o backlog. Segura um pergaminho de lista e um lápis de check.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a pastel macaron holding a scroll backlog list and a pencil ticking checkboxes, decisive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r008",
+    "sheet_id": "s071",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Bolo Programa",
+    "character_desc": "Bolo de camadas que coordena vários projetos. Segura pastas interligadas e um gráfico de Gantt.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a multi-layer cake holding several linked folders and a mini Gantt chart board, coordinating pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r009",
+    "sheet_id": "s071",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Gelatina Projeto",
+    "character_desc": "Gelatina que mantém o cronograma. Segura uma prancheta de Gantt e um cronômetro.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a wobbly jelly pudding holding a Gantt chart clipboard and a small stopwatch, busy pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r010",
+    "sheet_id": "s071",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Marshmallow Scrum",
+    "character_desc": "Marshmallow ágil que facilita o time. Segura post-its de sprint board e um apitinho.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a soft marshmallow holding a small sprint board with sticky notes and a tiny whistle, agile facilitator pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r011",
+    "sheet_id": "s071",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Burg Back",
+    "character_desc": "Hambúrguer que trabalha nos bastidores. Segura um mini rack de servidor e engrenagens.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a stacked hamburger holding a tiny server rack and a couple of gears, working-in-the-back pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r012",
+    "sheet_id": "s071",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Pretzel API",
+    "character_desc": "Pretzel todo entrelaçado como endpoints. Segura plugues e conectores de encaixe.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a knotted pretzel holding cable plugs and socket connectors, presenting its interfaces, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r013",
+    "sheet_id": "s071",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Dumpling Micro",
+    "character_desc": "Cestinha de mini guiozas, cada uma um microserviço. Segura pequenos contêineres.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a small steamer basket full of tiny dumplings, holding little shipping containers, modular pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r014",
+    "sheet_id": "s071",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Cachorro Pipe",
+    "character_desc": "Cachorro-quente numa esteira de tubos. Segura canos conectados de pipeline.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a hotdog standing on a conveyor belt holding connected pipeline tubes, flowing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r015",
+    "sheet_id": "s071",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Bubble Dados",
+    "character_desc": "Chá de bolha onde os dados fluem pelo canudo. Segura funis e tubos.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a bubble tea cup with a straw, holding funnels and flowing data tubes, channeling pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r016",
+    "sheet_id": "s071",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Tigela DBA",
+    "character_desc": "Tigela de arroz empilhada como cilindro de banco. Segura uma chave dourada.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a stacked cylindrical rice bowl resembling a database drum, holding a golden key, guardian pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r017",
+    "sheet_id": "s071",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Biscoito SQL",
+    "character_desc": "Biscoito de letrinhas que consulta tabelas. Segura uma lupa e uma gradezinha de tabela.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, an alphabet cookie holding a magnifying glass and a small table grid, querying pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r018",
+    "sheet_id": "s071",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Sorvete Cache",
+    "character_desc": "Sorvete geladinho e rapidíssimo. Segura um raio e uma caixinha de armazenamento.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, an ice cream scoop holding a lightning bolt and a small storage box, fast frosty pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r019",
+    "sheet_id": "s071",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Prato Fila",
+    "character_desc": "Pratinho de sushi giratório em fila. Segura envelopes enfileirados.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a rotating sushi plate holding a neat line of envelopes in a queue, orderly pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r020",
+    "sheet_id": "s071",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Biscoito Sorte",
+    "character_desc": "Biscoito da sorte que acha tudo. Segura uma lupa enorme e um papelzinho.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a fortune cookie holding a big magnifying glass and a tiny paper slip, searching pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r021",
+    "sheet_id": "s071",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Fatia Front",
+    "character_desc": "Fatia de bolo com moldura de janela de navegador. Segura pincel e blocos de layout.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a cake slice framed like a browser window, holding a paintbrush and layout blocks, building-the-view pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r022",
+    "sheet_id": "s071",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Waffle UI",
+    "character_desc": "Waffle quadriculado como grid de layout. Segura botões e toggles de interface.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a grid waffle holding UI buttons and toggle switches, arranging interface pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r023",
+    "sheet_id": "s071",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Casquinha UX",
+    "character_desc": "Casquinha de sorvete empática. Segura um mapa de jornada do usuário e um coração.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, an ice cream cone holding a user-journey map and a small heart, empathetic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r024",
+    "sheet_id": "s071",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Caixa Macaron",
+    "character_desc": "Caixa de macarons sortidos, uma biblioteca de componentes. Segura uma paleta de tokens.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a box of assorted macarons holding a swatch palette of design tokens, systematic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r025",
+    "sheet_id": "s071",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Pudim Acesso",
+    "character_desc": "Pudim inclusivo de alto contraste. Segura uma bengala branca e o símbolo de acessibilidade.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a pudding holding a white cane and an accessibility symbol sign, inclusive caring pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r026",
+    "sheet_id": "s071",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Picolé Veloz",
+    "character_desc": "Picolé que corre rápido. Segura um velocímetro e um cronômetro, com linhas de velocidade.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a popsicle holding a speedometer and a stopwatch, motion speed lines, dashing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r027",
+    "sheet_id": "s071",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Bolo Estilo",
+    "character_desc": "Bolo arco-íris em camadas de estilo. Segura um rolo de pintura e amostras de cor.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a rainbow layer cake holding a paint roller and color swatches, styling pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r028",
+    "sheet_id": "s071",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Jelly Anima",
+    "character_desc": "Gelatina que balança com linhas de movimento. Segura um rolo de filme.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a wobbling jelly with motion trail lines, holding a film strip reel, animated bouncing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r029",
+    "sheet_id": "s071",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Cracker Fone",
+    "character_desc": "Biscoito cracker em formato de celular. Segura um smartphone.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a phone-shaped rice cracker holding a small smartphone, mobile pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r030",
+    "sheet_id": "s071",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Maçã iOS",
+    "character_desc": "Maçã lustrosa e minimalista. Segura um celular elegante e limpo.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a glossy apple holding a sleek minimalist smartphone, clean elegant pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r031",
+    "sheet_id": "s071",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Matcha Droid",
+    "character_desc": "Docinho de matcha verde robô. Segura um celular android verdinho.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a green matcha robot-shaped treat holding a green android phone, friendly pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r032",
+    "sheet_id": "s071",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Picolé Duo",
+    "character_desc": "Picolé de dois sabores, duas plataformas de uma vez. Segura um símbolo de átomo.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a two-flavor twin popsicle holding a glowing atom symbol, cross-platform pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r033",
+    "sheet_id": "s071",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Cookie Flutter",
+    "character_desc": "Biscoito em formato de borboleta. Segura um passarinho azul e um dardo.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a butterfly-shaped cookie holding a little blue bird and a small dart, fluttering pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r034",
+    "sheet_id": "s071",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Smoothie Ciência",
+    "character_desc": "Smoothie de laboratório que estuda dados. Segura um béquer e um gráfico com lupa.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a lab-flask smoothie holding a science beaker and a chart with a magnifying glass, analytical pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r035",
+    "sheet_id": "s071",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Robô Cookie",
+    "character_desc": "Biscoito robô que treina modelos. Segura uma rede neural de brinquedo e engrenagens.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a robot-shaped cookie holding a toy neural network and gears, training pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r036",
+    "sheet_id": "s071",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Donut Ops",
+    "character_desc": "Donut com engrenagem num loop infinito. Segura uma caixa de modelo numa esteira.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a donut with an embedded gear holding a model box on an infinity-loop conveyor, deploying pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r037",
+    "sheet_id": "s071",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Gelatina Cérebro",
+    "character_desc": "Gelatina em formato de cérebro pensante. Segura uma lâmpada e um pergaminho de artigo.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a brain-shaped jelly holding a glowing lightbulb and a research paper scroll, thinking pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r038",
+    "sheet_id": "s071",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Cookie Balão",
+    "character_desc": "Biscoito em formato de balão de fala. Segura uma varinha mágica e um chat bubble.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a speech-bubble-shaped cookie holding a magic wand and a small chat bubble, conjuring pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r039",
+    "sheet_id": "s071",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Sopa Letras",
+    "character_desc": "Tigela de sopa de letrinhas que entende linguagem. Segura letras e um balão de fala.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, an alphabet soup bowl holding floating letters and a speech bubble, language pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r040",
+    "sheet_id": "s071",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Cookie Olho",
+    "character_desc": "Biscoito com um olho-câmera grande. Segura uma câmera e uma tabela de visão.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a cookie with one big camera-eye, holding a camera and an eye vision chart, observing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r041",
+    "sheet_id": "s071",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Torta Pizza",
+    "character_desc": "Tortinha redonda como gráfico de pizza. Segura uma prancheta de gráfico de barras.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a round pie shaped like a pie chart, holding a bar-chart clipboard, analyzing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r042",
+    "sheet_id": "s071",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Parfait BI",
+    "character_desc": "Parfait em camadas como dashboard. Segura uma telinha de painel de indicadores.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a layered parfait holding a small dashboard screen with charts, reporting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r043",
+    "sheet_id": "s071",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Funil Drink",
+    "character_desc": "Bebida em funil que transforma dados. Segura canos e cubos de dados.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a funnel-shaped drink holding transformation pipes and small data cubes, modeling pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r044",
+    "sheet_id": "s071",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Jelly Arco",
+    "character_desc": "Gelatina arco-íris que colore dados. Segura gráficos e diagramas coloridos.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a rainbow jelly holding colorful charts and graphs, visualizing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r045",
+    "sheet_id": "s071",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Pretzel Ops",
+    "character_desc": "Pretzel em loop infinito de CI/CD. Segura chave inglesa e engrenagem.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a pretzel shaped like an infinity loop holding a wrench and a gear, automating pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r046",
+    "sheet_id": "s071",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Escudo SRE",
+    "character_desc": "Biscoito-escudo que mantém tudo de pé. Segura um pager e um monitor de batimentos.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a shield-shaped cookie holding a pager beeper and a heart-rate monitor, reliability pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r047",
+    "sheet_id": "s071",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Base Bolo",
+    "character_desc": "Base de bolo firme que sustenta plataformas. Segura blocos de montar.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a sturdy cake base platform holding building blocks, foundational pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r048",
+    "sheet_id": "s071",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Nuvem Doce",
+    "character_desc": "Algodão-doce em formato de nuvem. Segura um blueprint e ícones de nuvem.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a cloud-shaped cotton candy holding a blueprint and floating cloud icons, architecting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r049",
+    "sheet_id": "s071",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Leme Donut",
+    "character_desc": "Donut em formato de leme de navio. Segura um timão guiando contêineres.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a ship-wheel-shaped donut holding a helm steering little containers, orchestrating pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r050",
+    "sheet_id": "s071",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Tigela Rede",
+    "character_desc": "Tigela de macarrão onde os fios são cabos de rede. Segura um cabo ethernet e um roteador.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a noodle bowl where noodles look like network cables, holding an ethernet cable and a router, connecting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r051",
+    "sheet_id": "s071",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Torrada Admin",
+    "character_desc": "Torradinha que administra sistemas. Segura uma torre de servidor e uma chave de fenda.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a toast slice holding a server tower and a screwdriver, maintaining pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r052",
+    "sheet_id": "s071",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Foguete Picolé",
+    "character_desc": "Picolé foguete que lança versões. Segura um botão de lançamento e uma etiqueta de versão.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a rocket-shaped popsicle holding a launch button and a version tag, launching pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r053",
+    "sheet_id": "s071",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Tijolo Build",
+    "character_desc": "Biscoito em formato de tijolo que monta builds. Segura um martelo e uma engrenagem.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a brick-shaped cookie holding a hammer and a gear, assembling pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r054",
+    "sheet_id": "s071",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Sushi Esteira",
+    "character_desc": "Prato de sushi giratório de pipeline. Segura engrenagens e um check verde.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a conveyor sushi plate holding a chain of gears and a green checkmark, pipeline pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r055",
+    "sheet_id": "s071",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Escudo Doce",
+    "character_desc": "Biscoito-escudo guardião. Segura um cadeado e um escudo brilhante.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a shield-shaped cookie holding a padlock and a glowing shield, protective pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r056",
+    "sheet_id": "s071",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Onigiri Ninja",
+    "character_desc": "Bolinho de arroz ninja mascarado. Segura uma gazua de arrombar cadeado.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a masked ninja onigiri with a hood holding a lockpick tool, stealthy pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r057",
+    "sheet_id": "s071",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Cupcake Armadura",
+    "character_desc": "Cupcake blindado que protege o app. Segura um escudo anti-bug e um pergaminho de código.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, an armored cupcake holding a bug-repelling shield and a code scroll, defensive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r058",
+    "sheet_id": "s071",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cookie Cifra",
+    "character_desc": "Biscoito-quebra-cabeça que embaralha segredos. Segura uma chave e uma roda de cifra.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a puzzle-piece cookie holding a key and a cipher wheel, encrypting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r059",
+    "sheet_id": "s071",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Selo Cookie",
+    "character_desc": "Biscoito carimbado que garante conformidade. Segura uma prancheta de checklist e um carimbo.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a stamped cookie holding a checklist clipboard and a rubber stamp, approving pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r060",
+    "sheet_id": "s071",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Marshmallow Máscara",
+    "character_desc": "Marshmallow discreto que protege privacidade. Segura um escudo com olho riscado.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a masked marshmallow holding a shield with a crossed-out eye icon, incognito pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r061",
+    "sheet_id": "s071",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Donut Sirene",
+    "character_desc": "Donut socorrista com chapéu de sirene. Segura um extintor de incêndio.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a donut wearing a siren hat holding a fire extinguisher, emergency responder pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r062",
+    "sheet_id": "s071",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Cookie Detetive",
+    "character_desc": "Biscoito detetive com lupa. Segura um mapa de ameaças com alfinetes.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a detective cookie holding a magnifying glass and a threat map with pins, investigating pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r063",
+    "sheet_id": "s071",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Cookie Check",
+    "character_desc": "Biscoito com checkmark gigante. Segura uma prancheta de checklist e um rede de pegar bugs.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a cookie with a big checkmark holding a checklist clipboard and a small bug-catching net, testing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r064",
+    "sheet_id": "s071",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Cupcake Robô",
+    "character_desc": "Cupcake robô que automatiza testes. Segura engrenagens e tubos de ensaio numa esteira.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a robot cupcake holding automation gears and test tubes on a conveyor, automating pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r065",
+    "sheet_id": "s071",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Lata Energia",
+    "character_desc": "Lata de energético que testa carga. Segura um cronômetro e um medidor, suando.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, an energy drink can holding a stopwatch and a gauge, sweating under load, stress-test pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r066",
+    "sheet_id": "s071",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Cookie Toque",
+    "character_desc": "Biscoito que testa na mão. Segura uma prancheta e uma lupa tocando botões.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a cookie holding a clipboard and magnifying glass, tapping buttons, manual testing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r067",
+    "sheet_id": "s071",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Pudim Fone",
+    "character_desc": "Pudim que testa acessibilidade. Segura uma checklist com símbolo de acessibilidade e fones de leitor de tela.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a pudding holding an accessibility-symbol checklist and screen-reader headphones, inclusive testing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r068",
+    "sheet_id": "s071",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Livro Cookie",
+    "character_desc": "Biscoito em formato de livro aberto. Segura uma pena e um pergaminho.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, an open-book-shaped cookie holding a quill pen and a scroll, writing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r069",
+    "sheet_id": "s071",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Donut Voz",
+    "character_desc": "Donut animado no palco. Segura um megafone e um coração.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a donut on a small stage holding a megaphone and a heart, advocating pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r070",
+    "sheet_id": "s071",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Bolo Conteúdo",
+    "character_desc": "Bolo em camadas que planeja conteúdo. Segura um calendário editorial e um mapa.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a layer cake holding a content calendar and a strategy map, planning pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r071",
+    "sheet_id": "s071",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Mochi Globo",
+    "character_desc": "Mochi em formato de globo terrestre. Segura bandeirinhas e balões de fala em vários idiomas.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a globe-shaped mochi holding little flags and speech bubbles in different scripts, localizing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r072",
+    "sheet_id": "s071",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Paleta Cookie",
+    "character_desc": "Biscoito em formato de paleta. Segura uma caneta stylus e um wireframe.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a palette-shaped cookie holding a stylus pen and a wireframe sketch, designing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r073",
+    "sheet_id": "s071",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Cupcake Tinta",
+    "character_desc": "Cupcake com respingos de tinta. Segura um círculo cromático e um pincel.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a paint-splattered cupcake holding a color wheel and a brush, visual pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r074",
+    "sheet_id": "s071",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Cookie Botão",
+    "character_desc": "Biscoito em formato de botão. Segura um cursor e um toggle.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a button-shaped cookie holding a mouse cursor and a toggle switch, interaction pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r075",
+    "sheet_id": "s071",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Jelly Movimento",
+    "character_desc": "Gelatina com rastros de movimento. Segura um rolo de filme e uma curva de easing.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a jelly with motion trails holding a film reel and an easing curve graph, motion pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r076",
+    "sheet_id": "s071",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Pocky Lápis",
+    "character_desc": "Pocky em formato de lápis. Segura um caderno de esboço e lápis de cor.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a pencil-shaped pocky stick holding a sketchbook and colored pencils, illustrating pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r077",
+    "sheet_id": "s071",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Cookie Sprite",
+    "character_desc": "Biscoito em formato de sprite-sheet. Segura ícones de jogo e uma grade.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a sprite-sheet-shaped cookie holding tiny game icons and a grid, asset pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r078",
+    "sheet_id": "s071",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Macaron Marca",
+    "character_desc": "Macaron com logo estampado. Segura um guia de marca e amostras de cor.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a logo-stamped macaron holding a brand guide book and color swatches, branding pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r079",
+    "sheet_id": "s071",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Donut Som",
+    "character_desc": "Donut de fones de ouvido. Segura uma nota musical e uma forma de onda.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a donut wearing headphones holding a music note and a sound waveform, audio pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r080",
+    "sheet_id": "s071",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Jelly Cubo",
+    "character_desc": "Gelatina em formato de cubo 3D. Segura uma esfera wireframe.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a cube-shaped jelly holding a 3D wireframe sphere, modeling pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r081",
+    "sheet_id": "s071",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Cookie Dado",
+    "character_desc": "Biscoito em formato de dado. Segura um controle de videogame e um documento de design.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a dice-shaped cookie holding a game controller and a design document, game design pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r082",
+    "sheet_id": "s071",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Waffle Labirinto",
+    "character_desc": "Waffle em formato de labirinto. Segura um mapa com plataformas e bandeirinhas.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a maze-shaped waffle holding a level map with platforms and flags, level design pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r083",
+    "sheet_id": "s071",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Cookie Conto",
+    "character_desc": "Biscoito em formato de livro de contos aberto. Segura uma pena e balões de diálogo.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, an open storybook cookie holding a quill and dialogue bubbles, narrative pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r084",
+    "sheet_id": "s071",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Cookie Controle",
+    "character_desc": "Biscoito em formato de controle de videogame. Segura um joystick e um código.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a game-controller-shaped cookie holding a joystick and a code snippet block, game dev pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r085",
+    "sheet_id": "s071",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Jelly Prisma",
+    "character_desc": "Gelatina prisma que refrata luz. Segura um raio de luz e uma esfera de shader arco-íris.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a prism-shaped jelly holding a light ray and a rainbow shader sphere, refracting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r086",
+    "sheet_id": "s071",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Cracker Chip",
+    "character_desc": "Cracker em formato de microchip. Segura uma placa de circuito e um ferro de solda.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a microchip-shaped cracker holding a tiny circuit board and a soldering iron, embedded pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r087",
+    "sheet_id": "s071",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Cookie Chip",
+    "character_desc": "Biscoito em formato de chip. Segura um chip de memória flash e uma chave de fenda.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a chip-shaped cookie holding a flash memory chip and a screwdriver, low-level pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r088",
+    "sheet_id": "s071",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Cookie Sensor",
+    "character_desc": "Biscoito conectado com ondas de wifi. Segura pequenos gadgets e sensores.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a cookie with wifi wave signals holding small connected gadgets and sensors, IoT pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r089",
+    "sheet_id": "s071",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Bala Corrente",
+    "character_desc": "Balinha em formato de elos de corrente. Segura blocos ligados por correntes e moedas.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a chain-link candy holding blocks connected by chains and coins, blockchain pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r090",
+    "sheet_id": "s071",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Cookie Contrato",
+    "character_desc": "Biscoito com pergaminho de contrato. Segura uma lupa, uma checklist e uma moeda.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a cookie holding a contract scroll, a magnifying glass and a coin, auditing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r091",
+    "sheet_id": "s071",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Marshmallow VR",
+    "character_desc": "Marshmallow de óculos VR. Segura hologramas flutuantes.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a marshmallow wearing a VR headset holding floating holograms, immersive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r092",
+    "sheet_id": "s071",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Cookie Robô",
+    "character_desc": "Biscoito robô articulado. Segura um braço robótico e um controle remoto.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a robot-shaped cookie holding a robotic arm and a remote control, robotics pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r093",
+    "sheet_id": "s071",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Broto Bolo",
+    "character_desc": "Bolinho com um broto crescendo. Segura uma seta de crescimento e um foguetinho.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a small cake with a sprouting seedling holding an upward growth arrow chart and a tiny rocket, growth pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r094",
+    "sheet_id": "s071",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Cookie Lupa",
+    "character_desc": "Biscoito com lupa que ranqueia buscas. Segura uma barra de busca e uma seta subindo.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a magnifier-shaped cookie holding a search bar and a rising ranking arrow, SEO pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r095",
+    "sheet_id": "s071",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Cupcake Megafone",
+    "character_desc": "Cupcake de marketing. Segura um megafone, um funil e engrenagens de automação.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a cupcake holding a megaphone, a marketing funnel and automation gears, martech pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r096",
+    "sheet_id": "s071",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Cookie Canivete",
+    "character_desc": "Biscoito canivete-suíço versátil. Segura uma peça de quebra-cabeça e uma tela de demo.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a swiss-army-knife-shaped cookie holding a puzzle piece and a demo screen, solutions pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r097",
+    "sheet_id": "s071",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Donut Suporte",
+    "character_desc": "Donut de headset que ajuda. Segura um balão de chat e uma chave inglesa.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a donut wearing a support headset holding a chat bubble and a wrench, helpdesk pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r098",
+    "sheet_id": "s071",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Cookie Maleta",
+    "character_desc": "Biscoito em formato de maleta. Segura um tablet de demo e faz um aperto de mão.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a briefcase-shaped cookie holding a demo tablet and offering a handshake, sales pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r099",
+    "sheet_id": "s071",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Moeda Cookie",
+    "character_desc": "Biscoito em formato de moeda. Segura uma calculadora e um gráfico de custos, com cofrinho.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a coin-shaped cookie holding a calculator and a cost chart with a piggy bank, finops pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s071-r100",
+    "sheet_id": "s071",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Cookie Martelo",
+    "character_desc": "Biscoito juiz que segura um martelo de juiz. Segura um pergaminho de lei e uma balança da justiça.",
+    "nano_prompt": "Kawaii chibi pastel illustration, soft pastel palette, thick rounded black outlines, glossy cel shading, adorable rosy-cheeked smiling face, tiny stubby arms and legs, full-body standing character, a cookie holding a judge's gavel, a law scroll and scales of justice, legal pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

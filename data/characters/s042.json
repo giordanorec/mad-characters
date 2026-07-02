@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s042-r001",
+    "sheet_id": "s042",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Compasso-Mestre",
+    "character_desc": "Compasso de arquiteto que desenha o sistema inteiro; o esquadro fundido e os módulos orbitando dizem 'Arquiteto de Solução'.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a large master drafting compass fused with a set-square, its legs sketching an entire building-and-system layout, small orbiting module icons around the pivot, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r002",
+    "sheet_id": "s042",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Chave-Guia",
+    "character_desc": "Chave de torque calibrada com batuta e dial de afinação; conduz e ajusta a tensão do time como um Tech Lead.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a calibrated torque wrench with a small conductor's baton tip and a tuning dial, guiding several bolt-heads into alignment, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r003",
+    "sheet_id": "s042",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Régua Panorâmica",
+    "character_desc": "Régua multi-escala que abrange vários domínios de uma vez — o alcance largo do Staff Engineer.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a wide multi-scale engineer's ruler spanning many different measurement scales at once, several small domain icons etched along its length, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r004",
+    "sheet_id": "s042",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Teodolito Principal",
+    "character_desc": "Teodolito de precisão mirando o horizonte distante; a visão de longo prazo do Principal Engineer.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a precision surveyor's theodolite on a tripod sighting toward a distant horizon line with a long-range telescope, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r005",
+    "sheet_id": "s042",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Nível de Equipe",
+    "character_desc": "Nível de bolha equilibrando várias figurinhas ao longo da viga; o Engineering Manager que mantém o time nivelado.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a long spirit bubble level with several bubble vials keeping many small figures balanced along its beam, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r006",
+    "sheet_id": "s042",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Canivete de Produto",
+    "character_desc": "Canivete multiuso com lâminas de prioridades abertas em leque, uma destacada; o Product Manager que prioriza.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a Swiss-army multitool with many fanned-out blades of different priorities, one blade highlighted as the chosen one, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r007",
+    "sheet_id": "s042",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Marreta do Backlog",
+    "character_desc": "Marreta que carimba prioridade sobre uma pilha de cartões; o Product Owner ordenando o backlog.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a stamping mallet with a numbered priority die on its head poised over a stack of small card blanks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r008",
+    "sheet_id": "s042",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Paquímetro Amplo",
+    "character_desc": "Paquímetro largo medindo várias peças simultâneas; o Program Manager coordenando frentes.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting an oversized caliper spanning several separate parts at once, measuring the gap across a whole assembly, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r009",
+    "sheet_id": "s042",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Trena de Marcos",
+    "character_desc": "Trena com bandeirolas de marcos espaçadas; o Project Manager rastreando o cronograma.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a retractable measuring tape unrolled with evenly spaced milestone flags marked along its blade, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r010",
+    "sheet_id": "s042",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Ampulheta-Sprint",
+    "character_desc": "Grampo com ampulheta e metrônomo dentro de uma seta cíclica; o Scrum Master cadenciando sprints.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a clamp holding a sandglass timer beside a small metronome, framed by a circular repeat arrow, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r011",
+    "sheet_id": "s042",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Chave de Cano",
+    "character_desc": "Chave de grifo apertando uma junção de canos e válvulas; a fontanaria do Backend Developer.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a heavy pipe wrench gripping a junction of interconnected pipes and valves, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r012",
+    "sheet_id": "s042",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Adaptador Universal",
+    "character_desc": "Jogo de adaptadores universais com bocais intercambiáveis; as interfaces do API Designer.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a universal socket-adapter set with many interchangeable coupling heads fitting different fittings, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r013",
+    "sheet_id": "s042",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Kit Modular",
+    "character_desc": "Kit de chaves hex modulares que se encaixam; os pequenos serviços do Microservices Engineer.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a set of tiny interlocking hex keys and modular blocks that snap together into a small grid, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r014",
+    "sheet_id": "s042",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Cortador de Fluxo",
+    "character_desc": "Cortador sobre um cano-esteira com engrenagens direcionando o fluxo; o Pipeline Developer.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a pipe cutter clamped onto a long conveyor pipe with gears channeling flow in one direction, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r015",
+    "sheet_id": "s042",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Bomba-Funil",
+    "character_desc": "Bomba acoplada a funil movendo fluido entre reservatórios; o Data Engineer transportando dados.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a hand pump joined to a wide funnel moving fluid through connected reservoirs, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r016",
+    "sheet_id": "s042",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Molho de Chaves",
+    "character_desc": "Molho de chaves de cofre junto a uma porta-blindada; o DBA guardando o banco.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a large labeled keyring holding many vault keys hanging beside a small safe door, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r017",
+    "sheet_id": "s042",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Gazua de Consulta",
+    "character_desc": "Jogo de gazuas destravando uma fechadura precisa; o SQL Specialist buscando o registro exato.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a fine lock-pick set probing a precise keyway, one slender pick highlighted mid-query, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r018",
+    "sheet_id": "s042",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Cápsula-Cache",
+    "character_desc": "Cápsula térmica com marca de velocidade guardando um item quente; o Caching Engineer acelerando acessos.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting an insulated thermos clamp with a speed-blur motion mark, keeping a small stored item hot and fast, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r019",
+    "sheet_id": "s042",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Catraca de Fila",
+    "character_desc": "Catraca liberando fichas em ordem numa trilha; o Message Queue Engineer ordenando mensagens.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a ratchet dispenser releasing numbered tickets one by one in strict order along a track, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r020",
+    "sheet_id": "s042",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Lupa-Sonda",
+    "character_desc": "Lupa-sonda varrendo um campo indexado de pontos; o Search Engineer encontrando o resultado.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a magnifying-glass probe on a slim handle scanning across an indexed field of tiny dots, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r021",
+    "sheet_id": "s042",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Rolo de Interface",
+    "character_desc": "Rolo de pintura acoplado a uma moldura de tela aplicando painéis; o Frontend Developer.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a paint roller merged with a small screen frame, laying down a layer of interface panels, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r022",
+    "sheet_id": "s042",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Gabarito de UI",
+    "character_desc": "Gabarito vazado com formas de botões e sliders; o UI Engineer montando componentes.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a drafting stencil template cut with button, slider and toggle shapes ready to trace, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r023",
+    "sheet_id": "s042",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Curva de Jornada",
+    "character_desc": "Curva francesa desenhando a trilha de jornada com pegadas; o UX Designer mapeando o percurso.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a French curve ruler shaped into a winding user-journey path with tiny footprint marks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r024",
+    "sheet_id": "s042",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Estêncil-Sistema",
+    "character_desc": "Estêncil modular com componentes repetíveis idênticos; o Design Systems Engineer padronizando.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a modular stencil kit of repeating identical component shapes arranged as a coherent set, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r025",
+    "sheet_id": "s042",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Medidor Inclusivo",
+    "character_desc": "Medidor de contraste com braille, ícone de ouvido e olho; o Accessibility Specialist.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a contrast-measuring gauge with braille dots, an ear icon and an eye icon etched on its face, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r026",
+    "sheet_id": "s042",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Cronômetro Web",
+    "character_desc": "Cronômetro com ponteiro na zona rápida; o Web Performance Engineer cravando milissegundos.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a stopwatch fused with a speed gauge whose needle points into a fast zone, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r027",
+    "sheet_id": "s042",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Pincel de Estilo",
+    "character_desc": "Pincel e aerógrafo estilizando um grid; o CSS Specialist cuidando da aparência.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a fine styling brush and spray gun over a layout grid, laying color and spacing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r028",
+    "sheet_id": "s042",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Mola de Movimento",
+    "character_desc": "Mola traçando arcos de movimento entre keyframes; o Animation Engineer dando vida às cenas.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a coiled spring tool tracing motion arcs and easing curves between two keyframe pegs, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r029",
+    "sheet_id": "s042",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Ferramenta de Bolso",
+    "character_desc": "Multiuso dobrável em forma de celular; o Mobile Developer que cabe no bolso.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a compact folding multitool shaped like a small handheld phone, unfolding tiny implements, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r030",
+    "sheet_id": "s042",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Chave Polida",
+    "character_desc": "Chave de fenda polida e minimalista de cabeça arredondada; o iOS Developer refinado.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a sleek polished precision screwdriver with a smooth rounded minimalist head, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r031",
+    "sheet_id": "s042",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Chave-Robô",
+    "character_desc": "Chave ajustável com cabeça de robôzinho e antena; o Android Developer.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting an adjustable wrench with a friendly little robot-head grip and antenna, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r032",
+    "sheet_id": "s042",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Chave Ponte",
+    "character_desc": "Chave de duas cabeças ligando dois soquetes distintos; o React Native Developer fazendo a ponte.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a double-headed bridging wrench connecting two different sockets on either end, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r033",
+    "sheet_id": "s042",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Chave-Asa",
+    "character_desc": "Chave-borboleta espalhando widgets de um único eixo; o Flutter Developer.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a winged butterfly wrench fanning out several small widget attachments from one hub, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r034",
+    "sheet_id": "s042",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Microscópio de Dados",
+    "character_desc": "Microscópio e pipeta sobre uma lâmina de pontos; o Data Scientist investigando padrões.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a compact microscope beside a pipette examining a slide of scattered data points, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r035",
+    "sheet_id": "s042",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Manivela Neural",
+    "character_desc": "Manivela girando engrenagens ligadas a uma rede de neurônios; o ML Engineer treinando modelos.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a hand crank driving a train of gears wired into a small neuron-node network, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r036",
+    "sheet_id": "s042",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Almotolia de Modelos",
+    "character_desc": "Almotolia lubrificando uma esteira de modelos em loop; o MLOps Engineer mantendo tudo rodando.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting an oil can lubricating a pipeline of model-gears kept running in a loop, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r037",
+    "sheet_id": "s042",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Sonda Experimental",
+    "character_desc": "Sonda experimental com sensor de interrogação sobre amostra desconhecida; o AI Researcher.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting an experimental probe instrument tipped with a question-mark sensor over an unknown sample, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r038",
+    "sheet_id": "s042",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Diapasão de Prompt",
+    "character_desc": "Diapasão com dial moldando ondas de palavras; o Prompt Engineer afinando instruções.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a tuning fork with a small adjustment dial shaping a ripple of vibrating word-marks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r039",
+    "sheet_id": "s042",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Pente de Linguagem",
+    "character_desc": "Pente organizando um fluxo de tokens; o NLP Engineer estruturando linguagem.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a fine comb tool combing a stream of small language tokens into ordered rows, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r040",
+    "sheet_id": "s042",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Loupe de Visão",
+    "character_desc": "Loupe acoplada a uma lente de câmera focando pixels; o Computer Vision Engineer.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a jeweler's loupe combined with a camera lens focusing on a grid of pixels, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r041",
+    "sheet_id": "s042",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Régua de Cálculo",
+    "character_desc": "Régua de cálculo com etchings de gráficos deslizando; o Data Analyst apurando números.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a slide rule with small bar-chart and trend etchings sliding to a reading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r042",
+    "sheet_id": "s042",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Painel de Indicadores",
+    "character_desc": "Painel com vários mostradores agrupados; o BI Analyst lendo indicadores.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a clustered gauge panel of several small dials and needles grouped as a dashboard, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r043",
+    "sheet_id": "s042",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Peneira Analítica",
+    "character_desc": "Peneiras graduadas refinando dados brutos em camadas limpas; o Analytics Engineer modelando.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a stacked set of graded sieves refining raw grains into clean sorted layers, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r044",
+    "sheet_id": "s042",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Transferidor de Gráficos",
+    "character_desc": "Transferidor com curva francesa plotando gráficos; o Data Viz Specialist.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a protractor and French curve combined, plotting a small bar-and-line chart, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r045",
+    "sheet_id": "s042",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Chave-Infinito",
+    "character_desc": "Chave dobrada em laço de infinito com setas cíclicas; o DevOps Engineer no loop contínuo.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a ratchet wrench bent into a continuous infinity loop with two cycling arrows, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r046",
+    "sheet_id": "s042",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Manômetro-Guardião",
+    "character_desc": "Manômetro sobre um extintor com ponteiro na zona segura; o SRE guardando a estabilidade.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a pressure gauge mounted on a small fire-extinguisher, needle steady in the safe zone, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r047",
+    "sheet_id": "s042",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Colher de Plataforma",
+    "character_desc": "Colher de pedreiro assentando a laje-base; o Platform Engineer construindo a fundação.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a bricklayer's trowel laying a broad flat foundation slab as a base platform, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r048",
+    "sheet_id": "s042",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Esquadro-Nuvem",
+    "character_desc": "Esquadro com estêncil de nuvem projetando estrutura na nuvem; o Cloud Architect.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a T-square paired with a cloud-shaped stencil sketching an elevated cloud structure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r049",
+    "sheet_id": "s042",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Timão-K8s",
+    "character_desc": "Roda de timão-chave de sete raios guiando containers; o Kubernetes Admin ao leme.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a ship's helm wheel used as a wrench, its seven spokes steering a cluster of small boxes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r050",
+    "sheet_id": "s042",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Alicate de Rede",
+    "character_desc": "Alicate cravando um conector de rede; o Network Engineer conectando os nós.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a cable-crimping plier terminating a network connector at the end of a woven cable, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r051",
+    "sheet_id": "s042",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Chave-Mestra do Sistema",
+    "character_desc": "Multiuso mestre com molho de chaves e pontas; o Systems Administrator dono do sistema.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a master multitool screwdriver with a big keyring of admin keys and interchangeable bits, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r052",
+    "sheet_id": "s042",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Alavanca de Release",
+    "character_desc": "Alavanca destampando com jato pra cima; o Release Engineer lançando a versão.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a launch lever pulling a cork off a bottle with an upward burst mark, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r053",
+    "sheet_id": "s042",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Trolha de Build",
+    "character_desc": "Trolha empilhando tijolos num bloco montado com engrenagem; o Build Engineer compilando.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a mason's trowel stacking small bricks into an assembled block with a gear, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r054",
+    "sheet_id": "s042",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Bastão de Integração",
+    "character_desc": "Bastão de revezamento numa esteira com setas automáticas; o CI/CD Engineer integrando e entregando.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a relay baton on a conveyor with looping automation arrows carrying a package through stages, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r055",
+    "sheet_id": "s042",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Cadeado-Escudo",
+    "character_desc": "Cadeado fundido a um escudo trancado; o Security Engineer protegendo o sistema.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a padlock fused into a heraldic shield, shackle locked over a keyhole, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r056",
+    "sheet_id": "s042",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Gazua do Pentest",
+    "character_desc": "Gazuas e pé-de-cabra explorando uma fechadura aberta; o Penetration Tester achando brechas.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a lock-pick set with a small pry bar testing an open lock, revealing its inner pins, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r057",
+    "sheet_id": "s042",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Lupa-Escudo",
+    "character_desc": "Lupa sobre escudo varrendo o código; o AppSec Engineer caçando vulnerabilidades.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a magnifying glass mounted on a small shield scanning lines of code-brick pattern, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r058",
+    "sheet_id": "s042",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Roda Cifrante",
+    "character_desc": "Roda de cifra com anéis girando e entalhes embaralhados; o Cryptographer codificando.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a cipher wheel with concentric rotating rings and scrambled symbol notches, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r059",
+    "sheet_id": "s042",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Carimbo de Conformidade",
+    "character_desc": "Carimbo de aprovação sobre um checklist preso; o Compliance Officer conferindo regras.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a rubber approval stamp pressing a checkmark onto a clamped checklist board, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r060",
+    "sheet_id": "s042",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Rolo de Anonimização",
+    "character_desc": "Rolo de tarja apagando campos pessoais com máscara; o Privacy Engineer anonimizando dados.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a redaction roller blacking out a strip of personal fields, plus a small privacy mask, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r061",
+    "sheet_id": "s042",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Machado de Incidente",
+    "character_desc": "Machado de incêndio ao lado de um sino de alarme; o Incident Responder acionado na emergência.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a fire-axe mounted beside a small alarm bell in a break-glass style bracket, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r062",
+    "sheet_id": "s042",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Radar de Ameaças",
+    "character_desc": "Radar-bússola varrendo setores e marcando ameaças; o Threat Modeler mapeando riscos.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a radar-scope compass sweeping a sector, plotting small threat blips on a grid, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r063",
+    "sheet_id": "s042",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Rede de Bugs",
+    "character_desc": "Rede de captura sobre lupa com um inseto pego; o QA Engineer encontrando defeitos.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a bug-catching net over a magnifier with a small checklist tag, one insect caught, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r064",
+    "sheet_id": "s042",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Braço de Automação",
+    "character_desc": "Braço robótico repetindo um teste num trilho; o SDET automatizando a verificação.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a small robotic arm holding a check-tool, repeating a test motion along a rail, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r065",
+    "sheet_id": "s042",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Dinamômetro de Carga",
+    "character_desc": "Dinamômetro esticado sob carga na zona alta; o Performance Tester medindo estresse.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a spring dynamometer stretched under heavy load, needle pushed into the high-stress zone, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r066",
+    "sheet_id": "s042",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Caneta de Testes",
+    "character_desc": "Caneta-contador marcando itens à mão; o Manual Tester conferindo passo a passo.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a handheld click-counter pen ticking items off a small checklist strip by hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r067",
+    "sheet_id": "s042",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Sonda de Acessibilidade",
+    "character_desc": "Lupa de auditoria com sondas de ouvido e olho; o Accessibility Tester verificando barreiras.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting an audit magnifier with an ear probe and an eye probe checking a component for barriers, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r068",
+    "sheet_id": "s042",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Pena Técnica",
+    "character_desc": "Pena de nanquim com régua traçando documentação limpa; o Technical Writer.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a fountain drafting pen with a ruler edge writing clean structured schematic strokes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r069",
+    "sheet_id": "s042",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Megafone-Chave",
+    "character_desc": "Megafone com cabo de chave irradiando som; o Developer Advocate falando com a comunidade.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a megaphone with a wrench handle broadcasting radiating sound arcs to a small crowd, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r070",
+    "sheet_id": "s042",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Bússola de Conteúdo",
+    "character_desc": "Bússola sobre mapa traçando rota de conteúdo; o Content Strategist planejando a jornada.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a plotting compass over a small route map charting a content path between waypoints, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r071",
+    "sheet_id": "s042",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Roda-Globo",
+    "character_desc": "Dial giratório em torno de um globo trocando idiomas; o Localization Engineer traduzindo.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a rotating dial tool wrapped around a small globe swapping between language ring slots, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r072",
+    "sheet_id": "s042",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Lápis-Régua",
+    "character_desc": "Lápis fundido a régua esboçando a forma do produto; o Product Designer.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a sketching pencil fused with a ruler, drafting a rounded product form in one stroke, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r073",
+    "sheet_id": "s042",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Leque de Cores",
+    "character_desc": "Leque de amostras de cor com pincel escolhendo tom; o Visual Designer.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a fanned color-swatch sample deck beside a small brush selecting a shade, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r074",
+    "sheet_id": "s042",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Alavanca de Interação",
+    "character_desc": "Alavanca-joystick cercada de gestos de toque; o Interaction Designer prototipando.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a joystick lever surrounded by tap and swipe gesture arcs on a prototype panel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r075",
+    "sheet_id": "s042",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Pêndulo de Movimento",
+    "character_desc": "Pêndulo oscilando em arcos de easing com rastros; o Motion Designer animando transições.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a pendulum arm swinging along easing arcs with motion-blur trails between stops, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r076",
+    "sheet_id": "s042",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Bico-de-Pena",
+    "character_desc": "Bico-de-pena com nibs e tinteiro fazendo um floreio; o Illustrator desenhando à mão.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a dip pen with a set of illustration nibs and an inkwell drawing a delicate flourish, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r077",
+    "sheet_id": "s042",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Cortador de Assets",
+    "character_desc": "Cortador de cortadores estampando peças idênticas; o Asset Designer produzindo recursos.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a die-cutter stamp with several cookie-cutter shape dies punching identical asset tiles, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r078",
+    "sheet_id": "s042",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Ferro de Marca",
+    "character_desc": "Ferro de marca com emblema na ponta; o Brand Designer imprimindo identidade.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a branding iron with a distinctive emblem head glowing at its stamping tip, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r079",
+    "sheet_id": "s042",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Diapasão Sonoro",
+    "character_desc": "Diapasão com paquímetro medindo uma onda sonora; o Sound Designer moldando áudio.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a tuning fork paired with a caliper measuring a small sound waveform strip, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r080",
+    "sheet_id": "s042",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Espátula 3D",
+    "character_desc": "Espátula de escultura moldando um cubo wireframe; o 3D Artist dando volume.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a sculpting loop tool and caliper shaping a small wireframe cube into volume, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r081",
+    "sheet_id": "s042",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Engrenagem de Jogo",
+    "character_desc": "Balança pesando dado contra engrenagem; o Game Designer equilibrando regras.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a balancing scale weighing a die against a gear, tuning small game-rule tokens, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r082",
+    "sheet_id": "s042",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Bloco de Fase",
+    "character_desc": "Blocos modulares montando uma fase com ponto de início; o Level Designer construindo mapas.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a set of modular grid blocks snapped into a small platform level with a spawn marker, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r083",
+    "sheet_id": "s042",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Pena Ramificada",
+    "character_desc": "Pena desenhando uma árvore de ramos de diálogo; o Narrative Designer construindo a história.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a quill drawing a branching decision tree with forking dialogue paths, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r084",
+    "sheet_id": "s042",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Chave-Joystick",
+    "character_desc": "Chave com pegador de joystick e engrenagens-sprite; o Game Developer ajustando a mecânica.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a wrench with a joystick grip and small sprite-gears, tuning a game mechanism, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r085",
+    "sheet_id": "s042",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Prisma de Shader",
+    "character_desc": "Ferramenta polindo luz num prisma em gradiente; o Graphics/Shader Engineer.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a polishing tool splitting a light beam through a prism into a graded gradient, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r086",
+    "sheet_id": "s042",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Ferro Embarcado",
+    "character_desc": "Ferrinho de solda trabalhando num chip; o Embedded Engineer no hardware.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a tiny soldering iron working directly on a small circuit board chip, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r087",
+    "sheet_id": "s042",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Pinça de Firmware",
+    "character_desc": "Pinça de precisão e gravador acoplados a um chip; o Firmware Engineer programando.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting precision tweezers and a chip-programmer clamp flashing a small memory chip, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r088",
+    "sheet_id": "s042",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Sonda-Antena",
+    "character_desc": "Sonda com antena ligando uma teia de sensores; o IoT Engineer conectando dispositivos.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a sensor probe topped with a small antenna linking a web of little networked nodes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r089",
+    "sheet_id": "s042",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Tenaz de Blocos",
+    "character_desc": "Tenaz forjando blocos numa corrente travada; o Blockchain Developer encadeando blocos.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting forging tongs linking metal blocks into a locked chain, one link being hammered, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r090",
+    "sheet_id": "s042",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Lupa de Contratos",
+    "character_desc": "Lupa examinando uma corrente-contrato com selo de aprovação; o Smart Contract Auditor.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a magnifier over a chain-link scroll with a small checkmark seal verifying it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r091",
+    "sheet_id": "s042",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Visor Imersivo",
+    "character_desc": "Paquímetro medindo um visor de RV com arcos holográficos; o AR/VR Engineer.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a caliper measuring a VR headset visor with small holographic depth arcs projecting out, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r092",
+    "sheet_id": "s042",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Braço Robótico",
+    "character_desc": "Braço robótico articulado com garra sobre a peça; o Robotics Engineer.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting an articulated robotic arm with a gripper actuator poised over a small workpiece, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r093",
+    "sheet_id": "s042",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Macaco de Crescimento",
+    "character_desc": "Macaco hidráulico erguendo um gráfico com seta pra cima; o Growth Engineer escalando métricas.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a hydraulic jack lifting a rising bar-chart with a bold upward growth arrow, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r094",
+    "sheet_id": "s042",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Lupa de Ranqueamento",
+    "character_desc": "Lupa subindo uma escada de ranking; o SEO Specialist melhorando posições.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a magnifier climbing a small ranking ladder with an upward rank arrow, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r095",
+    "sheet_id": "s042",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Funil de Marketing",
+    "character_desc": "Funil desaguando num megafone com engrenagem; o Marketing Technologist convertendo leads.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a funnel feeding into a megaphone with gear teeth, channeling small leads downward, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r096",
+    "sheet_id": "s042",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Kit de Soluções",
+    "character_desc": "Kit de adaptadores encaixando peças incompatíveis; o Solutions Engineer integrando cliente.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a modular adapter kit bridging two mismatched components into a working fit, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r097",
+    "sheet_id": "s042",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Chave de Suporte",
+    "character_desc": "Chave cruzada com headset e boia salva-vidas; o Support Engineer socorrendo usuários.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a wrench crossed with a headset and a small life-ring, ready to help, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r098",
+    "sheet_id": "s042",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Ponteira de Vendas",
+    "character_desc": "Ponteira de demonstração com aperto de mão; o Sales Engineer apresentando a solução.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a demo pointer stick beside a handshake clamp presenting a small showcase panel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r099",
+    "sheet_id": "s042",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Ábaco de Custos",
+    "character_desc": "Ábaco-paquímetro medindo pilha de moedas; o FinOps Analyst controlando custos.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting an abacus fused with a caliper metering a small stack of coins with a cost dial, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s042-r100",
+    "sheet_id": "s042",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Balança-Martelo",
+    "character_desc": "Balança fundida a um martelo de juiz pesando cláusulas; o Legal Counsel avaliando o jurídico.",
+    "nano_prompt": "Technical blueprint line drawing of a single engineering tool, precise blueprint linework in cyan and white draftsman strokes over a subtle grid, thin dimension lines, tick marks, arrows and construction guides (no readable text or numbers), orthographic front view, flat schematic illustration depicting a balance scale merged with a judge's gavel weighing two clause-tablets, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

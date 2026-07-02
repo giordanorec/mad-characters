@@ -1,0 +1,902 @@
+[
+ {
+  "n": 1,
+  "id": "s001",
+  "family": "Animal",
+  "slug": "floresta-plush",
+  "analogy": "Animais da floresta",
+  "aesthetic": "Pelúcia (plush)",
+  "vibe": "fofo de bicho de pelúcia"
+ },
+ {
+  "n": 2,
+  "id": "s002",
+  "family": "Animal",
+  "slug": "caes-foto",
+  "analogy": "Raças de cachorro",
+  "aesthetic": "Foto realista",
+  "vibe": "retrato de estúdio"
+ },
+ {
+  "n": 3,
+  "id": "s003",
+  "family": "Animal",
+  "slug": "gatos-amigurumi",
+  "analogy": "Raças de gato",
+  "aesthetic": "Amigurumi (crochê)",
+  "vibe": "lãzinha"
+ },
+ {
+  "n": 4,
+  "id": "s004",
+  "family": "Animal",
+  "slug": "aves-aquarela",
+  "analogy": "Aves exóticas",
+  "aesthetic": "Aquarela",
+  "vibe": "leve e translúcido"
+ },
+ {
+  "n": 5,
+  "id": "s005",
+  "family": "Animal",
+  "slug": "marinho-lowpoly",
+  "analogy": "Criaturas do fundo do mar",
+  "aesthetic": "Low-poly 3D",
+  "vibe": "facetado"
+ },
+ {
+  "n": 6,
+  "id": "s006",
+  "family": "Animal",
+  "slug": "insetos-entomologia",
+  "analogy": "Insetos",
+  "aesthetic": "Prancha entomológica vintage",
+  "vibe": "museu"
+ },
+ {
+  "n": 7,
+  "id": "s007",
+  "family": "Animal",
+  "slug": "dinos-chibi",
+  "analogy": "Dinossauros",
+  "aesthetic": "Chibi cartoon",
+  "vibe": "cabeçudo e fofo"
+ },
+ {
+  "n": 8,
+  "id": "s008",
+  "family": "Animal",
+  "slug": "miticos-vitral",
+  "analogy": "Animais míticos (dragão, grifo)",
+  "aesthetic": "Vitral gótico",
+  "vibe": "chumbo e cor"
+ },
+ {
+  "n": 9,
+  "id": "s009",
+  "family": "Animal",
+  "slug": "repteis-pixel",
+  "analogy": "Répteis e anfíbios",
+  "aesthetic": "Pixel art 8-bit",
+  "vibe": "arcade"
+ },
+ {
+  "n": 10,
+  "id": "s010",
+  "family": "Animal",
+  "slug": "borboletas-papercraft",
+  "analogy": "Borboletas e mariposas",
+  "aesthetic": "Papercraft",
+  "vibe": "camadas de papel"
+ },
+ {
+  "n": 11,
+  "id": "s011",
+  "family": "Heróis",
+  "slug": "herois-comics",
+  "analogy": "Super-heróis",
+  "aesthetic": "Quadrinhos (halftone)",
+  "vibe": "action comic"
+ },
+ {
+  "n": 12,
+  "id": "s012",
+  "family": "Heróis",
+  "slug": "viloes-popart",
+  "analogy": "Vilões carismáticos",
+  "aesthetic": "Pop art (Warhol)",
+  "vibe": "serigrafia"
+ },
+ {
+  "n": 13,
+  "id": "s013",
+  "family": "Heróis",
+  "slug": "rpg-pixel16",
+  "analogy": "Classes de RPG (mago, guerreiro)",
+  "aesthetic": "Pixel art 16-bit",
+  "vibe": "SNES"
+ },
+ {
+  "n": 14,
+  "id": "s014",
+  "family": "Heróis",
+  "slug": "fantasia-oleo",
+  "analogy": "Raças de fantasia (elfo, anão, orc)",
+  "aesthetic": "Óleo renascentista",
+  "vibe": "retrato clássico"
+ },
+ {
+  "n": 15,
+  "id": "s015",
+  "family": "Heróis",
+  "slug": "cavaleiros-vitral",
+  "analogy": "Cavaleiros medievais",
+  "aesthetic": "Vitral",
+  "vibe": "catedral"
+ },
+ {
+  "n": 16,
+  "id": "s016",
+  "family": "Heróis",
+  "slug": "magos-nouveau",
+  "analogy": "Magos e bruxas",
+  "aesthetic": "Art nouveau",
+  "vibe": "Mucha"
+ },
+ {
+  "n": 17,
+  "id": "s017",
+  "family": "Heróis",
+  "slug": "piratas-xilo",
+  "analogy": "Piratas",
+  "aesthetic": "Xilogravura antiga",
+  "vibe": "gravura em madeira"
+ },
+ {
+  "n": 18,
+  "id": "s018",
+  "family": "Heróis",
+  "slug": "ninjas-ukiyoe",
+  "analogy": "Ninjas e samurais",
+  "aesthetic": "Ukiyo-e",
+  "vibe": "woodblock japonês"
+ },
+ {
+  "n": 19,
+  "id": "s019",
+  "family": "Heróis",
+  "slug": "robos-tintoy",
+  "analogy": "Robôs retrô",
+  "aesthetic": "Tin toy (lata vintage)",
+  "vibe": "brinquedo de lata"
+ },
+ {
+  "n": 20,
+  "id": "s020",
+  "family": "Heróis",
+  "slug": "mechas-anime",
+  "analogy": "Mechas gigantes",
+  "aesthetic": "Anime mecha",
+  "vibe": "painel de anime"
+ },
+ {
+  "n": 21,
+  "id": "s021",
+  "family": "Mito",
+  "slug": "olimpo-marmore",
+  "analogy": "Deuses do Olimpo",
+  "aesthetic": "Escultura de mármore",
+  "vibe": "estátua branca"
+ },
+ {
+  "n": 22,
+  "id": "s022",
+  "family": "Mito",
+  "slug": "nordicos-madeira",
+  "analogy": "Deuses nórdicos",
+  "aesthetic": "Madeira entalhada",
+  "vibe": "runas"
+ },
+ {
+  "n": 23,
+  "id": "s023",
+  "family": "Mito",
+  "slug": "egipcios-mural",
+  "analogy": "Deuses egípcios",
+  "aesthetic": "Arte mural/hieróglifo",
+  "vibe": "perfil dourado"
+ },
+ {
+  "n": 24,
+  "id": "s024",
+  "family": "Mito",
+  "slug": "hindus-devocional",
+  "analogy": "Deuses hindus",
+  "aesthetic": "Arte devocional",
+  "vibe": "cores saturadas"
+ },
+ {
+  "n": 25,
+  "id": "s025",
+  "family": "Mito",
+  "slug": "yokai-sumie",
+  "analogy": "Yokai japoneses",
+  "aesthetic": "Sumi-e (tinta)",
+  "vibe": "pincel monocromático"
+ },
+ {
+  "n": 26,
+  "id": "s026",
+  "family": "Mito",
+  "slug": "santos-bizantino",
+  "analogy": "Santos e ícones",
+  "aesthetic": "Ícone bizantino dourado",
+  "vibe": "folha de ouro"
+ },
+ {
+  "n": 27,
+  "id": "s027",
+  "family": "Mito",
+  "slug": "anjos-barroco",
+  "analogy": "Anjos e demônios",
+  "aesthetic": "Barroco claro-escuro",
+  "vibe": "Caravaggio"
+ },
+ {
+  "n": 28,
+  "id": "s028",
+  "family": "Mito",
+  "slug": "espiritos-aquarela",
+  "analogy": "Espíritos da natureza",
+  "aesthetic": "Aquarela etérea",
+  "vibe": "fantasmagórico"
+ },
+ {
+  "n": 29,
+  "id": "s029",
+  "family": "Mito",
+  "slug": "bobblehead-caricatura",
+  "analogy": "Arquétipos (caricatura)",
+  "aesthetic": "Bobblehead cabeçudo",
+  "vibe": "boneco de painel"
+ },
+ {
+  "n": 30,
+  "id": "s030",
+  "family": "Mito",
+  "slug": "zodiaco-neon",
+  "analogy": "Signos do zodíaco",
+  "aesthetic": "Constelação neon",
+  "vibe": "linhas de estrela"
+ },
+ {
+  "n": 31,
+  "id": "s031",
+  "family": "Gente",
+  "slug": "profissoes-foto",
+  "analogy": "Profissões clássicas",
+  "aesthetic": "Foto de estúdio realista",
+  "vibe": "crachá corporativo"
+ },
+ {
+  "n": 32,
+  "id": "s032",
+  "family": "Gente",
+  "slug": "personas-flat",
+  "analogy": "Personas de usuário",
+  "aesthetic": "Flat design (icon)",
+  "vibe": "vetor limpo"
+ },
+ {
+  "n": 33,
+  "id": "s033",
+  "family": "Gente",
+  "slug": "chefs-gouache",
+  "analogy": "Chefs e cozinheiros",
+  "aesthetic": "Gouache de receita",
+  "vibe": "guache quente"
+ },
+ {
+  "n": 34,
+  "id": "s034",
+  "family": "Gente",
+  "slug": "cientistas-riso",
+  "analogy": "Cientistas (estilizados)",
+  "aesthetic": "Risograph",
+  "vibe": "duas tintas"
+ },
+ {
+  "n": 35,
+  "id": "s035",
+  "family": "Gente",
+  "slug": "musicos-vinil",
+  "analogy": "Músicos por gênero",
+  "aesthetic": "Capa de disco vinil",
+  "vibe": "art direction retrô"
+ },
+ {
+  "n": 36,
+  "id": "s036",
+  "family": "Gente",
+  "slug": "atletas-cartaz",
+  "analogy": "Atletas por esporte",
+  "aesthetic": "Cartaz esportivo vintage",
+  "vibe": "litografia"
+ },
+ {
+  "n": 37,
+  "id": "s037",
+  "family": "Gente",
+  "slug": "artistas-impressionista",
+  "analogy": "Artistas (pintor, escultor)",
+  "aesthetic": "Autorretrato impressionista",
+  "vibe": "pincelada"
+ },
+ {
+  "n": 38,
+  "id": "s038",
+  "family": "Gente",
+  "slug": "exploradores-diario",
+  "analogy": "Exploradores/aventureiros",
+  "aesthetic": "Diário de expedição",
+  "vibe": "ilustração de viagem"
+ },
+ {
+  "n": 39,
+  "id": "s039",
+  "family": "Gente",
+  "slug": "detetives-noir",
+  "analogy": "Detetives e espiões",
+  "aesthetic": "Film noir",
+  "vibe": "p&b dramático"
+ },
+ {
+  "n": 40,
+  "id": "s040",
+  "family": "Gente",
+  "slug": "circo-cartaz",
+  "analogy": "Circo (malabarista, mágico)",
+  "aesthetic": "Cartaz de circo vintage",
+  "vibe": "tipografia festiva"
+ },
+ {
+  "n": 41,
+  "id": "s041",
+  "family": "Objetos",
+  "slug": "cozinha-produto",
+  "analogy": "Utensílios de cozinha",
+  "aesthetic": "Foto de produto minimalista",
+  "vibe": "fundo neutro"
+ },
+ {
+  "n": 42,
+  "id": "s042",
+  "family": "Objetos",
+  "slug": "ferramentas-blueprint",
+  "analogy": "Ferramentas",
+  "aesthetic": "Blueprint técnico",
+  "vibe": "linhas em azul"
+ },
+ {
+  "n": 43,
+  "id": "s043",
+  "family": "Objetos",
+  "slug": "escritorio-iso",
+  "analogy": "Material de escritório",
+  "aesthetic": "3D isométrico",
+  "vibe": "render limpo"
+ },
+ {
+  "n": 44,
+  "id": "s044",
+  "family": "Objetos",
+  "slug": "eletro-kawaii",
+  "analogy": "Eletrodomésticos com rosto",
+  "aesthetic": "Cartoon kawaii",
+  "vibe": "carinha fofa"
+ },
+ {
+  "n": 45,
+  "id": "s045",
+  "family": "Objetos",
+  "slug": "gadgets-render",
+  "analogy": "Gadgets e câmeras",
+  "aesthetic": "Render de produto premium",
+  "vibe": "vidro e metal"
+ },
+ {
+  "n": 46,
+  "id": "s046",
+  "family": "Objetos",
+  "slug": "instrumentos-lineart",
+  "analogy": "Instrumentos musicais",
+  "aesthetic": "Line art dourado",
+  "vibe": "contorno fino"
+ },
+ {
+  "n": 47,
+  "id": "s047",
+  "family": "Objetos",
+  "slug": "moveis-bauhaus",
+  "analogy": "Móveis icônicos do design",
+  "aesthetic": "Bauhaus geométrico",
+  "vibe": "primárias"
+ },
+ {
+  "n": 48,
+  "id": "s048",
+  "family": "Objetos",
+  "slug": "loucas-azulejo",
+  "analogy": "Louças e cerâmicas",
+  "aesthetic": "Azulejo/mosaico português",
+  "vibe": "cobalto"
+ },
+ {
+  "n": 49,
+  "id": "s049",
+  "family": "Objetos",
+  "slug": "funko-pop",
+  "analogy": "Colecionáveis",
+  "aesthetic": "Funko Pop style",
+  "vibe": "vinil cabeçudo"
+ },
+ {
+  "n": 50,
+  "id": "s050",
+  "family": "Objetos",
+  "slug": "coqueteis-deco",
+  "analogy": "Bebidas e coquetéis",
+  "aesthetic": "Menu art deco",
+  "vibe": "dourado 1920s"
+ },
+ {
+  "n": 51,
+  "id": "s051",
+  "family": "Marcas",
+  "slug": "logos-flat",
+  "analogy": "Logomarcas famosas (paródia)",
+  "aesthetic": "Flat vector",
+  "vibe": "marca minimal"
+ },
+ {
+  "n": 52,
+  "id": "s052",
+  "family": "Marcas",
+  "slug": "empresas-mascote90",
+  "analogy": "Empresas como mascotes",
+  "aesthetic": "Mascote corporativo anos 90",
+  "vibe": "retrô ad"
+ },
+ {
+  "n": 53,
+  "id": "s053",
+  "family": "Marcas",
+  "slug": "emojis-3d",
+  "analogy": "Emojis 3D",
+  "aesthetic": "Estilo Apple/Fluent 3D",
+  "vibe": "gomoso brilhante"
+ },
+ {
+  "n": 54,
+  "id": "s054",
+  "family": "Marcas",
+  "slug": "stickers-diecut",
+  "analogy": "Adesivos die-cut",
+  "aesthetic": "Sticker brilhante",
+  "vibe": "contorno branco"
+ },
+ {
+  "n": 55,
+  "id": "s055",
+  "family": "Marcas",
+  "slug": "pins-esmalte",
+  "analogy": "Enamel pins",
+  "aesthetic": "Pin de esmalte metálico",
+  "vibe": "borda dourada"
+ },
+ {
+  "n": 56,
+  "id": "s056",
+  "family": "Marcas",
+  "slug": "baralho-naipe",
+  "analogy": "Cartas de baralho",
+  "aesthetic": "Naipe ornamentado",
+  "vibe": "figura de baralho"
+ },
+ {
+  "n": 57,
+  "id": "s057",
+  "family": "Marcas",
+  "slug": "taro-riderwaite",
+  "analogy": "Tarô",
+  "aesthetic": "Arte Rider-Waite",
+  "vibe": "carta mística"
+ },
+ {
+  "n": 58,
+  "id": "s058",
+  "family": "Marcas",
+  "slug": "xadrez-marmore",
+  "analogy": "Xadrez (peças)",
+  "aesthetic": "Mármore preto e branco",
+  "vibe": "escultura de jogo"
+ },
+ {
+  "n": 59,
+  "id": "s059",
+  "family": "Marcas",
+  "slug": "southpark-recorte",
+  "analogy": "Países/tribos",
+  "aesthetic": "South Park (recorte de papel)",
+  "vibe": "cutout construtivo"
+ },
+ {
+  "n": 60,
+  "id": "s060",
+  "family": "Marcas",
+  "slug": "simpsons-groening",
+  "analogy": "Personagens amarelos",
+  "aesthetic": "Estilo Simpsons (Groening)",
+  "vibe": "amarelo cartunesco"
+ },
+ {
+  "n": 61,
+  "id": "s061",
+  "family": "Natureza",
+  "slug": "plantas-botanica",
+  "analogy": "Plantas e flores",
+  "aesthetic": "Botânica científica",
+  "vibe": "prancha"
+ },
+ {
+  "n": 62,
+  "id": "s062",
+  "family": "Natureza",
+  "slug": "arvores-woodcut",
+  "analogy": "Árvores",
+  "aesthetic": "Woodcut",
+  "vibe": "traço grosso"
+ },
+ {
+  "n": 63,
+  "id": "s063",
+  "family": "Natureza",
+  "slug": "cogumelos-aquarela",
+  "analogy": "Cogumelos",
+  "aesthetic": "Aquarela micológica",
+  "vibe": "delicado"
+ },
+ {
+  "n": 64,
+  "id": "s064",
+  "family": "Natureza",
+  "slug": "frutas-foto",
+  "analogy": "Frutas e vegetais",
+  "aesthetic": "Foto de produto vibrante",
+  "vibe": "fresco"
+ },
+ {
+  "n": 65,
+  "id": "s065",
+  "family": "Natureza",
+  "slug": "micro-cartoon",
+  "analogy": "Micróbios/bactérias fofos",
+  "aesthetic": "Cartoon científico",
+  "vibe": "fofo educativo"
+ },
+ {
+  "n": 66,
+  "id": "s066",
+  "family": "Natureza",
+  "slug": "cristais-iri",
+  "analogy": "Cristais e gemas",
+  "aesthetic": "Render 3D iridescente",
+  "vibe": "facetas de luz"
+ },
+ {
+  "n": 67,
+  "id": "s067",
+  "family": "Natureza",
+  "slug": "astros-scifi50",
+  "analogy": "Planetas e astros",
+  "aesthetic": "Sci-fi anos 50",
+  "vibe": "pulp espacial"
+ },
+ {
+  "n": 68,
+  "id": "s068",
+  "family": "Natureza",
+  "slug": "clima-simpsons",
+  "analogy": "Fenômenos do tempo",
+  "aesthetic": "Flat design suave",
+  "vibe": "nuvem/raio geométrico"
+ },
+ {
+  "n": 69,
+  "id": "s069",
+  "family": "Natureza",
+  "slug": "quimica-popsci",
+  "analogy": "Elementos químicos como heróis",
+  "aesthetic": "Pop-science cartoon",
+  "vibe": "mascote de tabela"
+ },
+ {
+  "n": 70,
+  "id": "s070",
+  "family": "Natureza",
+  "slug": "constelacoes-celeste",
+  "analogy": "Constelações",
+  "aesthetic": "Mapa celeste dourado antigo",
+  "vibe": "carta estelar"
+ },
+ {
+  "n": 71,
+  "id": "s071",
+  "family": "Comida",
+  "slug": "kawaii-chibi",
+  "analogy": "Comidas kawaii",
+  "aesthetic": "Chibi pastel",
+  "vibe": "carinha fofa"
+ },
+ {
+  "n": 72,
+  "id": "s072",
+  "family": "Comida",
+  "slug": "doces-clay",
+  "analogy": "Doces e sobremesas",
+  "aesthetic": "Claymation (massinha)",
+  "vibe": "stop-motion"
+ },
+ {
+  "n": 73,
+  "id": "s073",
+  "family": "Comida",
+  "slug": "sushi-anime",
+  "analogy": "Sushi e comida japonesa",
+  "aesthetic": "Anime food art",
+  "vibe": "brilho de anime"
+ },
+ {
+  "n": 74,
+  "id": "s074",
+  "family": "Comida",
+  "slug": "cafe-cozy",
+  "analogy": "Café e padaria",
+  "aesthetic": "Ilustração aconchegante",
+  "vibe": "cozy"
+ },
+ {
+  "n": 75,
+  "id": "s075",
+  "family": "Comida",
+  "slug": "fastfood-popart",
+  "analogy": "Fast food com rosto",
+  "aesthetic": "Pop art vibrante",
+  "vibe": "saturado"
+ },
+ {
+  "n": 76,
+  "id": "s076",
+  "family": "Comida",
+  "slug": "especiarias-rotulo",
+  "analogy": "Temperos e especiarias",
+  "aesthetic": "Rótulo vintage",
+  "vibe": "apotecário"
+ },
+ {
+  "n": 77,
+  "id": "s077",
+  "family": "Comida",
+  "slug": "queijos-gourmet",
+  "analogy": "Queijos do mundo",
+  "aesthetic": "Foto gourmet",
+  "vibe": "tábua"
+ },
+ {
+  "n": 78,
+  "id": "s078",
+  "family": "Comida",
+  "slug": "tropicais-vaporwave",
+  "analogy": "Frutas tropicais",
+  "aesthetic": "Vaporwave neon",
+  "vibe": "rosa/ciano"
+ },
+ {
+  "n": 79,
+  "id": "s079",
+  "family": "Comida",
+  "slug": "chas-nanquim",
+  "analogy": "Chás e infusões",
+  "aesthetic": "Nanquim oriental",
+  "vibe": "sereno"
+ },
+ {
+  "n": 80,
+  "id": "s080",
+  "family": "Comida",
+  "slug": "quentes-croche",
+  "analogy": "Bebidas quentes aconchegantes",
+  "aesthetic": "Crochê/feltro",
+  "vibe": "quentinho"
+ },
+ {
+  "n": 81,
+  "id": "s081",
+  "family": "Materiais",
+  "slug": "lego",
+  "analogy": "Mascote genérico",
+  "aesthetic": "LEGO / blocos",
+  "vibe": "minifigura"
+ },
+ {
+  "n": 82,
+  "id": "s082",
+  "family": "Materiais",
+  "slug": "origami",
+  "analogy": "Mascote genérico",
+  "aesthetic": "Origami / dobradura",
+  "vibe": "papel dobrado"
+ },
+ {
+  "n": 83,
+  "id": "s083",
+  "family": "Materiais",
+  "slug": "voxel",
+  "analogy": "Mascote genérico",
+  "aesthetic": "Voxel / Minecraft",
+  "vibe": "cubos"
+ },
+ {
+  "n": 84,
+  "id": "s084",
+  "family": "Materiais",
+  "slug": "muppet-feltro",
+  "analogy": "Mascote genérico",
+  "aesthetic": "Muppet (feltro costurado)",
+  "vibe": "boneco simpático"
+ },
+ {
+  "n": 85,
+  "id": "s085",
+  "family": "Materiais",
+  "slug": "neon-sign",
+  "analogy": "Mascote genérico",
+  "aesthetic": "Neon sign",
+  "vibe": "letreiro luminoso"
+ },
+ {
+  "n": 86,
+  "id": "s086",
+  "family": "Materiais",
+  "slug": "wojak-mspaint",
+  "analogy": "Mascote genérico",
+  "aesthetic": "Wojak / feels (MS Paint)",
+  "vibe": "meme cru"
+ },
+ {
+  "n": 87,
+  "id": "s087",
+  "family": "Materiais",
+  "slug": "graffiti",
+  "analogy": "Mascote genérico",
+  "aesthetic": "Graffiti / street art",
+  "vibe": "spray e tag"
+ },
+ {
+  "n": 88,
+  "id": "s088",
+  "family": "Materiais",
+  "slug": "balao-mylar",
+  "analogy": "Mascote genérico",
+  "aesthetic": "Balão inflável / mylar",
+  "vibe": "brilhante e bojudo"
+ },
+ {
+  "n": 89,
+  "id": "s089",
+  "family": "Materiais",
+  "slug": "holografico",
+  "analogy": "Mascote genérico",
+  "aesthetic": "Holográfico iridescente",
+  "vibe": "foil arco-íris"
+ },
+ {
+  "n": 90,
+  "id": "s090",
+  "family": "Materiais",
+  "slug": "bronze",
+  "analogy": "Mascote genérico",
+  "aesthetic": "Escultura de bronze",
+  "vibe": "pátina"
+ },
+ {
+  "n": 91,
+  "id": "s091",
+  "family": "Épocas",
+  "slug": "synthwave",
+  "analogy": "Retrô anos 80",
+  "aesthetic": "Synthwave",
+  "vibe": "grade e pôr do sol neon"
+ },
+ {
+  "n": 92,
+  "id": "s092",
+  "family": "Épocas",
+  "slug": "steampunk",
+  "analogy": "Steampunk",
+  "aesthetic": "Engrenagens sépia",
+  "vibe": "latão e vapor"
+ },
+ {
+  "n": 93,
+  "id": "s093",
+  "family": "Épocas",
+  "slug": "cyberpunk",
+  "analogy": "Cyberpunk",
+  "aesthetic": "Neon chuvoso",
+  "vibe": "alta tecnologia suja"
+ },
+ {
+  "n": 94,
+  "id": "s094",
+  "family": "Épocas",
+  "slug": "artdeco",
+  "analogy": "Art déco",
+  "aesthetic": "Dourado geométrico 1920s",
+  "vibe": "Gatsby"
+ },
+ {
+  "n": 95,
+  "id": "s095",
+  "family": "Épocas",
+  "slug": "hokusai",
+  "analogy": "Onda japonesa",
+  "aesthetic": "Ukiyo-e clássico (Hokusai)",
+  "vibe": "gravura clássica"
+ },
+ {
+  "n": 96,
+  "id": "s096",
+  "family": "Épocas",
+  "slug": "arcade8bit",
+  "analogy": "Arcade retrô",
+  "aesthetic": "Pixel 8-bit",
+  "vibe": "fliperama"
+ },
+ {
+  "n": 97,
+  "id": "s097",
+  "family": "Épocas",
+  "slug": "cubismo",
+  "analogy": "Cubismo",
+  "aesthetic": "Picasso facetado",
+  "vibe": "planos e ângulos"
+ },
+ {
+  "n": 98,
+  "id": "s098",
+  "family": "Épocas",
+  "slug": "surrealismo",
+  "analogy": "Surrealismo",
+  "aesthetic": "Dalí onírico",
+  "vibe": "derretido e estranho"
+ },
+ {
+  "n": 99,
+  "id": "s099",
+  "family": "Épocas",
+  "slug": "suico",
+  "analogy": "Minimalismo suíço",
+  "aesthetic": "Tipográfico geométrico",
+  "vibe": "grid rígido"
+ },
+ {
+  "n": 100,
+  "id": "s100",
+  "family": "Épocas",
+  "slug": "impressionismo",
+  "analogy": "Impressionismo",
+  "aesthetic": "Pincelada Monet",
+  "vibe": "luz e cor"
+ }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s029-r001",
+    "sheet_id": "s029",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Dom Blueprint",
+    "character_desc": "Bobblehead do arquiteto-mestre: cabeçorra pensativa sobre um corpinho engravatado. Segura uma plantazinha de blueprint enrolada e um compasso; capacete de obra minúsculo comunica que projeta a estrutura toda.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a smart blazer and tiny hard hat, holding a rolled blue blueprint scroll and a drafting compass, confident architect grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r002",
+    "sheet_id": "s029",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Chefão Tech",
+    "character_desc": "Boneco de painel do líder técnico: cabeçudo sorridente apontando o caminho. Prancheta com checklist e headset de coordenação dizem que ele guia o time.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a hoodie with a lanyard badge and headset, one hand pointing forward while holding a clipboard, encouraging leader grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r003",
+    "sheet_id": "s029",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Staff Sábio",
+    "character_desc": "Bobblehead veterano de cabeça enorme e óculos grandes. Segura uma torre de livros técnicos e um quadro-branco de mão com diagramas, o guru transversal.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a cardigan and big round glasses, cradling a stack of thick technical books and a small whiteboard with diagrams, wise seasoned grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r004",
+    "sheet_id": "s029",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Principal Prime",
+    "character_desc": "Caricatura do principal engineer: cabeça imensa coroada com uma coroinha de circuito. Segura uma varinha-caneta laser apontando padrões, o estrategista supremo.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing an elegant vest and a tiny circuit-pattern crown, holding a glowing pointer-wand over floating tech icons, visionary grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r005",
+    "sheet_id": "s029",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Gerente Bola",
+    "character_desc": "Bobblehead do gerente de engenharia: cabeçorra acolhedora com café na mão. Segura café gigante e um organograma de bolso, cuidando das pessoas.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a warm sweater, holding an oversized coffee mug and a tiny org-chart card, caring supportive grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r006",
+    "sheet_id": "s029",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Prod Manda",
+    "character_desc": "Boneco do product manager: cabeça grande cheia de ideias. Segura um post-it gigante de roadmap e uma lupa de mercado, decidindo o que construir.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a casual button-up, holding a giant sticky-note roadmap and a market magnifier, decisive product grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r007",
+    "sheet_id": "s029",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Dono Backlog",
+    "character_desc": "Caricatura do product owner abraçado a uma pilha de cartões de backlog priorizados. Segura carimbo de 'prioridade', dono da fila.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a polo shirt, hugging a tall stack of prioritized backlog cards and holding a 'priority' rubber stamp, focused grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r008",
+    "sheet_id": "s029",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Mestre Programa",
+    "character_desc": "Bobblehead do program manager coordenando várias frentes: segura um leque de gráficos de Gantt e um walkie-talkie, sincronizando tudo.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a blazer, holding a fan of Gantt-chart cards and a walkie-talkie, coordinating multitasking grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r009",
+    "sheet_id": "s029",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Capitão Prazo",
+    "character_desc": "Boneco do project manager com cronômetro gigante e um calendário de mão cheio de marcos. Aponta a data-limite, guardião do prazo.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a shirt with rolled sleeves, holding an oversized stopwatch and a milestone calendar, punctual determined grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r010",
+    "sheet_id": "s029",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Scrum Torcida",
+    "character_desc": "Caricatura do scrum master animando o time: apito no pescoço e um quadro kanban de mão com post-its. Remove impedimentos, o facilitador.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a team jersey with a whistle around the neck, holding a small kanban board covered in colorful sticky notes, cheerful facilitator grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r011",
+    "sheet_id": "s029",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Back Fundão",
+    "character_desc": "Bobblehead do backend dev: cabeçudo concentrado com um servidor-torre de brinquedo no colo e engrenagens na mão, movendo a lógica por baixo dos panos.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a plain dark tee, holding a tiny server rack and a handful of gears, focused engineer grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r012",
+    "sheet_id": "s029",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Design de API",
+    "character_desc": "Caricatura do API designer: segura tomadas/plugues encaixando como contratos e um cartão de endpoints. Conecta os sistemas.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a tech tee, holding interlocking plug-and-socket connectors and a small endpoint card, tidy grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r013",
+    "sheet_id": "s029",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Micro Trupe",
+    "character_desc": "Bobblehead dos microsserviços: rodeado de caixinhas modulares independentes que segura em bandeja, o quebrador do monólito.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a hoodie, balancing a tray of many small modular cube-boxes, playful modular grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r014",
+    "sheet_id": "s029",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Duto Dev",
+    "character_desc": "Boneco do pipeline dev: segura um cano/tubulação por onde escorrem cubinhos de dados, encanador do fluxo.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing overalls over a tee, holding a curved pipe with little data cubes flowing through, hands-on grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r015",
+    "sheet_id": "s029",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Enge de Dados",
+    "character_desc": "Caricatura do data engineer carregando baldes de dados e um funil gigante, construindo os canos de ETL.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a utility vest, carrying data buckets and a large funnel, industrious grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r016",
+    "sheet_id": "s029",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Guarda-DB",
+    "character_desc": "Bobblehead do DBA: abraça um cilindro-banco de dados brilhante com um cadeadinho, guardião dos registros.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a shirt and tie, hugging a glowing database cylinder with a tiny padlock, protective grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r017",
+    "sheet_id": "s029",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "SQL Mago",
+    "character_desc": "Boneco do especialista SQL com varinha de consulta e um pergaminho de query, conjurando os dados exatos.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a wizard-ish cardigan, waving a query wand over a small SQL scroll, clever grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r018",
+    "sheet_id": "s029",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Cache Veloz",
+    "character_desc": "Caricatura do caching engineer com um raio na mão e uma gavetinha de acesso instantâneo, tudo à velocidade da luz.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a sporty jacket, holding a lightning bolt and a quick-access drawer, speedy grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r019",
+    "sheet_id": "s029",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Fila Certa",
+    "character_desc": "Bobblehead do message queue engineer segurando um trenzinho de mensagens em fila sobre um trilho, entregando na ordem.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a conductor-style vest, holding a small train of message cars on a rail, orderly grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r020",
+    "sheet_id": "s029",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Busca Certeira",
+    "character_desc": "Boneco do search engineer com lupa gigante e um índice de fichas, achando qualquer coisa num piscar.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a casual shirt, holding an oversized magnifier and a card index box, sharp searching grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r021",
+    "sheet_id": "s029",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Front Flô",
+    "character_desc": "Bobblehead do frontend dev: cabeçudo com um retângulo-tela de app na mão cheio de botões coloridos, montando a interface.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a trendy tee, holding a tablet-frame UI mockup with colorful buttons, upbeat grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r022",
+    "sheet_id": "s029",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "UI Preciso",
+    "character_desc": "Caricatura do UI engineer com régua e componentes de botão encaixáveis, alinhando cada pixel.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a neat sweater, holding a ruler and snap-together button components, precise grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r023",
+    "sheet_id": "s029",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "UX Empata",
+    "character_desc": "Boneco do UX designer com um coração-lupa e um fluxograma de jornada, sentindo o usuário.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a soft turtleneck, holding a heart-shaped magnifier and a user-journey flow card, empathetic grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r024",
+    "sheet_id": "s029",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Sistema de Design",
+    "character_desc": "Bobblehead do design systems eng com uma paleta de tokens/peças LEGO padronizadas, montando o kit reutilizável.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a designer smock, holding a palette of standardized LEGO-like design tokens, systematic grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r025",
+    "sheet_id": "s029",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "A11y Amigo",
+    "character_desc": "Caricatura do especialista em acessibilidade com símbolo universal de acesso no peito e uma bengala-guia, incluindo todo mundo.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a shirt with a universal-access badge, holding a guiding cane and a high-contrast card, inclusive warm grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r026",
+    "sheet_id": "s029",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Perf Web",
+    "character_desc": "Boneco do web performance engineer com velocímetro e uma pena (leveza), enxugando os milissegundos.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing an athletic tee, holding a speedometer gauge and a feather, brisk grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r027",
+    "sheet_id": "s029",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "CSS Estiloso",
+    "character_desc": "Bobblehead do CSS specialist com pincel e um leque de amostras de cor e caixas alinhadas, estilizando tudo.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a paint-splattered apron, holding a brush and a fan of color swatches, stylish grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r028",
+    "sheet_id": "s029",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Anima Mola",
+    "character_desc": "Caricatura do animation engineer com curvas de easing na mão e rastro de movimento, dando vida às telas.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a hoodie, holding an easing-curve card with a motion-trail streak, lively grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r029",
+    "sheet_id": "s029",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Móvel Mão",
+    "character_desc": "Boneco do mobile dev segurando dois celulares de brinquedo, um em cada mão, app no bolso.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a casual jacket, holding two toy smartphones one in each hand, on-the-go grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r030",
+    "sheet_id": "s029",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "iOS Chique",
+    "character_desc": "Bobblehead do iOS dev com um celular-maçã minimalista polido e fone branquinho, ecossistema apple.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a sleek minimalist outfit, holding a polished apple-styled phone with white earbuds, refined grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r031",
+    "sheet_id": "s029",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Andro Verde",
+    "character_desc": "Caricatura do Android dev com um robozinho verde de estimação no ombro e celular colorido.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a green-accented hoodie, a little green android mascot on the shoulder and a colorful phone in hand, friendly grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r032",
+    "sheet_id": "s029",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "RN Ponte",
+    "character_desc": "Boneco do React Native dev segurando uma engrenagem-átomo azul que faz ponte entre dois celulares.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a tee, holding a spinning blue atom-gear bridging two small phones, versatile grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r033",
+    "sheet_id": "s029",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Flutter Voa",
+    "character_desc": "Bobblehead do Flutter dev com asas de borboleta azul e um passarinho de UI na mão, um app pra tudo.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a blue tee with tiny butterfly wings, holding a small UI bird widget, cheerful grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r034",
+    "sheet_id": "s029",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Cientista Dados",
+    "character_desc": "Caricatura do data scientist com óculos, um frasco de laboratório cheio de gráficos borbulhantes e uma prancheta de hipóteses.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a lab coat over a tee, holding a beaker bubbling with tiny charts and a hypothesis clipboard, curious grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r035",
+    "sheet_id": "s029",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "ML Treina",
+    "character_desc": "Boneco do ML engineer com um cérebro-robô de estimação na coleira e uma tigela de dados de treino.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a tech vest, holding a leash to a small robot-brain pet and a bowl of training-data cubes, focused grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r036",
+    "sheet_id": "s029",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "MLOps Roda",
+    "character_desc": "Bobblehead do MLOps eng com esteira circular de modelos e uma chave inglesa, mantendo o ciclo girando.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing coveralls, holding a looping conveyor of model boxes and a wrench, operational grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r037",
+    "sheet_id": "s029",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Pesquisa IA",
+    "character_desc": "Caricatura do AI researcher com lâmpada acesa flutuando sobre a cabeçorra e um paper enrolado, teorizando o futuro.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a scholarly sweater, a glowing lightbulb floating above the big head and a rolled research paper in hand, inquisitive grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r038",
+    "sheet_id": "s029",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Prompt Sussurra",
+    "character_desc": "Boneco do prompt engineer com um balão de fala mágico e uma varinha, sussurrando ordens ao modelo.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a casual shirt, holding a magic speech-bubble card and a small wand, sly clever grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r039",
+    "sheet_id": "s029",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "NLP Fala",
+    "character_desc": "Bobblehead do NLP engineer cercado de letrinhas flutuantes que organiza com uma rede de pescar, domador da linguagem.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a tee, holding a small net catching floating alphabet letters, articulate grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r040",
+    "sheet_id": "s029",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Visão CV",
+    "character_desc": "Caricatura do computer vision eng com um olho-câmera gigante na mão e uma moldura de reconhecimento facial.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a tech jacket, holding an oversized camera-eye and a face-recognition frame, observant grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r041",
+    "sheet_id": "s029",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Analista Dados",
+    "character_desc": "Boneco do data analyst com uma pizza-gráfico numa fatia e uma lupa, extraindo o insight.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a button-up, holding a pie-chart slice and a magnifier, analytical grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r042",
+    "sheet_id": "s029",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "BI Painel",
+    "character_desc": "Bobblehead do BI analyst abraçado a um painel de dashboards com medidores e KPIs coloridos.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a smart-casual outfit, holding a dashboard panel full of gauges and colorful KPIs, insightful grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r043",
+    "sheet_id": "s029",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Analytics Enge",
+    "character_desc": "Caricatura do analytics engineer montando peças de modelo de dados como encanamento limpo, entre dado bruto e dashboard.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a work vest, connecting clean data-model pipes between a raw-data box and a chart, tidy grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r044",
+    "sheet_id": "s029",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Viz Artista",
+    "character_desc": "Boneco do dataviz specialist com paleta de gráficos e um pincel desenhando uma curva elegante.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing an artsy apron, holding a chart palette and painting an elegant data curve, creative grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r045",
+    "sheet_id": "s029",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "DevOps Faz-Tudo",
+    "character_desc": "Bobblehead do DevOps eng com capacete, chave inglesa gigante e um símbolo infinito girando, unindo dev e ops.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing coveralls and a hard hat, holding a giant wrench with a spinning infinity loop, can-do grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r046",
+    "sheet_id": "s029",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "SRE Vigia",
+    "character_desc": "Caricatura do SRE com um bip de plantão no cinto e um painel de uptime verde, guardião da confiabilidade.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing an ops jacket with a pager on the belt, holding a green uptime monitor panel, vigilant grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r047",
+    "sheet_id": "s029",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Plataforma Base",
+    "character_desc": "Boneco do platform engineer segurando uma plataforma-palco onde outros bonecos poderiam subir, construtor da fundação.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a builder vest, holding a small stage-platform with tiny tool icons, foundational grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r048",
+    "sheet_id": "s029",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Nuvem Arquiteta",
+    "character_desc": "Bobblehead do cloud architect com uma nuvem fofa de brinquedo na mão pontilhada de servidores e um raio de conexão.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a blazer, holding a fluffy toy cloud dotted with tiny servers and a connection bolt, airy grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r049",
+    "sheet_id": "s029",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Kube Timoneiro",
+    "character_desc": "Caricatura do Kubernetes admin com um leme de navio e contêineres empilhados, pilotando o cluster.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a captain-ish vest, holding a ship's helm with stacked shipping containers behind, steady grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r050",
+    "sheet_id": "s029",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Rede Fios",
+    "character_desc": "Boneco do network engineer coberto de cabos de rede coloridos e um switch de brinquedo, conectando tudo.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a technician shirt, draped in colorful network cables holding a small switch, connected grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r051",
+    "sheet_id": "s029",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Sysadmin Zelador",
+    "character_desc": "Bobblehead do sysadmin com molho de chaves gigante e um servidor de estimação, zelando pelas máquinas.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a utility jumpsuit, holding a big ring of keys next to a small server tower, dependable grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r052",
+    "sheet_id": "s029",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Release Foguete",
+    "character_desc": "Caricatura do release engineer segurando um foguetinho pronto pra lançar e uma etiqueta de versão.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a launch-crew vest, holding a small ready-to-launch rocket and a version tag, excited grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r053",
+    "sheet_id": "s029",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Build Marreta",
+    "character_desc": "Boneco do build engineer com martelo e uma caixa-compilada lacrada saindo de uma esteira.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a workshop apron, holding a hammer beside a sealed compiled-build box, industrious grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r054",
+    "sheet_id": "s029",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "CI/CD Correia",
+    "character_desc": "Bobblehead do CI/CD engineer com uma esteira circular verde de deploys e um botão de play, automatizando o fluxo.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing coveralls, holding a looping green deploy conveyor with a play button, automated grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r055",
+    "sheet_id": "s029",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Segu Escudo",
+    "character_desc": "Caricatura do security engineer com escudo-cadeado brilhante e um capacete, blindando o sistema.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing tactical-lite gear, holding a glowing shield-padlock, protective serious-but-grinning face, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r056",
+    "sheet_id": "s029",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Pentest Ninja",
+    "character_desc": "Boneco do pentester encapuzado com uma gazua/chave-mestra e uma lanterna, invadindo pra proteger.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a dark hoodie, holding a lockpick and a flashlight, mischievous ethical-hacker grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r057",
+    "sheet_id": "s029",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "AppSec Filtro",
+    "character_desc": "Bobblehead do AppSec engineer com uma peneira que filtra bugs vermelhos do código e uma lupa.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a security tee, holding a sieve filtering out little red bug icons and a magnifier, watchful grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r058",
+    "sheet_id": "s029",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cripto Cofre",
+    "character_desc": "Caricatura do cryptographer com um cadeado-enigma girável e chaves douradas entrelaçadas.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a scholarly vest, holding a rotating cipher-lock and intertwined golden keys, secretive grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r059",
+    "sheet_id": "s029",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Compliance Selo",
+    "character_desc": "Boneco do compliance officer com um carimbo de 'aprovado', prancheta de checklist e uma balança de justiça de mão.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a formal blazer, holding an 'approved' stamp, a checklist clipboard and a tiny balance scale, upright grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r060",
+    "sheet_id": "s029",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Privacidade Véu",
+    "character_desc": "Bobblehead do privacy engineer com um véu/escudo cobrindo dados pessoais e um cadeado com cadeado LGPD.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a discreet suit, holding a shield-veil over a folder of personal data with a privacy padlock, reassuring grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r061",
+    "sheet_id": "s029",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Bombeiro Incidente",
+    "character_desc": "Caricatura do incident responder com capacete de bombeiro e extintor apagando um alerta em chamas.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a firefighter-style helmet, holding an extinguisher aimed at a small flaming alert, urgent grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r062",
+    "sheet_id": "s029",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Modela Ameaça",
+    "character_desc": "Boneco do threat modeler com um tabuleiro de xadrez de mão e uma lupa sobre árvores de ataque.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a strategist vest, holding a mini chessboard and a magnifier over an attack-tree card, calculating grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r063",
+    "sheet_id": "s029",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "QA Caçador",
+    "character_desc": "Bobblehead do QA engineer com uma rede de caçar borboletas pegando bugs vermelhos e uma prancheta de casos.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a tester tee, holding a butterfly net catching red bug icons and a test-case clipboard, keen grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r064",
+    "sheet_id": "s029",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "SDET Robô",
+    "character_desc": "Caricatura do SDET com um bracinho-robô automatizado apertando botões de teste e um script de mão.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a tech vest, holding a small automated robot-arm pressing test buttons and a script card, efficient grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r065",
+    "sheet_id": "s029",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Perf Testa",
+    "character_desc": "Boneco do performance tester com um dinamômetro/haltere de carga e um cronômetro, estressando o sistema.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a gym-ish tee, holding a load dynamometer and a stopwatch, straining grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r066",
+    "sheet_id": "s029",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Manual Detalhe",
+    "character_desc": "Bobblehead do manual tester clicando telinha por telinha com uma checklist enorme e um mouse gigante.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a casual shirt, holding an oversized checklist and a big mouse clicking a screen, meticulous grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r067",
+    "sheet_id": "s029",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "A11y Testa",
+    "character_desc": "Caricatura do accessibility tester com leitor de tela na mão e um cartão de contraste, testando pra todos.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a shirt with an access badge, holding a screen-reader device and a contrast-check card, thorough grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r068",
+    "sheet_id": "s029",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Escriba Docs",
+    "character_desc": "Boneco do technical writer com uma pena gigante, um manual aberto e óculos, documentando tudo.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a cozy cardigan, holding a giant quill pen and an open manual book, articulate grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r069",
+    "sheet_id": "s029",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Advogado Dev",
+    "character_desc": "Bobblehead do developer advocate com microfone e um adesivo/sticker de código, no palco pela comunidade.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a conference tee with sticker-covered laptop, holding a microphone, enthusiastic outgoing grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r070",
+    "sheet_id": "s029",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Estrategista Conteúdo",
+    "character_desc": "Caricatura do content strategist com um mapa de conteúdo e um funil editorial na mão.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing smart-casual, holding a content roadmap map and an editorial funnel, planning grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r071",
+    "sheet_id": "s029",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Poliglota i18n",
+    "character_desc": "Boneco do localization engineer com balões de fala em vários idiomas e um globo de mão.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a globe-print tee, holding a small globe with multilingual speech bubbles around, worldly grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r072",
+    "sheet_id": "s029",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Produto Designer",
+    "character_desc": "Bobblehead do product designer com um protótipo clicável de mão e um lápis, desenhando a experiência.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a designer sweater, holding a clickable prototype board and a pencil, thoughtful grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r073",
+    "sheet_id": "s029",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Visual Pincel",
+    "character_desc": "Caricatura do visual designer com paleta de cores, pincel e uma moldura de layout elegante.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing an artsy outfit, holding a color palette, a brush and a sleek layout frame, aesthetic grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r074",
+    "sheet_id": "s029",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Interação Toque",
+    "character_desc": "Boneco do interaction designer com um dedo-cursor apontando e cartões de microinteração animada.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a modern tee, holding a pointing cursor-hand and animated microinteraction cards, engaging grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r075",
+    "sheet_id": "s029",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Motion Rastro",
+    "character_desc": "Bobblehead do motion designer com uma faixa de storyboard e um rastro de movimento saindo da mão.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a creative hoodie, holding a storyboard strip with a swooping motion-trail, dynamic grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r076",
+    "sheet_id": "s029",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Ilustra Traço",
+    "character_desc": "Caricatura do illustrator com prancheta de desenho, lápis atrás da orelha e um personagem rabiscado.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a paint-splattered shirt, holding a drawing tablet with a sketched character and pencil behind the ear, imaginative grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r077",
+    "sheet_id": "s029",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Asset Forja",
+    "character_desc": "Boneco do asset designer com uma bandeja de ícones e sprites prontos, forjando peças reutilizáveis.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a maker apron, holding a tray of ready-made icons and sprite tiles, productive grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r078",
+    "sheet_id": "s029",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Marca Guardiã",
+    "character_desc": "Bobblehead do brand designer com um logo-selo brilhante e um guia de marca de mão.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a chic outfit, holding a glowing blank logo-emblem and a brand-guide booklet, polished grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r079",
+    "sheet_id": "s029",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Som Maestro",
+    "character_desc": "Caricatura do sound designer com fones grandes, uma onda sonora na mão e um teclado-mixer minúsculo.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing headphones over the big head, holding a sound-wave ribbon and a tiny mixer keyboard, groovy grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r080",
+    "sheet_id": "s029",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "3D Escultor",
+    "character_desc": "Boneco do 3D artist com uma esferinha-wireframe modelável na mão e uma espátula de esculpir digital.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a sculptor apron, holding a moldable 3D wireframe sphere and a digital sculpting tool, focused grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r081",
+    "sheet_id": "s029",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Game Mestre",
+    "character_desc": "Bobblehead do game designer com um controle de videogame gigante e um dado de RPG, desenhando a diversão.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a gamer hoodie, holding an oversized game controller and a big RPG die, playful grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r082",
+    "sheet_id": "s029",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Nível Mapa",
+    "character_desc": "Caricatura do level designer com um mapa de fase em relevo na mão e bandeirinhas de checkpoint.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a designer tee, holding a 3D level map with checkpoint flags, planning grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r083",
+    "sheet_id": "s029",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Narra Contador",
+    "character_desc": "Boneco do narrative designer com um livro-roteiro aberto e um balão de diálogo ramificado.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a storyteller vest, holding an open script book and a branching dialogue bubble, storytelling grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r084",
+    "sheet_id": "s029",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Game Dev Joy",
+    "character_desc": "Bobblehead do game developer com um joystick e um spritezinho pulando saindo da tela de mão.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing an arcade tee, holding a joystick and a small screen with a jumping sprite, energetic grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r085",
+    "sheet_id": "s029",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Shader Brilho",
+    "character_desc": "Caricatura do graphics/shader engineer com uma esfera reluzente de luz e sombra e um prisma na mão.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a tech tee, holding a glossy light-and-shadow sphere and a light prism, dazzled grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r086",
+    "sheet_id": "s029",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Embarcado Chip",
+    "character_desc": "Boneco do embedded engineer com uma placa-mãe de mão, ferro de solda e um chip minúsculo em foco.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing an electronics apron, holding a small circuit board, a soldering iron and a tiny chip, precise grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r087",
+    "sheet_id": "s029",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Firmware Base",
+    "character_desc": "Bobblehead do firmware engineer com um chip-ROM na mão e uma chave de fenda minúscula, gravando o baixo nível.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a lab coat, holding a ROM chip and a tiny screwdriver, low-level focused grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r088",
+    "sheet_id": "s029",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "IoT Conecta",
+    "character_desc": "Caricatura do IoT engineer cercado de gadgets fofos (lâmpada, sensor, termostato) ligados por ondinhas sem fio.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a smart-home tee, surrounded by tiny connected gadgets (bulb, sensor, thermostat) with wireless waves, connected grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r089",
+    "sheet_id": "s029",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Bloco Cadeia",
+    "character_desc": "Boneco do blockchain dev com uma correntinha de blocos brilhantes na mão e uma moedinha cripto.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a hoodie, holding a chain of glowing linked blocks and a crypto coin, decentralized grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r090",
+    "sheet_id": "s029",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Contrato Audita",
+    "character_desc": "Bobblehead do smart contract auditor com uma lupa sobre um pergaminho-contrato e um cadeado, caçando brechas.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a serious blazer, holding a magnifier over a contract scroll with a padlock, scrutinizing grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r091",
+    "sheet_id": "s029",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "AR/VR Óculos",
+    "character_desc": "Caricatura do AR/VR engineer com um headset de realidade virtual na cabeçorra e um holograma flutuando na mão.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a VR headset over the big head, holding a small floating hologram, immersed grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r092",
+    "sheet_id": "s029",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Robô Piloto",
+    "character_desc": "Boneco do robotics engineer com um controle e um robozinho de estimação ao lado, dando vida às máquinas.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a mechanic vest, holding a controller next to a small pet robot, hands-on grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r093",
+    "sheet_id": "s029",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Growth Foguetinho",
+    "character_desc": "Bobblehead do growth engineer com um gráfico de flecha subindo na mão e um funil de conversão minúsculo.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a startup tee, holding a rising arrow-chart and a small conversion funnel, ambitious grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r094",
+    "sheet_id": "s029",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "SEO Farejador",
+    "character_desc": "Caricatura do SEO specialist com uma lupa sobre resultados de busca e uma seta subindo ao topo.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a casual shirt, holding a magnifier over a search-results card with a rising rank arrow, savvy grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r095",
+    "sheet_id": "s029",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "MarTech Mira",
+    "character_desc": "Boneco do marketing technologist com um megafone, um alvo de campanha e cabinhos de automação.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a marketing tee, holding a megaphone and a campaign target with automation wires, persuasive grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r096",
+    "sheet_id": "s029",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Solução Ponte",
+    "character_desc": "Bobblehead do solutions engineer com uma maleta e uma peça de quebra-cabeça encaixando cliente e produto.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a business-casual shirt, holding a briefcase and a fitting puzzle piece, helpful grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r097",
+    "sheet_id": "s029",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Suporte Herói",
+    "character_desc": "Caricatura do support engineer com um headset de call, uma chave de fenda e um balão de 'resolvido'.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a support headset, holding a screwdriver and a 'resolved' check bubble, friendly helpful grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r098",
+    "sheet_id": "s029",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Vendas Enge",
+    "character_desc": "Boneco do sales engineer com uma maleta aberta mostrando uma demo brilhante e um aperto de mão.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a sharp blazer, holding an open briefcase with a glowing product demo, confident charming grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r099",
+    "sheet_id": "s029",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "FinOps Contador",
+    "character_desc": "Bobblehead do FinOps analyst com uma calculadora gigante, um cifrão-nuvem e um gráfico de economia.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a vest with a calculator, holding an oversized calculator and a cloud-dollar cost chart, thrifty grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s029-r100",
+    "sheet_id": "s029",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Advogado Legal",
+    "character_desc": "Caricatura do legal counsel com um martelinho de juiz, uma balança de justiça de mão e um contrato lacrado.",
+    "nano_prompt": "Glossy vinyl bobblehead figurine, oversized round caricature head with big sculpted eyes and an exaggerated grin bobbing on a tiny spring-mounted body, chibi cartoon proportions, standing on a small round glossy display base, collectible dashboard-toy look, soft studio lighting, full-body figurine shot, wearing a formal suit, holding a judge's gavel, a balance scale and a sealed contract, authoritative grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

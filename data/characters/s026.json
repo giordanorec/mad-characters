@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s026-r001",
+    "sheet_id": "s026",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "São Basílio das Plantas",
+    "character_desc": "Santo bizantino que ergue a planta-mestra de uma catedral: o Arquiteto de Solução que traça a estrutura de todo o reino digital.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding an unrolled architectural blueprint scroll and a golden compass, a miniature domed cathedral cradled in one hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r002",
+    "sheet_id": "s026",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "São Timóteo Condutor",
+    "character_desc": "Ícone do Tech Lead: santo que guia a pequena irmandade de escribas com o báculo do rumo técnico.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, raising a shepherd's crook staff and a small gilded gear medallion, one hand gesturing guidance toward unseen followers, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r003",
+    "sheet_id": "s026",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "São Estêvão Pilar",
+    "character_desc": "Santo-coluna do Staff Engineer, que sustenta o templo inteiro sobre os ombros sem cargo de comando.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, shouldering a tall golden marble column, a broad tool-belt of silver instruments across the chest, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r004",
+    "sheet_id": "s026",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "São Prisco Maior",
+    "character_desc": "Ícone do Principal Engineer: santo-ancião coroado de louros de ouro, guardião das grandes decisões.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, wearing a laurel crown of gold leaf, holding a weighty tome and an ornate golden scepter, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r005",
+    "sheet_id": "s026",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Santa Constança Pastora",
+    "character_desc": "A Engineering Manager como abadessa: reúne e nutre a comunidade dos que constroem.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, cradling a golden lantern and a flock-tending crook, small haloed figures gathered at her hem, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r006",
+    "sheet_id": "s026",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "São Vasco Visionário",
+    "character_desc": "Product Manager santificado: aponta o horizonte com o mapa do roadmap desenrolado.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, unrolling a long roadmap scroll marked with milestone stars, one arm pointing toward a distant golden horizon, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r007",
+    "sheet_id": "s026",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "São Osvaldo do Backlog",
+    "character_desc": "Product Owner como guardião do rol sagrado de pedidos, priorizando com selo de cera.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding a stacked scroll of prioritized petitions sealed with red wax and a golden ranking quill, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r008",
+    "sheet_id": "s026",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "São Programo Coordenador",
+    "character_desc": "Program Manager: santo que entrelaça muitos fios de ouro num só tecido de programas.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, weaving multiple golden threads that converge into one braided cord, a linked-rings emblem on the chest, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r009",
+    "sheet_id": "s026",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "São Marco Cronista",
+    "character_desc": "Project Manager como escriba do tempo: segura a ampulheta e a carta de marcos.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding a golden hourglass and a Gantt-chart scroll with tiny gilded timeline bars, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r010",
+    "sheet_id": "s026",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "São Cirilo do Círculo",
+    "character_desc": "Scrum Master santificado: guardião do ciclo, ergue a roda dos sprints.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, raising a golden circular wheel divided into segments, a small ceremonial hand-bell in the other hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r011",
+    "sheet_id": "s026",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "São Doríval das Fundações",
+    "character_desc": "Backend Developer como santo dos alicerces ocultos que sustentam o culto visível.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding a golden server-rack reliquary and a gear-etched trowel, foundation stones at the base, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r012",
+    "sheet_id": "s026",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "São Aurélio das Portas",
+    "character_desc": "API Designer: santo das portas e passagens, com chaves douradas dos contratos.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, presenting an ornate golden gateway arch and a ring of interface keys, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r013",
+    "sheet_id": "s026",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "São Múcio dos Muitos",
+    "character_desc": "Microservices Engineer: santo cercado de pequenas capelas independentes ligadas por fios de luz.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, surrounded by many tiny golden chapels connected by thin luminous threads, holding a mesh-network orb, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r014",
+    "sheet_id": "s026",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "São Fluvião Canalizador",
+    "character_desc": "Pipeline Developer como santo do rio de dados que corre em canais dourados.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, channeling a stream of golden liquid through a series of pipes and conduits held in both hands, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r015",
+    "sheet_id": "s026",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "São Terra Forjador",
+    "character_desc": "Data Engineer: santo que ergue aquedutos de ouro para conduzir as águas dos dados.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding a golden aqueduct model and a shovel, carved data-crates stacked beside him, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r016",
+    "sheet_id": "s026",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "São Custódio do Cofre",
+    "character_desc": "Database Administrator como guardião do arquivo sagrado, chaves da abóbada ao peito.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, grasping a large golden vault key and an open ledger-tome, a locked reliquary chest at his side, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r017",
+    "sheet_id": "s026",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "São Querino das Consultas",
+    "character_desc": "SQL Specialist: santo que interroga o grande registro com a vara de indagação.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, pointing a golden query-wand at an open indexed ledger, a filtered-scroll draped over the arm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r018",
+    "sheet_id": "s026",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Santa Célere Guardadora",
+    "character_desc": "Caching Engineer: santa da memória veloz, guarda relíquias em nicho de acesso rápido.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding a small golden reliquary drawer and an hourglass with swift-flowing sand, lightning-fret halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r019",
+    "sheet_id": "s026",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "São Fila Mensageiro",
+    "character_desc": "Message Queue Engineer: santo que ordena as cartas numa fila de escrínios dourados.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, cradling a row of ordered golden message-scrolls queued in a rack, a courier's horn in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r020",
+    "sheet_id": "s026",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "São Buscônio Vidente",
+    "character_desc": "Search Engineer: santo que enxerga tudo através da lupa de ouro do índice.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, peering through a large golden magnifying lens over an indexed tome, radiant seeking-eye on the halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r021",
+    "sheet_id": "s026",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Santa Fachada Luminosa",
+    "character_desc": "Frontend Developer como santa da face visível do templo, portadora do vitral.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, presenting a stained-glass window pane framed in gold and a bright interface-tablet, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r022",
+    "sheet_id": "s026",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "São Botão Artífice",
+    "character_desc": "UI Engineer: santo que molda os botões e painéis dourados da interface.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, arranging small golden interface panels and buttons on a tray, a stylus of light in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r023",
+    "sheet_id": "s026",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Santa Vereda Amável",
+    "character_desc": "UX Designer: santa que traça o caminho gentil do peregrino pelo templo.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding a wayfinding map with a golden guided path and a small empathy-heart lantern, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r024",
+    "sheet_id": "s026",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "São Cânone Ordenador",
+    "character_desc": "Design Systems Engineer: santo do cânone das formas, guarda o repertório dourado de componentes.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, displaying a codex of standardized golden component tiles arranged in a neat grid, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r025",
+    "sheet_id": "s026",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Santa Clara dos Acessos",
+    "character_desc": "Accessibility Specialist: santa que abre o templo a todos, portadora do bordão e do ouvido atento.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding a ramp-and-braille tablet and a golden ear-and-eye emblem, a guiding staff for all, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r026",
+    "sheet_id": "s026",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "São Rápido Alígero",
+    "character_desc": "Web Performance Engineer: santo veloz de sandálias aladas que aligeira o carregamento.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, wearing tiny golden winged sandals, holding a speed-gauge dial and a feather, motion-fret halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r027",
+    "sheet_id": "s026",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "São Estilo Ornador",
+    "character_desc": "CSS Specialist: santo que reveste o templo de cores e proporções áureas.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, draping ornamental golden fabric swatches and holding a palette of pigments and a proportion ruler, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r028",
+    "sheet_id": "s026",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Santa Móvia Animadora",
+    "character_desc": "Animation Engineer: santa que dá movimento às figuras, portadora da tira de quadros.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, unfurling a golden filmstrip of sequential poses and holding a spinning motion-wheel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r029",
+    "sheet_id": "s026",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "São Portátil Andarilho",
+    "character_desc": "Mobile Developer: santo peregrino que leva o templo no bolso, tábua-relicário na mão.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding a small handheld golden tablet-reliquary, a traveler's satchel of pocket shrines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r030",
+    "sheet_id": "s026",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "São Pomo das Maçãs",
+    "character_desc": "iOS Developer: santo do fruto mordido, guardião do jardim cerrado de vidro.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, cradling a golden bitten-apple orb and a sleek glass tablet, minimalist gilded frame, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r031",
+    "sheet_id": "s026",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "São Robô Verdejante",
+    "character_desc": "Android Developer: santo do autômato verde, portador do pequeno andróide dourado.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding a small green-and-gold android automaton figure and a gear-etched tablet, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r032",
+    "sheet_id": "s026",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Santa Ponte Nativa",
+    "character_desc": "React Native Developer: santa que constrói uma só ponte para duas margens.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, supporting a single golden bridge spanning two miniature shores, an atom-ring emblem on the halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r033",
+    "sheet_id": "s026",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Santa Fauna Alada",
+    "character_desc": "Flutter Developer: santa da borboleta dourada que voa igual em toda plataforma.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, releasing a golden butterfly, holding twin identical tablets that mirror each other, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r034",
+    "sheet_id": "s026",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "São Sábio Escrutador",
+    "character_desc": "Data Scientist: santo que lê os presságios nas constelações de pontos dourados.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, studying a scattered constellation of golden data-points and holding a probability-scale, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r035",
+    "sheet_id": "s026",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "São Máquino Aprendiz",
+    "character_desc": "ML Engineer: santo que treina o autômato com o cajado do gradiente.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, guiding a small learning automaton with a golden gradient-staff, a neuron-web halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r036",
+    "sheet_id": "s026",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "São Ciclo Operante",
+    "character_desc": "MLOps Engineer: santo que mantém o moinho dos modelos girando em ciclo perpétuo.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, turning a golden looping conveyor that carries model-tablets, a deploy-lever in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r037",
+    "sheet_id": "s026",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "São Nóvio Inquiridor",
+    "character_desc": "AI Researcher: santo que sonda o desconhecido com a lâmpada do saber novo.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, raising a radiant lamp over an open experimental codex and a branching-tree diagram scroll, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r038",
+    "sheet_id": "s026",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "São Verbo Sussurrador",
+    "character_desc": "Prompt Engineer: santo que sussurra as palavras certas ao oráculo dourado.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, whispering toward a glowing oracle-mask, holding a scroll of carefully lettered incantation-prompts, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r039",
+    "sheet_id": "s026",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Santa Fala Intérprete",
+    "character_desc": "NLP Engineer: santa que decifra a linguagem em símbolos de ouro.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding a tongue-and-alphabet tablet and a golden translation-lens over flowing text-ribbons, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r040",
+    "sheet_id": "s026",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "São Ótico Vidente",
+    "character_desc": "Computer Vision Engineer: santo do olho que reconhece as formas no mundo.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding a golden all-seeing eye lens framing a recognized shape, grid-scan lines on the halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r041",
+    "sheet_id": "s026",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "São Cômputo Contador",
+    "character_desc": "Data Analyst: santo que separa o joio do trigo em gavetas de ouro.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, sorting golden tally-tokens into labeled trays, holding a summary-scroll with small charts, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r042",
+    "sheet_id": "s026",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Santa Painela Reveladora",
+    "character_desc": "BI Analyst: santa que revela a verdade do reino no painel dourado.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, presenting an ornate dashboard panel of golden dials and bar-charts, a pointer-rod in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r043",
+    "sheet_id": "s026",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "São Modelo Refinador",
+    "character_desc": "Analytics Engineer: santo que lapida os dados brutos em tábuas confiáveis.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, carving raw data-stones into polished golden fact-tablets, a transform-chisel in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r044",
+    "sheet_id": "s026",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Santa Gráfica Iluminadora",
+    "character_desc": "Data Viz Specialist: santa que ilumina os números em figuras douradas.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, painting glowing golden charts and pie-diagrams onto a panel with a luminous brush, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r045",
+    "sheet_id": "s026",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "São Ergônio Construtor",
+    "character_desc": "DevOps Engineer: santo do ciclo infinito que ergue e libera o templo sem cessar.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding a golden infinity-loop emblem and a deploy-wrench, small server-shrines at his feet, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r046",
+    "sheet_id": "s026",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "São Firme Vigilante",
+    "character_desc": "Site Reliability Engineer: santo sentinela que zela pela chama sempre acesa do serviço.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, guarding an ever-burning golden flame, holding an uptime-gauge shield and a pager-bell, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r047",
+    "sheet_id": "s026",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "São Plataforma Sustentador",
+    "character_desc": "Platform Engineer: santo que oferece o tablado dourado onde os outros edificam.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, presenting a broad golden platform-dais holding tiny building tools for others, foundation-grid halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r048",
+    "sheet_id": "s026",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "São Nuvião Celeste",
+    "character_desc": "Cloud Architect: santo elevado entre nuvens douradas, arquiteto do reino etéreo.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, seated amid stylized golden clouds, holding a floating cloud-temple model and a compass, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r049",
+    "sheet_id": "s026",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "São Timão do Leme",
+    "character_desc": "Kubernetes Admin: santo timoneiro que governa o navio dos contêineres.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, gripping a golden ship's helm-wheel, small stacked containers orbiting in formation, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r050",
+    "sheet_id": "s026",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Santa Rede Tecedora",
+    "character_desc": "Network Engineer: santa que tece a malha luminosa que liga todas as capelas.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, weaving a lattice of glowing golden network-lines between nodes, a connector-spool in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r051",
+    "sheet_id": "s026",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "São Sistêmio Zelador",
+    "character_desc": "Systems Administrator: santo zelador das máquinas, chaveiro dos terminais.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding a ring of admin keys and a terminal-tablet, a maintenance-wrench tucked in the sash, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r052",
+    "sheet_id": "s026",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "São Lançamento Portador",
+    "character_desc": "Release Engineer: santo que carrega a arca do novo lançamento ao altar.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, carrying a sealed golden release-ark tagged with a version-star, a launch-banner furled, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r053",
+    "sheet_id": "s026",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "São Fôrmio Montador",
+    "character_desc": "Build Engineer: santo que funde as peças no molde dourado do artefato.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, pouring molten gold into an artifact-mold, holding assembled component-blocks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r054",
+    "sheet_id": "s026",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "São Contínuo Encadeador",
+    "character_desc": "CI/CD Engineer: santo da esteira perpétua que testa e entrega em cadeia.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, operating a golden conveyor-belt of check-marked stages, a pipeline-lever in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r055",
+    "sheet_id": "s026",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "São Guardião do Escudo",
+    "character_desc": "Security Engineer: santo armado do escudo dourado contra as ameaças.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, raising a large golden shield emblazoned with a lock, a warding sword at rest, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r056",
+    "sheet_id": "s026",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "São Sondão Invasor",
+    "character_desc": "Penetration Tester: santo que testa as muralhas buscando a brecha oculta.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, probing a fortress wall with a golden lockpick and a torch, a breach-marked map in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r057",
+    "sheet_id": "s026",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "São Fortíssimo Blindador",
+    "character_desc": "AppSec Engineer: santo que blinda a aplicação com selos de proteção.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, sealing an application-tablet with golden protective sigils, a bug-shield emblem on the chest, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r058",
+    "sheet_id": "s026",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "São Cifrão Ocultador",
+    "character_desc": "Cryptographer: santo que sela os segredos em enigmas de ouro.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding an encrypted cipher-wheel and a sealed key-scroll, glyph-fret halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r059",
+    "sheet_id": "s026",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Santa Norma Observante",
+    "character_desc": "Compliance Officer: santa da balança e do código das leis do reino.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding golden scales of justice and a rule-codex marked with compliance-seals, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r060",
+    "sheet_id": "s026",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Santa Vela Discreta",
+    "character_desc": "Privacy Engineer: santa que vela os rostos, guardiã do véu dourado dos dados.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, drawing a golden veil over a data-tablet, holding a masked-face emblem and a consent-scroll, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r061",
+    "sheet_id": "s026",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "São Pronto Socorrente",
+    "character_desc": "Incident Responder: santo que acode a crise com o sino de alarme e a lanterna.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, ringing a golden alarm-bell and raising a rescue-lantern over a small flaming shrine, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r062",
+    "sheet_id": "s026",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "São Presságio Modelador",
+    "character_desc": "Threat Modeler: santo que mapeia os caminhos do mal antes que ele chegue.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, tracing a golden threat-map of branching attack-paths, a warding compass in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r063",
+    "sheet_id": "s026",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Santa Prova Examinadora",
+    "character_desc": "QA Engineer: santa que examina cada obra à luz da lente do julgamento.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, inspecting an artifact-tablet with a golden magnifier and a check-and-cross verdict-scroll, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r064",
+    "sheet_id": "s026",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "São Autômato Provador",
+    "character_desc": "SDET: santo que envia o pequeno servo dourado a testar sem descanso.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, sending a small golden testing-automaton along a track of check-marks, a script-scroll in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r065",
+    "sheet_id": "s026",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "São Peso Provador",
+    "character_desc": "Performance Tester: santo que mede a resistência sob o fardo dourado da carga.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, loading golden weights onto a stress-gauge scale, a stopwatch-dial in the other hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r066",
+    "sheet_id": "s026",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Santa Mão Provadora",
+    "character_desc": "Manual Tester: santa que percorre cada passo com o dedo atento e a lista de casos.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, tracing a checklist-scroll with a pointing finger, holding a golden verdict-stamp, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r067",
+    "sheet_id": "s026",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Santa Aberta Provadora",
+    "character_desc": "Accessibility Tester: santa que prova que o templo acolhe todos os sentidos.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, testing a ramp-and-braille tablet with a golden ear-and-eye emblem and a checklist-scroll, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r068",
+    "sheet_id": "s026",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "São Escrivão Clareador",
+    "character_desc": "Technical Writer: santo escriba que ilumina o saber em pergaminhos claros.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, writing on an illuminated manuscript-scroll with a golden quill, a stack of bound codices beside, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r069",
+    "sheet_id": "s026",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "São Arauto Amigo",
+    "character_desc": "Developer Advocate: santo que proclama a boa-nova do código nas praças.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, raising a golden herald's trumpet and an open sample-codex, welcoming gesture to a gathered crowd, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r070",
+    "sheet_id": "s026",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Santa Trama Contadora",
+    "character_desc": "Content Strategist: santa que ordena as histórias num fio dourado coeso.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, arranging story-tiles along a golden narrative-thread, holding a content-plan scroll, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r071",
+    "sheet_id": "s026",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "São Poliglota Traslador",
+    "character_desc": "Localization Engineer: santo que verte a palavra em muitas línguas de ouro.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding a globe-orb ringed with translated word-ribbons and a multilingual codex, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r072",
+    "sheet_id": "s026",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Santa Forma Idealizadora",
+    "character_desc": "Product Designer: santa que concebe a forma útil e bela do produto.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, sketching a product-form on a golden drafting-tablet, holding a prototype-object and a stylus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r073",
+    "sheet_id": "s026",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Santa Beleza Compositora",
+    "character_desc": "Visual Designer: santa que compõe a face bela com pincel e proporção.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding a golden palette and brush, arranging composition-frames with a proportion-ruler, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r074",
+    "sheet_id": "s026",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "São Toque Responsivo",
+    "character_desc": "Interaction Designer: santo que dá resposta a cada toque do fiel.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, demonstrating a tap-and-respond golden panel with ripple-arcs, a gesture-flow scroll in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r075",
+    "sheet_id": "s026",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Santa Cinética Fluida",
+    "character_desc": "Motion Designer: santa que faz as figuras dançarem em arcos dourados.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, conducting flowing golden motion-arcs and easing-curves, a timeline-ribbon draped over the arm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r076",
+    "sheet_id": "s026",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Santa Pincela Criadora",
+    "character_desc": "Illustrator: santa que dá vida às figuras com o pincel de ouro.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, painting a small golden illustrated figure on a panel, holding an artist's brush and inkpot, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r077",
+    "sheet_id": "s026",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "São Recurso Fornecedor",
+    "character_desc": "Asset Designer: santo que forja os ícones e sprites do reino visual.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding a tray of small crafted golden icon-tiles and sprite-figures, a carving tool in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r078",
+    "sheet_id": "s026",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Santa Marca Selante",
+    "character_desc": "Brand Designer: santa que imprime o selo dourado da identidade em tudo.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, pressing a golden brand-seal onto a banner, holding a logo-emblem shield and a color-swatch fan, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r079",
+    "sheet_id": "s026",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "São Sônoro Harmônico",
+    "character_desc": "Sound Designer: santo das ondas sonoras douradas e do sino afinado.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding a tuned golden bell and a lyre, radiant sound-wave arcs emanating from the halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r080",
+    "sheet_id": "s026",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "São Volúmio Escultor",
+    "character_desc": "3D Artist: santo que ergue as formas em volume dourado no espaço.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, shaping a floating golden wireframe polyhedron with sculpting hands, a modeling-tool in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r081",
+    "sheet_id": "s026",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "São Lúdico Regrador",
+    "character_desc": "Game Designer: santo que estabelece as regras do jogo sagrado.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding a golden game-board with rule-tokens and dice, a mechanics-scroll unfurled, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r082",
+    "sheet_id": "s026",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "São Cenário Traçador",
+    "character_desc": "Level Designer: santo que desenha os labirintos e câmaras da jornada.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, presenting a golden level-map of chambers and paths, small placed obstacle-tokens in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r083",
+    "sheet_id": "s026",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "São Enredo Tecelão",
+    "character_desc": "Narrative Designer: santo que entrelaça o enredo em ramos dourados de escolha.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, unfolding a branching golden story-tree with dialogue-scrolls, a narrative-quill in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r084",
+    "sheet_id": "s026",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "São Lúdico Artífice",
+    "character_desc": "Game Developer: santo que anima o jogo com o motor dourado da lógica.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding a golden game-controller reliquary and a running game-engine orb, sprite-figures nearby, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r085",
+    "sheet_id": "s026",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "São Lúmen Sombreador",
+    "character_desc": "Graphics/Shader Engineer: santo que pinta a luz e a sombra com o pincel do shader.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, casting golden light-rays and shadow-gradients onto a rendered orb, a shader-brush in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r086",
+    "sheet_id": "s026",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "São Chip Encravado",
+    "character_desc": "Embedded Engineer: santo que insere a alma dourada na pequena placa.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding a tiny golden circuit-board with an embedded chip-reliquary, a fine soldering-stylus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r087",
+    "sheet_id": "s026",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "São Núcleo Inscritor",
+    "character_desc": "Firmware Engineer: santo que grava a lei imutável no coração do dispositivo.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, inscribing golden microcode onto a chip-core with an engraving-stylus, a memory-tablet in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r088",
+    "sheet_id": "s026",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "São Enxame Conectado",
+    "character_desc": "IoT Engineer: santo que congrega os pequenos objetos numa constelação conectada.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, gathering many tiny golden connected devices linked by signal-arcs, a hub-orb in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r089",
+    "sheet_id": "s026",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "São Elo Encadeado",
+    "character_desc": "Blockchain Developer: santo que forja a corrente imutável de blocos dourados.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding a linked chain of golden sealed blocks, a distributed-ledger tablet in the other hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r090",
+    "sheet_id": "s026",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "São Pacto Escrutador",
+    "character_desc": "Smart Contract Auditor: santo que examina o pacto selado em busca da falha.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, inspecting a golden smart-contract scroll with a magnifier, a security-seal stamp in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r091",
+    "sheet_id": "s026",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Santa Miragem Imersora",
+    "character_desc": "AR/VR Engineer: santa que abre o portal dourado entre o real e o virtual.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, wearing a golden visor-halo, opening a shimmering portal between a real and a virtual scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r092",
+    "sheet_id": "s026",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "São Autômato Guiado",
+    "character_desc": "Robotics Engineer: santo que anima o servo mecânico dourado com braço articulado.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, guiding a golden articulated robotic arm, holding a control-pendant and a gear-cluster, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r093",
+    "sheet_id": "s026",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "São Crescente Semeador",
+    "character_desc": "Growth Engineer: santo que semeia e faz florescer a curva dourada do crescimento.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, sowing golden seeds that sprout into a rising growth-curve vine, a funnel-chalice in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r094",
+    "sheet_id": "s026",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Santa Vereda Encontrada",
+    "character_desc": "SEO Specialist: santa que torna o templo achável, guia dos buscadores.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding a golden magnifier over a ranked list and a signpost pointing to a rising-position ladder, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r095",
+    "sheet_id": "s026",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "São Mercúrio Automatizador",
+    "character_desc": "Marketing Technologist: santo que orquestra as campanhas em engrenagens douradas.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, operating a golden campaign-automation console with linked gears and a funnel-and-arrow emblem, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r096",
+    "sheet_id": "s026",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "São Elo Solucionador",
+    "character_desc": "Solutions Engineer: santo que ajusta a peça dourada à necessidade do fiel.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, fitting a golden puzzle-piece into a client-need frame, holding a demo-tablet and a wrench, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r097",
+    "sheet_id": "s026",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Santa Ajuda Socorrente",
+    "character_desc": "Support Engineer: santa que atende o clamor e resolve com o bilhete dourado.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding a golden support-headset halo and a resolved-ticket scroll, a helping lantern raised, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r098",
+    "sheet_id": "s026",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "São Convencido Demonstrador",
+    "character_desc": "Sales Engineer: santo que demonstra a maravilha técnica ao peregrino comprador.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, presenting a glowing golden demo-orb and a value-scroll, a handshake-emblem on the chest, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r099",
+    "sheet_id": "s026",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Santa Moeda Zeladora",
+    "character_desc": "FinOps Analyst: santa que zela pelos gastos do reino na nuvem, balança de moedas.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, weighing golden cloud-coins on a cost-scale, holding a budget-ledger with descending-cost chart, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s026-r100",
+    "sheet_id": "s026",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "São Foro Ponderador",
+    "character_desc": "Legal Counsel: santo do foro que pesa a lei com a balança e o códice.",
+    "nano_prompt": "Byzantine gold-leaf religious icon of a haloed saint, half-length bust portrait facing forward, elongated stylized face with large solemn almond eyes, egg-tempera painting on wood panel, flat gilded halo of hammered gold leaf, deep-toned robes with fine gold-leaf striations, reverent hieratic pose, cracked-gesso texture, holding golden scales of justice and a bound law-codex, a gavel resting on a sealed contract, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

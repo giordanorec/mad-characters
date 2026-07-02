@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s015-r001",
+    "sheet_id": "s015",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Sir Aldric, o Construtor",
+    "character_desc": "Cavaleiro mestre-de-obras da catedral: segura a planta enrolada e o compasso, apoiando a mão sobre uma maquete de castelo — o Arquiteto de Solução que desenha o reino inteiro.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a master-builder knight holding an unrolled cathedral blueprint scroll and a brass architect compass, resting one gauntlet on a small castle model, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r002",
+    "sheet_id": "s015",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Sir Roderic, o Capitão",
+    "character_desc": "Cavaleiro capitão que lidera a linha: espada erguida apontando adiante e estandarte da tropa nas costas — o Tech Lead que guia a vanguarda técnica.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a captain knight with a sword raised and pointed forward, a rallying troop banner behind his shoulder, confident commanding expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r003",
+    "sheet_id": "s015",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Sir Baldwin, o Veterano",
+    "character_desc": "Cavaleiro veterano de armadura desgastada, coberto de medalhas de campanha e apoiado numa lança-cajado — o Staff Engineer de vasta experiência.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a battle-worn veteran knight in weathered plate armor covered in campaign medals, leaning on a tall staff-lance, seasoned steady gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r004",
+    "sheet_id": "s015",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Sir Percival, o Principal",
+    "character_desc": "Cavaleiro-comandante supremo de elmo coroado e grandes espaldares dourados — o Principal Engineer de autoridade máxima.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a supreme knight-commander wearing a crowned helm and grand gilded pauldrons, regal authoritative posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r005",
+    "sheet_id": "s015",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Dame Elowen, a Comandante",
+    "character_desc": "Cavaleira comandante que pastoreia a tropa: segura um escudo-roster com nomes e faz gesto de orientação — a Engineering Manager.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a steward knight-commander holding a roster shield and making a guiding mentoring gesture, warm attentive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r006",
+    "sheet_id": "s015",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Sir Gareth, o Cartógrafo",
+    "character_desc": "Cavaleiro planejador com mapa do reino desenrolado e bússola, marcando rotas — o Product Manager.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a planner knight holding an unrolled map of the realm and a compass, plotting a route with focused eyes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r007",
+    "sheet_id": "s015",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Sir Owain, o Guardião do Tesouro",
+    "character_desc": "Cavaleiro que guarda o decreto real e o baú do backlog: pergaminho lacrado numa mão, chave do tesouro na outra — o Product Owner.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight guarding the crown's decree scroll in one hand and a small treasure chest under the other arm, a key at his belt, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r008",
+    "sheet_id": "s015",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Dame Isolde, a Marechal",
+    "character_desc": "Cavaleira marechal que coordena vários estandartes cruzados atrás de si, batuta de marechal em punho — a Program Manager.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a marshal knight with several crossed banners arrayed behind her, holding a marshal's baton, coordinating stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r009",
+    "sheet_id": "s015",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Sir Cedric, o Cronista",
+    "character_desc": "Cavaleiro do tempo: ampulheta numa mão e pergaminho-cronograma na outra — o Project Manager que rege prazos.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight holding an hourglass in one hand and an unrolled timeline scroll in the other, measured watchful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r010",
+    "sheet_id": "s015",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Sir Tristan, da Távola",
+    "character_desc": "Cavaleiro da távola redonda com ficha da távola e pequeno sino de facilitação — o Scrum Master que mantém o ritmo.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a round-table knight holding a small round-table token and a facilitation bell, calm mediating posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r011",
+    "sheet_id": "s015",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Sir Godfrey, o Forjador",
+    "character_desc": "Cavaleiro-ferreiro de avental sobre a armadura, martelo erguido e engrenagens ao lado da bigorna — o Backend Developer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a blacksmith knight wearing a forge apron over armor, raising a hammer beside an anvil with glowing gears, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r012",
+    "sheet_id": "s015",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Sir Lyle, o Guardião dos Portões",
+    "character_desc": "Cavaleiro guarda-portões com molho de chaves e um pequeno diagrama de portculis — o API Designer que define as entradas.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a gatekeeper knight holding a ring of gate keys and a small portcullis diagram, standing before an ornate gateway, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r013",
+    "sheet_id": "s015",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Sir Cade, o Fragmentado",
+    "character_desc": "Cavaleiro coberto por muitos pequenos escudos independentes que se encaixam — o Microservices Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight adorned with many small interlocking independent shields across his armor, modular composed look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r014",
+    "sheet_id": "s015",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Sir Rowan, o Canalizador",
+    "character_desc": "Cavaleiro que orienta canos de aqueduto de onde flui água luminosa — o Pipeline Developer que move o fluxo.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight channeling luminous water through segmented aqueduct pipes running across his arms, directing the flow, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r015",
+    "sheet_id": "s015",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Sir Emrys, o Moleiro",
+    "character_desc": "Cavaleiro-moleiro carregando barris de grãos e uma pequena roda de moinho — o Data Engineer que transporta a matéria bruta.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a miller knight carrying grain casks with a small millwheel emblem, moving raw stores of provisions, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r016",
+    "sheet_id": "s015",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Dame Morwenna, a Guardiã do Cofre",
+    "character_desc": "Cavaleira guardiã de um grande tomo-livro-razão e a chave do cofre — a Database Administrator.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a vault-keeper knight cradling a great ledger tome and holding a heavy vault key, protective stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r017",
+    "sheet_id": "s015",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Sir Alaric, o Consultador",
+    "character_desc": "Cavaleiro com pena-consulta e pergaminhos de índice organizados — o SQL Specialist que interroga os arquivos.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight holding a query quill and neatly tabbed index scrolls, precise scholarly expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r018",
+    "sheet_id": "s015",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Sir Fenwick, o Provedor",
+    "character_desc": "Cavaleiro com bolsa de provisões prontas e cantil de saque rápido — o Caching Engineer que entrega na hora.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight with a satchel of ready provisions and a quick-draw flask at hand, swift ready posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r019",
+    "sheet_id": "s015",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Sir Bran, o Mensageiro",
+    "character_desc": "Cavaleiro-mensageiro com fileira de tubos de mensagem lacrados e um pombo-correio no ombro — o Message Queue Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a courier knight with a row of sealed message tubes across his chest and a carrier pigeon on his shoulder, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r020",
+    "sheet_id": "s015",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Sir Hale, o Rastreador",
+    "character_desc": "Cavaleiro rastreador com lanterna e lente de aumento, seguindo pistas — o Search Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a tracker knight holding a lantern and a magnifying lens, searching with keen focused eyes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r021",
+    "sheet_id": "s015",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Dame Seraphine, a Estandarte",
+    "character_desc": "Cavaleira pintora de estandartes com pincel e escudo heráldico recém-pintado — a Frontend Developer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a banner-painter knight holding a brush and a freshly painted heraldic shield, artistic decorative flair, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r022",
+    "sheet_id": "s015",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Sir Colm, o Escudeiro-Ornador",
+    "character_desc": "Cavaleiro que monta a fachada ornamentada do escudo peça por peça — o UI Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight assembling an ornate shield facade from decorative tiles, careful crafting hands, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r023",
+    "sheet_id": "s015",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Dame Rosalind, a Guia",
+    "character_desc": "Cavaleira que guia um viajante com mapa e trilha marcada, gesto acolhedor — a UX Designer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight guiding a traveler with a marked path map, empathetic welcoming gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r024",
+    "sheet_id": "s015",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Sir Emmet, o Padronizador",
+    "character_desc": "Cavaleiro com kit de armadura modular e manoplas idênticas combinando — o Design Systems Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight displaying a modular armor kit with matching identical gauntlets laid out, systematic tidy look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r025",
+    "sheet_id": "s015",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Dame Beatrix, a Acolhedora",
+    "character_desc": "Cavaleira que ergue uma pequena rampa-ponte e traz runas em relevo para todos alcançarem — a Accessibility Specialist.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight holding a small ramp-bridge and a tablet of raised tactile runes, inclusive caring expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r026",
+    "sheet_id": "s015",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Sir Pace, o Veloz",
+    "character_desc": "Cavaleiro de armadura leve com botas aladas e traço de velocidade — o Web Performance Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a light-armored swift knight with small winged boots and motion speed lines, agile lean posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r027",
+    "sheet_id": "s015",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Dame Vesta, a Alfaiate",
+    "character_desc": "Cavaleira-alfaiate com capa ornada de acabamentos precisos e agulha dourada — a CSS Specialist.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a tailor knight wearing an ornate cape with precise trims, holding a golden needle, styling touch, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r028",
+    "sheet_id": "s015",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Sir Lior, o Dançarino",
+    "character_desc": "Cavaleiro com manto de rastros de movimento em pose dançante — o Animation Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight wearing a motion-trail cloak captured mid graceful dancing pose, dynamic flowing lines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r029",
+    "sheet_id": "s015",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Sir Nomad, o Andarilho",
+    "character_desc": "Cavaleiro andarilho com tenda-pavilhão dobrável e mochila de viagem — o Mobile Developer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a wandering knight with a folding portable pavilion tent and a travel pack, ready to roam, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r030",
+    "sheet_id": "s015",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Sir Cupertino, o Polido",
+    "character_desc": "Cavaleiro de armadura prateada impecável e escudo com emblema de maçã — o iOS Developer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight in flawless polished silver armor bearing an apple-emblem shield, refined minimalist elegance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r031",
+    "sheet_id": "s015",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Sir Verdan, o Autômato",
+    "character_desc": "Cavaleiro de esmalte verde com pequeno autômato de engrenagens ao lado — o Android Developer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a green-enameled knight with a small gearwork automaton companion at his side, tinkerer look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r032",
+    "sheet_id": "s015",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Sir Duon, o Ponte",
+    "character_desc": "Cavaleiro que ergue um escudo duplo dois-em-um, unindo dois brasões — o React Native Developer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight raising a dual two-in-one shield joining two crests, bridging cross-platform stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r033",
+    "sheet_id": "s015",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Dame Avis, a Alada",
+    "character_desc": "Cavaleira com asas emplumadas e uma única lâmina-pincel unificada — a Flutter Developer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a winged knight with feathered wings holding a single unified brush-blade, graceful swift look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r034",
+    "sheet_id": "s015",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Dame Celeste, a Alquimista",
+    "character_desc": "Cavaleira-alquimista com frascos borbulhantes e carta estelar, experimentando — a Data Scientist.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; an alchemist knight holding bubbling vials and a star chart, experimenting with curious eyes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r035",
+    "sheet_id": "s015",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Sir Talon, o Adestrador",
+    "character_desc": "Cavaleiro que adestra um falcão mecânico pousado em sua manopla — o ML Engineer que treina o modelo.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight training a mechanical falcon perched on his gauntlet, focused handler stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r036",
+    "sheet_id": "s015",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Sir Warden, o Falcoeiro",
+    "character_desc": "Cavaleiro guardião do falcoário, cuidando dos falcões mecânicos em serviço — o MLOps Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a keeper knight tending a mews of mechanical falcons, maintenance tools at his belt, watchful upkeep, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r037",
+    "sheet_id": "s015",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Dame Oriel, a Vidente",
+    "character_desc": "Cavaleira-erudita com astrolábio e tomo proibido, buscando o desconhecido — a AI Researcher.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a scholar knight holding an astrolabe and a forbidden tome, gazing toward the unknown, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r038",
+    "sheet_id": "s015",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Sir Verion, o Encantador",
+    "character_desc": "Cavaleiro-bardo que sussurra a um pergaminho encantado, varinha de runas em punho — o Prompt Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a bard knight whispering to an enchanted glowing scroll, holding a rune-wand, spellcasting focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r039",
+    "sheet_id": "s015",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Dame Lingua, a Intérprete",
+    "character_desc": "Cavaleira-linguista com pergaminho de muitas línguas traduzidas lado a lado — a NLP Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a linguist knight holding a multi-tongued translation scroll with parallel scripts, interpreting look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r040",
+    "sheet_id": "s015",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Sir Argus, o Vigia",
+    "character_desc": "Cavaleiro com viseira de olho que tudo vê e luneta — o Computer Vision Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight wearing an all-seeing eye visor and holding a spyglass, sharp observant gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r041",
+    "sheet_id": "s015",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Sir Tolan, o Contador",
+    "character_desc": "Cavaleiro com ábaco e tábua de marcações, contando — o Data Analyst.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight holding an abacus and a tally board, counting with a methodical expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r042",
+    "sheet_id": "s015",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Dame Vista, a Reveladora",
+    "character_desc": "Cavaleira que desenrola uma tapeçaria-gráfico iluminada com tendências — a BI Analyst.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight unfurling an illuminated chart tapestry showing glowing trends, revealing insight, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r043",
+    "sheet_id": "s015",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Sir Refyn, o Refinador",
+    "character_desc": "Cavaleiro que transforma minério bruto em lingotes marcados e organizados — o Analytics Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight refining raw ore into neatly stamped charted ingots, precise transforming hands, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r044",
+    "sheet_id": "s015",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Dame Iris, a Pintora de Gráficos",
+    "character_desc": "Cavaleira que pinta gráficos luminosos de barras e linhas num escudo — a Data Viz Specialist.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight painting glowing bar and line charts onto a shield with a fine brush, vivid dataviz, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r045",
+    "sheet_id": "s015",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Sir Bram, o Mecânico",
+    "character_desc": "Cavaleiro-engenheiro com correntes da ponte levadiça e chaves de mecanismo — o DevOps Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; an engineer knight holding drawbridge chains and mechanism keys, hands-on operating stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r046",
+    "sheet_id": "s015",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Sir Vigil, o Sentinela",
+    "character_desc": "Cavaleiro sentinela da torre de vigia com trompa de sinal e kit de reparo — o Site Reliability Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a watchtower sentinel knight with a signal horn and a repair kit, ever-vigilant alert posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r047",
+    "sheet_id": "s015",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Sir Mason, o Alicerce",
+    "character_desc": "Cavaleiro mestre-pedreiro assentando grandes pedras de fundação — o Platform Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a master-mason knight laying great foundation stones, sturdy dependable stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r048",
+    "sheet_id": "s015",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Dame Nimbus, a Etérea",
+    "character_desc": "Cavaleira que sustenta uma maquete de castelo nas nuvens — a Cloud Architect.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight holding a sky-castle model floating on glass clouds, airy ethereal presence, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r049",
+    "sheet_id": "s015",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Sir Helm, o Timoneiro",
+    "character_desc": "Cavaleiro-timoneiro que governa uma galé de muitos remos-contêineres — o Kubernetes Admin.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a helmsman knight steering a many-oared galley of stacked container crates, orchestrating grip, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r050",
+    "sheet_id": "s015",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Sir Web, o Tecelão de Estradas",
+    "character_desc": "Cavaleiro que tece uma rede de cordas-de-sinal e estradas conectadas — o Network Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight weaving a web of signal ropes and connecting roads across his shield, networking hands, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r051",
+    "sheet_id": "s015",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Sir Castell, o Castelão",
+    "character_desc": "Cavaleiro-castelão com grande argola de chaves do castelo — o Systems Administrator.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a castellan knight bearing a great ring of castle keys, dutiful keeper stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r052",
+    "sheet_id": "s015",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Sir Launce, o Lançador",
+    "character_desc": "Cavaleiro que ergue a portcullis numa cerimônia de lançamento com estandarte — o Release Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight raising the portcullis in a launch ceremony holding a ceremonial banner, triumphant, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r053",
+    "sheet_id": "s015",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Sir Tibbot, o Carpinteiro",
+    "character_desc": "Cavaleiro-carpinteiro montando um andaime com malho — o Build Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a carpenter knight assembling a wooden scaffold with a mallet, constructing hands, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r054",
+    "sheet_id": "s015",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Sir Rondel, o Contínuo",
+    "character_desc": "Cavaleiro da roda-d'água sempre girando, com esteira de baldes contínua — o CI/CD Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight beside an ever-turning waterwheel with a continuous chain of buckets, perpetual motion, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r055",
+    "sheet_id": "s015",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Sir Warick, o Guardião",
+    "character_desc": "Cavaleiro fortemente blindado guardando o portão com grande cadeado — o Security Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a heavily armored guardian knight defending a gate with a great padlock, unbreakable stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r056",
+    "sheet_id": "s015",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Sir Ravin, o Infiltrador",
+    "character_desc": "Cavaleiro furtivo escalando a muralha com gancho de escalada — o Penetration Tester.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a stealthy knight scaling a wall with a grappling hook, sneaking infiltrating pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r057",
+    "sheet_id": "s015",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Dame Aegis, a Inspetora",
+    "character_desc": "Cavaleira que inspeciona a armadura em busca de rachaduras com uma lupa — a AppSec Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight inspecting armor plating for cracks with a jeweler's loupe, scrutinizing look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r058",
+    "sheet_id": "s015",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Sir Enigmus, o Cifrador",
+    "character_desc": "Cavaleiro com roda de cifra e pergaminho-enigma lacrado — o Cryptographer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight holding a cipher wheel and a sealed enigma scroll, secretive coded expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r059",
+    "sheet_id": "s015",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Dame Justicia, a Magistrada",
+    "character_desc": "Cavaleira-magistrada com códice de leis e selo de cera — a Compliance Officer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a magistrate knight holding a law codex and a wax seal, upright judicial stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r060",
+    "sheet_id": "s015",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Dame Umbra, a Velada",
+    "character_desc": "Cavaleira de manto velado protegendo um cofre trancado de segredos — a Privacy Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a veiled-cloaked knight shielding a locked casket of secrets, discreet protective posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r061",
+    "sheet_id": "s015",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Sir Blaze, o Debelador",
+    "character_desc": "Cavaleiro-brigadista com balde de água e sino de alarme, em urgência — o Incident Responder.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a firefighter knight with a water bucket and an alarm bell, urgent responding stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r062",
+    "sheet_id": "s015",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Dame Strata, a Estrategista",
+    "character_desc": "Cavaleira estrategista sobre uma mesa de guerra com peças, planejando defesas — a Threat Modeler.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a strategist knight over a war table with figurines, planning defenses with sharp foresight, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r063",
+    "sheet_id": "s015",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Sir Proban, o Provador",
+    "character_desc": "Cavaleiro inspetor com pergaminho de checklist e lança de teste — o QA Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; an inspector knight holding a checklist scroll and a testing lance, scrutinizing quality, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r064",
+    "sheet_id": "s015",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Sir Cogwin, o Automatizador",
+    "character_desc": "Cavaleiro com boneco de treino mecânico que espada sozinho — o SDET de automação.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight beside a mechanical automated sparring dummy that fences on its own, automation gears, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r065",
+    "sheet_id": "s015",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Sir Atlas, o Testador de Carga",
+    "character_desc": "Cavaleiro que testa uma ponte empilhando grandes pesos — o Performance Tester.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight stress-testing a bridge by stacking heavy weights, straining load-test posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r066",
+    "sheet_id": "s015",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Dame Vera, a Provadora Manual",
+    "character_desc": "Cavaleira que golpeia metodicamente um boneco de treino à mão — a Manual Tester.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight methodically striking a training dummy by hand, careful manual checking, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r067",
+    "sheet_id": "s015",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Sir Amble, o Testador de Acessos",
+    "character_desc": "Cavaleiro que testa rampas e corrimãos-guia para todos — o Accessibility Tester.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight testing ramps and guiding handrails for all travelers, verifying access, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r068",
+    "sheet_id": "s015",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Dame Quilla, a Escriba",
+    "character_desc": "Cavaleira-escriba com pena e manuscrito iluminado — a Technical Writer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a scribe knight holding a quill and an illuminated manuscript, careful documenting hands, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r069",
+    "sheet_id": "s015",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Sir Herald, o Arauto",
+    "character_desc": "Cavaleiro-arauto com trombeta proclamando ao povo — o Developer Advocate.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a herald knight blowing a trumpet to proclaim to a crowd, outgoing announcing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r070",
+    "sheet_id": "s015",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Dame Saga, a Loremestre",
+    "character_desc": "Cavaleira loremestre planejando a saga com um mapa de história ramificado — a Content Strategist.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a loremaster knight planning a saga with a branching story map, strategic narrative look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r071",
+    "sheet_id": "s015",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Sir Adair, o Poliglota",
+    "character_desc": "Cavaleiro cercado por muitos estandartes regionais que adapta — o Localization Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight surrounded by many regional flags and banners he adapts, multicultural stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r072",
+    "sheet_id": "s015",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Dame Fabra, a Artesã",
+    "character_desc": "Cavaleira-artesã esculpindo um protótipo de escudo — a Product Designer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; an artisan knight sculpting a shield prototype, hands-on crafting focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r073",
+    "sheet_id": "s015",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Sir Corvin, o Pintor",
+    "character_desc": "Cavaleiro-pintor com paleta e pincel dourado — o Visual Designer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a painter knight holding a palette and a gilded brush, artistic composing eye, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r074",
+    "sheet_id": "s015",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Dame Nexa, a Interagente",
+    "character_desc": "Cavaleira que coreografa um mecanismo de alavancas e botões — a Interaction Designer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight orchestrating a mechanism of levers and buttons, choreographing interaction, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r075",
+    "sheet_id": "s015",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Sir Ondin, o Fluido",
+    "character_desc": "Cavaleiro com estandarte-fita fluindo em movimento — o Motion Designer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight with a flowing ribbon-standard captured in motion, fluid dynamic curves, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r076",
+    "sheet_id": "s015",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Dame Inka, a Ilustradora",
+    "character_desc": "Cavaleira que esboça um dragão em pergaminho — a Illustrator.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight sketching a dragon onto parchment with an inking pen, illustrative flourish, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r077",
+    "sheet_id": "s015",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Sir Wrenn, o Armeiro",
+    "character_desc": "Cavaleiro-armeiro forjando escudos, espadas e adereços num suporte — o Asset Designer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; an armorer knight crafting shields, swords and props displayed on a rack, asset-maker hands, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r078",
+    "sheet_id": "s015",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Dame Sigil, a Brasonista",
+    "character_desc": "Cavaleira que porta o grande brasão-sigilo da casa — a Brand Designer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight bearing the grand house sigil banner, cohesive identity presence, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r079",
+    "sheet_id": "s015",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Sir Lyndon, o Sineiro",
+    "character_desc": "Cavaleiro-bardo com alaúde e conjunto de sinos afinados — o Sound Designer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a bard knight with a lute and a set of tuned bells, listening musical pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r080",
+    "sheet_id": "s015",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Dame Vola, a Escultora",
+    "character_desc": "Cavaleira-escultora com cinzel esculpindo uma estátua em volume — a 3D Artist.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a sculptor knight carving a statue in the round with a chisel, dimensional shaping hands, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r081",
+    "sheet_id": "s015",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Sir Ludwin, o Mestre do Jogo",
+    "character_desc": "Cavaleiro com tabuleiro de peças e dados, mestre das regras — o Game Designer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight with a board of game pieces and dice, rulemaster planning look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r082",
+    "sheet_id": "s015",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Dame Daedra, a Labirintista",
+    "character_desc": "Cavaleira-arquiteta com maquete de labirinto e mapa de masmorra — a Level Designer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; an architect knight holding a labyrinth model and a dungeon map, level-crafting focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r083",
+    "sheet_id": "s015",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Dame Fabel, a Contadora",
+    "character_desc": "Cavaleira-contadora com pergaminho de árvore-de-história ramificada — a Narrative Designer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a storyteller knight holding a branching story-tree scroll, narrative weaving expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r084",
+    "sheet_id": "s015",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Sir Quinn, o Criador de Jogos",
+    "character_desc": "Cavaleiro com cetro-joystick encantado e orbe de jogo — o Game Developer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight wielding an enchanted joystick-scepter and a glowing game orb, playful builder, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r085",
+    "sheet_id": "s015",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Sir Lumen, o Prismático",
+    "character_desc": "Cavaleiro que empunha um prisma lançando luz arco-íris — o Graphics/Shader Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight wielding a prism casting rainbow light across the glass, radiant shading effect, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r086",
+    "sheet_id": "s015",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Sir Cogsley, o Relojoeiro",
+    "character_desc": "Cavaleiro-relojoeiro com minúsculo dispositivo de engrenagens na palma — o Embedded Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a clockmaker knight holding a tiny clockwork device in his palm, delicate embedded tinkering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r087",
+    "sheet_id": "s015",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Dame Runa, a Gravadora",
+    "character_desc": "Cavaleira que grava runas numa pequena pedra-chip encantada — a Firmware Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight etching runes onto a small enchanted chip-stone, precise engraving focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r088",
+    "sheet_id": "s015",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Sir Nodd, o Conectado",
+    "character_desc": "Cavaleiro cercado por rede de pequenas lanternas-dispositivo que sinalizam — o IoT Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight surrounded by a network of tiny signaling lantern-devices, connected sensing stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r089",
+    "sheet_id": "s015",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Sir Linwald, o Encadeador",
+    "character_desc": "Cavaleiro que segura uma corrente de blocos-selo interligados — o Blockchain Developer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight holding a chain of interlinked sealed blocks, immutable ledger grip, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r090",
+    "sheet_id": "s015",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Dame Pacta, a Auditora",
+    "character_desc": "Cavaleira que examina uma corrente-pacto lacrada com lupa — a Smart Contract Auditor.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight examining a sealed pact-chain with a loupe, auditing scrutiny, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r091",
+    "sheet_id": "s015",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Sir Orin, o Visionário",
+    "character_desc": "Cavaleiro com viseira encantada mostrando visões sobrepostas — o AR/VR Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight wearing an enchanted visor showing overlaid ghostly visions, immersive gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r092",
+    "sheet_id": "s015",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Sir Gearon, o Mestre dos Autômatos",
+    "character_desc": "Cavaleiro ao lado de um escudeiro-autômato mecânico — o Robotics Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight standing beside a mechanical squire-automaton, robotics master stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r093",
+    "sheet_id": "s015",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Dame Flora, a Cultivadora",
+    "character_desc": "Cavaleira que cuida de uma árvore-videira encantada em florescimento — a Growth Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight tending a flourishing enchanted vine-tree in bloom, nurturing growth gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r094",
+    "sheet_id": "s015",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Sir Marek, o Sinalizador",
+    "character_desc": "Cavaleiro com placas e marcos de estrada guiando viajantes ao castelo — o SEO Specialist.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a knight holding signposts and road markers guiding travelers toward the castle, wayfinding, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r095",
+    "sheet_id": "s015",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Sir Klarion, o Pregoeiro",
+    "character_desc": "Cavaleiro-arauto com megafone mecânico e funil de anúncios — o Marketing Technologist.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a herald knight with a mechanical megaphone and an announcement funnel, broadcasting reach, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r096",
+    "sheet_id": "s015",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Sir Aldon, o Solucionador",
+    "character_desc": "Cavaleiro-diplomata com kit de ferramentas resolvendo no portão — o Solutions Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a diplomat knight with a toolkit solving a problem at the gate, resourceful helpful stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r097",
+    "sheet_id": "s015",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Dame Amara, a Socorrista",
+    "character_desc": "Cavaleira-curandeira com lanterna auxiliando um viajante ferido — a Support Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a healer knight with a lantern aiding a weary traveler, compassionate supportive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r098",
+    "sheet_id": "s015",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Sir Rennick, o Emissário",
+    "character_desc": "Cavaleiro-mercador emissário apresentando mostruários de escudos — o Sales Engineer.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a merchant-envoy knight presenting sample shields and wares, persuasive presenting gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r099",
+    "sheet_id": "s015",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Dame Fenn, a Tesoureira",
+    "character_desc": "Cavaleira-tesoureira pesando moedas de ouro numa balança — a FinOps Analyst.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; a treasurer knight weighing gold coins on a balance scale, careful accounting focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s015-r100",
+    "sheet_id": "s015",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Sir Justin, o Advogado",
+    "character_desc": "Cavaleiro-advogado com pergaminho de leis, maça-martelo e balança da justiça — o Legal Counsel.",
+    "nano_prompt": "Stained glass cathedral window panel illustration, thick black leadlines separating luminous jewel-toned glass segments, backlit divine cathedral glow, a gothic medieval knight rendered as a bust portrait from the chest up, ornate heraldic detailing and radiant halo of glass; an advocate knight holding a law scroll, a gavel-mace and the scales of justice, upright judgment, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s078-r001",
+    "sheet_id": "s078",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Abacaxi Mestre",
+    "character_desc": "Um abacaxi com coroa imperial que planeja o todo: segura uma planta baixa holográfica e um compasso de arquiteto.",
+    "nano_prompt": "Vaporwave neon anthropomorphic pineapple character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a glowing holographic blueprint scroll and an architect's drafting compass, a tall spiky crown, confident visionary gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r002",
+    "sheet_id": "s078",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Mango Regente",
+    "character_desc": "Uma manga que rege o time: empunha uma batuta neon apontando um quadro de tarefas flutuante.",
+    "nano_prompt": "Vaporwave neon anthropomorphic mango character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a glowing conductor's baton pointing at a floating task board, focused guiding smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r003",
+    "sheet_id": "s078",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Papaia Veterana",
+    "character_desc": "Uma mamão sábia que resolve o difícil: carrega uma chave-inglesa gigante luminosa e um mapa de estratégia.",
+    "nano_prompt": "Vaporwave neon anthropomorphic papaya character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding an oversized glowing wrench and a rolled strategy map, calm wise expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r004",
+    "sheet_id": "s078",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Coco Principal",
+    "character_desc": "Um coco de casca dura com monóculo: guarda uma chave-mestra dourada e um diagrama de arquitetura.",
+    "nano_prompt": "Vaporwave neon anthropomorphic coconut character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a golden master key and an architecture diagram, wearing a monocle, authoritative steady look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r005",
+    "sheet_id": "s078",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Goiaba Gestora",
+    "character_desc": "Uma goiaba acolhedora com headset: segura uma prancheta com a lista do time.",
+    "nano_prompt": "Vaporwave neon anthropomorphic guava character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a clipboard with a team roster, wearing a headset, warm supportive smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r006",
+    "sheet_id": "s078",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Maracujá Produto",
+    "character_desc": "Um maracujá visionário: exibe um roadmap enrolado coberto de post-its coloridos.",
+    "nano_prompt": "Vaporwave neon anthropomorphic passion fruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding an unrolled product roadmap covered in sticky notes, excited visionary look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r007",
+    "sheet_id": "s078",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Pitaya Dona",
+    "character_desc": "Uma pitaya que prioriza valor: segura uma pilha ordenada de backlog e um pequeno troféu.",
+    "nano_prompt": "Vaporwave neon anthropomorphic dragon fruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a stacked prioritized backlog and a small value trophy, decisive proud smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r008",
+    "sheet_id": "s078",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Carambola Programa",
+    "character_desc": "Uma carambola de cinco pontas que coordena tudo: equilibra vários gráficos de Gantt.",
+    "nano_prompt": "Vaporwave neon anthropomorphic starfruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, juggling multiple floating Gantt charts and dependency threads, composed multitasking gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r009",
+    "sheet_id": "s078",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Jaca Projeto",
+    "character_desc": "Uma jaca organizada: carrega uma linha do tempo enorme e um cronômetro.",
+    "nano_prompt": "Vaporwave neon anthropomorphic jackfruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a large project timeline and a stopwatch, orderly attentive look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r010",
+    "sheet_id": "s078",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Açaí Facilitador",
+    "character_desc": "Uma açaí que remove impedimentos: segura um quadro de sprint e um pequeno sino facilitador.",
+    "nano_prompt": "Vaporwave neon anthropomorphic acai berry character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a sprint board and a small facilitator bell, whistle around neck, encouraging cheerful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r011",
+    "sheet_id": "s078",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Coco Servidor",
+    "character_desc": "Um coco robusto que roda o backend: abraça um rack de servidor com engrenagens girando.",
+    "nano_prompt": "Vaporwave neon anthropomorphic coconut character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a mini server rack with spinning gears, steady reliable expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r012",
+    "sheet_id": "s078",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Carambola Conector",
+    "character_desc": "Uma carambola que desenha contratos: encaixa plugues de endpoint em um diagrama de API.",
+    "nano_prompt": "Vaporwave neon anthropomorphic starfruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding interlocking endpoint connector plugs and an API diagram, precise tidy look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r013",
+    "sheet_id": "s078",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Cacho Microserviço",
+    "character_desc": "Um cacho de jabuticabas, cada baga um serviço: segura vários contêineres pequenos ligados.",
+    "nano_prompt": "Vaporwave neon anthropomorphic jabuticaba cluster character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a cluster of many small linked service containers, modular busy smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r014",
+    "sheet_id": "s078",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Cana Pipeline",
+    "character_desc": "Uma cana-de-açúcar que canaliza fluxo: segura um cano transparente com gotas de dados correndo.",
+    "nano_prompt": "Vaporwave neon anthropomorphic sugarcane character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a transparent pipe with glowing data droplets flowing, focused flowing gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r015",
+    "sheet_id": "s078",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Melancia Dados",
+    "character_desc": "Uma melancia que move dados em massa: direciona funis para barris de dados.",
+    "nano_prompt": "Vaporwave neon anthropomorphic watermelon character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding funnels channeling data into barrels, industrious look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r016",
+    "sheet_id": "s078",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Jaca DBA",
+    "character_desc": "Uma jaca guardiã do banco: segura um cilindro de banco de dados e um livro-razão.",
+    "nano_prompt": "Vaporwave neon anthropomorphic jackfruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a database cylinder with a key and a ledger book, protective careful gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r017",
+    "sheet_id": "s078",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Limão Query",
+    "character_desc": "Um limão afiado em consultas: segura um pergaminho de query e uma lupa sobre tabelas.",
+    "nano_prompt": "Vaporwave neon anthropomorphic lime character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a query scroll and a magnifier over database tables, sharp analytical squint, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r018",
+    "sheet_id": "s078",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Manga Gelada",
+    "character_desc": "Uma manga congelada e veloz: segura um chip de cache em floco de neve com raios de velocidade.",
+    "nano_prompt": "Vaporwave neon anthropomorphic frozen mango character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a snowflake cache chip with speed lightning bolts, cool swift expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r019",
+    "sheet_id": "s078",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Fila de Bananas",
+    "character_desc": "Uma banana enfileirada que ordena mensagens: opera uma esteira com envelopes em fila.",
+    "nano_prompt": "Vaporwave neon anthropomorphic banana character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, operating a conveyor belt of queued message envelopes, orderly patient look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r020",
+    "sheet_id": "s078",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Maracujá Busca",
+    "character_desc": "Um maracujá que indexa tudo: segura uma lupa gigante sobre fichas de índice.",
+    "nano_prompt": "Vaporwave neon anthropomorphic passion fruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a giant magnifying glass over index cards, searching curious gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r021",
+    "sheet_id": "s078",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Acerola Front",
+    "character_desc": "Uma acerola que constrói a interface: segura uma moldura de janela de browser com pincel e código.",
+    "nano_prompt": "Vaporwave neon anthropomorphic acerola character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a browser window frame with a paintbrush and code snippet, creative bright smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r022",
+    "sheet_id": "s078",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Papaia UI",
+    "character_desc": "Uma mamão que monta a interface: empilha blocos de componentes e botões luminosos.",
+    "nano_prompt": "Vaporwave neon anthropomorphic papaya character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, stacking glowing UI component blocks and buttons, tidy focused look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r023",
+    "sheet_id": "s078",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Goiaba UX",
+    "character_desc": "Uma goiaba empática: segura um mapa de jornada do usuário com um coração de empatia.",
+    "nano_prompt": "Vaporwave neon anthropomorphic guava character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a user journey map and a glowing empathy heart, empathetic warm gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r024",
+    "sheet_id": "s078",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Abacaxi Sistema",
+    "character_desc": "Um abacaxi que padroniza: exibe uma grade de biblioteca de componentes e tokens.",
+    "nano_prompt": "Vaporwave neon anthropomorphic pineapple character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a component library grid and design tokens, systematic neat smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r025",
+    "sheet_id": "s078",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Maracujá Acessível",
+    "character_desc": "Um maracujá que inclui todos: segura um verificador de contraste e um ícone de leitor de tela.",
+    "nano_prompt": "Vaporwave neon anthropomorphic passion fruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a contrast checker card and a screen-reader icon, caring attentive look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r026",
+    "sheet_id": "s078",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Manga Veloz",
+    "character_desc": "Uma manga com linhas de velocidade: segura um velocímetro e um farol de performance.",
+    "nano_prompt": "Vaporwave neon anthropomorphic mango character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a speedometer and a lighthouse performance meter, motion speed lines, swift determined gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r027",
+    "sheet_id": "s078",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Pitaya Estilo",
+    "character_desc": "Uma pitaya colorida que domina estilo: segura uma paleta de tinta e um cubo box-model com régua.",
+    "nano_prompt": "Vaporwave neon anthropomorphic dragon fruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a paint palette and a box-model cube with a ruler, artistic precise smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r028",
+    "sheet_id": "s078",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Nêspera Animada",
+    "character_desc": "Uma nêspera saltitante: segura uma curva de motion-path com quadros-chave.",
+    "nano_prompt": "Vaporwave neon anthropomorphic loquat character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a motion-path easing curve with keyframe dots, playful bouncy expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r029",
+    "sheet_id": "s078",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Coco Móvel",
+    "character_desc": "Um coco portátil: segura um smartphone brilhante com um app aberto.",
+    "nano_prompt": "Vaporwave neon anthropomorphic coconut character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a glowing smartphone with an open app, on-the-go smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r030",
+    "sheet_id": "s078",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Goiaba iOS",
+    "character_desc": "Uma goiaba polida e sleek: segura um iPhone elegante com cantos arredondados.",
+    "nano_prompt": "Vaporwave neon anthropomorphic guava character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a sleek rounded smartphone, minimalist polished style, refined calm look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r031",
+    "sheet_id": "s078",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Manga Verde Droid",
+    "character_desc": "Uma manga verde estilo androide: segura um robozinho droid e um telefone.",
+    "nano_prompt": "Vaporwave neon anthropomorphic green mango character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a little green droid robot and a phone, friendly techy grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r032",
+    "sheet_id": "s078",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Fruta Ponte",
+    "character_desc": "Uma fruta híbrida que conecta dois mundos: segura uma ponte ligando dois celulares.",
+    "nano_prompt": "Vaporwave neon anthropomorphic hybrid fruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a bridge connecting two phones with one shared codebase, versatile clever smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r033",
+    "sheet_id": "s078",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Fruta Widget",
+    "character_desc": "Uma fruta azul de asas: segura uma árvore de widgets de uma única base de código.",
+    "nano_prompt": "Vaporwave neon anthropomorphic blue starfruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a single-codebase widget tree, azure glow, smooth cheerful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r034",
+    "sheet_id": "s078",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Melancia Cientista",
+    "character_desc": "Uma melancia investigadora: segura um gráfico de dispersão sob lupa e um frasco de laboratório.",
+    "nano_prompt": "Vaporwave neon anthropomorphic watermelon character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a scatter-plot chart under a magnifier and a lab flask, curious analytical gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r035",
+    "sheet_id": "s078",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Graviola ML",
+    "character_desc": "Uma graviola cerebral e cheia de nós: segura um modelo de rede neural com engrenagens.",
+    "nano_prompt": "Vaporwave neon anthropomorphic soursop character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a neural-network model diagram with gears, thoughtful inventive look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r036",
+    "sheet_id": "s078",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Graviola Ops",
+    "character_desc": "Uma graviola que opera modelos: segura um pipeline de deploy com painel de monitoramento.",
+    "nano_prompt": "Vaporwave neon anthropomorphic soursop character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a model deployment pipeline and a monitoring dashboard, vigilant steady gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r037",
+    "sheet_id": "s078",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Cupuaçu Pesquisador",
+    "character_desc": "Um cupuaçu pensador: segura um paper de pesquisa e um esboço de rede neural.",
+    "nano_prompt": "Vaporwave neon anthropomorphic cupuacu character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a research paper and a neural sketch, chin resting on hand, deep contemplative look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r038",
+    "sheet_id": "s078",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Maracujá Prompt",
+    "character_desc": "Um maracujá que conversa com IA: segura um pergaminho de prompts e uma varinha mágica com balão de fala.",
+    "nano_prompt": "Vaporwave neon anthropomorphic passion fruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a prompt scroll and a magic wand with a speech bubble, clever inspired smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r039",
+    "sheet_id": "s078",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Carambola Linguagem",
+    "character_desc": "Uma carambola que entende texto: segura tokens de palavras e uma árvore linguística.",
+    "nano_prompt": "Vaporwave neon anthropomorphic starfruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding floating word tokens and a language parse tree, articulate focused gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r040",
+    "sheet_id": "s078",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Abacaxi Visão",
+    "character_desc": "Um abacaxi de olho aguçado: segura uma lente de câmera com caixas de detecção.",
+    "nano_prompt": "Vaporwave neon anthropomorphic pineapple character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a camera lens with bounding boxes overlay, observant sharp look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r041",
+    "sheet_id": "s078",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Melancia Analista",
+    "character_desc": "Uma melancia em fatias-gráfico: segura um tablet com gráfico de barras.",
+    "nano_prompt": "Vaporwave neon anthropomorphic watermelon character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a tablet with a bar chart, watermelon-slice pie chart beside, insightful curious smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r042",
+    "sheet_id": "s078",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Manga BI",
+    "character_desc": "Uma manga que revela KPIs: segura um dashboard luminoso de indicadores.",
+    "nano_prompt": "Vaporwave neon anthropomorphic mango character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a glowing KPI dashboard panel, business-savvy confident look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r043",
+    "sheet_id": "s078",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Carambola Analítica",
+    "character_desc": "Uma carambola que transforma dados: liga canos de transformação a gráficos limpos.",
+    "nano_prompt": "Vaporwave neon anthropomorphic starfruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding transformation pipes feeding clean charts, methodical tidy gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r044",
+    "sheet_id": "s078",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Pitaya Viz",
+    "character_desc": "Uma pitaya arco-íris que encanta em gráficos: segura uma paleta de gráficos coloridos e brilhantes.",
+    "nano_prompt": "Vaporwave neon anthropomorphic rainbow dragon fruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a glowing palette of colorful charts and graphs, vivid artistic smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r045",
+    "sheet_id": "s078",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Coco DevOps",
+    "character_desc": "Um coco cheio de ferramentas: segura uma chave-inglesa e um loop de infinito com engrenagens.",
+    "nano_prompt": "Vaporwave neon anthropomorphic coconut character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a wrench and an infinity loop with gears, practical can-do grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r046",
+    "sheet_id": "s078",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Coco SRE",
+    "character_desc": "Um coco de capacete que garante uptime: segura um pager de alerta e um medidor de disponibilidade.",
+    "nano_prompt": "Vaporwave neon anthropomorphic coconut character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a pager alert and an uptime gauge, wearing a hard hat, alert reliable look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r047",
+    "sheet_id": "s078",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Abacaxi Plataforma",
+    "character_desc": "Um abacaxi que pavimenta o caminho: segura uma estrada dourada de golden path.",
+    "nano_prompt": "Vaporwave neon anthropomorphic pineapple character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a paved golden-path road and an internal platform panel, supportive steady smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r048",
+    "sheet_id": "s078",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Coco Nuvem",
+    "character_desc": "Um coco flutuando entre nuvens: segura uma planta de arquitetura em nuvem.",
+    "nano_prompt": "Vaporwave neon anthropomorphic coconut character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a cloud architecture blueprint, floating clouds around, lofty calm gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r049",
+    "sheet_id": "s078",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Coco Timoneiro",
+    "character_desc": "Um coco que pilota contêineres: segura um leme de navio cercado de contêineres.",
+    "nano_prompt": "Vaporwave neon anthropomorphic coconut character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a ship's helm surrounded by orbiting containers, steering commanding look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r050",
+    "sheet_id": "s078",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Carambola Rede",
+    "character_desc": "Uma carambola-nó de rede: segura cabos entrelaçados e um roteador.",
+    "nano_prompt": "Vaporwave neon anthropomorphic starfruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding tangled network cables and a glowing router, connected focused gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r051",
+    "sheet_id": "s078",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Coco Admin",
+    "character_desc": "Um coco barbudo que administra máquinas: segura um terminal e um molho de chaves de servidores.",
+    "nano_prompt": "Vaporwave neon anthropomorphic coconut character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a terminal screen and a keychain of server keys, seasoned steady look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r052",
+    "sheet_id": "s078",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Coco Release",
+    "character_desc": "Um coco que solta versões: segura um foguete e uma etiqueta de versão.",
+    "nano_prompt": "Vaporwave neon anthropomorphic coconut character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a launching rocket and a version tag, triumphant ready smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r053",
+    "sheet_id": "s078",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Jaca Build",
+    "character_desc": "Uma jaca que monta artefatos: segura um martelo e engrenagens de montagem.",
+    "nano_prompt": "Vaporwave neon anthropomorphic jackfruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a hammer and assembly gears building an artifact, constructive focused look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r054",
+    "sheet_id": "s078",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Banana Loop",
+    "character_desc": "Uma banana em loop de infinito: segura uma esteira de checkmarks verdes.",
+    "nano_prompt": "Vaporwave neon anthropomorphic banana character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding an infinity-loop conveyor of green checkmarks, smooth automated smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r055",
+    "sheet_id": "s078",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Coco Escudo",
+    "character_desc": "Um coco de armadura: segura um cadeado e um escudo protetor, com elmo.",
+    "nano_prompt": "Vaporwave neon anthropomorphic coconut character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a padlock and a protective shield, wearing a helmet, vigilant guarded look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r056",
+    "sheet_id": "s078",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Maracujá Ninja",
+    "character_desc": "Um maracujá de capuz: segura uma gazua e um exploit brilhante.",
+    "nano_prompt": "Vaporwave neon anthropomorphic passion fruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a lockpick and a glowing exploit, wearing a hoodie, sly stealthy grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r057",
+    "sheet_id": "s078",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Durião Blindado",
+    "character_desc": "Um durian espinhoso que blinda apps: segura um escudo de código escaneando falhas.",
+    "nano_prompt": "Vaporwave neon anthropomorphic durian character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a code shield scanning for vulnerabilities, spiky armor, defensive alert gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r058",
+    "sheet_id": "s078",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Jabuticaba Cifra",
+    "character_desc": "Uma jabuticaba de sementes secretas: segura uma roda de cifra enigma e uma chave.",
+    "nano_prompt": "Vaporwave neon anthropomorphic jabuticaba character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding an enigma cipher wheel and a cryptographic key, secretive clever look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r059",
+    "sheet_id": "s078",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Coco Conformidade",
+    "character_desc": "Um coco fiscal de regras: segura um checklist e um carimbo de aprovação.",
+    "nano_prompt": "Vaporwave neon anthropomorphic coconut character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a compliance checklist and an approval stamp, orderly strict expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r060",
+    "sheet_id": "s078",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Coco Privacidade",
+    "character_desc": "Um coco mascarado que protege dados: segura um escudo com dados anonimizados.",
+    "nano_prompt": "Vaporwave neon anthropomorphic coconut character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a shield with anonymized/masked data, wearing a domino mask, discreet protective look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r061",
+    "sheet_id": "s078",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Malagueta Plantão",
+    "character_desc": "Uma pimenta-malagueta urgente: segura um extintor e um pager tocando, com capacete de bombeiro.",
+    "nano_prompt": "Vaporwave neon anthropomorphic chili pepper character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a fire extinguisher and a ringing pager, firefighter helmet, urgent alert expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r062",
+    "sheet_id": "s078",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Durião Ameaça",
+    "character_desc": "Um durian que modela ataques: segura uma árvore de ataque e uma lupa.",
+    "nano_prompt": "Vaporwave neon anthropomorphic durian character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding an attack-tree diagram and a magnifier, spiky shell, wary analytical gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r063",
+    "sheet_id": "s078",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Goiaba QA",
+    "character_desc": "Uma goiaba caçadora de defeitos: segura uma rede de pegar bugs e um checklist.",
+    "nano_prompt": "Vaporwave neon anthropomorphic guava character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a bug-catching net and a checklist, meticulous watchful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r064",
+    "sheet_id": "s078",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Carambola SDET",
+    "character_desc": "Uma carambola de automação: segura um braço-robô de testes e scripts.",
+    "nano_prompt": "Vaporwave neon anthropomorphic starfruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a test automation robot arm and test scripts, systematic precise look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r065",
+    "sheet_id": "s078",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Manga Carga",
+    "character_desc": "Uma manga que testa limites: segura um medidor de carga, cronômetro e halteres.",
+    "nano_prompt": "Vaporwave neon anthropomorphic mango character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a load gauge, a stopwatch and small weights, strained determined gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r066",
+    "sheet_id": "s078",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Papaia Manual",
+    "character_desc": "Uma mamão que testa à mão: segura uma prancheta, lupa e um pote com um bug.",
+    "nano_prompt": "Vaporwave neon anthropomorphic papaya character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a clipboard, a magnifier and a jar with a bug, patient careful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r067",
+    "sheet_id": "s078",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Maracujá Testador A11y",
+    "character_desc": "Um maracujá que testa acesso: segura um leptor de tela, cartão de contraste e teclado.",
+    "nano_prompt": "Vaporwave neon anthropomorphic passion fruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a screen-reader device, a contrast card and a keyboard, attentive caring gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r068",
+    "sheet_id": "s078",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Banana Escriba",
+    "character_desc": "Uma banana que documenta: segura uma pena-caneta e um manual aberto.",
+    "nano_prompt": "Vaporwave neon anthropomorphic banana character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a quill pen and an open manual book, articulate calm smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r069",
+    "sheet_id": "s078",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Abacaxi Palco",
+    "character_desc": "Um abacaxi carismático: segura um microfone e um laptop, sob luz de palco.",
+    "nano_prompt": "Vaporwave neon anthropomorphic pineapple character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a microphone and a laptop, stage spotlight, charismatic engaging grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r070",
+    "sheet_id": "s078",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Manga Estrategista",
+    "character_desc": "Uma manga que planeja conteúdo: segura um calendário editorial e um megafone.",
+    "nano_prompt": "Vaporwave neon anthropomorphic mango character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a content calendar and a megaphone, strategic upbeat look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r071",
+    "sheet_id": "s078",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Coco Global",
+    "character_desc": "Um coco-globo que traduz: segura bandeirinhas e strings de tradução.",
+    "nano_prompt": "Vaporwave neon anthropomorphic coconut character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding little flags and translation string tags, globe pattern, worldly friendly smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r072",
+    "sheet_id": "s078",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Goiaba Designer",
+    "character_desc": "Uma goiaba que projeta produto: segura uma moldura de design e um protótipo.",
+    "nano_prompt": "Vaporwave neon anthropomorphic guava character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a design frame and an interactive prototype, thoughtful creative look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r073",
+    "sheet_id": "s078",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Pitaya Visual",
+    "character_desc": "Uma pitaya de olho estético: segura uma paleta de cores e um pincel.",
+    "nano_prompt": "Vaporwave neon anthropomorphic dragon fruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a color palette and a brush, aesthetic confident smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r074",
+    "sheet_id": "s078",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Maracujá Interação",
+    "character_desc": "Um maracujá que desenha gestos: segura um diagrama de toque e um fluxo de protótipo.",
+    "nano_prompt": "Vaporwave neon anthropomorphic passion fruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a tap/gesture diagram and a prototype flow, intuitive focused gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r075",
+    "sheet_id": "s078",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Nêspera Motion",
+    "character_desc": "Uma nêspera de movimento: segura curvas de animação e uma tira de filme.",
+    "nano_prompt": "Vaporwave neon anthropomorphic loquat character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding animation motion curves and a film strip, dynamic lively look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r076",
+    "sheet_id": "s078",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Manga Ilustradora",
+    "character_desc": "Uma manga artista: segura um pincel, uma tela e uma caneta stylus.",
+    "nano_prompt": "Vaporwave neon anthropomorphic mango character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a paintbrush, a canvas and a stylus pen, imaginative artistic smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r077",
+    "sheet_id": "s078",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Abacaxi Asset",
+    "character_desc": "Um abacaxi que forja assets: segura uma sprite sheet e ladrilhos de ícones.",
+    "nano_prompt": "Vaporwave neon anthropomorphic pineapple character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a sprite sheet and icon tiles, meticulous crafty look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r078",
+    "sheet_id": "s078",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Pitaya Marca",
+    "character_desc": "Uma pitaya que cria marcas: segura um logotipo e amostras de guia de marca.",
+    "nano_prompt": "Vaporwave neon anthropomorphic dragon fruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a logo mark and brand guideline swatches, polished proud smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r079",
+    "sheet_id": "s078",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Coco Som",
+    "character_desc": "Um coco de fones que desenha som: segura uma forma de onda e um sintetizador.",
+    "nano_prompt": "Vaporwave neon anthropomorphic coconut character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a waveform and a synthesizer, wearing headphones, immersed rhythmic look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r080",
+    "sheet_id": "s078",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Pitaya 3D",
+    "character_desc": "Uma pitaya em wireframe: segura um modelo 3D e uma esfera de polígonos.",
+    "nano_prompt": "Vaporwave neon anthropomorphic dragon fruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a 3D model and a wireframe polygon sphere, spatial focused gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r081",
+    "sheet_id": "s078",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Carambola Jogo",
+    "character_desc": "Uma carambola brincalhona: segura um controle, dados e um documento de design.",
+    "nano_prompt": "Vaporwave neon anthropomorphic starfruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a game controller, dice and a design doc, playful inventive grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r082",
+    "sheet_id": "s078",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Abacaxi Fase",
+    "character_desc": "Um abacaxi que desenha fases: segura uma planta de fase e uma grade de tiles.",
+    "nano_prompt": "Vaporwave neon anthropomorphic pineapple character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a level blueprint and a tile grid map, spatial planning look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r083",
+    "sheet_id": "s078",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Papaia Narrativa",
+    "character_desc": "Uma mamão contadora de histórias: segura um pergaminho de enredo e uma árvore de diálogo.",
+    "nano_prompt": "Vaporwave neon anthropomorphic papaya character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a story scroll and a dialogue tree, storytelling warm gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r084",
+    "sheet_id": "s078",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Coco Gamedev",
+    "character_desc": "Um coco que codifica jogos: segura um joystick e um bloco de código.",
+    "nano_prompt": "Vaporwave neon anthropomorphic coconut character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a joystick and a code block, enthusiastic focused grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r085",
+    "sheet_id": "s078",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Pitaya Shader",
+    "character_desc": "Uma pitaya prismática: segura uma esfera de shader com raios de luz.",
+    "nano_prompt": "Vaporwave neon anthropomorphic dragon fruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a shader sphere with refracting light rays, luminous focused look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r086",
+    "sheet_id": "s078",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Coco Embarcado",
+    "character_desc": "Um coco de circuito: segura uma placa microcontroladora e um ferro de solda.",
+    "nano_prompt": "Vaporwave neon anthropomorphic coconut character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a microcontroller board and a soldering iron, precise hands-on gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r087",
+    "sheet_id": "s078",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Coco Firmware",
+    "character_desc": "Um coco que grava firmware: segura um chip e um cabo de flash.",
+    "nano_prompt": "Vaporwave neon anthropomorphic coconut character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a firmware chip and a flashing cable, low-level focused look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r088",
+    "sheet_id": "s078",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Carambola IoT",
+    "character_desc": "Uma carambola conectada: segura sensores ligados com sinal de wifi.",
+    "nano_prompt": "Vaporwave neon anthropomorphic starfruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding connected sensors with a wifi signal, networked curious smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r089",
+    "sheet_id": "s078",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Jabuticaba Blockchain",
+    "character_desc": "Uma jabuticaba em corrente: segura blocos encadeados e uma moeda.",
+    "nano_prompt": "Vaporwave neon anthropomorphic jabuticaba character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding linked chained blocks and a crypto coin, distributed steady look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r090",
+    "sheet_id": "s078",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Durião Auditor",
+    "character_desc": "Um durian que audita contratos: segura uma lupa sobre um contrato com um bug destacado.",
+    "nano_prompt": "Vaporwave neon anthropomorphic durian character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a magnifier over a contract scroll with a highlighted bug, scrutinizing sharp gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r091",
+    "sheet_id": "s078",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Coco Imersivo",
+    "character_desc": "Um coco de óculos VR: segura um headset e um holograma flutuante.",
+    "nano_prompt": "Vaporwave neon anthropomorphic coconut character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a VR headset and a floating hologram, immersed wondering look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r092",
+    "sheet_id": "s078",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Coco Robótico",
+    "character_desc": "Um coco que constrói robôs: segura um braço robótico e uma chave-inglesa.",
+    "nano_prompt": "Vaporwave neon anthropomorphic coconut character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a robotic arm and a wrench, mechanical focused grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r093",
+    "sheet_id": "s078",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Manga Growth",
+    "character_desc": "Uma manga que impulsiona crescimento: segura uma curva ascendente e um foguete.",
+    "nano_prompt": "Vaporwave neon anthropomorphic mango character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a rising growth curve chart and a rocket, ambitious upbeat gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r094",
+    "sheet_id": "s078",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Maracujá SEO",
+    "character_desc": "Um maracujá que rankeia: segura uma lupa, uma escada de ranking e tags de palavras-chave.",
+    "nano_prompt": "Vaporwave neon anthropomorphic passion fruit character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a magnifier, a ranking ladder and keyword tags, strategic searching look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r095",
+    "sheet_id": "s078",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Manga MarTech",
+    "character_desc": "Uma manga de marketing técnico: segura um funil com engrenagens de automação e um e-mail.",
+    "nano_prompt": "Vaporwave neon anthropomorphic mango character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a marketing funnel with automation gears and an email icon, savvy upbeat smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r096",
+    "sheet_id": "s078",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Abacaxi Soluções",
+    "character_desc": "Um abacaxi que encaixa soluções: segura um laptop de demo e peças de quebra-cabeça se encaixando.",
+    "nano_prompt": "Vaporwave neon anthropomorphic pineapple character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a demo laptop and puzzle pieces fitting together, helpful clever look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r097",
+    "sheet_id": "s078",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Goiaba Suporte",
+    "character_desc": "Uma goiaba de headset que resolve chamados: segura um ticket e uma chave-inglesa.",
+    "nano_prompt": "Vaporwave neon anthropomorphic guava character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a support ticket and a wrench, wearing a headset, patient friendly smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r098",
+    "sheet_id": "s078",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Abacaxi Vendas",
+    "character_desc": "Um abacaxi de gravata: segura uma demo, um aperto de mãos e um gráfico ascendente.",
+    "nano_prompt": "Vaporwave neon anthropomorphic pineapple character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a demo screen with a handshake and an upward chart, wearing a tie, persuasive confident grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r099",
+    "sheet_id": "s078",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Coco FinOps",
+    "character_desc": "Um coco banqueiro: segura uma calculadora e uma nuvem com cifrão e medidor de custo.",
+    "nano_prompt": "Vaporwave neon anthropomorphic coconut character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a calculator and a cloud with a dollar sign and cost gauge, prudent measured look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s078-r100",
+    "sheet_id": "s078",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Coco Jurídico",
+    "character_desc": "Um coco togado: segura um livro de leis e uma balança da justiça.",
+    "nano_prompt": "Vaporwave neon anthropomorphic coconut character, glossy skin with hot-pink and cyan chrome gradients, retro-80s neon rim light and synthwave glow, subtle scanline sheen, waist-up bust portrait, holding a law book and scales of justice, wearing a judge's collar, solemn judicious gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

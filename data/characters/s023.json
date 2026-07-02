@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s023-r001",
+    "sheet_id": "s023",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Imhotep-Rá",
+    "character_desc": "Deus-arquiteto que rege o plano divino; segura um papiro com a planta de um templo, esquadro e fio de prumo.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, architect-god crowned with a temple-shaped headdress, holding an unrolled papyrus temple blueprint, a golden set-square and a dangling plumb-line, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r002",
+    "sheet_id": "s023",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Nekhtari",
+    "character_desc": "Divindade guia da tribo técnica; empunha um cajado-báculo que aponta o caminho e traz uma pena de decisão.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, guardian tech-leader deity holding a tall shepherd crook-staff pointing forward, a single decision-feather tucked in the belt, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r003",
+    "sheet_id": "s023",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Setkhamun",
+    "character_desc": "Deus veterano dos ofícios; carrega múltiplas ferramentas cinzeladas e um colar de mestre-artesão.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, veteran staff-engineer deity bearing several engraved bronze tools across a broad master-artisan collar, steady stride, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r004",
+    "sheet_id": "s023",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Ptah-Aser",
+    "character_desc": "Grande construtor primordial; segura o cetro-was e um martelo de escultor, cercado de emblemas de criação.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, principal builder-god holding a was-scepter and a sculptor's mallet, surrounded by creation emblems on the wall, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r005",
+    "sheet_id": "s023",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Menkaura-Bes",
+    "character_desc": "Deusa-mãe da oficina que reúne os deuses menores; segura um leque protetor e uma tábua de nomes.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, engineering-manager mother-goddess holding a protective fan and a name-tablet gathering lesser deities, warm guiding posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r006",
+    "sheet_id": "s023",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Iunet-Maat",
+    "character_desc": "Divindade que pesa o valor do produto; segura uma pequena balança dourada e uma flor de lótus (a visão).",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, product-manager goddess holding a small golden scale weighing value and a blooming lotus of vision, forward gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r007",
+    "sheet_id": "s023",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Renefer",
+    "character_desc": "Guardião do dorso do produto; carrega um cesto de oferendas priorizadas e uma vara de medir intenções.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, product-owner deity carrying a woven basket of prioritized offerings and a measuring reed of intent, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r008",
+    "sheet_id": "s023",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Hapymose",
+    "character_desc": "Deus dos grandes fluxos e cronogramas; segura um remo-timão e um rolo de datas gravadas.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, program-manager river-god holding a steering oar and a rolled schedule tablet, orchestrating flow, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r009",
+    "sheet_id": "s023",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Djeserkare",
+    "character_desc": "Divindade dos marcos e prazos; empunha um bastão com nós contados e uma ampulheta de areia dourada.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, project-manager deity holding a knotted milestone rod and a golden sand hourglass, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r010",
+    "sheet_id": "s023",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Ankhsprint",
+    "character_desc": "Sacerdote do ritmo ágil; toca um sistro cadenciado e traz um quadro de tarefas em miniatura.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, scrum-master priest shaking a rhythmic sistrum and holding a tiny task-board tablet, cadence pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r011",
+    "sheet_id": "s023",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Sobekben",
+    "character_desc": "Deus-crocodilo das forjas do servidor; segura engrenagens de bronze e um tijolo-servidor emblemático.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, backend crocodile-headed god holding bronze gears and an emblematic server-brick, sturdy stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r012",
+    "sheet_id": "s023",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Djedapi",
+    "character_desc": "Divindade dos portais e contratos; ergue duas colunas-djed conectadas por um fio de ligação.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, api-designer deity raising two djed-pillar gateways joined by a connecting cord, endpoint knots along it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r013",
+    "sheet_id": "s023",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Sesheru",
+    "character_desc": "Deus que fragmenta o todo em partes sagradas; segura um mosaico de pequenos santuários interligados.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, microservices deity holding a mosaic of small interlinked shrine-cubes, distributed pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r014",
+    "sheet_id": "s023",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Hapynefer",
+    "character_desc": "Divindade do Nilo dos dados; conduz um canal dourado com comportas que canalizam a corrente.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, data-pipeline Nile-god channeling a golden aqueduct with sluice-gates directing flowing current, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r015",
+    "sheet_id": "s023",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Renutmose",
+    "character_desc": "Deusa-colheita dos dados brutos; carrega feixes de grãos-registro e uma foice de refino.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, data-engineer harvest-goddess carrying sheaves of record-grain and a refining sickle, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r016",
+    "sheet_id": "s023",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Tehutkha",
+    "character_desc": "Guardião do grande arquivo; segura tabuletas empilhadas de índices e uma chave-selo do repositório.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, database-administrator deity holding stacked index-tablets and a repository seal-key, custodial pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r017",
+    "sheet_id": "s023",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Seshaquery",
+    "character_desc": "Escriba-deus das consultas; empunha um estilete afiado e um papiro cheio de linhas-seleção.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, SQL-specialist scribe-god wielding a sharp reed-stylus and a papyrus of query-lines, precise gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r018",
+    "sheet_id": "s023",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Kheperheb",
+    "character_desc": "Deus-escaravelho da memória rápida; guarda uma jarra de mel-cache selada para acesso veloz.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, caching scarab-god cradling a sealed honey-jar of fast memory, quick-recall stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r019",
+    "sheet_id": "s023",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Anpuqueue",
+    "character_desc": "Divindade que enfileira as almas-mensagem; segura uma fila ordenada de tabletes numerados.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, message-queue deity holding an ordered line of numbered message-tablets moving in sequence, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r020",
+    "sheet_id": "s023",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Wadjfind",
+    "character_desc": "Deusa do olho que tudo busca; ergue o Olho de Hórus como lente e uma tocha de indexação.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, search-engineer goddess raising a Wedjat-eye as a searching lens and an indexing torch, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r021",
+    "sheet_id": "s023",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Neferankh",
+    "character_desc": "Divindade da face visível dos templos; segura um espelho de bronze polido e um pincel de ornamento.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, frontend deity holding a polished bronze mirror-screen and an ornament brush, presentation pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r022",
+    "sheet_id": "s023",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Merithui",
+    "character_desc": "Deusa que ergue interfaces; monta painéis-vitral com molduras douradas e botões-gema.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, ui-engineer goddess assembling stained-glass panels with golden frames and gem-buttons, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r023",
+    "sheet_id": "s023",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Sekhemux",
+    "character_desc": "Sacerdotisa da jornada do fiel; desenha um caminho-labirinto ritual com pegadas guiadas.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, ux-designer priestess tracing a ritual path-labyrinth with guided footprints on the mural, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r024",
+    "sheet_id": "s023",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Ptahsystem",
+    "character_desc": "Deus dos padrões sagrados; carrega um estojo de tokens-amuleto idênticos e réguas modulares.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, design-systems god carrying a case of identical amulet-tokens and modular guide-rulers, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r025",
+    "sheet_id": "s023",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Maataccess",
+    "character_desc": "Deusa da equidade do acesso; segura a pena de Maat e uma rampa dourada que a todos acolhe.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, accessibility goddess holding the feather of Maat and a golden inclusive ramp, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r026",
+    "sheet_id": "s023",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Reneferperf",
+    "character_desc": "Deus veloz do carregamento; empunha as asas de vento e uma pena leve que mede rapidez.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, web-performance deity with wind-wings and a lightweight speed-feather, swift forward lean, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r027",
+    "sheet_id": "s023",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Hesetcss",
+    "character_desc": "Deusa dos ornamentos e cores; segura paleta de pigmentos e um pente de alinhamento de frisos.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, CSS-specialist goddess holding a pigment palette and an alignment comb for wall friezes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r028",
+    "sheet_id": "s023",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Kaanim",
+    "character_desc": "Divindade do movimento das figuras; traça linhas de gesto sucessivas como quadros de dança.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, animation deity drawing successive gesture-lines like dance frames along the register, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r029",
+    "sheet_id": "s023",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Djehormob",
+    "character_desc": "Deus portátil dos viajantes; carrega uma estela-tablete de mão com hieróglifos vivos.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, mobile-developer deity carrying a handheld stela-tablet with glowing glyphs, on-the-go stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r030",
+    "sheet_id": "s023",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Ausarios",
+    "character_desc": "Guardião da maçã-fruto proibida; segura um pomo dourado polido e um estilete elegante.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, iOS-developer deity holding a polished golden apple-fruit and an elegant stylus, refined pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r031",
+    "sheet_id": "s023",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Anpudroid",
+    "character_desc": "Deus-chacal do autômato verde; carrega um pequeno golem-verde e uma chave de robô.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, android-developer jackal-god carrying a small green automaton-figure and a robot key, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r032",
+    "sheet_id": "s023",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Merenative",
+    "character_desc": "Divindade que une duas margens; segura uma ponte-arco ligando dois santuários idênticos.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, react-native deity holding a bridging arch joining two identical shrines, cross-platform pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r033",
+    "sheet_id": "s023",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Sekhflut",
+    "character_desc": "Deusa das asas-borboleta velozes; ergue um leque de painéis idênticos que batem como asas.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, Flutter-developer goddess raising a fan of identical winged panels beating in unison, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r034",
+    "sheet_id": "s023",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Sesheshat",
+    "character_desc": "Escriba-deusa que lê os astros dos dados; segura um mapa estelar e um estilete de padrões.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, data-scientist scribe-goddess holding a star-map of data points and a pattern stylus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r035",
+    "sheet_id": "s023",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Ptahlearn",
+    "character_desc": "Deus que ensina os autômatos; molda um pequeno golem de argila que imita gestos.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, ML-engineer god shaping a small clay learning-automaton that mirrors his gestures, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r036",
+    "sheet_id": "s023",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Renmlops",
+    "character_desc": "Guardião do ciclo dos autômatos; conduz uma roda-esteira com golens em manutenção ritual.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, MLOps deity tending a ritual conveyor-wheel of automatons in continuous upkeep, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r037",
+    "sheet_id": "s023",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Thothseer",
+    "character_desc": "Deus-íbis do saber profundo; medita sobre um pergaminho de fórmulas e uma pena reveladora.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, AI-researcher ibis-headed god contemplating a scroll of deep formulas and a revealing quill, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r038",
+    "sheet_id": "s023",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Heka-Neb",
+    "character_desc": "Deus da palavra de poder; ergue um cartucho vazio moldável e um cajado que conjura verbos.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, prompt-engineer god of words-of-power raising a shapeable blank cartouche and a verb-summoning staff, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r039",
+    "sheet_id": "s023",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Merineferu",
+    "character_desc": "Deusa da fala e das línguas; segura uma língua-amuleto dourada e tabuletas de muitos idiomas.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, NLP goddess holding a golden tongue-amulet and tablets of many spoken languages, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r040",
+    "sheet_id": "s023",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Horwedjat",
+    "character_desc": "Deus-falcão da visão que enxerga formas; ergue o Olho de Hórus sobre um retrato reconhecido.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, computer-vision falcon-god raising the Horus-eye over a recognized portrait outline, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r041",
+    "sheet_id": "s023",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Iunetdata",
+    "character_desc": "Deusa que interpreta presságios; segura um leque de gráficos-oráculo e um bastão de leitura.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, data-analyst goddess holding a fan of oracle-charts and a reading rod, interpretive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r042",
+    "sheet_id": "s023",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Renbihep",
+    "character_desc": "Divindade dos relatórios reais; apresenta um painel-estela com barras e discos luminosos.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, BI-analyst deity presenting a stela-dashboard of luminous bars and disks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r043",
+    "sheet_id": "s023",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Sethanalytics",
+    "character_desc": "Deus que modela o fluxo do saber; ergue um funil dourado que destila tabuletas em verdade.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, analytics-engineer god raising a golden funnel distilling tablets into refined truth, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r044",
+    "sheet_id": "s023",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Meretviz",
+    "character_desc": "Deusa que pinta números em imagem; segura pincéis e uma estela com gráficos coloridos vivos.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, data-viz goddess holding brushes and a stela of vivid colored charts, artistic gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r045",
+    "sheet_id": "s023",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Ptahdevops",
+    "character_desc": "Deus-ferreiro que ergue e mantém os templos; carrega martelo, chave e tochas de automação.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, devops blacksmith-god carrying a hammer, wrench and automation torches, building-and-maintaining pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r046",
+    "sheet_id": "s023",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Sekhmetsre",
+    "character_desc": "Deusa-leoa que vela pela estabilidade; monta guarda com escudo-uptime e lança de vigília.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, SRE lioness-goddess standing guard with an uptime-shield and a vigilance spear, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r047",
+    "sheet_id": "s023",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Nebplatform",
+    "character_desc": "Divindade que ergue a base de todos; sustenta uma plataforma-laje dourada sobre colunas.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, platform-engineer deity upholding a golden foundation-slab on pillars, supporting stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r048",
+    "sheet_id": "s023",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Nutcloud",
+    "character_desc": "Deusa-céu que abriga os servidores; arqueia-se guardando nuvens-templo suspensas.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, cloud-architect sky-goddess arching to shelter suspended cloud-temples above, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r049",
+    "sheet_id": "s023",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Khonshelm",
+    "character_desc": "Deus-piloto dos contêineres; segura um leme-timão com muitos cascos-cubo alinhados.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, kubernetes-admin deity holding a helm steering many aligned container-cubes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r050",
+    "sheet_id": "s023",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Hapynet",
+    "character_desc": "Divindade dos canais entrelaçados; tece uma teia de fios-canal dourados entre nós.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, network-engineer deity weaving a lattice of golden channel-cords between nodes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r051",
+    "sheet_id": "s023",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Ptahsysadmin",
+    "character_desc": "Guardião zeloso das salas dos deuses; porta um molho de chaves-selo e uma tocha de vigília.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, sysadmin custodian-god bearing a ring of seal-keys and a maintenance torch, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r052",
+    "sheet_id": "s023",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Renrelease",
+    "character_desc": "Deus que liberta as obras ao mundo; abre um portão-selo e ergue um estandarte de versão.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, release-engineer deity opening a sealed gate and raising a version-standard, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r053",
+    "sheet_id": "s023",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Sethbuild",
+    "character_desc": "Deus-forja que compila os blocos; martela tijolos-módulo em um bloco monolítico dourado.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, build-engineer forge-god hammering module-bricks into one golden compiled block, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r054",
+    "sheet_id": "s023",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Ankhcicd",
+    "character_desc": "Divindade do ciclo eterno; segura o anel-ankh formado por esteiras de entrega contínua.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, CI/CD deity holding an ankh-loop formed of continuous delivery belts, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r055",
+    "sheet_id": "s023",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Serqetsec",
+    "character_desc": "Deusa-escorpião que protege os selos; ergue escudo-ferrolho e ferrão de defesa.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, security lioness-scorpion goddess raising a lock-shield and a defensive stinger, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r056",
+    "sheet_id": "s023",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Setekhpen",
+    "character_desc": "Deus infiltrador das sombras; espreita com gazua-obelisco e máscara de teste de brechas.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, penetration-tester deity lurking with an obelisk-lockpick and a breach-testing mask, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r057",
+    "sheet_id": "s023",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Horappsec",
+    "character_desc": "Deus-falcão que blinda os templos-código; reveste colunas com placas-armadura gravadas.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, appsec falcon-god plating code-pillars with engraved armor-scales, hardening pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r058",
+    "sheet_id": "s023",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Thothcrypt",
+    "character_desc": "Deus escriba dos segredos cifrados; sela um cartucho enigmático com chave e cadeado duplo.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, cryptographer scribe-god sealing an enigmatic cartouche with a key and double lock, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r059",
+    "sheet_id": "s023",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Maatcompli",
+    "character_desc": "Deusa da lei e da conformidade; segura o rolo das regras e a pena que audita cada ato.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, compliance goddess holding the scroll of laws and the auditing feather of Maat, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r060",
+    "sheet_id": "s023",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Nephprivacy",
+    "character_desc": "Deusa que oculta o sagrado; envolve figuras em véu dourado e guarda um cofre-de-nomes.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, privacy-engineer goddess veiling figures in golden shroud and guarding a name-vault, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r061",
+    "sheet_id": "s023",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Sekhmetfire",
+    "character_desc": "Deusa-leoa da resposta rápida; corre com tocha de alarme e escudo apagando chamas-incidente.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, incident-responder lioness-goddess rushing with an alarm-torch and a shield quelling incident-flames, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r062",
+    "sheet_id": "s023",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Apepwatch",
+    "character_desc": "Divindade que prevê a serpente do caos; mapeia numa estela as rotas da serpente-ameaça.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, threat-modeler deity charting the chaos-serpent's paths on a threat-map stela, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r063",
+    "sheet_id": "s023",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Maatqa",
+    "character_desc": "Deusa que pesa a qualidade; ergue a balança confrontando a obra contra a pena da verdade.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, QA goddess raising the scales weighing the work against the feather of truth, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r064",
+    "sheet_id": "s023",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Djehutbot",
+    "character_desc": "Deus-escriba dos autômatos de teste; comanda pequenos golens que repetem provas rituais.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, SDET deity directing small test-automatons that repeat ritual trials, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r065",
+    "sheet_id": "s023",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Renperf",
+    "character_desc": "Divindade que testa a carga dos templos; empilha pesos-fardo sobre uma coluna medida.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, performance-tester deity stacking load-weights on a measured pillar, stress pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r066",
+    "sheet_id": "s023",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Sennedjem",
+    "character_desc": "Artesão-deus que inspeciona à mão; percorre a parede com lupa-cristal e lista de conferência.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, manual-tester artisan-god scanning the wall with a crystal-lens and a checklist tablet, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r067",
+    "sheet_id": "s023",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Maatincl",
+    "character_desc": "Deusa que testa o acesso de todos; verifica a rampa e o portão largo com a pena de Maat.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, accessibility-tester goddess checking the ramp and wide gate with the Maat feather, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r068",
+    "sheet_id": "s023",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Seshatscribe",
+    "character_desc": "Deusa-escriba do conhecimento; grava manuais em papiro com estilete e tinteiro de ouro.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, technical-writer scribe-goddess inscribing manuals on papyrus with stylus and gold ink-pot, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r069",
+    "sheet_id": "s023",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Merenherald",
+    "character_desc": "Deus-arauto que anuncia aos fiéis; ergue um megafone-concha e um estandarte de comunidade.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, developer-advocate herald-god raising a conch-megaphone and a community standard, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r070",
+    "sheet_id": "s023",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Nefercontent",
+    "character_desc": "Deusa que planeja a narrativa dos frisos; ordena cenas-mural com um bastão de roteiro.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, content-strategist goddess arranging mural-scenes in order with a storyline rod, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r071",
+    "sheet_id": "s023",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Meritlingua",
+    "character_desc": "Deusa das muitas línguas; distribui tabuletas idênticas escritas em diferentes escritas.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, localization goddess distributing identical tablets rendered in different scripts, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r072",
+    "sheet_id": "s023",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Ptahdesign",
+    "character_desc": "Deus criador das formas do produto; molda em argila uma figura-protótipo com cinzel.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, product-designer creator-god shaping a prototype-figure from clay with a chisel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r073",
+    "sheet_id": "s023",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Merevisual",
+    "character_desc": "Deusa da beleza pintada; segura paleta ampla e pincel dourado sobre um afresco reluzente.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, visual-designer goddess holding a broad palette and gilded brush over a shining fresco, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r074",
+    "sheet_id": "s023",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Kaainteract",
+    "character_desc": "Divindade do gesto e resposta; liga botões-gema a fios que acendem símbolos ao toque.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, interaction-designer deity linking gem-buttons to cords that light symbols on touch, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r075",
+    "sheet_id": "s023",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Kamotion",
+    "character_desc": "Deusa do movimento fluido; desenha ondas-espirais que fluem de figura a figura.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, motion-designer goddess drawing flowing spiral-waves passing between figures, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r076",
+    "sheet_id": "s023",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Sennillust",
+    "character_desc": "Artista-deus ilustrador; pinta uma criatura ornamental viva com pincel fino e tinteiro.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, illustrator artist-god painting an ornate living creature with a fine brush and ink-pot, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r077",
+    "sheet_id": "s023",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Renasset",
+    "character_desc": "Divindade que forja os ícones; dispõe uma bandeja de amuletos-ícone idênticos e polidos.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, asset-designer deity arranging a tray of polished identical icon-amulets, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r078",
+    "sheet_id": "s023",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Nebbrand",
+    "character_desc": "Deus que cunha o símbolo do templo; ergue um selo-cartucho da marca e um cetro-emblema.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, brand-designer god raising a brand cartouche-seal and an emblem-scepter, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r079",
+    "sheet_id": "s023",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Merethsound",
+    "character_desc": "Deusa da harpa e do som; toca uma harpa dourada cercada de ondas sonoras esculpidas.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, sound-designer goddess playing a golden harp encircled by carved sound-waves, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r080",
+    "sheet_id": "s023",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Ptah3d",
+    "character_desc": "Deus escultor tridimensional; ergue uma estatueta-relevo em volume dourado com cinzel.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, 3D-artist sculptor-god raising a volumetric golden relief-statuette with a chisel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r081",
+    "sheet_id": "s023",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Seneferplay",
+    "character_desc": "Deus dos jogos rituais; segura um tabuleiro de senet e dados-astrágalo dourados.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, game-designer deity holding a senet game-board and golden knucklebone dice, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r082",
+    "sheet_id": "s023",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Renlevel",
+    "character_desc": "Divindade que ergue as câmaras-desafio; desenha em planta um labirinto de salas em níveis.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, level-designer deity laying out a plan of tiered chamber-labyrinths, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r083",
+    "sheet_id": "s023",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Seshetnarr",
+    "character_desc": "Deusa-narradora dos mitos; desenrola um friso-história com cenas encadeadas.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, narrative-designer goddess unrolling a story-frieze of chained scenes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r084",
+    "sheet_id": "s023",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Khepergame",
+    "character_desc": "Deus-escaravelho dos mundos jogáveis; sustenta uma esfera-mundo animada nas mãos.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, game-developer scarab-god cupping an animated playable world-sphere, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r085",
+    "sheet_id": "s023",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Rashader",
+    "character_desc": "Deus-sol dos brilhos e sombras; projeta raios que esculpem luz e sombra sobre relevos.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, graphics-shader sun-god casting rays that sculpt light and shadow over reliefs, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r086",
+    "sheet_id": "s023",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Ptahembed",
+    "character_desc": "Deus-ferreiro dos pequenos autômatos; encaixa placas-amuleto minúsculas num escaravelho.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, embedded-engineer smith-god fitting tiny circuit-amulets into a small scarab device, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r087",
+    "sheet_id": "s023",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Renfirm",
+    "character_desc": "Divindade do sopro que anima o metal; insere um coração-chip pulsante num autômato.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, firmware-engineer deity breathing a pulsing chip-heart into a bronze automaton, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r088",
+    "sheet_id": "s023",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Netjeriot",
+    "character_desc": "Deus que entrelaça mil amuletos; tece uma rede de escaravelhos-sensores conectados.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, IoT deity weaving a network of interconnected sensor-scarabs, mesh pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r089",
+    "sheet_id": "s023",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Djedchain",
+    "character_desc": "Deus dos elos inquebráveis; ergue uma corrente de blocos-djed selados e imutáveis.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, blockchain-developer deity raising a chain of sealed immutable djed-blocks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r090",
+    "sheet_id": "s023",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Maatcontract",
+    "character_desc": "Deusa que audita os pactos gravados; pesa um contrato-tablete contra a pena da verdade.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, smart-contract-auditor goddess weighing a contract-tablet against the truth feather, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r091",
+    "sheet_id": "s023",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Horavr",
+    "character_desc": "Deus-falcão das visões imersivas; veste uma máscara-visor dourada e abre um portal-cena.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, AR/VR falcon-god wearing a golden visor-mask and opening a scene-portal, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r092",
+    "sheet_id": "s023",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Ptahbotos",
+    "character_desc": "Deus-artífice dos autômatos que andam; guia um golem articulado com fios de comando.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, robotics-engineer artificer-god guiding an articulated walking golem by command-cords, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r093",
+    "sheet_id": "s023",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Renutgrow",
+    "character_desc": "Deusa-colheita do crescimento; rega um broto dourado que se multiplica em muitas hastes.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, growth-engineer harvest-goddess watering a golden sprout multiplying into many stalks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r094",
+    "sheet_id": "s023",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Wepseo",
+    "character_desc": "Deus-chacal abridor de caminhos; ergue um báculo-bússola que guia peregrinos ao templo.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, SEO jackal-god raising a compass-crook guiding pilgrims toward the temple, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r095",
+    "sheet_id": "s023",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Thothmkt",
+    "character_desc": "Deus-íbis dos mensageiros hábeis; dispara flechas-mensagem de um arco a muitos alvos.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, marketing-technologist ibis-god loosing message-arrows from a bow toward many targets, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r096",
+    "sheet_id": "s023",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Nebsolutions",
+    "character_desc": "Divindade que encaixa a peça certa; oferece uma chave-amuleto que abre a fechadura do fiel.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, solutions-engineer deity offering a key-amulet that fits the seeker's lock, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r097",
+    "sheet_id": "s023",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Beshelp",
+    "character_desc": "Deus-guardião protetor do lar; acode com escudo-suporte e tocha que afasta problemas.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, support-engineer guardian Bes-god coming with a support-shield and a troubleshooting torch, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r098",
+    "sheet_id": "s023",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Merensales",
+    "character_desc": "Deus-arauto persuasivo; apresenta uma bandeja de oferendas-valor com gesto convidativo.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, sales-engineer herald-god presenting a tray of value-offerings with an inviting gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r099",
+    "sheet_id": "s023",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Maatfin",
+    "character_desc": "Deusa que equilibra o tesouro; pesa moedas-anel de ouro contra a pena da economia.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, FinOps goddess weighing golden ring-coins against the feather of thrift, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s023-r100",
+    "sheet_id": "s023",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Maatlaw",
+    "character_desc": "Deusa suprema da justiça e do pacto; ergue o rolo da lei e o cetro-was da autoridade legal.",
+    "nano_prompt": "Ancient Egyptian tomb-mural deity, full-body composite profile figure (head and legs in strict side profile, torso frontal, one arm reaching forward), flat gold-leaf skin with lapis-blue and turquoise accents painted on aged limestone wall, formal hieroglyphic mural style with bold black outlines, ochre register lines and carved ornamental symbols, regal ceremonial stance, golden profile, legal-counsel supreme goddess raising the law-scroll and the was-scepter of authority, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

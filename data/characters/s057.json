@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s057-r001",
+    "sheet_id": "s057",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "O Grande Arcano",
+    "character_desc": "O arcano-mestre do baralho: um mago coroado que ergue uma planta baixa luminosa como se fosse um mapa astral do reino.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a crowned master magus, holding a glowing blueprint scroll like a star map, one hand raised to the heavens, T-square and compass at his belt, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r002",
+    "sheet_id": "s057",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "O Hierofante do Código",
+    "character_desc": "Sacerdote-líder que abençoa a equipe reunida a seus pés, o cajado ramificado como uma árvore de commits.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a high priest hierophant blessing kneeling figures, raising a branching staff shaped like a git tree, two crossed keys at his feet, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r003",
+    "sheet_id": "s057",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "O Sábio Errante",
+    "character_desc": "Eremita veterano que sustenta uma lanterna com uma estrela dentro, guiando pelos vales mais profundos do sistema.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a wise hermit sage, holding a lantern glowing with a six-pointed star, leaning on a tall wooden staff, hooded robe, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r004",
+    "sheet_id": "s057",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "O Príncipe Maior",
+    "character_desc": "Imperador jovem no trono de pedra, orbe de arquitetura na mão, autoridade serena sobre todo o reino técnico.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a young emperor on a stone throne, holding an orb engraved with interlocking gears, ram-carved throne, laurel crown, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r005",
+    "sheet_id": "s057",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "A Imperatriz Guia",
+    "character_desc": "Imperatriz maternal em jardim florido, cetro-coração erguido, nutrindo os brotos ao redor.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a nurturing empress in a blossoming garden, seated with a heart-topped scepter, cushions and ripe wheat around her, star crown, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r006",
+    "sheet_id": "s057",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "O Visionário",
+    "character_desc": "A carta d'A Estrela: figura ajoelhada verte dois cântaros, um sobre a terra do produto, outro sobre as águas do usuário.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a kneeling star-maiden pouring two vessels, one urn pouring onto land and one into water, a great eight-pointed star above her head, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r007",
+    "sheet_id": "s057",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "O Guardião da Visão",
+    "character_desc": "Cavaleiro sereno que segura um pentáculo dourado gravado com o roadmap, protegendo o valor do produto.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a calm knight guardian, presenting a large golden pentacle disc engraved with a spiral roadmap, kneeling in a green field, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r008",
+    "sheet_id": "s057",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "O Mensageiro dos Fios",
+    "character_desc": "A carta d'O Carro: condutor coroado guia duas esfinges por caminhos entrelaçados de programas.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a crowned charioteer, steering a chariot pulled by a black and a white sphinx, star-canopy above, holding a wand, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r009",
+    "sheet_id": "s057",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "A Roda do Prazo",
+    "character_desc": "Figura ao lado da Roda da Fortuna coberta de marcos e datas, girando o ciclo do projeto.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a figure turning the Wheel of Fortune, a great wheel marked with milestones and glyphs, a sphinx crowning it, spinning it with both hands, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r010",
+    "sheet_id": "s057",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "O Domador de Ritos",
+    "character_desc": "A carta da Força: figura gentil que fecha suavemente as fauces de um leão inquieto, mantendo a cadência.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a gentle figure taming a lion, an infinity symbol above the head, calmly closing a lion's jaws, flower garland, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r011",
+    "sheet_id": "s057",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "O Ferreiro das Fundações",
+    "character_desc": "Mago-artesão ante a bancada-altar, moldando engrenagens de servidor com martelo e chama.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a smith-magus at an altar workbench, hammering glowing server gears, anvil and flame, tool belt with wrench and mallet, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r012",
+    "sheet_id": "s057",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "O Guardião dos Portais",
+    "character_desc": "Figura hierofante entre duas colunas-endpoint, oferecendo duas chaves douradas que abrem contratos.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a keeper standing between two pillars, offering two golden keys that fit glowing gateway arches, scroll of endpoints in hand, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r013",
+    "sheet_id": "s057",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Os Muitos",
+    "character_desc": "A carta d'Os Amantes reinventada: um mestre orquestra vários pequenos serviços-espíritos flutuando em anéis.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of an orchestrator surrounded by small floating spirits, conducting a ring of tiny robed micro-figures each on its own small cloud, arms outstretched, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r014",
+    "sheet_id": "s057",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "O Aguadeiro",
+    "character_desc": "Figura que conduz água por uma calha de pedra em cascata, canalizando o fluxo dos dados de estágio em estágio.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a water-bearer guiding a stone flume, channeling a cascading stream through carved aqueduct stages, jug on shoulder, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r015",
+    "sheet_id": "s057",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "O Terraplanador",
+    "character_desc": "A carta do Rei de Ouros: soberano que assenta grandes discos-dados em fundações de pedra e canais.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of an earth-king seated among stone channels, arranging heavy engraved data-discs into carved riverbeds, spade and pentacle nearby, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r016",
+    "sheet_id": "s057",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "O Zelador da Cripta",
+    "character_desc": "Guardião hierático diante do grande cofre-arquivo, chave-mestra ao peito, tábuas de registro empilhadas.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a hieratic keeper before a great vault, holding a master key to a stone archive door, stacked ledger tablets, sealed scrolls, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r017",
+    "sheet_id": "s057",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "O Encantador de Consultas",
+    "character_desc": "Mago que traça sigilos de seleção no ar, e linhas de dados respondem serpenteando dos cântaros.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a magus drawing selection sigils in the air, conjuring ribbons of data that snake from urns in response, glowing query glyph, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r018",
+    "sheet_id": "s057",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "O Guardião do Instante",
+    "character_desc": "Figura que segura uma ampulheta congelada no ar, preservando o momento veloz numa redoma cristalina.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a figure holding a frozen hourglass, cradling a crystal orb that captures a suspended moment, swift-winged sandals, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r019",
+    "sheet_id": "s057",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "A Portadora das Filas",
+    "character_desc": "Mensageira que carrega uma corrente de pequenas cartas seladas, entregando-as uma a uma em ordem.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a messenger bearing a chain of sealed letters, carrying a queue of small sealed envelopes on a linked cord, delivering them in order, winged staff, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r020",
+    "sheet_id": "s057",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "O Vidente das Buscas",
+    "character_desc": "Eremita que ergue uma lanterna-lupa sobre um vasto pergaminho-índice, encontrando o oculto entre milhares.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a hermit seer raising a magnifying lantern, peering through a glass over a vast index scroll, a single star lit among many marks, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r021",
+    "sheet_id": "s057",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "O Tecelão das Vitrais",
+    "character_desc": "Artesão que compõe uma grande janela de vitral luminosa, painel a painel, o rosto do reino.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of an artisan assembling a stained-glass window, fitting glowing colored glass panels into a leaded frame, brush and lead came in hand, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r022",
+    "sheet_id": "s057",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "O Escultor de Botões",
+    "character_desc": "Figura que talha pequenos componentes de pedra preciosa — botões, campos, cartões — em cinzel e bancada.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a sculptor carving gem-like components, chiseling ornate buttons and panel-cards from a stone slab, mallet and chisel, componentes engravings, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r023",
+    "sheet_id": "s057",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "A Guia dos Caminhos",
+    "character_desc": "Sacerdotisa que aponta a rota mais suave por um labirinto de jardim desenhado no chão.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a priestess guiding through a garden maze, tracing the gentlest path through a floor labyrinth of user-journeys, lantern held low, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r024",
+    "sheet_id": "s057",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "O Guardião do Cânone",
+    "character_desc": "Hierofante que preside sobre um altar de tokens sagrados — cores, formas e medidas padronizadas.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a hierophant presiding over a token altar, arranging standardized sacred symbols of color swatches and measured shapes, ruler-scepter, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r025",
+    "sheet_id": "s057",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "O Portador da Aurora",
+    "character_desc": "Figura radiante que ergue um sol com muitos raios abrindo passagem para todos, sem barreiras.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a radiant figure lifting a many-rayed sun, raising a great sun so its light reaches every corner, open welcoming gate, no barriers, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r026",
+    "sheet_id": "s057",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "O Corredor Alado",
+    "character_desc": "A carta do Sol: figura veloz sobre um cavalo branco, estandarte esvoaçante, cortando o vento sem peso.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a swift rider on a white horse, galloping with a flowing banner, winged heels, a bright sun shedding weight, feather-light, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r027",
+    "sheet_id": "s057",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "O Pintor de Mantos",
+    "character_desc": "Artesão que drapeja e tinge tecidos que caem em pregas perfeitas sobre as figuras do baralho.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of an artisan draping and dyeing cloth, arranging flowing robes into perfect folds and gradients over mannequin figures, paintbrush and dye pots, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r028",
+    "sheet_id": "s057",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "A Dançarina Eterna",
+    "character_desc": "Figura d'O Mundo dentro de uma guirlanda, suspensa em movimento gracioso e contínuo.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a dancer within a laurel wreath, suspended mid-graceful-motion inside an oval garland, two wands, ribbons of movement trailing, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r029",
+    "sheet_id": "s057",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "O Andarilho de Bolso",
+    "character_desc": "O Louco reinventado: viajante alegre com uma pequena trouxa-tela que leva o reino no bolso.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a cheerful traveler at a cliff's edge, carrying a tiny screen-satchel on a stick, small white dog, holding a white rose, portable realm, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r030",
+    "sheet_id": "s057",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "O Cavaleiro do Pomo",
+    "character_desc": "Cavaleiro polido de armadura clara que ergue uma maçã prateada e mordida como um brasão.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a polished knight in bright armor, raising a silver bitten-apple emblem like a shield crest, sleek white steed, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r031",
+    "sheet_id": "s057",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "O Verdejante",
+    "character_desc": "Figura amável cercada de folhagem robótica, autômato-verde pousado na palma como familiar.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a kindly figure amid robotic foliage, a small green automaton companion perched on the palm, leafy circuits, gear-flowers, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r032",
+    "sheet_id": "s057",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "O Elo Duplo",
+    "character_desc": "A carta d'Os Amantes: par de figuras espelhadas unidas por uma ponte, uma só alma em duas terras.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of twin mirrored figures joined by a bridge, two matching robed figures reaching across a single bridge, one bond spanning two lands, angel above, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r033",
+    "sheet_id": "s057",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "A Borboleta Veloz",
+    "character_desc": "Figura de véu leve que solta uma revoada de borboletas azuis que pintam telas ao voar.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a light-veiled figure releasing butterflies, a flutter of blue butterflies painting panels as they fly across two lands at once, flowing sleeves, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r034",
+    "sheet_id": "s057",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "A Alta Sacerdotisa",
+    "character_desc": "A Sacerdotisa entre as colunas, pergaminho oculto no colo cheio de padrões e presságios.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of the High Priestess between two pillars, an unrolled scroll of hidden patterns in her lap, crescent moon at her feet, veil of pomegranates, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r035",
+    "sheet_id": "s057",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "O Alquimista dos Modelos",
+    "character_desc": "Mago sobre a mesa-altar transmutando dados brutos em um autômato pensante que ganha vida.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of an alchemist-magus at an altar, transmuting raw data into a small thinking automaton coming alive, retort and glowing crucible, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r036",
+    "sheet_id": "s057",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "O Guardião do Ciclo",
+    "character_desc": "Figura ao lado de uma roda de esteira que gira modelos do berço ao trono e de volta.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a keeper beside a great conveyor wheel, cycling small model-idols from cradle to throne and back on a turning belt, oil and gear, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r037",
+    "sheet_id": "s057",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "O Contemplador das Estrelas",
+    "character_desc": "Eremita astrônomo que mede constelações de ideias com compasso, buscando leis ainda não nomeadas.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a stargazing hermit astronomer, measuring constellations of ideas with a golden compass, open tome of unnamed laws, telescope-staff, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r038",
+    "sheet_id": "s057",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "O Sussurrador de Sigilos",
+    "character_desc": "Mago que sopra palavras-sigilo numa lâmpada, e o espírito interior molda-se ao seu pedido exato.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a magus whispering to a lamp, breathing sigil-words into an oil lamp whose genie-spirit shapes to the exact request, floating glyphs, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r039",
+    "sheet_id": "s057",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "A Intérprete das Línguas",
+    "character_desc": "Sacerdotisa que traduz fitas de fala em símbolos ordenados que flutuam entre suas mãos.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a priestess interpreting speech-ribbons, translating floating ribbons of spoken words into ordered symbols between her hands, book of tongues, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r040",
+    "sheet_id": "s057",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "O Olho que Tudo Vê",
+    "character_desc": "Figura que ergue um grande olho radiante em um triângulo, discernindo formas na névoa das imagens.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a figure raising a radiant all-seeing eye, holding aloft a great eye in a triangle discerning shapes from a misty image, rays of vision, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r041",
+    "sheet_id": "s057",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "O Leitor de Presságios",
+    "character_desc": "Figura debruçada sobre uma tábua de marcas e tendências, apontando o padrão que emerge.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a figure poring over an omen-tablet, reading a stone tablet of marks and trends, pointing at an emerging pattern, dividers in hand, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r042",
+    "sheet_id": "s057",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "O Arauto dos Painéis",
+    "character_desc": "Mensageiro que desfralda um estandarte-painel coberto de indicadores luminosos do reino.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a herald unfurling a banner-dashboard, displaying a large cloth banner covered in glowing indicator dials and rising bars, trumpet, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r043",
+    "sheet_id": "s057",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "O Curador das Fontes",
+    "character_desc": "Figura que reúne muitos riachos díspares num só canal claro e ordenado sobre a pedra.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a figure merging many streams, guiding several disparate rivulets into one clean ordered channel over carved stone, modeling ladle, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r044",
+    "sheet_id": "s057",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "A Pintora de Mapas Celestes",
+    "character_desc": "Artesã que desenha gráficos-constelação luminosos num pergaminho negro estrelado.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of an artisan drawing celestial charts, painting glowing constellation-graphs of bars and curves on a black star-scroll, luminous brush, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r045",
+    "sheet_id": "s057",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "O Ponte-entre-Mundos",
+    "character_desc": "A carta do Julgamento: figura que ergue uma trombeta unindo o mundo do código ao mundo da máquina.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a figure raising a great trumpet, sounding a horn that bridges the world of code and the world of running machines, banner cross, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r046",
+    "sheet_id": "s057",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "O Vigia da Torre",
+    "character_desc": "Sentinela no alto de uma torre observando pelas ampulhetas de saúde, pronto a acudir a queda.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a sentinel atop a watchtower, watching health-hourglasses over the realm, ready lantern and horn, ever-vigilant stance, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r047",
+    "sheet_id": "s057",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "O Construtor de Alicerces",
+    "character_desc": "Figura que assenta uma vasta plataforma de pedra sobre a qual outros erguem seus templos.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a builder laying a vast stone platform, setting a broad foundation slab where small temples rise upon it, level and plumb-line, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r048",
+    "sheet_id": "s057",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "O Senhor das Nuvens",
+    "character_desc": "Imperador entronizado entre nuvens-castelo, distribuindo esferas de reino por reinos flutuantes.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of an emperor enthroned among castle-clouds, arranging glowing realm-orbs across floating cloud-kingdoms, cloud-crown, orb and scepter, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r049",
+    "sheet_id": "s057",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "O Timoneiro dos Contêineres",
+    "character_desc": "Piloto que segura um leme de navio guiando uma frota de pequenas caixas-barco em formação.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a helmsman holding a ship's wheel, steering a fleet of small container-boats in ordered formation, ship-wheel halo, sea of manifests, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r050",
+    "sheet_id": "s057",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "A Tecelã dos Fios",
+    "character_desc": "Figura que entrelaça fios luminosos de nó em nó, mantendo a teia do reino conectada.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a weaver braiding luminous threads, linking glowing cords from node to node across a web, spindle and knotted lines, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r051",
+    "sheet_id": "s057",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "O Mordomo do Templo",
+    "character_desc": "Zelador de chaves que percorre corredores de servidores-colunas, mantendo cada lâmpada acesa.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a temple steward with a ring of keys, tending rows of server-pillars each topped with a lit lamp, oil can and key-ring, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r052",
+    "sheet_id": "s057",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "O Portador do Selo",
+    "character_desc": "Figura solene que aplica um selo de cera lacrado num pergaminho-versão, liberando-o ao mundo.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a solemn figure pressing a wax seal, stamping a sealed version-scroll and sending it forth, ribbon and signet ring, tagged banner, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r053",
+    "sheet_id": "s057",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "O Fundidor",
+    "character_desc": "Ferreiro que verte metal derretido de muitos moldes numa só barra reluzente e íntegra.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a founder pouring molten metal, casting many separate molds into one gleaming solid bar, crucible and tongs, forge glow, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r054",
+    "sheet_id": "s057",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "O Guardião da Esteira",
+    "character_desc": "Figura ao lado de uma correia contínua que leva peças da bancada ao altar sem tocá-las.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a keeper beside a continuous belt, watching parts travel from workbench to altar on an unbroken loop, green and red signal lamps, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r055",
+    "sheet_id": "s057",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "O Cavaleiro do Escudo",
+    "character_desc": "Guerreiro de armadura que ergue um escudo-pentáculo brilhante contra sombras que rondam os muros.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a knight raising a shield, holding a glowing pentacle-shield against creeping shadows at the walls, sword sheathed, watchful, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r056",
+    "sheet_id": "s057",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "O Gatuno Encapuzado",
+    "character_desc": "Figura ágil de capuz que testa fechaduras do próprio castelo com gazuas, provando cada porta.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a hooded agile figure testing locks, probing the castle's own doors with lockpicks to prove each one, coiled rope, shadowy cloak, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r057",
+    "sheet_id": "s057",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "O Ferreiro-Armeiro",
+    "character_desc": "Artesão que reforça a armadura da própria criação, martelando placas sobre pontos frágeis.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of an armorer reinforcing armor, hammering protective plates onto a suit worn by a small app-figure, rivets and shield stamps, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r058",
+    "sheet_id": "s057",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "O Guardião dos Segredos",
+    "character_desc": "Mago que fecha uma chave dentro de um cofre de runas giratórias, ilegível a olhos alheios.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a magus sealing a runic lockbox, locking a key inside a spinning cipher-cube of runes, unreadable glyphs, crossed keys, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r059",
+    "sheet_id": "s057",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "A Justiça",
+    "character_desc": "A carta da Justiça: figura entronizada com espada erguida e balança em perfeito equilíbrio.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of the seated figure of Justice, holding an upright sword and perfectly balanced scales, between two pillars, red robe, crown, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r060",
+    "sheet_id": "s057",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "A Guardiã do Véu",
+    "character_desc": "Sacerdotisa que estende um véu protetor sobre nomes e rostos, ocultando o que deve permanecer oculto.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a priestess drawing a protective veil, spreading a shielding veil over inscribed names and faces, cloaking private marks, crescent brooch, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r061",
+    "sheet_id": "s057",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "O Debelador de Chamas",
+    "character_desc": "Figura corajosa que corre à torre em chamas com um jarro de água, primeiro a chegar ao incêndio.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a brave figure rushing to a burning tower, carrying a water jug toward a lightning-struck tower, cloak flying, first to the blaze, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r062",
+    "sheet_id": "s057",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "O Cartógrafo das Sombras",
+    "character_desc": "Eremita que desenha num mapa todos os caminhos que um invasor poderia trilhar, antevendo o ataque.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a hermit mapping shadow-paths, charting every route an intruder could take on a dark map, red thread and pins, lantern low, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r063",
+    "sheet_id": "s057",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "O Provador",
+    "character_desc": "Figura que examina cada fruto-entrega numa balança, separando o são do bichado antes do banquete.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a figure inspecting fruit on a scale, weighing each delivery-fruit, sorting sound from flawed before the feast, magnifier and checklist-scroll, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r064",
+    "sheet_id": "s057",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "O Autômato Vigilante",
+    "character_desc": "Mago que anima pequenos golens de teste que repetem sozinhos os ritos de verificação sem cansar.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a magus animating test-golems, conjuring small clockwork golems that repeat verification rites tirelessly, wand and gear-runes, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r065",
+    "sheet_id": "s057",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "O Provador de Cargas",
+    "character_desc": "Figura hercúlea que empilha pesos sobre uma ponte para medir até onde ela aguenta sem ceder.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a herculean figure loading weights, stacking heavy stones on a bridge to test its limit, straining beam, measuring gauge, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r066",
+    "sheet_id": "s057",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "O Peregrino Paciente",
+    "character_desc": "Andarilho que percorre cada degrau do templo a pé, tocando tudo, sem atalhos nem autômatos.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a patient pilgrim walking every step, treading each temple stair by hand, touching every door, checklist scroll and quill, no shortcuts, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r067",
+    "sheet_id": "s057",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "O Ledor às Cegas",
+    "character_desc": "Figura de olhos vendados que lê o reino pelo tato e pelo som, provando que todos podem entrar.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a blindfolded figure reading by touch, sensing the realm through raised symbols and a listening bell, proving all may enter, guiding staff, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r068",
+    "sheet_id": "s057",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "O Escriba Iluminador",
+    "character_desc": "Monge-escriba que ilumina um grande códice com margens douradas explicando cada rito do reino.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of an illuminating scribe-monk, penning a great codex with gilt margins explaining every rite, quill and inkhorn, open manuscript, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r069",
+    "sheet_id": "s057",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "O Arauto Errante",
+    "character_desc": "Bardo viajante que ergue um báculo-tocha e reúne multidões para narrar as maravilhas do reino.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a wandering herald-bard, raising a torch-staff and gathering a crowd to tell the realm's wonders, open arms, banner, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r070",
+    "sheet_id": "s057",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "A Cartógrafa das Palavras",
+    "character_desc": "Sacerdotisa que dispõe pergaminhos-tema num tabuleiro, planejando a jornada de cada leitura.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a priestess arranging theme-scrolls, laying labeled scrolls on a board to plan a reading-journey, compass and map of words, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r071",
+    "sheet_id": "s057",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "O Poliglota",
+    "character_desc": "Figura coroada de muitas línguas de fogo que verte um só cântaro em muitos idiomas de água.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a figure crowned with many flame-tongues, pouring one urn that flows out in many languages of water, banners of scripts, open lips, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r072",
+    "sheet_id": "s057",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "O Artífice do Todo",
+    "character_desc": "Mago-artesão que ergue um objeto acabado e reluzente, unindo forma, função e beleza num só gesto.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a master craftsman raising a finished object, presenting one gleaming complete artifact uniting form and function, tools crossed at feet, halo, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r073",
+    "sheet_id": "s057",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "O Pintor Solar",
+    "character_desc": "Artista radiante que pinta um grande sol e uma paleta de cores vivas espalhando luz pela carta.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a radiant painter beneath a sun, wielding a palette and brush casting vivid color across the scene, bright sun overhead, easel, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r074",
+    "sheet_id": "s057",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "O Maestro dos Gestos",
+    "character_desc": "Figura que rege pequenos autômatos-botão que respondem em dança a cada movimento de sua batuta.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a conductor of gesture-automata, directing small button-figures that dance in response to a baton's motion, arcs of movement, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r075",
+    "sheet_id": "s057",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "O Portador do Movimento",
+    "character_desc": "Figura em passo suspenso cercada de fitas em espiral que registram cada nuance do seu gesto.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a figure in suspended stride, wreathed in spiraling motion-ribbons tracing each nuance of gesture, dynamic pose, trailing cloth, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r076",
+    "sheet_id": "s057",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "O Iluminador",
+    "character_desc": "Artista de pincel dourado que preenche uma página em branco com criaturas e cenas do nada.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of an illuminator with a golden brush, conjuring creatures and scenes onto a blank page from nothing, paint pots, illustrated border, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r077",
+    "sheet_id": "s057",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "O Forjador de Talismãs",
+    "character_desc": "Artesão que cunha pequenos ícones-talismã idênticos numa bancada, cada um pronto para o reino.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a talisman-smith at a bench, stamping rows of identical small icon-talismans, molds and burin, tray of finished asset-charms, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r078",
+    "sheet_id": "s057",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "O Guardião do Brasão",
+    "character_desc": "Hierofante que ergue um grande brasão-selo do reino, guardião da face e do nome de tudo.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a hierophant raising a great crest, holding aloft the realm's emblematic seal, guardian of its face and name, robe of one bold color, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r079",
+    "sheet_id": "s057",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "O Tocador de Sinos",
+    "character_desc": "Figura que faz vibrar sinos e cordas cujas ondas se espalham visíveis pelo ar da carta.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a figure striking bells and strings, sounding bells and a lyre whose visible sound-waves ripple through the air, tuning fork, halo of rings, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r080",
+    "sheet_id": "s057",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "O Escultor de Volumes",
+    "character_desc": "Mago que ergue do barro uma forma tridimensional que gira, dando profundidade ao plano.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a magus raising a sculpted form from clay, lifting a rotating three-dimensional shape gaining depth from a flat plane, modeling tools, wireframe glow, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r081",
+    "sheet_id": "s057",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "O Arquiteto do Jogo",
+    "character_desc": "Figura que dispõe peças, dados e regras num tabuleiro-mundo, definindo o ritmo da brincadeira.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a figure laying out a game-board world, arranging pieces, dice and rule-scrolls on a world-board, defining the play, wand pointing, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r082",
+    "sheet_id": "s057",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "A Guardiã do Labirinto",
+    "character_desc": "Sacerdotisa que constrói caminhos, portas e armadilhas num mapa-fortaleza para os viajantes.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a priestess building a labyrinth-map, shaping paths, gates and traps on a fortress map for travelers, model towers and keys, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r083",
+    "sheet_id": "s057",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "A Contadora de Histórias",
+    "character_desc": "Figura d'A Lua que abre um livro do qual saem caminhos, luas e criaturas de um enredo vivo.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a storyteller beneath a moon, opening a book from which paths, moons and creatures of a living plot emerge, two towers, howling hound, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r084",
+    "sheet_id": "s057",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "O Encantador de Mundos",
+    "character_desc": "Mago que dá vida a um pequeno reino sobre a mesa-altar, personagens se movendo a seu comando.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a world-conjuring magus, animating a tiny living kingdom on an altar table, small characters moving at his command, wand raised, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r085",
+    "sheet_id": "s057",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "O Portador da Luz",
+    "character_desc": "Figura que molda a própria luz em prismas e sombras, esculpindo o brilho de cada superfície.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a figure shaping light itself, bending rays into prisms and shadows, sculpting the gleam of surfaces, crystal in hand, radiant aura, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r086",
+    "sheet_id": "s057",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "O Ourives Minúsculo",
+    "character_desc": "Artesão debruçado que grava circuitos em um grão de pedra preciosa menor que a unha.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a jeweler engraving a tiny gem, etching circuits into a gemstone smaller than a fingernail, loupe and fine burin, spark of light, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r087",
+    "sheet_id": "s057",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "O Sopro na Máquina",
+    "character_desc": "Mago que insufla um espírito animador numa engrenagem adormecida, dando-lhe o primeiro pulso.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a magus breathing spirit into a gear, instilling an animating breath into a dormant clockwork core, giving it a first pulse, glowing coil, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r088",
+    "sheet_id": "s057",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "A Rede de Familiares",
+    "character_desc": "Figura cercada de muitos pequenos objetos-familiares que lhe sussurram, todos ligados por fios de luz.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a figure amid many small familiars, surrounded by little sensor-familiars whispering, all linked by threads of light, central lantern, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r089",
+    "sheet_id": "s057",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "O Guardião da Corrente",
+    "character_desc": "Figura que forja e sela elos de uma corrente dourada onde cada elo guarda a marca do anterior.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a figure forging a golden chain, linking and sealing chain-blocks each bearing the previous one's mark, hammer and ledger-links, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r090",
+    "sheet_id": "s057",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "O Escrutinador dos Pactos",
+    "character_desc": "Eremita que examina à lupa um contrato de pedra gravado, caçando a falha oculta na letra.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a hermit scrutinizing a stone contract, examining an engraved covenant-tablet through a glass, hunting the hidden flaw, red seal and quill, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r091",
+    "sheet_id": "s057",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "O Abridor de Portais",
+    "character_desc": "Figura que ergue lentes-cristal pelas quais um mundo sobreposto floresce sobre o real.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a figure raising crystal lenses, lifting a visor of crystal through which an overlaid world blooms over the real, floating apparitions, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r092",
+    "sheet_id": "s057",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "O Titereiro de Autômatos",
+    "character_desc": "Mago que comanda um grande golem articulado por fios de luz, movendo-o com gestos precisos.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a magus commanding a great automaton, steering a jointed golem by threads of light with precise gestures, control-wand, gear-limbs, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r093",
+    "sheet_id": "s057",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "O Semeador",
+    "character_desc": "Figura que lança sementes luminosas que brotam em multidões, cada uma um novo devoto do reino.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a sower casting luminous seeds, scattering glowing seeds that sprout into growing crowds, each a new follower, seed-pouch, rising sprouts, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r094",
+    "sheet_id": "s057",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "O Guia dos Rumos",
+    "character_desc": "Eremita que ergue uma estrela-bússola que atrai os viajantes perdidos ao portão do reino.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a hermit raising a compass-star, holding a guiding star-compass that draws lost travelers to the realm's gate, path of footprints, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r095",
+    "sheet_id": "s057",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "O Alquimista das Multidões",
+    "character_desc": "Mago que mistura poções de atração em muitos frascos rotulados, cada rota um filtro de público.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of an alchemist of crowds, blending attraction-potions in many labeled flasks, each a channel-funnel, target-glyph, retort, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r096",
+    "sheet_id": "s057",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "A Ponte dos Reinos",
+    "character_desc": "Figura entre dois tronos que estende um cajado unindo o reino técnico ao reino do cliente.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a figure between two thrones, extending a staff that bridges the technical realm and the client realm, handshake of two banners, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r097",
+    "sheet_id": "s057",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "O Curandeiro Sereno",
+    "character_desc": "Figura d'A Temperança que verte um bálsamo calmante sobre o viajante aflito, restaurando a paz.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a serene healer pouring balm, an angelic figure pouring soothing balm between two cups onto a troubled traveler, one foot on water, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r098",
+    "sheet_id": "s057",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "O Mercador dos Ouros",
+    "character_desc": "Figura opulenta que exibe uma bandeja de pentáculos reluzentes, prometendo o valor do reino.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of an opulent figure presenting pentacles, displaying a tray of gleaming pentacle-coins, promising the realm's worth, open cloak, ledger, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r099",
+    "sheet_id": "s057",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "O Guardião do Tesouro",
+    "character_desc": "Rei de Ouros que pesa moedas numa balança sobre um cofre, zelando por cada peça do reino.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a King of Pentacles weighing coins, balancing coins on scales atop a treasure chest, watching over every piece, pentacle and ledger, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s057-r100",
+    "sheet_id": "s057",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "O Juiz dos Pactos",
+    "character_desc": "Hierofante-magistrado que sela um grande pergaminho de leis com martelo e balança ao lado.",
+    "nano_prompt": "Rider-Waite tarot arcana illustration of a hierophant-magistrate sealing law, stamping a great scroll of statutes, gavel and scales beside him, sober robe, two pillars, flat medieval woodcut illustration style with bold black ink outlines and flat hand-painted primary colors (crimson red, sky blue, golden yellow), golden halo behind the head, ornamental symbolic details, standing full-length arcana figure on a mystical tarot card scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

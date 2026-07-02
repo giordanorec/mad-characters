@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s001-r001",
+    "sheet_id": "s001",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Coruja Blueprint",
+    "character_desc": "Coruja de pelúcia arquiteta: segura plantas enroladas e um compasso, com capacete de obra, planejando a estrutura do bosque.",
+    "nano_prompt": "Soft plush stuffed-animal owl, waist-up bust portrait, wearing a tiny hard hat, holding rolled architectural blueprints and a drafting compass, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, wise focused expression, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r002",
+    "sheet_id": "s001",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Raposa Líder",
+    "character_desc": "Raposa de pelúcia que guia o time técnico: prancheta na mão e uma pata erguida apontando o caminho, com crachá de bolota.",
+    "nano_prompt": "Soft plush stuffed-animal fox, waist-up bust portrait, holding a clipboard, one paw raised guiding the way, small acorn leader badge, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, confident encouraging smile, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r003",
+    "sheet_id": "s001",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Urso Staff",
+    "character_desc": "Urso de pelúcia sênior e experiente: chave de fenda numa pata e laptop na outra, com tufo de musgo tipo barba.",
+    "nano_prompt": "Soft plush stuffed-animal bear, waist-up bust portrait, holding a wrench in one paw and a small laptop in the other, mossy beard tuft, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, thoughtful seasoned look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r004",
+    "sheet_id": "s001",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Cervo Principal",
+    "character_desc": "Cervo de pelúcia principal: galhada alta enfeitada com pequenas ferramentas e uma lanterna acesa iluminando decisões.",
+    "nano_prompt": "Soft plush stuffed-animal stag, waist-up bust portrait, tall antlers draped with tiny tools, holding a glowing lantern, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, calm authoritative gaze, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r005",
+    "sheet_id": "s001",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Texugo Gerente",
+    "character_desc": "Texugo de pelúcia gerente de engenharia: lista de time e apito de treinador, cuidando das pessoas.",
+    "nano_prompt": "Soft plush stuffed-animal badger, waist-up bust portrait, holding a team roster clipboard and a coach whistle around the neck, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, warm supportive smile, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r006",
+    "sheet_id": "s001",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Castor Produto",
+    "character_desc": "Castor de pelúcia PM: segura um roadmap coberto de post-its coloridos, priorizando o que construir.",
+    "nano_prompt": "Soft plush stuffed-animal beaver, waist-up bust portrait, holding a roadmap chart covered in tiny colorful sticky notes, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, enthusiastic planning look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r007",
+    "sheet_id": "s001",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Coelho Owner",
+    "character_desc": "Coelho de pelúcia Product Owner: abraça o backlog enrolado com fichas de estrela de prioridade.",
+    "nano_prompt": "Soft plush stuffed-animal rabbit, waist-up bust portrait, clutching a prioritized backlog scroll dotted with star priority tokens, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, attentive determined face, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r008",
+    "sheet_id": "s001",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Garça Programa",
+    "character_desc": "Garça de pelúcia Program Manager: segura vários banners de cronograma, coordenando frentes.",
+    "nano_prompt": "Soft plush stuffed-animal heron, waist-up bust portrait, holding several Gantt-chart banners, coordinating multi-track pose, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, organized alert expression, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r009",
+    "sheet_id": "s001",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Esquilo Projeto",
+    "character_desc": "Esquilo de pelúcia PM: calendário-quadro numa pata e cronômetro na outra, controlando prazos.",
+    "nano_prompt": "Soft plush stuffed-animal squirrel, waist-up bust portrait, holding a calendar board and a stopwatch, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, busy on-schedule look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r010",
+    "sheet_id": "s001",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Ouriço Scrum",
+    "character_desc": "Ouriço de pelúcia Scrum Master: quadro de sprint na frente e post-its grudados nos espinhos.",
+    "nano_prompt": "Soft plush stuffed-animal hedgehog, waist-up bust portrait, holding a sprint board with post-it notes stuck onto its quills, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, helpful facilitating smile, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r011",
+    "sheet_id": "s001",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Toupeira Backend",
+    "character_desc": "Toupeira de pelúcia backend: carrega um mini rack de servidor nas costas e segura uma engrenagem.",
+    "nano_prompt": "Soft plush stuffed-animal mole, waist-up bust portrait, carrying a tiny server rack backpack, holding a metal gear, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, hardworking underground look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r012",
+    "sheet_id": "s001",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Doninha API",
+    "character_desc": "Doninha de pelúcia API designer: encaixa peças-conector e segura um cabo de plugue.",
+    "nano_prompt": "Soft plush stuffed-animal weasel, waist-up bust portrait, holding puzzle-piece connectors and a plug cable, fitting endpoints together, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, clever connecting expression, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r013",
+    "sheet_id": "s001",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Guaxinim Micro",
+    "character_desc": "Guaxinim de pelúcia de microsserviços: equilibra várias caixinhas etiquetadas de serviços independentes.",
+    "nano_prompt": "Soft plush stuffed-animal raccoon, waist-up bust portrait, juggling several small labeled service boxes stacked in its paws, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, focused multitasking look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r014",
+    "sheet_id": "s001",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Lontra Pipeline",
+    "character_desc": "Lontra de pelúcia pipeline dev: segura um cano segmentado com bolinhas de dados fluindo.",
+    "nano_prompt": "Soft plush stuffed-animal otter, waist-up bust portrait, holding a segmented pipe with flowing data marbles running through it, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, smooth flowing expression, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r015",
+    "sheet_id": "s001",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Castor Dados",
+    "character_desc": "Castor de pelúcia data engineer: empilha blocos-de-dados formando uma represa organizada.",
+    "nano_prompt": "Soft plush stuffed-animal beaver, waist-up bust portrait, stacking labeled data-block bricks into a small tidy dam, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, industrious building look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r016",
+    "sheet_id": "s001",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Coruja DBA",
+    "character_desc": "Coruja de pelúcia DBA: molho de chaves ao lado de um pequeno arquivo de gavetas de banco de dados.",
+    "nano_prompt": "Soft plush stuffed-animal owl, waist-up bust portrait, holding a ring of keys beside a tiny filing cabinet of database drawers, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, meticulous guardian gaze, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r017",
+    "sheet_id": "s001",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Ratinho SQL",
+    "character_desc": "Ratinho de pelúcia SQL: pergaminho com grades de tabela e lupa examinando consultas.",
+    "nano_prompt": "Soft plush stuffed-animal mouse, waist-up bust portrait, holding a scroll marked with table grids and a magnifying glass, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, precise querying look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r018",
+    "sheet_id": "s001",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Tâmia Cache",
+    "character_desc": "Tâmia de pelúcia caching engineer: bochechas cheias e potes etiquetados guardando bolotas de acesso rápido.",
+    "nano_prompt": "Soft plush stuffed-animal chipmunk, waist-up bust portrait, cheeks stuffed full, holding labeled quick-access storage jars of acorns, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, quick clever smile, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r019",
+    "sheet_id": "s001",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Esquilo Fila",
+    "character_desc": "Esquilo carteiro de pelúcia: enfia envelopes ordenados num tubo pneumático, com bolsa de correio.",
+    "nano_prompt": "Soft plush stuffed-animal squirrel, waist-up bust portrait, feeding ordered envelopes into a pneumatic message tube, mail satchel, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, orderly delivering look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r020",
+    "sheet_id": "s001",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Lince Busca",
+    "character_desc": "Lince de pelúcia search engineer: olhos aguçados, lupa grande e fichas de índice para achar tudo.",
+    "nano_prompt": "Soft plush stuffed-animal lynx, waist-up bust portrait, holding a large magnifying glass and a fan of index tab cards, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, keen searching gaze, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r021",
+    "sheet_id": "s001",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Pintarroxo Front",
+    "character_desc": "Pintarroxo de pelúcia frontend: segura uma moldura de janela de navegador e um pincel.",
+    "nano_prompt": "Soft plush stuffed-animal robin, waist-up bust portrait, holding a browser-window frame and a paintbrush, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, cheerful creative look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r022",
+    "sheet_id": "s001",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Carriça UI",
+    "character_desc": "Carriça de pelúcia UI engineer: monta blocos de botões e sliders de interface.",
+    "nano_prompt": "Soft plush stuffed-animal wren, waist-up bust portrait, arranging tiny UI button and slider component blocks, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, tidy assembling expression, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r023",
+    "sheet_id": "s001",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Corça UX",
+    "character_desc": "Corça de pelúcia UX designer: mapa de jornada sinuoso numa pata e uma fichinha de coração-empatia.",
+    "nano_prompt": "Soft plush stuffed-animal deer, waist-up bust portrait, holding a winding user-journey map and a small empathy heart token, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, empathetic gentle look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r024",
+    "sheet_id": "s001",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Abelha Design System",
+    "character_desc": "Abelha de pelúcia de design systems: bandeja-grade com tokens de componentes idênticos e reutilizáveis.",
+    "nano_prompt": "Soft plush stuffed-animal bee, waist-up bust portrait, holding a honeycomb tray grid of matching reusable component tokens, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, orderly systematic look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r025",
+    "sheet_id": "s001",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Morcego Acessível",
+    "character_desc": "Morcego de pelúcia especialista em acessibilidade: cartão de alto contraste e fone de leitor de tela.",
+    "nano_prompt": "Soft plush stuffed-animal bat, waist-up bust portrait, holding a high-contrast swatch card and a screen-reader earpiece, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, attentive inclusive expression, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r026",
+    "sheet_id": "s001",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Lebre Performance",
+    "character_desc": "Lebre de pelúcia de web performance: velocímetro na pata em pose de arrancada veloz.",
+    "nano_prompt": "Soft plush stuffed-animal hare, waist-up bust portrait, holding a speedometer gauge, mid-sprint ready pose, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, fast eager look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r027",
+    "sheet_id": "s001",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Perereca CSS",
+    "character_desc": "Perereca de pelúcia CSS: leque de amostras de cor e uma régua de layout.",
+    "nano_prompt": "Soft plush stuffed-animal tree frog, waist-up bust portrait, holding a fan of paint color swatches and a layout ruler, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, stylish precise look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r028",
+    "sheet_id": "s001",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Libélula Animação",
+    "character_desc": "Libélula de pelúcia animation engineer: flipbook com arcos de movimento e rastros de blur.",
+    "nano_prompt": "Soft plush stuffed-animal dragonfly, waist-up bust portrait, holding a flipbook showing motion arcs and blur trails, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, dynamic playful look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r029",
+    "sheet_id": "s001",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Sapo Mobile",
+    "character_desc": "Sapo de pelúcia mobile dev: segura um smartphone pequenino com almofadinhas grudentas.",
+    "nano_prompt": "Soft plush stuffed-animal green frog, waist-up bust portrait, holding a tiny smartphone with sticky finger pads, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, adaptable ready look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r030",
+    "sheet_id": "s001",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Arminho iOS",
+    "character_desc": "Arminho branquinho de pelúcia iOS dev: telefone elegante e uma pequena maçã.",
+    "nano_prompt": "Soft plush stuffed-animal white ermine stoat, waist-up bust portrait, holding a sleek polished phone and a small apple fruit, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, sleek refined look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r031",
+    "sheet_id": "s001",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Tritão Android",
+    "character_desc": "Tritão verde de pelúcia Android dev: segura um bonequinho-robô verde mascote.",
+    "nano_prompt": "Soft plush stuffed-animal green newt, waist-up bust portrait, holding a small green robot mascot toy, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, friendly open-source smile, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r032",
+    "sheet_id": "s001",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Perereca Cross",
+    "character_desc": "Perereca de pelúcia React Native: dois telefones ligados por uma ponte, crachá de átomo em órbita.",
+    "nano_prompt": "Soft plush stuffed-animal tree frog, waist-up bust portrait, holding two phones joined by a small bridge, an orbiting-atom badge, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, versatile bridging look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r033",
+    "sheet_id": "s001",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Borboleta Flutter",
+    "character_desc": "Borboleta de pelúcia Flutter dev: asas azuis reluzentes e um telefone na pata.",
+    "nano_prompt": "Soft plush stuffed-animal butterfly, waist-up bust portrait, shimmering blue wings, holding a smartphone, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, graceful fluttering look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r034",
+    "sheet_id": "s001",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Coruja Cientista",
+    "character_desc": "Coruja de pelúcia data scientist: jaleco, béquer com gotas de dado brilhando e um gráfico.",
+    "nano_prompt": "Soft plush stuffed-animal owl, waist-up bust portrait, wearing a lab coat, holding a beaker of glowing data droplets and a chart, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, curious analytical gaze, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r035",
+    "sheet_id": "s001",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Raposa ML",
+    "character_desc": "Raposa de pelúcia ML engineer: conduz uma criaturinha mecânica na guia, treinando modelos.",
+    "nano_prompt": "Soft plush stuffed-animal fox, waist-up bust portrait, holding a small mechanical creature on a leash with a gear collar, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, training focused look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r036",
+    "sheet_id": "s001",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Guaxinim MLOps",
+    "character_desc": "Guaxinim de pelúcia MLOps: chave inglesa ao lado de uma esteira de caixas de modelo.",
+    "nano_prompt": "Soft plush stuffed-animal raccoon, waist-up bust portrait, holding a wrench beside a conveyor belt of model boxes, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, operational steady look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r037",
+    "sheet_id": "s001",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Coruja Pesquisa",
+    "character_desc": "Coruja de pelúcia AI researcher: óculos redondos, um paper grosso e uma lâmpada de ideia acesa.",
+    "nano_prompt": "Soft plush stuffed-animal owl, waist-up bust portrait, wearing round glasses, holding a research paper and a glowing lightbulb, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, inquisitive bright look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r038",
+    "sheet_id": "s001",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Pega Prompt",
+    "character_desc": "Pega de pelúcia prompt engineer: pergaminho com balão de fala e uma varinha mágica.",
+    "nano_prompt": "Soft plush stuffed-animal magpie, waist-up bust portrait, holding a speech-bubble scroll and a small magic wand, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, clever articulate look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r039",
+    "sheet_id": "s001",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Rouxinol NLP",
+    "character_desc": "Rouxinol de pelúcia NLP engineer: bico aberto e fita de forma de onda da fala.",
+    "nano_prompt": "Soft plush stuffed-animal nightingale, waist-up bust portrait, beak open, holding a ribbon of speech waveforms, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, expressive singing look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r040",
+    "sheet_id": "s001",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Coruja Visão",
+    "character_desc": "Coruja de pelúcia computer vision: monóculo-lente de câmera e molduras de detecção flutuando.",
+    "nano_prompt": "Soft plush stuffed-animal owl, waist-up bust portrait, holding a camera, wearing a lens monocle, floating bounding-box frames, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, sharp observant gaze, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r041",
+    "sheet_id": "s001",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Ratinho Analista",
+    "character_desc": "Ratinho de pelúcia data analyst: ficha de gráfico de barras e uma calculadora.",
+    "nano_prompt": "Soft plush stuffed-animal mouse, waist-up bust portrait, holding a bar-chart card and a calculator, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, attentive number-crunching look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r042",
+    "sheet_id": "s001",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Castor BI",
+    "character_desc": "Castor de pelúcia BI analyst: painel de dashboard cheio de mostradores e ponteiros.",
+    "nano_prompt": "Soft plush stuffed-animal beaver, waist-up bust portrait, holding a dashboard panel full of gauges and dials, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, insightful monitoring look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r043",
+    "sheet_id": "s001",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Esquilo Analytics",
+    "character_desc": "Esquilo de pelúcia analytics engineer: separa nozes cruas numa bandeja de tabela arrumada.",
+    "nano_prompt": "Soft plush stuffed-animal squirrel, waist-up bust portrait, sorting raw nuts into a tidy labeled table tray, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, organized transforming look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r044",
+    "sheet_id": "s001",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Faisão DataViz",
+    "character_desc": "Faisão de pelúcia data viz: cauda colorida em leque de gráfico de pizza e uma ficha de linha.",
+    "nano_prompt": "Soft plush stuffed-animal pheasant, waist-up bust portrait, fanning a colorful pie-chart tail, holding a line-graph card, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, vivid expressive look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r045",
+    "sheet_id": "s001",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Texugo DevOps",
+    "character_desc": "Texugo de pelúcia DevOps: cinto de ferramentas, chave inglesa e ficha de loop-infinito.",
+    "nano_prompt": "Soft plush stuffed-animal badger, waist-up bust portrait, wearing a tool belt, holding a wrench and an infinity-loop token, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, reliable hands-on look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r046",
+    "sheet_id": "s001",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Coruja SRE",
+    "character_desc": "Coruja de pelúcia SRE: monitor com linha de batimento e um extintor pronto para incidentes.",
+    "nano_prompt": "Soft plush stuffed-animal owl, waist-up bust portrait, holding a monitor showing a heartbeat line and a small fire extinguisher, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, vigilant on-call look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r047",
+    "sheet_id": "s001",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Castor Plataforma",
+    "character_desc": "Castor de pelúcia platform engineer: em pé sobre uma plataforma construída, oferecendo blocos ao time.",
+    "nano_prompt": "Soft plush stuffed-animal beaver, waist-up bust portrait, standing on a small built platform, holding building blocks to share, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, supportive builder look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r048",
+    "sheet_id": "s001",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Garça Cloud",
+    "character_desc": "Garça de pelúcia cloud architect: nuvem fofa numa pata e blueprint na outra, bem alta.",
+    "nano_prompt": "Soft plush stuffed-animal heron, waist-up bust portrait, holding a fluffy cloud and a blueprint, standing tall, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, visionary lofty gaze, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r049",
+    "sheet_id": "s001",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Lontra K8s",
+    "character_desc": "Lontra de pelúcia Kubernetes admin: timão de navio, caixas-contêiner empilhadas e chapéu de capitão.",
+    "nano_prompt": "Soft plush stuffed-animal otter, waist-up bust portrait, gripping a ship's wheel, stacked container crates, wearing a captain hat, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, steady captain look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r050",
+    "sheet_id": "s001",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Aranha Rede",
+    "character_desc": "Aranha de pelúcia network engineer: tece uma teia de cabos e segura um conector RJ45.",
+    "nano_prompt": "Soft plush stuffed-animal spider, waist-up bust portrait, weaving a web of network cables, holding an RJ45 connector, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, connected methodical look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r051",
+    "sheet_id": "s001",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Toupeira Sysadmin",
+    "character_desc": "Toupeira de pelúcia sysadmin: molho de chaves ao lado de uma torre de servidor zumbindo.",
+    "nano_prompt": "Soft plush stuffed-animal mole, waist-up bust portrait, holding a keyring beside a humming server tower, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, reliable caretaker look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r052",
+    "sheet_id": "s001",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Esquilo Release",
+    "character_desc": "Esquilo de pelúcia release engineer: pacotinho-foguete etiquetado pronto para lançar, com fita de tag.",
+    "nano_prompt": "Soft plush stuffed-animal squirrel, waist-up bust portrait, holding a small rocket-package with a version tag ribbon, ready to launch, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, ready-to-ship excited look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r053",
+    "sheet_id": "s001",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Castor Build",
+    "character_desc": "Castor de pelúcia build engineer: martela um engradado de build com um malho.",
+    "nano_prompt": "Soft plush stuffed-animal beaver, waist-up bust portrait, hammering a build crate together, holding a mallet, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, constructive focused look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r054",
+    "sheet_id": "s001",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Ouriço CI/CD",
+    "character_desc": "Ouriço de pelúcia CI/CD: cuida de uma esteira em loop com bandeirinhas de check verde.",
+    "nano_prompt": "Soft plush stuffed-animal hedgehog, waist-up bust portrait, tending a conveyor loop with little green check flags, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, automated steady look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r055",
+    "sheet_id": "s001",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Texugo Segurança",
+    "character_desc": "Texugo de pelúcia security engineer: escudo numa pata e cadeado na outra, em guarda.",
+    "nano_prompt": "Soft plush stuffed-animal badger, waist-up bust portrait, holding a shield and a padlock, protective guarding stance, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, watchful defensive look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r056",
+    "sheet_id": "s001",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Raposa Pentester",
+    "character_desc": "Raposa de pelúcia pentester: capuz escuro, gazuas e um pé-de-cabra testando brechas.",
+    "nano_prompt": "Soft plush stuffed-animal fox, waist-up bust portrait, wearing a dark hoodie, holding lockpicks and a small crowbar, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, sly probing look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r057",
+    "sheet_id": "s001",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Ouriço AppSec",
+    "character_desc": "Ouriço de pelúcia AppSec: escudo e um bug preso numa pinça, blindado por espinhos.",
+    "nano_prompt": "Soft plush stuffed-animal hedgehog, waist-up bust portrait, holding a shield and a bug caught in tweezers, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, armored alert look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r058",
+    "sheet_id": "s001",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Coruja Cripto",
+    "character_desc": "Coruja de pelúcia cryptographer: roda de cifra e pergaminho trancado a cadeado.",
+    "nano_prompt": "Soft plush stuffed-animal owl, waist-up bust portrait, holding a cipher wheel and a padlocked scroll, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, secretive clever gaze, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r059",
+    "sheet_id": "s001",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Garça Compliance",
+    "character_desc": "Garça de pelúcia compliance officer: prancheta de checklist, carimbo de aprovação e faixa oficial.",
+    "nano_prompt": "Soft plush stuffed-animal heron, waist-up bust portrait, holding a checklist clipboard and an approval stamp, wearing an official sash, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, meticulous formal look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r060",
+    "sheet_id": "s001",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Toupeira Privacidade",
+    "character_desc": "Toupeira de pelúcia privacy engineer: marcador de redação e máscara de privacidade, escondendo dados.",
+    "nano_prompt": "Soft plush stuffed-animal mole, waist-up bust portrait, holding a redaction marker, wearing a small privacy mask, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, discreet protective look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r061",
+    "sheet_id": "s001",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Raposa Incidente",
+    "character_desc": "Raposa bombeira de pelúcia incident responder: capacete, extintor e um pager vermelho apitando.",
+    "nano_prompt": "Soft plush stuffed-animal fox, waist-up bust portrait, wearing a firefighter helmet, holding an extinguisher and a red pager, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, urgent responsive look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r062",
+    "sheet_id": "s001",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Aranha Ameaça",
+    "character_desc": "Aranha de pelúcia threat modeler: fixa marcadores vermelhos numa teia de árvore de ataque.",
+    "nano_prompt": "Soft plush stuffed-animal spider, waist-up bust portrait, pinning red threat markers onto an attack-tree web board, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, strategic wary look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r063",
+    "sheet_id": "s001",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Joaninha QA",
+    "character_desc": "Joaninha de pelúcia QA: rede de pegar bugs e uma checklist de testes.",
+    "nano_prompt": "Soft plush stuffed-animal ladybug, waist-up bust portrait, holding a bug-catching net and a test checklist, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, diligent hunting look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r064",
+    "sheet_id": "s001",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Esquilo SDET",
+    "character_desc": "Esquilo robótico de pelúcia SDET: geringonça de rede de bug automatizada com engrenagens.",
+    "nano_prompt": "Soft plush stuffed-animal squirrel, waist-up bust portrait, holding an automated bug-net contraption with spinning gears, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, efficient automated look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r065",
+    "sheet_id": "s001",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Lebre Carga",
+    "character_desc": "Lebre de pelúcia performance tester: cronômetro e pesos de teste de carga empilhados.",
+    "nano_prompt": "Soft plush stuffed-animal hare, waist-up bust portrait, holding a stopwatch and stacked load-test weights, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, measuring strained look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r066",
+    "sheet_id": "s001",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Ratinho Manual",
+    "character_desc": "Ratinho de pelúcia manual tester: lupa numa pata, cutucando um painel de botões com a outra.",
+    "nano_prompt": "Soft plush stuffed-animal mouse, waist-up bust portrait, holding a magnifying glass, poking a button panel by paw, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, careful curious look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r067",
+    "sheet_id": "s001",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Morcego Auditor A11y",
+    "character_desc": "Morcego de pelúcia accessibility tester: checklist de acessibilidade, fone de leitor e orelha em concha.",
+    "nano_prompt": "Soft plush stuffed-animal bat, waist-up bust portrait, holding an accessibility checklist and a screen-reader earpiece, one ear cupped, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, attentive listening look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r068",
+    "sheet_id": "s001",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Coruja Escritora",
+    "character_desc": "Coruja de pelúcia technical writer: pena de escrever e um manual aberto, com óculos de leitura.",
+    "nano_prompt": "Soft plush stuffed-animal owl, waist-up bust portrait, holding a quill and an open manual book, reading glasses, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, articulate studious look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r069",
+    "sheet_id": "s001",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Pega Advogada Dev",
+    "character_desc": "Pega de pelúcia developer advocate: microfone e um maço de adesivos, em cima de um caixote de palco.",
+    "nano_prompt": "Soft plush stuffed-animal magpie, waist-up bust portrait, holding a microphone and a bundle of stickers, standing on a stage box, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, outgoing charismatic look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r070",
+    "sheet_id": "s001",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Corvo Conteúdo",
+    "character_desc": "Corvo de pelúcia content strategist: calendário-mapa de conteúdo com alfinetes conectados.",
+    "nano_prompt": "Soft plush stuffed-animal crow, waist-up bust portrait, holding a content-calendar map with connected pins, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, planning thoughtful look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r071",
+    "sheet_id": "s001",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Papagaio i18n",
+    "character_desc": "Papagaio de pelúcia localization engineer: globo cercado de bandeirinhas de idiomas diferentes.",
+    "nano_prompt": "Soft plush stuffed-animal parrot, waist-up bust portrait, holding a small globe ringed with different language flags, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, worldly welcoming look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r072",
+    "sheet_id": "s001",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Corça Produto Design",
+    "character_desc": "Corça de pelúcia product designer: prancheta de wireframe e uma caneta stylus.",
+    "nano_prompt": "Soft plush stuffed-animal deer, waist-up bust portrait, holding a wireframe sketchpad and a stylus pen, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, thoughtful crafting look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r073",
+    "sheet_id": "s001",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Borboleta Visual",
+    "character_desc": "Borboleta de pelúcia visual designer: paleta de pintor e pincel, com asas coloridas.",
+    "nano_prompt": "Soft plush stuffed-animal butterfly, waist-up bust portrait, holding a painter's palette and a brush, colorful patterned wings, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, artistic vivid look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r074",
+    "sheet_id": "s001",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Perereca Interação",
+    "character_desc": "Perereca de pelúcia interaction designer: tile de protótipo com setas de toque-ondulação.",
+    "nano_prompt": "Soft plush stuffed-animal tree frog, waist-up bust portrait, holding a prototype tile with tap-ripple interaction arrows, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, playful responsive look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r075",
+    "sheet_id": "s001",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Libélula Motion",
+    "character_desc": "Libélula de pelúcia motion designer: fita de timeline de keyframes com blur de movimento.",
+    "nano_prompt": "Soft plush stuffed-animal dragonfly, waist-up bust portrait, holding a keyframe timeline ribbon with motion blur, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, fluid rhythmic look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r076",
+    "sheet_id": "s001",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Coelho Ilustrador",
+    "character_desc": "Coelho de pelúcia illustrator: lápis gigante e um caderno cheio de rabiscos.",
+    "nano_prompt": "Soft plush stuffed-animal rabbit, waist-up bust portrait, holding an oversized pencil and a sketchbook full of doodles, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, imaginative doodling look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r077",
+    "sheet_id": "s001",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Esquilo Assets",
+    "character_desc": "Esquilo de pelúcia asset designer: bandeja com iconezinhos de sprite e adereços de jogo.",
+    "nano_prompt": "Soft plush stuffed-animal squirrel, waist-up bust portrait, holding a tray of tiny sprite icons and game props, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, detail-oriented crafty look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r078",
+    "sheet_id": "s001",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Faisão Marca",
+    "character_desc": "Faisão de pelúcia brand designer: emblema-escudo em branco e um leque de amostras de marca.",
+    "nano_prompt": "Soft plush stuffed-animal pheasant, waist-up bust portrait, holding a blank emblem shield and a brand swatch fan, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, polished identity look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r079",
+    "sheet_id": "s001",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Grilo Som",
+    "character_desc": "Grilo de pelúcia sound designer: fones de ouvido, microfone e uma fita de forma de onda.",
+    "nano_prompt": "Soft plush stuffed-animal cricket, waist-up bust portrait, wearing headphones, holding a microphone and a waveform ribbon, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, listening rhythmic look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r080",
+    "sheet_id": "s001",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Castor 3D",
+    "character_desc": "Castor de pelúcia 3D artist: esculpe um modelo wireframe numa mesa giratória, com ferramentas de argila.",
+    "nano_prompt": "Soft plush stuffed-animal beaver, waist-up bust portrait, sculpting a 3D wireframe model on a turntable, holding clay tools, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, focused sculpting look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r081",
+    "sheet_id": "s001",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Raposa Game Design",
+    "character_desc": "Raposa de pelúcia game designer: controle de videogame, dados e um livro de regras.",
+    "nano_prompt": "Soft plush stuffed-animal fox, waist-up bust portrait, holding a game controller, a pair of dice, and a rulebook, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, playful inventive look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r082",
+    "sheet_id": "s001",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Toupeira Level",
+    "character_desc": "Toupeira de pelúcia level designer: arruma um diorama de labirinto-fase com bandeirinhas.",
+    "nano_prompt": "Soft plush stuffed-animal mole, waist-up bust portrait, arranging a small maze-level diorama with flags and spawn markers, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, spatial clever look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r083",
+    "sheet_id": "s001",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Coruja Narrativa",
+    "character_desc": "Coruja de pelúcia narrative designer: livro de história e um pergaminho de caminhos ramificados.",
+    "nano_prompt": "Soft plush stuffed-animal owl, waist-up bust portrait, holding a storybook and a branching-path narrative scroll, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, storytelling wistful look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r084",
+    "sheet_id": "s001",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Guaxinim Game Dev",
+    "character_desc": "Guaxinim de pelúcia game developer: controle ligado a um sprite que brilha.",
+    "nano_prompt": "Soft plush stuffed-animal raccoon, waist-up bust portrait, holding a game controller wired to a glowing pixel sprite, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, engaged playful look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r085",
+    "sheet_id": "s001",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Vaga-lume Shader",
+    "character_desc": "Vaga-lume de pelúcia graphics/shader engineer: prisma que emite luz arco-íris, corpo luminoso.",
+    "nano_prompt": "Soft plush stuffed-animal firefly, waist-up bust portrait, holding a glowing prism casting rainbow light, luminous glowing body, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, radiant dazzled look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r086",
+    "sheet_id": "s001",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Besouro Embarcado",
+    "character_desc": "Besouro de pelúcia embedded engineer: placa de circuito pequena e um ferro de solda.",
+    "nano_prompt": "Soft plush stuffed-animal beetle, waist-up bust portrait, holding a small circuit board and a soldering iron, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, meticulous tinkering look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r087",
+    "sheet_id": "s001",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Formiga Firmware",
+    "character_desc": "Formiga de pelúcia firmware engineer: microchip numa pata e mini chave de fenda na outra.",
+    "nano_prompt": "Soft plush stuffed-animal ant, waist-up bust portrait, holding a microchip and a mini screwdriver, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, precise tiny-scale look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r088",
+    "sheet_id": "s001",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Ouriço IoT",
+    "character_desc": "Ouriço de pelúcia IoT engineer: faixa com antena e vários gadgets-sensor conectados nos espinhos.",
+    "nano_prompt": "Soft plush stuffed-animal hedgehog, waist-up bust portrait, wearing an antenna headband, holding networked sensor gadgets on its quills, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, connected buzzing look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r089",
+    "sheet_id": "s001",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Castor Blockchain",
+    "character_desc": "Castor de pelúcia blockchain dev: encadeia blocos etiquetados presos por cadeados.",
+    "nano_prompt": "Soft plush stuffed-animal beaver, waist-up bust portrait, linking a chain of padlocked labeled blocks together, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, methodical linking look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r090",
+    "sheet_id": "s001",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Coruja Auditora",
+    "character_desc": "Coruja de pelúcia smart contract auditor: lupa sobre um pergaminho de contrato e um martelinho.",
+    "nano_prompt": "Soft plush stuffed-animal owl, waist-up bust portrait, holding a magnifier over a contract scroll, a small gavel, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, scrutinizing careful gaze, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r091",
+    "sheet_id": "s001",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Sapo AR/VR",
+    "character_desc": "Sapo de pelúcia AR/VR engineer: óculos de VR e cubos holográficos flutuando ao redor.",
+    "nano_prompt": "Soft plush stuffed-animal green frog, waist-up bust portrait, wearing a VR headset, floating holographic cubes around its head, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, immersed wonder look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r092",
+    "sheet_id": "s001",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Guaxinim Robótica",
+    "character_desc": "Guaxinim de pelúcia robotics engineer: controle remoto operando um bracinho robótico.",
+    "nano_prompt": "Soft plush stuffed-animal raccoon, waist-up bust portrait, holding a remote controlling a small robotic arm, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, tinkering precise look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r093",
+    "sheet_id": "s001",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Coelho Growth",
+    "character_desc": "Coelho de pelúcia growth engineer: broto verde crescendo e ficha de gráfico com seta pra cima.",
+    "nano_prompt": "Soft plush stuffed-animal rabbit, waist-up bust portrait, holding a sprouting green shoot and an up-arrow growth chart, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, optimistic energetic look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r094",
+    "sheet_id": "s001",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Pega SEO",
+    "character_desc": "Pega de pelúcia SEO specialist: lupa e uma ficha-escada de ranking subindo, etiqueta de busca.",
+    "nano_prompt": "Soft plush stuffed-animal magpie, waist-up bust portrait, holding a magnifier and a climbing rank-ladder card with a search tag, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, opportunistic sharp look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r095",
+    "sheet_id": "s001",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Raposa MarTech",
+    "character_desc": "Raposa de pelúcia marketing technologist: funil de marketing e um megafone pequeno.",
+    "nano_prompt": "Soft plush stuffed-animal fox, waist-up bust portrait, holding a marketing funnel and a small megaphone, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, persuasive upbeat look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r096",
+    "sheet_id": "s001",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Castor Soluções",
+    "character_desc": "Castor de pelúcia solutions engineer: caixa-demo de ferramentas encaixando uma peça pro cliente.",
+    "nano_prompt": "Soft plush stuffed-animal beaver, waist-up bust portrait, holding a demo toolbox fitting a puzzle piece for a client, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, helpful problem-solving look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r097",
+    "sheet_id": "s001",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Lontra Suporte",
+    "character_desc": "Lontra de pelúcia support engineer: headset de atendimento, chave inglesa e um ticket de ajuda.",
+    "nano_prompt": "Soft plush stuffed-animal otter, waist-up bust portrait, wearing a support headset, holding a wrench and a help ticket, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, friendly helpful smile, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r098",
+    "sheet_id": "s001",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Raposa Vendas",
+    "character_desc": "Raposa de pelúcia sales engineer: maleta e tablet de demonstração, em pose de aperto de mão.",
+    "nano_prompt": "Soft plush stuffed-animal fox, waist-up bust portrait, holding a briefcase and a demo tablet, friendly handshake pose, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, confident welcoming smile, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r099",
+    "sheet_id": "s001",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Tâmia FinOps",
+    "character_desc": "Tâmia de pelúcia FinOps analyst: ábaco e pote de moedas, com etiqueta de orçamento de nuvem.",
+    "nano_prompt": "Soft plush stuffed-animal chipmunk, waist-up bust portrait, holding an abacus and a jar of coins, a cloud-budget tag, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, thrifty calculating look, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s001-r100",
+    "sheet_id": "s001",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Coruja Jurídica",
+    "character_desc": "Coruja de pelúcia legal counsel: balança da justiça, martelinho de juiz e gravata-borboleta.",
+    "nano_prompt": "Soft plush stuffed-animal owl, waist-up bust portrait, holding scales of justice and a gavel, wearing a tiny bow tie, made of fuzzy felt and minky fabric with visible stitching, embroidered eyes and stitched nose, solemn judicious gaze, huggable oversized-head cuddly toy proportions, soft studio lighting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

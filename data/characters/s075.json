@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s075-r001",
+    "sheet_id": "s075",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Chef Blueprint",
+    "character_desc": "Um hamburguão de andar duplo com capacete de obra e planta enrolada sob o braço: ele desenha a estrutura antes de qualquer mordida.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a tall deluxe stacked cheeseburger wearing a tiny construction hard hat, holding a rolled blueprint scroll and a T-square, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r002",
+    "sheet_id": "s075",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Capitão Patty",
+    "character_desc": "Um cheeseburger de boné de capitão com headset e prancheta, guiando os outros lanches pelo caminho técnico.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a double cheeseburger wearing a captain's cap and a headset, holding a clipboard and pointing forward confidently, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r003",
+    "sheet_id": "s075",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Milk Sábio",
+    "character_desc": "Um milkshake alto de óculos de aro grosso cercado por engrenagens, o conselheiro veterano da lanchonete.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a tall milkshake in a diner cup wearing thick wise eyeglasses, surrounded by floating brass gears, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r004",
+    "sheet_id": "s075",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Rei Triplo",
+    "character_desc": "Um hamburguão triplo imponente com coroa e monóculo, autoridade máxima entre os lanches.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a grand triple-decker burger wearing a small golden crown and a monocle, regal posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r005",
+    "sheet_id": "s075",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Café Gestor",
+    "character_desc": "Um copo de café humano de gravata segurando prancheta com organograma, cuidando de todo o time.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a coffee cup character wearing a necktie, holding a clipboard with an org-chart diagram, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r006",
+    "sheet_id": "s075",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Soda Rumo",
+    "character_desc": "Um copo de refrigerante com canudo apontando um mapa de estrada coberto de post-its coloridos.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a soda cup with a straw holding a rolled roadmap covered in colorful sticky notes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r007",
+    "sheet_id": "s075",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Dona Rosquinha",
+    "character_desc": "Uma rosquinha rosada segurando uma lista de backlog e etiquetas de prioridade penduradas.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a pink frosted donut holding a backlog checklist with dangling priority tags, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r008",
+    "sheet_id": "s075",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Combo Maestro",
+    "character_desc": "Uma bandeja de combo que coordena vários lanches, batuta na mão e um gráfico de Gantt ao fundo.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a fast-food combo tray character conducting with a baton, holding a small Gantt chart, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r009",
+    "sheet_id": "s075",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Fritas Prazo",
+    "character_desc": "Uma porção de batatas fritas segurando cronograma e cronômetro, sempre de olho no prazo.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a carton of french fries holding a Gantt chart and a stopwatch, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r010",
+    "sheet_id": "s075",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Pretzel Sprint",
+    "character_desc": "Um pretzel retorcido com apito no pescoço e quadro de sprint, mantendo o ritmo do time.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a twisted soft pretzel wearing a whistle, holding a small sprint kanban board, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r011",
+    "sheet_id": "s075",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Burrito Servidor",
+    "character_desc": "Um burrito com avental de rack de servidor e chave inglesa, cozinhando a lógica nos bastidores.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a wrapped burrito wearing a server-rack apron, holding a big wrench, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r012",
+    "sheet_id": "s075",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Sanduíche Plug",
+    "character_desc": "Um sanduíche com conectores de tomada saindo das bordas, ligando tudo de forma limpa.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a club sandwich with plug-and-socket connectors sprouting from its sides, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r013",
+    "sheet_id": "s075",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Nugget Enxame",
+    "character_desc": "Uma caixinha de nuggets, cada pedacinho um microserviço independente conectado por fiozinhos.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, an open box of chicken nuggets, each nugget a tiny linked node with connecting wires, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r014",
+    "sheet_id": "s075",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Cachorro Esteira",
+    "character_desc": "Um cachorro-quente sobre uma esteira com chave de tubo, movendo dados de ponta a ponta.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a hot dog standing on a conveyor belt, holding a pipe wrench, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r015",
+    "sheet_id": "s075",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Refri Duto",
+    "character_desc": "Um copo de refrigerante com dutos e barris canalizando o líquido de um funil para outro.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a soda cup with pipes and funnels channeling liquid between barrels, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r016",
+    "sheet_id": "s075",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Burger Arquivo",
+    "character_desc": "Um hambúrguer em formato de arquivo-gaveta com molho de chaves, guardião dos bancos de dados.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a burger shaped like a filing cabinet, holding a keyring, a database cylinder beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r017",
+    "sheet_id": "s075",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Taco Query",
+    "character_desc": "Um taco segurando lupa sobre uma tabelinha, especialista em achar o dado certo.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a taco holding a magnifying glass over a small data table, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r018",
+    "sheet_id": "s075",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Sorvete Cache",
+    "character_desc": "Um sorvete gelado com floquinhos de neve, guardando respostas prontas e servindo rápido.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, an ice cream sundae radiating cold with snowflakes, quick-serve pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r019",
+    "sheet_id": "s075",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Fritas Fila",
+    "character_desc": "Batatas fritas enfileiradas com dispensador de senhas, organizando cada pedido em ordem.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, french fries lined up in a queue with a ticket dispenser, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r020",
+    "sheet_id": "s075",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Rosca Busca",
+    "character_desc": "Uma rosquinha com lupa gigante, farejando exatamente o que se procura.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a donut holding an oversized magnifying glass, searching pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r021",
+    "sheet_id": "s075",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Cupcake Pixel",
+    "character_desc": "Um cupcake com pincel e uma moldura de janela de navegador, montando a vitrine visual.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a cupcake holding a paintbrush, framed by a browser window outline, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r022",
+    "sheet_id": "s075",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Waffle Bloco",
+    "character_desc": "Um waffle quadriculado montado com blocos de componentes encaixáveis.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a grid waffle assembled from snap-together UI component blocks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r023",
+    "sheet_id": "s075",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Shake Empatia",
+    "character_desc": "Um milkshake com esboço de wireframe e um coração, desenhando a experiência do usuário.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a milkshake holding a wireframe sketch and a small heart icon, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r024",
+    "sheet_id": "s075",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Caixa Tokens",
+    "character_desc": "Uma caixa de rosquinhas idênticas com swatches de cor, padronizando todo o sistema visual.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a box of identical matching donuts with color-swatch design tokens, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r025",
+    "sheet_id": "s075",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Pretzel Acesso",
+    "character_desc": "Um pretzel com pontinhos em braile e ícone de contraste, garantindo acesso a todos.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a pretzel with braille dots and a high-contrast accessibility icon, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r026",
+    "sheet_id": "s075",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Fritas Veloz",
+    "character_desc": "Batatas fritas correndo com cronômetro e linhas de velocidade, otimizando cada milissegundo.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, french fries dashing with a stopwatch and motion speed lines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r027",
+    "sheet_id": "s075",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Cupcake Estilo",
+    "character_desc": "Um cupcake com paleta de cores e régua, cuidando de cada detalhe do acabamento.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a cupcake holding a color palette and a ruler, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r028",
+    "sheet_id": "s075",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Gelatina Mola",
+    "character_desc": "Uma gelatina saltitante com arcos de movimento, dando vida às transições.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a bouncing jelly dessert with motion arcs around it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r029",
+    "sheet_id": "s075",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Taco Touch",
+    "character_desc": "Um taco em formato de celular com tela sensível ao toque, feito para caber na mão.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a taco shaped like a smartphone with a glowing touchscreen, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r030",
+    "sheet_id": "s075",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Torta Maçã",
+    "character_desc": "Uma fatia de torta de maçã minimalista e elegante, com motivo de maçã reluzente.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a sleek minimalist apple pie slice with a shiny apple motif, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r031",
+    "sheet_id": "s075",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Menta Robô",
+    "character_desc": "Um sorvete de menta verde com carinha robótica simpática, todo verde.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a green mint ice cream cone with a friendly little robot face, all green, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r032",
+    "sheet_id": "s075",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Burrito Ponte",
+    "character_desc": "Um burrito dividido em dois celulares ligados por um átomo, um código para dois mundos.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a burrito split into two phone screens linked by an atom symbol, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r033",
+    "sheet_id": "s075",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Cupcake Asa",
+    "character_desc": "Um cupcake com asas de borboleta, um só recheio voando por todas as plataformas.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a cupcake with butterfly wings, single-codebase glow, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r034",
+    "sheet_id": "s075",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Refri Lab",
+    "character_desc": "Um copo de refrigerante com frasco de laboratório e gráficos flutuantes, testando hipóteses.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a soda cup holding a lab flask with floating charts, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r035",
+    "sheet_id": "s075",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Burger Neural",
+    "character_desc": "Um hambúrguer com granulado em rede neural e um cérebro-engrenagem por cima.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a burger topped with neural-network sprinkles and a brain-gear icon, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r036",
+    "sheet_id": "s075",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Shake Esteira",
+    "character_desc": "Um milkshake numa esteira de engrenagens, mantendo os modelos rodando em produção.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a milkshake on a gear-driven treadmill pipeline, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r037",
+    "sheet_id": "s075",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Rosca Douta",
+    "character_desc": "Uma rosquinha com capelo de formatura e lâmpada acesa, sempre pesquisando o novo.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a donut wearing a graduation cap with a glowing lightbulb, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r038",
+    "sheet_id": "s075",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Cookie Sorte",
+    "character_desc": "Um biscoito da sorte abrindo um balão de fala em pergaminho, mestre das instruções.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a fortune cookie opening to reveal a speech-bubble scroll, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r039",
+    "sheet_id": "s075",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Sopa Letras",
+    "character_desc": "Um copo de sopa de letrinhas com balões de fala, decifrando a linguagem humana.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, an alphabet-soup cup with floating letters and speech bubbles, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r040",
+    "sheet_id": "s075",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Rosca Lente",
+    "character_desc": "Uma rosquinha cujo buraco vira lente de câmera, enxergando imagens como ninguém.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a donut whose hole is a camera lens iris, watchful eye, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r041",
+    "sheet_id": "s075",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Fritas Gráfico",
+    "character_desc": "Batatas fritas dispostas como barras de gráfico, com lupa analisando os números.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, french fries arranged as a bar chart, with a magnifying glass, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r042",
+    "sheet_id": "s075",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Pizza Painel",
+    "character_desc": "Uma fatia de pizza que forma um gráfico de pizza, sobre um mini painel de indicadores.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a pizza slice forming a pie chart over a small dashboard, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r043",
+    "sheet_id": "s075",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Bolo Camadas",
+    "character_desc": "Um bolo em camadas representando o modelo de dados, com funil de transformação.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a layered cake as a data model with a transformation funnel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r044",
+    "sheet_id": "s075",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Slush Arco-íris",
+    "character_desc": "Uma raspadinha arco-íris que vira gráfico colorido, mestre em contar histórias visuais.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a rainbow slushie forming a colorful chart, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r045",
+    "sheet_id": "s075",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Dog Ferramenta",
+    "character_desc": "Um cachorro-quente com chave inglesa, engrenagem e caixa de ferramentas, instala e automatiza tudo.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a hot dog holding a wrench and gear with an open toolbox, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r046",
+    "sheet_id": "s075",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Burger Bombeiro",
+    "character_desc": "Um hambúrguer com capacete de bombeiro, pager e extintor, sempre pronto para o incidente.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a burger wearing a firefighter helmet with a pager and a fire extinguisher, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r047",
+    "sheet_id": "s075",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Bandeja Base",
+    "character_desc": "Uma bandeja que sustenta outros lanches como plataforma, cercada de engrenagens.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a serving tray platform holding smaller food items, surrounded by gears, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r048",
+    "sheet_id": "s075",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Nuvem Algodão",
+    "character_desc": "Um algodão-doce em forma de nuvem com uma planta de arquitetura, desenhando a nuvem.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a cloud-shaped cotton candy holding an architecture blueprint, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r049",
+    "sheet_id": "s075",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Pretzel Leme",
+    "character_desc": "Um pretzel em forma de leme de navio pilotando caixas-contêiner empilhadas.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a ship's-wheel pretzel steering stacked container boxes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r050",
+    "sheet_id": "s075",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Anéis Rede",
+    "character_desc": "Anéis de cebola conectados como nós de rede por cabos coloridos.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, onion rings linked as network nodes by colorful cables, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r051",
+    "sheet_id": "s075",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Café Chaves",
+    "character_desc": "Um copo de café com molho de chaves e um rack de servidores atrás, o zelador dos sistemas.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a coffee cup with a keyring and a server rack behind it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r052",
+    "sheet_id": "s075",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Burger Foguete",
+    "character_desc": "Um hambúrguer embrulhado como presente com foguete e etiqueta, empacotando cada versão.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a gift-wrapped burger with a rocket and a version tag, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r053",
+    "sheet_id": "s075",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Burger Obra",
+    "character_desc": "Um hambúrguer em construção com martelo e engrenagens, montando cada build.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a burger under construction with a hammer and gears, half-assembled, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r054",
+    "sheet_id": "s075",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Rosca Loop",
+    "character_desc": "Uma rosquinha numa esteira em loop com setas e selo de verificação verde.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a donut on a looping conveyor with arrows and a green check mark, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r055",
+    "sheet_id": "s075",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Burger Escudo",
+    "character_desc": "Um hambúrguer com escudo e cadeado, protegendo o cardápio de ameaças.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a burger holding a shield with a padlock emblem, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r056",
+    "sheet_id": "s075",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Dog Invasor",
+    "character_desc": "Um cachorro-quente de moletom com capuz e gazua, testando as fechaduras por dentro.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a hot dog in a dark hoodie holding a lockpick, sneaky pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r057",
+    "sheet_id": "s075",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Sanduíche Blindado",
+    "character_desc": "Um sanduíche com escudo feito de chaves de código, defendendo a aplicação.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a sandwich with a shield made of code brackets, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r058",
+    "sheet_id": "s075",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Pretzel Cifra",
+    "character_desc": "Um pretzel emaranhado como chave-cifra, guardião dos segredos.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a tangled pretzel forming a cipher key, with floating keys, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r059",
+    "sheet_id": "s075",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Rosca Selo",
+    "character_desc": "Uma rosquinha com checklist e carimbo de aprovado, cuidando das regras.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a donut holding a compliance checklist and an approval stamp, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r060",
+    "sheet_id": "s075",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Burger Máscara",
+    "character_desc": "Um hambúrguer com máscara e óculos escuros incógnito, protegendo dados pessoais.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a burger wearing a mask and incognito sunglasses behind a small curtain, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r061",
+    "sheet_id": "s075",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Fritas Alarme",
+    "character_desc": "Batatas fritas com capacete de bombeiro e sino de alarme, primeiras a responder à crise.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, french fries in a firefighter helmet with a ringing alarm bell, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r062",
+    "sheet_id": "s075",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Pizza Xadrez",
+    "character_desc": "Uma fatia de pizza com peças de xadrez e um mapa de ameaças, antecipando cada jogada.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a pizza slice with chess pieces over a threat map, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r063",
+    "sheet_id": "s075",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Burger Lupa",
+    "character_desc": "Um hambúrguer com lupa, checklist e redinha de caçar bugs.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a burger holding a magnifying glass and a checklist with a bug-catching net, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r064",
+    "sheet_id": "s075",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Shake Robô",
+    "character_desc": "Um milkshake com braço robótico automatizando testes, engrenagens e selo verde.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a milkshake with a robotic arm running automated tests, gears and a green check, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r065",
+    "sheet_id": "s075",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Fritas Medidor",
+    "character_desc": "Batatas fritas com cronômetro e um mostrador de velocidade, medindo a carga.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, french fries with a stopwatch and a performance gauge dial, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r066",
+    "sheet_id": "s075",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Taco Manual",
+    "character_desc": "Um taco com prancheta clicando teste a teste, na mão mesmo.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a taco holding a clipboard, clicking through tests by hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r067",
+    "sheet_id": "s075",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Pretzel Checa",
+    "character_desc": "Um pretzel com checklist e ícone de acessibilidade, testando para todos.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a pretzel with a checklist and an accessibility person icon, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r068",
+    "sheet_id": "s075",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Burger Pena",
+    "character_desc": "Um hambúrguer com pena de escrever e um pergaminho, documentando cada receita.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a burger holding a quill pen and an unrolled scroll, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r069",
+    "sheet_id": "s075",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Dog Palco",
+    "character_desc": "Um cachorro-quente com megafone e coração num palco, defendendo a comunidade dev.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a hot dog holding a megaphone with a heart on a small stage, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r070",
+    "sheet_id": "s075",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Sanduíche Mapa",
+    "character_desc": "Um sanduíche com um mapa de conteúdo e caneta, planejando a narrativa.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a sandwich holding a content map and a pen, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r071",
+    "sheet_id": "s075",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Rosca Globo",
+    "character_desc": "Uma rosquinha em forma de globo com bandeirinhas de vários idiomas.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a globe-shaped donut with little flags of many languages, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r072",
+    "sheet_id": "s075",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Cupcake Esboço",
+    "character_desc": "Um cupcake com bloco de esboço e régua, desenhando o produto de ponta a ponta.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a cupcake holding a sketchpad and a ruler, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r073",
+    "sheet_id": "s075",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Cone Paleta",
+    "character_desc": "Um sorvete de casquinha com paleta de tintas, apaixonado por beleza visual.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, an ice cream cone holding a painter's palette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r074",
+    "sheet_id": "s075",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Waffle Gesto",
+    "character_desc": "Um waffle com cursor e gestos de toque, desenhando cada interação.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a waffle with a cursor and tap-gesture icons, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r075",
+    "sheet_id": "s075",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Shake Rastro",
+    "character_desc": "Um milkshake girando com rastros de movimento coloridos, mago da animação.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a swirling milkshake with colorful motion trails, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r076",
+    "sheet_id": "s075",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Rosca Pincel",
+    "character_desc": "Uma rosquinha com pincel e lápis, ilustrando à mão livre.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a donut holding a paintbrush and a pencil, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r077",
+    "sheet_id": "s075",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Caixa Sprites",
+    "character_desc": "Uma caixa de nuggets-sprite arrumados como tiles de asset prontos para o jogo.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a box of sprite-nuggets arranged as ready-to-use asset tiles, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r078",
+    "sheet_id": "s075",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Refri Mascote",
+    "character_desc": "Um copo de refrigerante que é o próprio logo-mascote, com carimbo de marca.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a soda cup posing as a brand mascot logo with a brand stamp, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r079",
+    "sheet_id": "s075",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Burger Fone",
+    "character_desc": "Um hambúrguer de fones de ouvido cercado por ondas sonoras.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a burger wearing headphones surrounded by sound waves, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r080",
+    "sheet_id": "s075",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Burger Voxel",
+    "character_desc": "Um hambúrguer em formato de cubo voxel com ferramenta de escultura 3D.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a cube-shaped voxel burger with a 3D sculpting tool, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r081",
+    "sheet_id": "s075",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Burger Dado",
+    "character_desc": "Um hambúrguer em forma de dado com controle de videogame, projetando a diversão.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a dice-shaped burger holding a game controller, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r082",
+    "sheet_id": "s075",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Burger Mapa",
+    "character_desc": "Um hambúrguer em camadas que forma o mapa de uma fase, com blocos de nível.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a layered burger forming a game-level map with building blocks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r083",
+    "sheet_id": "s075",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Taco História",
+    "character_desc": "Um taco aberto como livro com pergaminho de fala, tecendo a narrativa.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, an open taco shaped like a book with a story speech scroll, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r084",
+    "sheet_id": "s075",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Burger Controle",
+    "character_desc": "Um hambúrguer segurando um controle de videogame com coraçõezinhos de pixel.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a burger holding a game controller with pixel hearts, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r085",
+    "sheet_id": "s075",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Rosca Brilho",
+    "character_desc": "Uma rosquinha reluzente com raios de luz e reflexos de shader.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a glossy shiny donut with light rays and shader highlights, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r086",
+    "sheet_id": "s075",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Cracker Chip",
+    "character_desc": "Um biscoito cracker minúsculo com uma placa de circuito impressa, o menorzinho do time.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a tiny cracker chip with a printed circuit board on it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r087",
+    "sheet_id": "s075",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Cookie Solda",
+    "character_desc": "Um cookie em forma de microchip com ferro de solda, mexendo no firmware.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a microchip-shaped cookie with a soldering iron, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r088",
+    "sheet_id": "s075",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Rosca Conecta",
+    "character_desc": "Rosquinhas conectadas com antena de wifi, tudo falando entre si.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, linked donuts with a wifi antenna signal between them, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r089",
+    "sheet_id": "s075",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Rosca Corrente",
+    "character_desc": "Rosquinhas encadeadas como blocos com moedinhas, um elo puxando o outro.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a chain of linked donut blocks with little coins, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r090",
+    "sheet_id": "s075",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Burger Gavel",
+    "character_desc": "Um hambúrguer com lupa sobre um contrato-pergaminho e um martelinho, auditando cláusulas.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a burger holding a magnifying glass over a contract scroll with a small gavel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r091",
+    "sheet_id": "s075",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Burger VR",
+    "character_desc": "Um hambúrguer com óculos de realidade virtual, entrando em outro mundo.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a burger wearing a VR headset, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r092",
+    "sheet_id": "s075",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Dog Robô",
+    "character_desc": "Um cachorro-quente com braço robótico e parafusos, montando máquinas que se movem.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a hot dog with a robotic arm and bolts, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r093",
+    "sheet_id": "s075",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Burger Foguete2",
+    "character_desc": "Um hambúrguer com foguete e seta de gráfico subindo, obcecado por crescer.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a burger with a rocket and a rising up-arrow growth chart, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r094",
+    "sheet_id": "s075",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Rosca Rank",
+    "character_desc": "Uma rosquinha com lupa e setas de ranking subindo, mestre em ser encontrada.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a donut with a magnifying glass and rising ranking arrows, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r095",
+    "sheet_id": "s075",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Refri Funil",
+    "character_desc": "Um copo de refrigerante com megafone e funil de conversão, atraindo o público.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a soda cup with a megaphone and a marketing conversion funnel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r096",
+    "sheet_id": "s075",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Combo Peça",
+    "character_desc": "Uma bandeja de combo montando peças de quebra-cabeça com um aperto de mãos.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a combo tray fitting puzzle pieces together with a handshake, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r097",
+    "sheet_id": "s075",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Burger Bóia",
+    "character_desc": "Um hambúrguer com headset e bóia salva-vidas, resgatando quem precisa de ajuda.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a burger wearing a headset holding a life-ring, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r098",
+    "sheet_id": "s075",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Refri Aperto",
+    "character_desc": "Um copo de refrigerante de gravata com aperto de mãos e gráfico subindo, fechando negócio.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a soda cup wearing a tie with a handshake and a rising chart, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r099",
+    "sheet_id": "s075",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Cofre Burger",
+    "character_desc": "Um hambúrguer em forma de cofrinho com moedas e calculadora, cuidando de cada centavo.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a piggy-bank-shaped burger with coins and a calculator, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s075-r100",
+    "sheet_id": "s075",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Rosca Balança",
+    "character_desc": "Uma rosquinha com martelo de juiz e balança da justiça, cuidando das regras legais.",
+    "nano_prompt": "Vibrant pop art comic illustration of a single anthropomorphic fast-food character with a cheerful cartoon face, bust portrait from the base up, bold thick black outlines, Ben-Day halftone dots, saturated primary colors, cel-shaded 1960s Lichtenstein style, glossy retro-diner shine, a donut holding a judge's gavel with scales of justice, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s024-r001",
+    "sheet_id": "s024",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Vishvakarman",
+    "character_desc": "O arquiteto divino dos deuses, sereno criador de mundos; segura uma régua-compasso dourada e uma maquete de templo flutuante.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a golden compass-ruler and a floating levitating temple blueprint, another hand cradling a miniature glowing palace, sky-blue skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r002",
+    "sheet_id": "s024",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Brihaspati Netra",
+    "character_desc": "Guru condutor da tropa celeste; mão em mudra de bênção guia discípulos-luz, cajado de comando erguido.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, raising a jeweled leadership staff, one hand in blessing mudra guiding small glowing disciple-flames, golden aura, deep amber skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r003",
+    "sheet_id": "s024",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Sthapati Deva",
+    "character_desc": "Sábio veterano de muitos braços, cada um segurando uma ferramenta-mestra; sustenta o pilar central de um templo.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, supporting a central temple pillar with several arms, each extra hand holding a master craft-tool, wise aged serene face, bronze skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r004",
+    "sheet_id": "s024",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Adiyogi Tantra",
+    "character_desc": "Deidade primordial da técnica em meditação profunda; irradia diagramas de mandala do topo da cabeça.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, seated-standing in deep meditation posture, glowing geometric mandala diagrams radiating from crown, third eye open, ash-grey luminous skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r005",
+    "sheet_id": "s024",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Indra Sabha",
+    "character_desc": "Rei celeste que orquestra a corte de engenheiros; cetro e pequenos deuses-operários orbitando ao redor.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a royal scepter and a small orbiting circle of tiny worker-deities, regal crown, thunderbolt vajra in one hand, golden skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r006",
+    "sheet_id": "s024",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Kamadhenu Roopa",
+    "character_desc": "Deidade que realiza desejos do usuário; segura a joia dos anseios e um pergaminho de roteiro florido.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a wish-granting glowing gem and an unrolled flowering roadmap scroll, gentle guiding gesture, warm rose skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r007",
+    "sheet_id": "s024",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Svami Drishti",
+    "character_desc": "Guardião-dono da visão do produto; ergue um espelho-oráculo mostrando o backlog como flores em fila.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, raising an oracle mirror reflecting a queue of lotus-buds as backlog items, protective ownership gesture, saffron skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r008",
+    "sheet_id": "s024",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Kartikeya Senani",
+    "character_desc": "Comandante celeste que alinha muitas frentes; segura estandartes de campanhas e um lança-cronograma.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding several small campaign banners and a timeline-spear, riding gesture over a peacock feather, six faces suggested by halo, red skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r009",
+    "sheet_id": "s024",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Chitragupta Kala",
+    "character_desc": "Escriba divino do tempo e das tarefas; ampulheta sagrada e prancha de marcos numa mão, pena na outra.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a sacred hourglass and a milestone tablet, quill pen in another hand, orderly meticulous expression, pale gold skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r010",
+    "sheet_id": "s024",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Nada Chakravat",
+    "character_desc": "Facilitador que gira a roda do ritmo; sino de cerimônia e roda de dharma marcando os ciclos.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, ringing a ceremonial ritual bell and spinning a small dharma wheel marking sprints, calm servant-leader smile, teal skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r011",
+    "sheet_id": "s024",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Ananta Sesha",
+    "character_desc": "Serpente-deidade que sustenta o mundo por baixo; muitos braços seguram engrenagens e tubos de fluxo oculto.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, many arms holding hidden gears, pipes and a coiled serpent of data beneath the lotus, sustaining posture, deep indigo skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r012",
+    "sheet_id": "s024",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Dwara Devata",
+    "character_desc": "Divindade das portas e contratos; segura chaves douradas e um portal-torana esculpido com encaixes.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding golden keys and a carved gateway-arch with plug sockets, offering an open doorway gesture, emerald skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r013",
+    "sheet_id": "s024",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Ganabheda Roopa",
+    "character_desc": "Deidade que se multiplica em pequenos avatares autônomos; cada mão segura um mini-templo independente.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, each hand holding a tiny independent temple, small identical avatar-selves floating around, modular pose, cyan skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r014",
+    "sheet_id": "s024",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Srota Vahini",
+    "character_desc": "Deusa dos fluxos canalizados; jarros que despejam rios de dados de um vaso ao outro em cascata.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, pouring streams of glowing data from one sacred vessel to another in cascade, channeling flow gesture, river-blue skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r015",
+    "sheet_id": "s024",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Setu Nirmata",
+    "character_desc": "Construtor de pontes e aquedutos de dados; segura calha-canal e reservatório luminoso.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a channel-aqueduct and a luminous data reservoir, bridge-building gesture over flowing streams, slate-blue skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r016",
+    "sheet_id": "s024",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Kosha Palaka",
+    "character_desc": "Guardião do tesouro-cofre dos registros; grande baú-relicário e chave-mestra, postura vigilante.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, guarding a large treasure-vault relic chest of records with a master key, vigilant protective stance, bronze-gold skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r017",
+    "sheet_id": "s024",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Prashna Rishi",
+    "character_desc": "Sábio das perguntas exatas; segura pergaminho de consulta e peneira que filtra grãos de luz.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a query scroll and a sieve filtering grains of glowing light, precise questioning mudra, indigo skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r018",
+    "sheet_id": "s024",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Smriti Kavacha",
+    "character_desc": "Deidade da memória veloz; segura relicário que guarda ecos brilhantes de acesso instantâneo.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a small reliquary storing quick-glowing echoes for instant recall, swift blessing gesture, bright orange skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r019",
+    "sheet_id": "s024",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Sandesha Vayu",
+    "character_desc": "Mensageiro do vento que enfileira recados; fileira de pombos-luz partindo ordenadamente da mão.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, releasing an orderly single-file row of glowing messenger doves from one hand, holding a conch, wind-grey skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r020",
+    "sheet_id": "s024",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Anveshana Netra",
+    "character_desc": "Deidade de mil olhos que tudo encontra; lanterna-farol e índice em forma de leque de folhas.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a beacon-lantern and a fan of indexed leaves, many small eyes glowing on the halo, seeking gaze, violet skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r021",
+    "sheet_id": "s024",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Rupa Darshana",
+    "character_desc": "Deidade da face visível do mundo; pincel e moldura-janela onde flores se arranjam em grade.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a brush and a window-frame where lotus blooms arrange into a neat grid, presenting gesture, rose-pink skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r022",
+    "sheet_id": "s024",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Yantra Shilpa",
+    "character_desc": "Artífice dos painéis sagrados; monta botões-joia e mostradores num tabuleiro reluzente.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, assembling jewel-buttons and dials onto a glowing sacred panel board, precise crafting hands, turquoise skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r023",
+    "sheet_id": "s024",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Marga Devi",
+    "character_desc": "Deusa que suaviza o caminho do devoto; segura mapa de trilha florida e lâmpada que guia passos.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a flowering path-map and a guiding lamp lighting gentle footsteps, empathetic guiding gesture, warm coral skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r024",
+    "sheet_id": "s024",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Mandala Vidhata",
+    "character_desc": "Ordenador da mandala-padrão; roda de tokens-pétala idênticos e régua sagrada de proporções.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a wheel of identical petal-tokens and a sacred proportion ruler, arranging a consistent mandala, jade skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r025",
+    "sheet_id": "s024",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Sarva Dwara",
+    "character_desc": "Deidade que abre portas para todos; rampa-lótus e mão estendida a devotos de toda forma.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, offering a lotus-ramp and an open welcoming hand to devotees of every form, inclusive embracing gesture, soft green skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r026",
+    "sheet_id": "s024",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Laghima Deva",
+    "character_desc": "Deidade da leveza e da rapidez; balança que pesa penas e roda que gira veloz sem atrito.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a scale weighing feathers and a frictionless fast-spinning wheel, swift light posture, pale gold skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r027",
+    "sheet_id": "s024",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Alankara Devi",
+    "character_desc": "Deusa do ornamento e do arranjo; drapeja tecidos coloridos em camadas perfeitamente alinhadas.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, draping colored fabrics in perfectly aligned cascading layers, adorning gesture with a styling brush, magenta skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r028",
+    "sheet_id": "s024",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Nataraja Chala",
+    "character_desc": "Dançarino cósmico que dá vida ao movimento; pose de dança com rastros luminosos de gesto.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, in dynamic cosmic dance pose with glowing motion-trails arcing from the hands, ring of flame halo, bronze skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r029",
+    "sheet_id": "s024",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Sthana Chara",
+    "character_desc": "Deidade portátil que viaja com o devoto; segura pequeno santuário-de-mão que cabe na palma.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a small handheld pocket-shrine glowing in the palm, traveling blessing gesture, teal skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r030",
+    "sheet_id": "s024",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Phala Shilpi",
+    "character_desc": "Artífice do fruto polido; segura maçã-relíquia lustrosa e cinzel de acabamento fino.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a polished glossy relic-fruit and a fine finishing chisel, refined minimalist elegance, silver-white skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r031",
+    "sheet_id": "s024",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Yantra Putra",
+    "character_desc": "Deidade autômato-verde de muitos membros; corpo com detalhes de engrenagem, robô-lótus na mão.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, greenish automaton-tinged body with subtle gear details, holding a small lotus-robot figure, open modular gesture, green skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r032",
+    "sheet_id": "s024",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Ubhaya Roopa",
+    "character_desc": "Deidade de dupla forma que serve dois mundos com um só corpo; espelho gêmeo nas mãos.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding twin mirrors reflecting two worlds from one body, bridging dual-platform gesture, split teal-and-coral aura, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r033",
+    "sheet_id": "s024",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Chitra Pankha",
+    "character_desc": "Deidade de asas-borboleta que pinta telas idênticas em todo canto; leque de painéis coloridos.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a fan of identical colorful painted panels, butterfly-wing motifs, single-canvas gesture, azure skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r034",
+    "sheet_id": "s024",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Ganita Rishi",
+    "character_desc": "Sábio vidente dos números ocultos; segura ábaco-estrela e globo de padrões que giram.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a star-abacus and a globe of swirling data patterns, insightful contemplative gaze, deep blue skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r035",
+    "sheet_id": "s024",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Shiksha Yantra",
+    "character_desc": "Deidade que treina a mente-máquina; molda uma esfera-cérebro luminosa com as mãos.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, shaping a luminous glowing brain-sphere with several hands, training gesture over a small learning flame, violet skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r036",
+    "sheet_id": "s024",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Chakra Palaka",
+    "character_desc": "Guardião do ciclo dos modelos; roda giratória de treino-serviço em rotação eterna.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding an ever-rotating train-deploy cycle wheel, maintaining the loop with steady hands, steel-blue skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r037",
+    "sheet_id": "s024",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Bodhi Anveshin",
+    "character_desc": "Buscador da centelha da consciência; segura chama-ideia nascente e pergaminho de fórmulas.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, cupping a nascent glowing idea-flame and an unrolled formula scroll, seeking enlightened gaze, luminous white skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r038",
+    "sheet_id": "s024",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Mantra Shilpi",
+    "character_desc": "Artífice das palavras que invocam; sussurra num sino-caracol e molda frases-luz no ar.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, whispering into a conch and shaping glowing phrase-ribbons in the air, invocation mudra, saffron-gold skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r039",
+    "sheet_id": "s024",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Bhasha Devi",
+    "character_desc": "Deusa das línguas; muitas mãos tecem fios de letras de escritas diferentes num só fio.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, many hands weaving threads of different scripts into a single strand of language, articulate gesture, lavender skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r040",
+    "sheet_id": "s024",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Netra Sahasra",
+    "character_desc": "Deidade de mil olhos que enxerga formas; segura lente-mandala que reconhece contornos de luz.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a mandala-lens recognizing glowing contours, many eyes on halo and palms, perceptive gaze, indigo skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r041",
+    "sheet_id": "s024",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Sankhya Devi",
+    "character_desc": "Deusa que lê o significado dos números; segura tábua de contagens e vela que revela tendências.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a counting tablet and a revealing lamp over trend-curves of light, discerning gesture, teal skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r042",
+    "sheet_id": "s024",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Drishti Pata",
+    "character_desc": "Deidade dos painéis reveladores; ergue estandarte-mostrador com gráficos-lótus florindo.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, raising a dashboard-banner blooming with lotus-shaped charts, presenting insight gesture, amber skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r043",
+    "sheet_id": "s024",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Shodhana Roopa",
+    "character_desc": "Deidade purificadora dos dados; peneira e jarra que transforma água turva em néctar claro.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a sieve and a jar transforming murky water into clear glowing nectar, refining gesture, aqua skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r044",
+    "sheet_id": "s024",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Ranga Chitra",
+    "character_desc": "Deusa que pinta o invisível; segura paleta-mandala e traça arcos coloridos de dados no ar.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a mandala-palette and drawing colorful data-arcs in the air, artistic revealing gesture, rainbow-hued aura, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r045",
+    "sheet_id": "s024",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Ganesha Setu",
+    "character_desc": "Removedor de obstáculos entre mundos; segura chave-inglesa dourada e ata pontes entre dois templos.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, elephant-headed deity holding a golden wrench and tying a bridge between two temples, obstacle-removing gesture, saffron skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r046",
+    "sheet_id": "s024",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Sthairya Pala",
+    "character_desc": "Guardião da estabilidade eterna; sustenta um pilar em chamas sem tremer, monitorando pulsos de luz.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, steadily holding a flaming pillar without wavering, watching pulsing health-lights, unshakable stance, deep red skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r047",
+    "sheet_id": "s024",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Aadhara Devata",
+    "character_desc": "Deidade do alicerce que carrega todos; sustenta plataforma-lótus sobre a qual outros deuses menores repousam.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, carrying a broad lotus-platform on which smaller deities rest, foundational supporting posture, earthy bronze skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r048",
+    "sheet_id": "s024",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Megha Vishwanath",
+    "character_desc": "Senhor dos céus-nuvem; molda cidades-templo flutuantes entre nuvens douradas.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, shaping floating temple-cities among golden clouds with several hands, sky-lord gesture, sky-blue skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r049",
+    "sheet_id": "s024",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Nava Chakra",
+    "character_desc": "Timoneiro do leme cósmico de sete raios; conduz frota de pequenos barcos-contêiner enfileirados.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a seven-spoked ship's helm steering a fleet of small container-boats, orchestrating gesture, ocean-blue skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r050",
+    "sheet_id": "s024",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Vayu Jala",
+    "character_desc": "Deidade dos ventos e fios; tece uma teia luminosa de rotas entre as mãos abertas.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, weaving a luminous web of routes between open hands, wind-swept scarves, connecting gesture, silver-grey skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r051",
+    "sheet_id": "s024",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Kshetra Pala",
+    "character_desc": "Guardião zeloso do domínio; molho de chaves e tridente que patrulha o servidor-templo.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a large ring of keys and a trident guarding a server-temple, watchful caretaker stance, dark bronze skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r052",
+    "sheet_id": "s024",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Prakasha Dwara",
+    "character_desc": "Deidade que abre o portão da estreia; ergue a cortina de luz revelando um novo ídolo pronto.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, lifting a curtain of light to reveal a newly finished idol, release-blessing gesture, ceremonial gold skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r053",
+    "sheet_id": "s024",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Agni Karma",
+    "character_desc": "Deidade-forja do fogo que funde partes num todo; martelo e bigorna com faíscas sagradas.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a hammer over an anvil with sacred sparks, forging separate parts into one whole, flame halo, fiery orange skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r054",
+    "sheet_id": "s024",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Nirantara Chakra",
+    "character_desc": "Deidade da esteira sem fim; roda-correia contínua que carrega oferendas do fogo ao altar.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a continuous conveyor-wheel carrying offerings from forge-flame to altar in a loop, tireless gesture, copper skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r055",
+    "sheet_id": "s024",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Durga Kavacha",
+    "character_desc": "Deusa-guerreira que protege as muralhas; escudo-mandala e espada flamejante em muitos braços.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, many-armed warrior goddess holding a mandala-shield and a flaming sword, riding-tiger motif, fierce protective stance, golden skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r056",
+    "sheet_id": "s024",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Chhidra Anveshi",
+    "character_desc": "Deidade astuta que procura brechas; lanterna que revela rachaduras e gazua sagrada na mão.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a lantern revealing wall-cracks and a sacred lockpick, cunning probing gesture, shadowy indigo skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r057",
+    "sheet_id": "s024",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Raksha Vidhata",
+    "character_desc": "Guardião que blinda o código-templo; sela portas com selos-mantra e cinturão de amuletos.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, sealing temple doors with mantra-seals, wearing a belt of protective amulets, shielding gesture, deep purple skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r058",
+    "sheet_id": "s024",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Guhya Rishi",
+    "character_desc": "Sábio dos segredos cifrados; segura cadeado-mandala e chave dupla, véu de símbolos ocultos.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a mandala-padlock and a twin key, veiled in hidden glowing symbols, secretive knowing gaze, midnight-blue skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r059",
+    "sheet_id": "s024",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Dharma Palaka",
+    "character_desc": "Guardião da lei sagrada; segura pergaminho de preceitos e balança que pesa a conformidade.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a scroll of sacred precepts and a balancing scale of compliance, upright lawful posture, saffron-white skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r060",
+    "sheet_id": "s024",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Gupti Devi",
+    "character_desc": "Deusa do véu protetor; envolve dados-joia num manto que oculta dos olhos indevidos.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, wrapping data-jewels in a concealing veil-mantle shielding them from prying eyes, protective privacy gesture, soft violet skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r061",
+    "sheet_id": "s024",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Sankata Hara",
+    "character_desc": "Deidade que corre ao socorro na crise; balde-de-luz apagando chamas e sino de alerta erguido.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, dousing flames with a vessel of light and raising an alarm bell, urgent rescue stance, alert bright-red skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r062",
+    "sheet_id": "s024",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Bhavishya Netra",
+    "character_desc": "Vidente que antevê perigos; mapa de sombras-inimigas e olho oracular que prevê ataques.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, studying a map of enemy-shadows with an oracular foreseeing eye, anticipating gesture, dark violet skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r063",
+    "sheet_id": "s024",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Pariksha Devi",
+    "character_desc": "Deusa do exame criterioso; lupa-mandala e lista de provações que cada oferenda deve passar.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a mandala-magnifier and a checklist-scroll of trials each offering must pass, scrutinizing gesture, teal skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r064",
+    "sheet_id": "s024",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Yantra Pariksha",
+    "character_desc": "Deidade dos autômatos examinadores; comanda pequenos servos-luz que repetem provas sem cansar.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, directing tiny tireless glowing test-servants that repeat trials, holding an automation-scepter, methodical gesture, cyan skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r065",
+    "sheet_id": "s024",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Bhara Tulaka",
+    "character_desc": "Deidade que testa a carga dos pilares; empilha pesos crescentes sobre uma coluna medindo a força.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, stacking growing weights on a pillar to measure its strength, load-testing gesture, sturdy stance, steel-grey skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r066",
+    "sheet_id": "s024",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Sparsha Rishi",
+    "character_desc": "Sábio que prova cada coisa com o próprio toque; percorre oferendas uma a uma com dedo atento.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, touching each offering one by one with an attentive finger, holding a checklist-leaf, careful hands-on gesture, warm ochre skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r067",
+    "sheet_id": "s024",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Sarva Sparsha",
+    "character_desc": "Deidade que testa o acesso de todos; venda nos olhos e bengala-lótus provando o caminho às cegas.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, blindfolded and tapping a lotus-cane to test the path by feel for all devotees, inclusive verifying gesture, soft green skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r068",
+    "sheet_id": "s024",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Saraswati Lekha",
+    "character_desc": "Deusa da palavra clara; segura pena e folha-palmeira gravada com instruções luminosas.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a quill and an inscribed palm-leaf manuscript glowing with clear instructions, seated near a veena, white skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r069",
+    "sheet_id": "s024",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Vani Doota",
+    "character_desc": "Mensageira que fala ao povo dos devotos; megafone-caracol e tocha que reúne uma multidão de fiéis.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a conch-megaphone and a torch gathering a small crowd of devotees, evangelizing outreach gesture, coral skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r070",
+    "sheet_id": "s024",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Katha Sutradhara",
+    "character_desc": "Condutor do fio da narrativa; segura novelo de histórias e planta que ramifica em capítulos.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a spool of story-thread and a branching plant of chapters, planning narrative gesture, plum skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r071",
+    "sheet_id": "s024",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Sarva Bhasha",
+    "character_desc": "Deidade que fala todas as línguas; globo-lótus com escritas girando e muitas bocas-halo cantando.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a lotus-globe with rotating world-scripts, many mouths on the halo singing in tongues, translating gesture, turquoise skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r072",
+    "sheet_id": "s024",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Rupa Vidhata",
+    "character_desc": "Modelador da forma que serve; molda uma escultura-produto em barro-luz com desenho ao lado.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, shaping a product-sculpture from glowing clay with a sketch beside, form-giving hands, warm terracotta skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r073",
+    "sheet_id": "s024",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Chaya Ranga",
+    "character_desc": "Deusa da cor e composição; paleta-lótus e pincel que harmoniza tons saturados no ar.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a lotus-palette and a brush harmonizing saturated hues in the air, composing gesture, vivid magenta skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r074",
+    "sheet_id": "s024",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Sparsha Leela",
+    "character_desc": "Deidade do gesto e da resposta; toca botões-flor que respondem acendendo ondas de luz.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, touching flower-buttons that respond by lighting ripples of light, interactive playful gesture, bright teal skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r075",
+    "sheet_id": "s024",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Gati Nartaki",
+    "character_desc": "Dançarina do movimento gracioso; véus longos deixam rastros suaves de transição no ar.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, dancing with long veils leaving smooth easing motion-trails, graceful transition pose, ring of soft light, rose-gold skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r076",
+    "sheet_id": "s024",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Chitrakar Devi",
+    "character_desc": "Deusa que dá vida à imagem; pincel-pena e tela flutuante onde criaturas coloridas ganham forma.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a brush-pen and a floating canvas where colorful creatures take form, illustrating gesture, vivid coral skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r077",
+    "sheet_id": "s024",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Kosha Shilpi",
+    "character_desc": "Artífice do acervo de peças; bandeja de ícones-joia idênticos e organizados em fileiras.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a tray of identical jewel-icons neatly arranged in rows, asset-crafting gesture, emerald skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r078",
+    "sheet_id": "s024",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Mudra Devi",
+    "character_desc": "Deusa do símbolo e do selo; ergue emblema-mandala radiante e carimbo sagrado da identidade.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, raising a radiant mandala-emblem and a sacred identity-seal stamp, brand-defining gesture, royal purple skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r079",
+    "sheet_id": "s024",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Nada Brahma",
+    "character_desc": "Deidade do som primordial; sino, caracol e tambor damaru irradiando ondas sonoras visíveis.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a bell, conch and damaru drum radiating visible glowing sound-waves, resonant gesture, deep sapphire skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r080",
+    "sheet_id": "s024",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Ghana Shilpi",
+    "character_desc": "Escultor do volume e da profundidade; molda esfera-poliedro luminosa com muitas mãos em torno.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, sculpting a luminous polyhedron-sphere with many hands circling it, volumetric shaping gesture, bronze skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r081",
+    "sheet_id": "s024",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Leela Vidhata",
+    "character_desc": "Ordenador do jogo cósmico; tabuleiro-mandala com dados sagrados e peças-devoto em movimento.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a mandala game-board with sacred dice and moving devotee-pieces, playful designing gesture, saffron skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r082",
+    "sheet_id": "s024",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Marga Shilpi",
+    "character_desc": "Construtor dos caminhos e provações; maquete-labirinto com portões, armadilhas e tesouros.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a maze-diorama with gates, traps and treasures, path-crafting gesture, terracotta skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r083",
+    "sheet_id": "s024",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Katha Devi",
+    "character_desc": "Deusa que ramifica destinos; livro aberto de onde brotam galhos de escolhas luminosas.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding an open book from which luminous branching choice-paths sprout, storytelling gesture, deep plum skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r084",
+    "sheet_id": "s024",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Krida Yantrin",
+    "character_desc": "Deidade que anima o mundo lúdico; segura joystick-lótus e faz peças-avatar dançarem à sua vontade.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a lotus-joystick making avatar-pieces dance, animating game-world gesture, vibrant orange skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r085",
+    "sheet_id": "s024",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Prakasha Shilpi",
+    "character_desc": "Artífice da luz e do brilho; verte raios coloridos sobre superfícies que ganham reflexo e sombra.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, pouring colored rays over surfaces that gain reflection and shadow, light-shaping gesture, prismatic glowing skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r086",
+    "sheet_id": "s024",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Antar Yantrin",
+    "character_desc": "Deidade oculta dentro da máquina-corpo; peito aberto revela um pequeno santuário de circuitos.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, chest opening to reveal a tiny embedded circuit-shrine within, holding a micro-tool, inward gesture, steel skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r087",
+    "sheet_id": "s024",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Mula Yantra",
+    "character_desc": "Deidade da instrução mais profunda; segura tábua-semente gravada que dá vida ao autômato.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding an engraved seed-tablet of base instructions that animates an automaton, foundational gesture, dark bronze skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r088",
+    "sheet_id": "s024",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Sarva Sanyoga",
+    "character_desc": "Deidade que conecta mil objetos; fios de luz ligam pequenos utensílios-templo ao redor das mãos.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, threads of light connecting many small temple-objects around the hands, all-connecting gesture, teal skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r089",
+    "sheet_id": "s024",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Shrinkhala Deva",
+    "character_desc": "Deidade da corrente inquebrável; segura um colar de elos-bloco selados, cada um com um lacre-luz.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a necklace of sealed block-links, each with a glowing wax-seal, immutable chain gesture, gold skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r090",
+    "sheet_id": "s024",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Pramana Netra",
+    "character_desc": "Vidente que examina os pactos gravados; lupa sobre elo-contrato buscando fissuras ocultas.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, peering with a magnifier at a contract-link seeking hidden flaws, scrutinizing pact gesture, deep indigo skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r091",
+    "sheet_id": "s024",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Maya Netra",
+    "character_desc": "Deidade que tece o véu da ilusão; óculos-mandala revela mundos sobrepostos ao redor.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, wearing a mandala-visor revealing overlaid worlds shimmering around, illusion-weaving gesture, iridescent violet skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r092",
+    "sheet_id": "s024",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Yantra Purusha",
+    "character_desc": "Deidade que sopra vida no autômato; toca um servo-robô-lótus que ganha movimento.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, touching a lotus-robot servant that gains movement, animating machine gesture, holding a control-mudra, steel-blue skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r093",
+    "sheet_id": "s024",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Vriddhi Devi",
+    "character_desc": "Deusa da multiplicação; semente que brota em muitos galhos-devoto crescendo em espiral.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a seed sprouting into many branching devotee-followers in a spiral, growth-blessing gesture, verdant green skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r094",
+    "sheet_id": "s024",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Drishya Deva",
+    "character_desc": "Deidade que torna visível ao mundo; farol que ergue o templo ao topo de uma montanha-índice.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, raising a beacon lifting a temple to the top of an index-mountain, visibility-boosting gesture, luminous gold skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r095",
+    "sheet_id": "s024",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Prachara Yantrin",
+    "character_desc": "Deidade que dissemina a mensagem; funil sagrado que atrai devotos e roda de campanhas girando.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a sacred funnel drawing devotees and a spinning campaign-wheel, outreach gesture, bright coral skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r096",
+    "sheet_id": "s024",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Upaya Deva",
+    "character_desc": "Deidade dos meios engenhosos; encaixa peças-quebra-cabeça entre o problema e o desejo do fiel.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, fitting puzzle-pieces between a devotee's problem and wish, ingenious solving gesture, teal-gold skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r097",
+    "sheet_id": "s024",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Hanuman Seva",
+    "character_desc": "Servo devoto que socorre com força; carrega montanha-remédio numa mão, chave de reparo na outra.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, monkey-faced devoted servant carrying a healing-mountain in one hand and a repair tool in another, helpful rescue gesture, orange skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r098",
+    "sheet_id": "s024",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Prati Darshana",
+    "character_desc": "Deidade que demonstra maravilhas; ergue um pequeno mundo-demo brilhante para o devoto admirar.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, presenting a small glowing demo-world for a devotee to admire, persuasive showcasing gesture, warm amber skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r099",
+    "sheet_id": "s024",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Lakshmi Ganaka",
+    "character_desc": "Deusa da riqueza contada; verte moedas-luz numa balança que equilibra custo e valor.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, pouring coin-light into a scale balancing cost and value, seated with lotus, wealth-managing gesture, golden skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s024-r100",
+    "sheet_id": "s024",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Yama Nyaya",
+    "character_desc": "Deidade juíza da lei justa; segura pergaminho-código e cetro-cajado que decreta o veredito.",
+    "nano_prompt": "full-body devotional Hindu deity illustration in traditional Indian calendar-poster art style, front-facing symmetrical figure standing on a lotus pedestal with a large radiant circular halo behind the head, multiple graceful arms, ornate golden crown and jewelry, flowing saturated jewel-tone garments, glowing skin, serene divine expression, holding a law-codex scroll and a decreeing staff, solemn just-judge posture, balance motif, deep blue skin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

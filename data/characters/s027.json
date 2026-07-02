@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s027-r001",
+    "sheet_id": "s027",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Ariel Arquíteto",
+    "character_desc": "Arcanjo do projeto: desenrola uma planta celestial e sustenta compasso e esquadro dourados, decidindo a forma de tudo.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, a serene archangel with broad feathered wings and faint golden halo, unrolling a luminous celestial blueprint scroll while holding a brass compass and set-square, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r002",
+    "sheet_id": "s027",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Gabriel Condutor",
+    "character_desc": "Anjo que guia os demais: ergue uma lanterna e um estandarte, conduzindo pequenas luzes-almas atrás de si.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with strong feathered wings raising a glowing lantern in one hand and a slender standard banner in the other, small orbs of light following him, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r003",
+    "sheet_id": "s027",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Sênior Serafim",
+    "character_desc": "Anjo veterano de muitos ofícios: carrega um tomo pesado e um molho de chaves antigas.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an elder angel with layered feathered wings and weathered face, cradling a heavy leather tome under one arm and holding a large ring of ancient keys, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r004",
+    "sheet_id": "s027",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Metatron Principal",
+    "character_desc": "Seráfico de aura larga: segura um orbe de cristal e um cajado de comando, presença de autoridade máxima.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, a lofty seraph with multiple feathered wings and a radiant crown-like halo, holding a crystal orb and a tall ornate staff, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r005",
+    "sheet_id": "s027",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Pastor Rafael",
+    "character_desc": "Anjo-pastor que reúne o rebanho: apoia um cajado de pastor enquanto pequenos querubins se aninham junto a ele.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, a gentle shepherd angel with feathered wings holding a wooden crook, several tiny winged cherubs gathered against his chest, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r006",
+    "sheet_id": "s027",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Uriel do Produto",
+    "character_desc": "Anjo que pesa o que importa: sustenta uma balança em uma mão e um pergaminho de roteiro na outra.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings balancing a set of golden scales in one hand and an unrolled roadmap scroll in the other, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r007",
+    "sheet_id": "s027",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Zófiel Dono",
+    "character_desc": "Anjo guardião do rol de desejos: segura um livro-razão sagrado aberto e uma pena, priorizando com o dedo.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings holding an open sacred ledger and a quill, one finger marking a chosen line, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r008",
+    "sheet_id": "s027",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Raziel Orquestra",
+    "character_desc": "Anjo que rege muitos ciclos: gira um pequeno orrery de esferas concêntricas de luz.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings turning a small brass orrery of concentric glowing spheres held in both hands, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r009",
+    "sheet_id": "s027",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Cronos Angélico",
+    "character_desc": "Anjo do prazo: equilibra uma ampulheta e uma tábua-calendário com um cronograma gravado.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings holding an hourglass in one hand and an engraved calendar tablet with a Gantt-like chart in the other, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r010",
+    "sheet_id": "s027",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Cadência Serena",
+    "character_desc": "Anjo do ritmo do time: toca um pequeno sino de mão e segura um laço de corda em círculo.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings ringing a small hand bell and holding a looped rope forming a circle, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r011",
+    "sheet_id": "s027",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Fundamento Barakiel",
+    "character_desc": "Anjo das fundações ocultas: manuseia engrenagens de bronze e um tubo de conduíte que sustenta o que está acima.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings, sleeves rolled, holding interlocking brass gears and a length of conduit pipe, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r012",
+    "sheet_id": "s027",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Portão Jofiel",
+    "character_desc": "Anjo dos umbrais: apresenta uma chave dourada diante de um pequeno portal ornamentado.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings presenting a large ornate golden key before a small doorway frame of light, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r013",
+    "sheet_id": "s027",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Miríade Selafiel",
+    "character_desc": "Anjo das muitas partes: equilibra um cacho de pequenos relicários luminosos, cada um autônomo.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings cradling a cluster of many small glowing cube reliquaries in both arms, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r014",
+    "sheet_id": "s027",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Aqueduto Haniel",
+    "character_desc": "Anjo do fluxo contínuo: guia por um canal-aqueduto um filete de luz líquida de uma ponta à outra.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings holding a small aqueduct channel through which a stream of luminous liquid flows, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r015",
+    "sheet_id": "s027",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Celeiro Cassiel",
+    "character_desc": "Anjo dos grãos brutos: inclina ânforas que despejam torrentes de grãos-dados reluzentes.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings tilting two ceramic urns that pour cascading streams of glowing grain, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r016",
+    "sheet_id": "s027",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Guardião do Cofre",
+    "character_desc": "Demônio-guardião do arquivo: vela um baú de ferro, empunhando um grande livro-razão e um molho de chaves.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, a brooding winged demon with small curved horns and leathery bat wings guarding an iron-bound chest, holding a massive ledger and a ring of keys, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r017",
+    "sheet_id": "s027",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Consulta Nathaniel",
+    "character_desc": "Anjo que interroga as tábuas: aponta uma varinha divinatória para lápides gravadas com tabelas.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings pointing a slender wand at engraved stone tablets covered in tabular rows, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r018",
+    "sheet_id": "s027",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Relicário Célere",
+    "character_desc": "Anjo que guarda a luz para reuso: segura um relicário de vidro que aprisiona um facho luminoso.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings holding a glass reliquary jar that captures and stores a beam of light, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r019",
+    "sheet_id": "s027",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Fila Barachiel",
+    "character_desc": "Anjo da ordem paciente: enfileira pequenas almas-orbes num cordão, uma após a outra.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings arranging a line of small glowing orbs threaded in orderly single file, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r020",
+    "sheet_id": "s027",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Farol Remiel",
+    "character_desc": "Anjo que busca no escuro: ergue uma lanterna e uma grande lente de aumento, sondando as trevas.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings raising a lantern in one hand and a large magnifying lens in the other, peering into shadow, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r021",
+    "sheet_id": "s027",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Vitral Camael",
+    "character_desc": "Anjo decorador da face visível: segura paleta e pincel de douração, ajustando um pequeno vitral.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings holding a painter's palette and gilding brush, adjusting a small stained-glass pane, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r022",
+    "sheet_id": "s027",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Painel Israfel",
+    "character_desc": "Anjo dos controles: monta um painel ornamentado de botões e alavancas polidas.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings assembling an ornate panel of decorative buttons and levers, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r023",
+    "sheet_id": "s027",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Trilha Anael",
+    "character_desc": "Anjo que conduz pela mão: oferece a mão e um mapa de caminho sinuoso ao viajante.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings extending a guiding hand and holding a map of a winding path, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r024",
+    "sheet_id": "s027",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Molde Sachiel",
+    "character_desc": "Anjo da consistência: exibe um molde e fileiras de medalhões idênticos por ele fundidos.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings holding a casting mold and rows of identical medallions on a tray, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r025",
+    "sheet_id": "s027",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Acesso Muriel",
+    "character_desc": "Anjo dos sentidos: estende um cajado-guia e uma tábua tátil, com símbolos de olho e ouvido no halo.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings offering a guiding staff and a tactile Braille-like tablet, subtle eye and ear symbols glowing in the halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r026",
+    "sheet_id": "s027",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Mercúrio Alado",
+    "character_desc": "Anjo da pressa: calça sandálias aladas e segura um relógio de sol de bolso, veloz.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings wearing winged sandals and holding a pocket sundial stopwatch, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r027",
+    "sheet_id": "s027",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Drapejo Verchiel",
+    "character_desc": "Anjo alfaiate do estilo: drapeja um tecido luminoso com fita métrica e alfinetes precisos.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings draping a bolt of glowing cloth, a measuring ribbon and pins in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r028",
+    "sheet_id": "s027",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Zoótropo Hamaliel",
+    "character_desc": "Anjo do movimento: gira um disco luminoso de zoótropo, suas penas deixando rastro borrado.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings spinning a glowing zoetrope disc, motion-blurred feathers trailing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r029",
+    "sheet_id": "s027",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Tábua Adnachiel",
+    "character_desc": "Anjo portátil: segura uma pequena tábua-relicário retangular que brilha na palma.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings holding a small glowing rectangular tablet reliquary in one palm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r030",
+    "sheet_id": "s027",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Pomo Gadreel",
+    "character_desc": "Anjo do refino minimalista: sustenta um pomo metálico polido, halo simples e elegante.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings holding a gleaming polished metallic fruit-orb, a clean minimal halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r031",
+    "sheet_id": "s027",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Autômato Verde",
+    "character_desc": "Anjo do familiar mecânico: acompanha um pequeno autômato de brilho esverdeado ao seu lado.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings beside a small green-glowing mechanical automaton companion perched on his hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r032",
+    "sheet_id": "s027",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Ponte Yeqon",
+    "character_desc": "Anjo que une dois mundos: segura duas tábuas espelhadas ligadas por um feixe de luz.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings holding two mirrored tablets joined by a bridge of light between them, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r033",
+    "sheet_id": "s027",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Mariposa Kokabiel",
+    "character_desc": "Anjo de asas translúcidas: com um único pincel pinta dois painéis ao mesmo tempo.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with translucent butterfly-like wings using a single brush to paint two canvases at once, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r034",
+    "sheet_id": "s027",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Astrólogo Tzaphkiel",
+    "character_desc": "Anjo que mede os céus: maneja um astrolábio e desdobra uma carta de estrelas.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, a scholarly angel with feathered wings handling a brass astrolabe and unfolding a star chart, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r035",
+    "sheet_id": "s027",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Domador Azazel",
+    "character_desc": "Anjo que adestra a fera: segura rédeas de luz que guiam um pequeno familiar reluzente.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings holding reins of light that guide a small glowing beast familiar, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r036",
+    "sheet_id": "s027",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Provedor Sariel",
+    "character_desc": "Anjo que alimenta a máquina que aprende: opera um aparato que nutre um familiar enjaulado.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings operating a feeding apparatus that nourishes a caged glowing familiar, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r037",
+    "sheet_id": "s027",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Contemplador Iophiel",
+    "character_desc": "Anjo pensador: fita um orbe-cérebro luminoso, pena e códice aberto ao alcance.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, a contemplative angel with feathered wings gazing into a glowing brain-orb, an open codex and quill nearby, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r038",
+    "sheet_id": "s027",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Oráculo Penemue",
+    "character_desc": "Anjo escriba dos sussurros: segura um pergaminho de encantamentos diante de uma máscara-oráculo luminosa.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings holding an ornate scroll of incantations before a glowing oracle mask, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r039",
+    "sheet_id": "s027",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Novelo Araqiel",
+    "character_desc": "Anjo que ordena as palavras: desembaraça um novelo de fios luminosos sobre um pequeno tear.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings untangling a skein of glowing threads over a small loom, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r040",
+    "sheet_id": "s027",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Olho Ramiel",
+    "character_desc": "Anjo que enxerga imagens: segura uma grande lente ocular e um prisma que projeta uma figura.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings holding a large ocular lens and a prism projecting a faint image, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r041",
+    "sheet_id": "s027",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Ábaco Asariel",
+    "character_desc": "Anjo que conta: maneja um ábaco e apresenta uma tábua com um gráfico de barras.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings working an abacus and presenting a tablet with a bar-chart, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r042",
+    "sheet_id": "s027",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Tríptico Nuriel",
+    "character_desc": "Anjo do painel: exibe um tríptico luminoso de mostradores e ponteiros.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings displaying a glowing triptych panel of dials and gauges, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r043",
+    "sheet_id": "s027",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Crisol Hasmal",
+    "character_desc": "Anjo que refina: funde minério bruto em moedas reluzentes com crisol e funil.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings smelting raw ore into gleaming coins with a crucible and funnel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r044",
+    "sheet_id": "s027",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Constelação Zuriel",
+    "character_desc": "Anjo que desenha a luz: pinta uma constelação-gráfico luminosa sobre tela escura.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings painting a glowing constellation graph onto a dark canvas with a fine brush, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r045",
+    "sheet_id": "s027",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Ferreiro Uziel",
+    "character_desc": "Anjo-ferreiro que liga torres: empunha chave inglesa e fole, uma pequena ponte entre estruturas.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings holding a wrench and bellows, a small bridge spanning two towers in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r046",
+    "sheet_id": "s027",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Sentinela Machidiel",
+    "character_desc": "Anjo vigilante: segura um escudo e uma lanterna-pulso que bate como coração.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, a vigilant angel with feathered wings holding a shield and a pulse-lantern glowing like a heartbeat, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r047",
+    "sheet_id": "s027",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Pedestal Sidriel",
+    "character_desc": "Anjo que sustenta os outros: ergue um pedestal sobre o qual pequenas figuras se firmam.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings lifting a stone pedestal upon which tiny figures stand supported, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r048",
+    "sheet_id": "s027",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Nuvem Zadkiel",
+    "character_desc": "Anjo entronizado nas nuvens: dirige com um cajado pequenos templos flutuantes.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings enthroned on clouds, directing small floating temples with a staff, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r049",
+    "sheet_id": "s027",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Timoneiro Orifiel",
+    "character_desc": "Anjo-timoneiro: gira uma roda de leme com caixotes-contêiner empilhados ao lado.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings turning a ship's wheel beside a stack of neatly arranged crates, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r050",
+    "sheet_id": "s027",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Teia Salathiel",
+    "character_desc": "Anjo que tece a rede: entrelaça cordões luminosos entre pontos distantes.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings weaving a web of glowing cords between distant connector points, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r051",
+    "sheet_id": "s027",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Zelador Cassael",
+    "character_desc": "Demônio noturno da máquina-altar: molho de chaves, lanterna e ferramentas, olheiras de vigília.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, a weary winged demon with small horns and tired eyes tending a machine-altar at night, holding a keyring, a lantern and tools, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r052",
+    "sheet_id": "s027",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Pomba Sealtiel",
+    "character_desc": "Anjo do lançamento: solta uma pomba luminosa ao céu, mão sobre uma alavanca de partida.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings releasing a luminous dove into the air, one hand on a launch lever, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r053",
+    "sheet_id": "s027",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Pedreiro Barbiel",
+    "character_desc": "Anjo-pedreiro: assenta tijolos luminosos com a colher de pedreiro, erguendo estrutura.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings laying glowing bricks with a mason's trowel, building a small structure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r054",
+    "sheet_id": "s027",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Roda Ambriel",
+    "character_desc": "Anjo do ciclo contínuo: gira uma roda d'água-esteira de luz que nunca cessa.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings turning a continuous waterwheel conveyor loop of light, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r055",
+    "sheet_id": "s027",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Guerreiro Camiel",
+    "character_desc": "Anjo guerreiro da guarda: empunha espada flamejante e escudo, um pergaminho de auditoria ao cinto.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, a warrior angel with feathered wings wielding a flaming sword and shield, a checklist scroll at his belt, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r056",
+    "sheet_id": "s027",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Ladino Belfegor",
+    "character_desc": "Demônio infiltrador: força uma fechadura com gazuas, máscara escura e sorriso astuto.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, a sly winged demon with small horns and leathery wings, dark mask, picking a lock with lockpicks, a pried lock in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r057",
+    "sheet_id": "s027",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Armeiro Dumah",
+    "character_desc": "Anjo que inspeciona a armadura: examina uma couraça em busca de fendas com uma lupa.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an armored angel with feathered wings inspecting a suit of armor for cracks with a magnifying glass, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r058",
+    "sheet_id": "s027",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cifra Raguel",
+    "character_desc": "Anjo encapuzado dos segredos: gira um disco de cifra e segura um pergaminho lacrado com chave.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, a hooded angel with feathered wings turning a cipher disc and holding a wax-sealed scroll and a key, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r059",
+    "sheet_id": "s027",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Lei Cochabiel",
+    "character_desc": "Anjo severo da norma: sustenta tábuas da lei, uma balança e um selo de carimbo.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, a stern angel with feathered wings holding stone law tablets, a set of scales and a seal stamp, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r060",
+    "sheet_id": "s027",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Véu Tamiel",
+    "character_desc": "Anjo que oculta o segredo: cobre com um véu uma pequena figura, empunhando cadeado e máscara.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings draping a veil over a small figure, holding a padlock and a mask, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r061",
+    "sheet_id": "s027",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Brasa Nathanael",
+    "character_desc": "Anjo em meio às brasas: toca o sino de alarme e verte água de um vaso sobre fagulhas.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings amid glowing embers, ringing an alarm bell and pouring water from a vessel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r062",
+    "sheet_id": "s027",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Estrategista Belial",
+    "character_desc": "Demônio estrategista: debruça-se sobre um mapa de guerra com peças, antevendo o ataque com um punhal marcando alvos.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, a scheming winged demon with small horns leaning over a war-map covered in figures, a dagger marking a target, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r063",
+    "sheet_id": "s027",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Lupa Jehoel",
+    "character_desc": "Anjo inspetor: examina um objeto luminoso à procura de falhas, lista de verificação em punho.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings inspecting a glowing object for flaws through a magnifier, a checklist in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r064",
+    "sheet_id": "s027",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Autômato Testador",
+    "character_desc": "Anjo-autômato: opera um engenho de braços mecânicos que repete testes sem cansaço.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings operating a mechanical testing rig with articulated arms and levers, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r065",
+    "sheet_id": "s027",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Peso Hadraniel",
+    "character_desc": "Anjo que estressa a estrutura: empilha pesos sobre uma máquina-balança, cronômetro na mão.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings loading heavy weights onto a stress-gauge machine, a stopwatch in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r066",
+    "sheet_id": "s027",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Toque Paciente",
+    "character_desc": "Anjo metódico: pressiona à mão, um a um, cada botão de um painel, marcando a lista com a pena.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, a patient angel with feathered wings methodically pressing each button of a panel by hand, marking a checklist with a quill, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r067",
+    "sheet_id": "s027",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Vendado Yerachmiel",
+    "character_desc": "Anjo que testa os sentidos: de venda nos olhos e trombeta no ouvido, palpa uma tábua tátil.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings wearing a blindfold and holding an ear trumpet, feeling a tactile tablet, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r068",
+    "sheet_id": "s027",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Escriba Vehuel",
+    "character_desc": "Anjo escriba: à escrivaninha com pena, pergaminho e tinteiro, registrando com cuidado.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, a scribe angel with feathered wings at a writing desk holding a quill over a scroll, an inkpot beside him, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r069",
+    "sheet_id": "s027",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Arauto Haziel",
+    "character_desc": "Anjo-arauto: proclama com uma trombeta erguida e um estandarte desfraldado.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings proclaiming with a raised trumpet and an unfurled banner, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r070",
+    "sheet_id": "s027",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Plano Mebahel",
+    "character_desc": "Anjo que ordena a mensagem: dispõe pergaminhos num quadro-calendário planejado.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings arranging scrolls upon a planning board like a calendar, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r071",
+    "sheet_id": "s027",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Pentecostes Yehiah",
+    "character_desc": "Anjo das muitas línguas: chama de fogo sobre a cabeça, livro poliglota e pequeno globo em mãos.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings, a small tongue of flame above his head, holding a multilingual book and a small globe, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r072",
+    "sheet_id": "s027",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Escultor Aniel",
+    "character_desc": "Anjo que dá forma ao produto: esculpe com formão uma pequena figura de barro a partir de um esboço.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings sculpting a small clay model with a chisel from a sketch, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r073",
+    "sheet_id": "s027",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Douração Mihael",
+    "character_desc": "Anjo do visual: aplica folha de ouro sobre um ícone luminoso com paleta e pincel.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings applying gold leaf to a glowing icon with a palette and brush, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r074",
+    "sheet_id": "s027",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Marionete Vehuiah",
+    "character_desc": "Anjo da interação: aciona um botão que acende uma lâmpada, cordéis de marionete respondendo.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings pressing a button that lights a lamp, marionette strings responding to the touch, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r075",
+    "sheet_id": "s027",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Fita Jeliel",
+    "character_desc": "Anjo do movimento gracioso: traça arcos com fitas de luz que fluem entre os dedos.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings tracing arcs with flowing ribbons of light between his fingers, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r076",
+    "sheet_id": "s027",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Estilete Sitael",
+    "character_desc": "Anjo ilustrador: desenha a ponta de prata sobre uma tábua luminosa, portfólio ao lado.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings drawing with a silverpoint stylus on a glowing sketch tablet, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r077",
+    "sheet_id": "s027",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Bandeja Elemiah",
+    "character_desc": "Anjo dos pequenos ícones: apresenta uma bandeja de minúsculos ícones e amuletos entalhados.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings presenting a tray of tiny carved icons and trinket reliquaries, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r078",
+    "sheet_id": "s027",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Selo Mahasiah",
+    "character_desc": "Anjo da marca: pressiona um selo-sigilo em brasa e ergue um estandarte com emblema.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings pressing a glowing sigil seal and raising an emblem banner, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r079",
+    "sheet_id": "s027",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Lira Lelahel",
+    "character_desc": "Anjo do som: dedilha uma lira, diapasão e pequenos sinos ressoando à mão.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings plucking a lyre, a tuning fork and small resonant bells in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r080",
+    "sheet_id": "s027",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Poliedro Achaiah",
+    "character_desc": "Anjo escultor do volume: modela uma forma poliédrica flutuante de luz com compasso de calibre.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings shaping a floating faceted polyhedral form of light with calipers, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r081",
+    "sheet_id": "s027",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Dados Cahetel",
+    "character_desc": "Anjo do jogo: segura dados grandes, tabuleiro e um pergaminho de regras, ar brincalhão.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, a playful angel with feathered wings holding oversized dice, a game board and a rules scroll, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r082",
+    "sheet_id": "s027",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Labirinto Haziel",
+    "character_desc": "Anjo que ergue o cenário: molda um pequeno labirinto-paisagem na palma da mão.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings shaping a miniature labyrinth landscape in the palm of his hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r083",
+    "sheet_id": "s027",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Bardo Aladiah",
+    "character_desc": "Anjo narrador: abre um livro de contos com pena, máscaras de teatro pendendo ao lado.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, a bard angel with feathered wings opening a storybook with a quill, theatre masks hanging beside him, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r084",
+    "sheet_id": "s027",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Artesão Lauviah",
+    "character_desc": "Anjo que monta o mundo lúdico: articula um mundo-brinquedo mecânico com um cetro-controle.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings assembling a mechanical toy world with a joystick-scepter controller, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r085",
+    "sheet_id": "s027",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Prisma Hahaiah",
+    "character_desc": "Anjo dos brilhos: refrata luz por um prisma sobre superfícies, paleta de gradientes na mão.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings refracting light through a prism onto surfaces, a palette of gradients in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r086",
+    "sheet_id": "s027",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Miniatura Yezalel",
+    "character_desc": "Anjo do minúsculo: trabalha ferramentas finíssimas dentro de um pequeno coração-circuito.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, a focused angel with feathered wings working fine tools inside a tiny glowing circuit-heart chip, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r087",
+    "sheet_id": "s027",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Runa Mebahel",
+    "character_desc": "Anjo que grava a alma da máquina: cinzela runas numa pequena placa de metal reluzente.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings engraving runes onto a small glowing metal plate with an etching tool, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r088",
+    "sheet_id": "s027",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Enxame Hariel",
+    "character_desc": "Anjo das coisas ligadas: sustenta uma rede de pequenas lanternas-objetos unidas por fios.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings holding a network of many small connected lanterns linked by glowing threads, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r089",
+    "sheet_id": "s027",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Corrente Hakamiah",
+    "character_desc": "Anjo que forja o elo: martela uma corrente de selos luminosos encadeados.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings hammering a chain of glowing sealed links on a small anvil, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r090",
+    "sheet_id": "s027",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Cético Asmodeu",
+    "character_desc": "Demônio auditor: escrutina com lupa um contrato-corrente selado à procura de brechas.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, a skeptical winged demon with small horns scrutinizing a chain-sealed contract scroll through a magnifier, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r091",
+    "sheet_id": "s027",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Visor Leuviah",
+    "character_desc": "Anjo das visões sobrepostas: usa um visor ornamentado que revela aparições flutuantes.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings wearing an ornate visor mask, faint spectral overlays floating around him, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r092",
+    "sheet_id": "s027",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Autômato Pahaliah",
+    "character_desc": "Anjo que guia o autômato: conduz pela mão uma marionete mecânica articulada com controles.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings guiding an articulated mechanical automaton by hand with a control box, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r093",
+    "sheet_id": "s027",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Vinha Nelchael",
+    "character_desc": "Anjo do crescimento: rega uma vinha luminosa que floresce depressa entre as mãos.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings watering a rapidly blooming luminous vine from a small vessel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r094",
+    "sheet_id": "s027",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Escada Yeiayel",
+    "character_desc": "Anjo que sobe ao topo: içа um estandarte por uma escada, etiquetas-palavra brilhando na mão.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings climbing a ladder raising a ranking banner, glowing keyword tags in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r095",
+    "sheet_id": "s027",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Funil Melahel",
+    "character_desc": "Anjo que canaliza multidões: verte pequenas almas-orbes por um funil, megafone ao lado.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings channeling small orbs through a funnel, a megaphone at his side, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r096",
+    "sheet_id": "s027",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Elo Hahuiah",
+    "character_desc": "Anjo construtor de pontes: encaixa uma peça-chave entre cliente e sistema, modelo de demonstração à mão.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings fitting a keystone piece between two structures, a small demo model in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r097",
+    "sheet_id": "s027",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Amparo Nithhaiah",
+    "character_desc": "Anjo compassivo do socorro: ergue uma lanterna e uma corneta de escuta, mão que cura estendida.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, a compassionate angel with feathered wings raising a lantern and a listening horn, a healing hand extended, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r098",
+    "sheet_id": "s027",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Dádiva Haaiah",
+    "character_desc": "Anjo carismático: apresenta um orbe-presente luminoso em gesto aberto, contrato enrolado na outra mão.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, a charismatic angel with feathered wings presenting a glowing gift-orb with an open gesture, a rolled contract in the other hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r099",
+    "sheet_id": "s027",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Balança Yerathel",
+    "character_desc": "Anjo das contas: pesa moedas de ouro numa balança, livro-razão apoiado ao lado.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, an angel with feathered wings weighing golden coins on a balance scale, a ledger book resting beside him, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s027-r100",
+    "sheet_id": "s027",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Advogado Seheiah",
+    "character_desc": "Anjo advogado sóbrio: sustenta um tomo da lei, um martelo de juiz e uma balança.",
+    "nano_prompt": "Baroque chiaroscuro oil painting in the style of Caravaggio, single dramatic raking light against deep tenebrist shadow, warm earthy palette, luminous realistic skin, half-length portrait framing with hands and held objects clearly visible, a sober advocate angel with feathered wings holding a law tome, a judge's gavel and a set of scales, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

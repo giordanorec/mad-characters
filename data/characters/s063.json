@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s063-r001",
+    "sheet_id": "s063",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Amanita Mestra",
+    "character_desc": "Cogumelo de cúpula que planeja a floresta inteira; segura a planta enrolada e o compasso que revelam o arquiteto.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, cap shaped like a domed architectural roof, holding a rolled blueprint scroll and a small brass drafting compass, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r002",
+    "sheet_id": "s063",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Boleto Regente",
+    "character_desc": "Cogumelo que rege o time; a batuta e a bandeirinha de comando dizem que ele guia tecnicamente.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a small conductor's baton pointing forward and a tiny rally flag, a subtle crown of moss on the cap, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r003",
+    "sheet_id": "s063",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Porcino Sênior",
+    "character_desc": "Cogumelo veterano e sábio; a grande chave-inglesa erguida como cajado marca a senioridade técnica.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a large ornate wrench upright like a staff, a small badge of gears pinned to the cap, wise steady posture, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r004",
+    "sheet_id": "s063",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Portobello Principal",
+    "character_desc": "Cogumelo de maior porte técnico; o cajado com engrenagem luminosa e o monóculo mostram o principal.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a tall engineer's staff topped with a glowing gear, wearing a distinguished monocle, dignified pose, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r005",
+    "sheet_id": "s063",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Champi Gestor",
+    "character_desc": "Cogumelo acolhedor que cuida do time; prancheta, xícara de café e headset comunicam a gestão.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a small clipboard and a coffee cup, wearing a tiny headset, gesturing warmly to unseen team, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r006",
+    "sheet_id": "s063",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Trufa Produto",
+    "character_desc": "Cogumelo que aponta o rumo do produto; o roadmap e os post-its marcam o PM.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a roadmap chart and a cluster of sticky notes, pointing at a small pinned goal flag, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r007",
+    "sheet_id": "s063",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Shiitake Dono",
+    "character_desc": "Cogumelo dono do backlog; a lista priorizada e o troféu sobre a cesta de features mostram o PO.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a prioritized backlog list and a small trophy, standing protectively over a woven basket of feature icons, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r008",
+    "sheet_id": "s063",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Enoki Programa",
+    "character_desc": "Cogumelo esguio que costura muitos projetos; as fitas de cronograma entrelaçadas revelam o programa.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, juggling several connected timeline ribbons at once, wearing an orchestrating headset, calm coordinating gesture, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r009",
+    "sheet_id": "s063",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Cantarelo Projeto",
+    "character_desc": "Cogumelo que controla prazos; o gráfico de Gantt e o cronômetro marcam o gerente de projeto.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a Gantt-chart scroll and a stopwatch, a checklist clipboard tucked under the arm, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r010",
+    "sheet_id": "s063",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Girolle Scrum",
+    "character_desc": "Cogumelo facilitador dos rituais ágeis; o quadro de sprint, o apito e a ampulheta mostram o scrum master.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a small sprint board covered in sticky notes, a whistle on a cord around the stem, a sand-timer at the base, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r011",
+    "sheet_id": "s063",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Micélio Server",
+    "character_desc": "Cogumelo enraizado no subsolo dos sistemas; entre fios de micélio brilhante segura um rack e um tambor de dados.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, sitting among glowing underground mycelial root threads, holding a small server-rack block and a database drum, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r012",
+    "sheet_id": "s063",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Boleto API",
+    "character_desc": "Cogumelo que desenha contratos; as peças de encaixe e a planta de endpoints revelam o designer de API.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding interlocking puzzle-connector pieces and a small blueprint of connected endpoints, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r013",
+    "sheet_id": "s063",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Champi Micro",
+    "character_desc": "Cogumelo cercado de mini-cogumelos autônomos; a malha de conectores mostra os microsserviços.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, surrounded by many tiny linked mushroom pods like containers, holding a small mesh of connectors, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r014",
+    "sheet_id": "s063",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Trombeta Pipe",
+    "character_desc": "Cogumelo trombeta que canaliza fluxos; os canos de bambu e o funil marcam o pipeline.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, channeling flowing glowing water through tiny bamboo pipes, holding a funnel, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r015",
+    "sheet_id": "s063",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Boletus Dados",
+    "character_desc": "Cogumelo que transporta dados; baldes de gotas luminosas ao longo de mini-aquedutos revelam o eng. de dados.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, carrying buckets of glowing data droplets along tiny stone aqueduct pipes, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r016",
+    "sheet_id": "s063",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Trufa DBA",
+    "character_desc": "Cogumelo guardião dos bancos; a pilha de tambores rotulados e a chave de latão mostram o DBA.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, guarding a stack of labeled database barrels, holding a big brass key, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r017",
+    "sheet_id": "s063",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Cogu Query",
+    "character_desc": "Cogumelo que interroga tabelas; o pergaminho de consulta e a lupa sobre a grade revelam o SQL.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a query scroll and a magnifying glass over a small table grid of cells, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r018",
+    "sheet_id": "s063",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Champi Cache",
+    "character_desc": "Cogumelo que guarda respostas prontas no frescor; orbes numa prateleira gelada e ampulheta veloz marcam o cache.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, storing glowing orbs on a cool cellar shelf, holding a fast-draining hourglass, frosty breath, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r019",
+    "sheet_id": "s063",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Enoki Fila",
+    "character_desc": "Cogumelo que organiza mensagens em ordem; os mini-cogumelos enfileirados e o dispensador de senhas mostram a fila.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, tiny mushrooms lined up in an orderly single-file queue behind, holding a ticket dispenser, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r020",
+    "sheet_id": "s063",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Boleto Busca",
+    "character_desc": "Cogumelo que indexa a floresta; a grande lupa e o fichário de índice revelam o buscador.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a large magnifying glass and an index-card catalog box, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r021",
+    "sheet_id": "s063",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Champi Front",
+    "character_desc": "Cogumelo que pinta a fachada; o pincel e a amostra de cores sobre uma moldura de UI marcam o front.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, painting a small window-pane UI frame, holding a brush and a color swatch card, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r022",
+    "sheet_id": "s063",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Cogu UI",
+    "character_desc": "Cogumelo que monta os controles; botões e sliders encaixados num painel revelam o UI.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, assembling tiny buttons and sliders onto a small display panel, precise fingers, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r023",
+    "sheet_id": "s063",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Trufa UX",
+    "character_desc": "Cogumelo empático que estuda o caminho do usuário; o bloco de wireframe e o mapa de jornada mostram o UX.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a wireframe sketchpad and a user-journey map, empathetic thoughtful pose, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r024",
+    "sheet_id": "s063",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Boleto Sistema",
+    "character_desc": "Cogumelo que cataloga componentes; a estante de peças combinando e as amostras revelam o design system.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, arranging a neat library shelf of matching component tiles and color swatches, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r025",
+    "sheet_id": "s063",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Champi Acesso",
+    "character_desc": "Cogumelo que abre a floresta a todos; o cartão em braille e a roda de contraste marcam a acessibilidade.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a braille card and a high-contrast ratio wheel, one ear cupped listening attentively, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r026",
+    "sheet_id": "s063",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Corredor Cogu",
+    "character_desc": "Cogumelo veloz; velocímetro, cronômetro e tênis com linhas de movimento mostram a performance web.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a speedometer and a stopwatch, wearing tiny running sneakers, soft motion lines, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r027",
+    "sheet_id": "s063",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Estilo Shiitake",
+    "character_desc": "Cogumelo que estiliza o layout; o rolo de tinta, a régua e as caixas coloridas revelam o CSS.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a paint roller and a ruler, arranging colored layout boxes into a grid, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r028",
+    "sheet_id": "s063",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Cogu Anima",
+    "character_desc": "Cogumelo em movimento; arcos de trajetória, pontos de keyframe e o flipbook marcam a animação.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, surrounded by motion arcs and keyframe dots, holding a small flipbook mid-flip, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r029",
+    "sheet_id": "s063",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Champi Móvel",
+    "character_desc": "Cogumelo que cabe na mão; segura uma laje-smartphone e faz gestos de toque, marcando o mobile.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a small smartphone-shaped slab, making a touch gesture on its screen, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r030",
+    "sheet_id": "s063",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Champi Maçã",
+    "character_desc": "Cogumelo elegante e minimalista; o telefone liso com folhinha de maçã revela o iOS.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a sleek minimalist phone marked with a small bitten-apple leaf motif, tidy refined look, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r031",
+    "sheet_id": "s063",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Enoki Droid",
+    "character_desc": "Cogumelo tinkerer; o mascote-robô verde, o telefone e a chave de fenda revelam o Android.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a little green robot-mascot toy and a phone, tinkering with a small screwdriver, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r032",
+    "sheet_id": "s063",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Cogu Nativo",
+    "character_desc": "Cogumelo que une plataformas; o emblema de átomo em órbita ligando dois telefones marca o React Native.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a spinning atom-orbital emblem bridging two small phones side by side, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r033",
+    "sheet_id": "s063",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Champi Flutter",
+    "character_desc": "Cogumelo cercado de pétalas voando; um telefone mostrando duas plataformas revela o Flutter.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, surrounded by fluttering blue bird-like petals, holding one phone showing dual platform screens, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r034",
+    "sheet_id": "s063",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Trufa Cientista",
+    "character_desc": "Cogumelo de laboratório; o béquer de dados brilhantes, o gráfico de dispersão e os óculos revelam o cientista.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a beaker of glowing data and a scatter-plot chart, wearing tiny lab goggles, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r035",
+    "sheet_id": "s063",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Boleto ML",
+    "character_desc": "Cogumelo que treina modelos; a teia neural de pontos e o cérebro-engrenagem marcam o ML.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, tending a small glowing neural-network web of connected dots, holding a gear-brain object, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r036",
+    "sheet_id": "s063",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Champi MLOps",
+    "character_desc": "Cogumelo que opera modelos em produção; a esteira de caixas-modelo e o mostrador de monitoramento revelam o MLOps.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, operating a conveyor of model boxes, holding a monitoring dial with a heartbeat line, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r037",
+    "sheet_id": "s063",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Cogu Pesquisa",
+    "character_desc": "Cogumelo pensador; o pergaminho acadêmico, a bolha de cérebro luminoso e os óculos redondos marcam a pesquisa.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, reading an academic scroll, a glowing brain thought-bubble above, wearing round glasses, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r038",
+    "sheet_id": "s063",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Champi Prompt",
+    "character_desc": "Cogumelo que sussurra às IAs; o orbe luminoso, a pena e a varinha revelam o engenheiro de prompt.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, whispering to a glowing speech-orb, holding a quill and a small magic wand, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r039",
+    "sheet_id": "s063",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Fala Cogu",
+    "character_desc": "Cogumelo cercado de palavras; os tokens de letras flutuantes e o dicionário revelam o NLP.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, surrounded by floating letter and word tokens, holding a speech bubble and a small dictionary, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r040",
+    "sheet_id": "s063",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Olho Boleto",
+    "character_desc": "Cogumelo que enxerga imagens; a lente de câmera e a moldura de bounding-box sobre um cartão revelam a visão computacional.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a camera lens and a bounding-box frame over an image card, an extra painted eye motif on the cap, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r041",
+    "sheet_id": "s063",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Cantarelo Analista",
+    "character_desc": "Cogumelo que lê números; a prancheta de barras e a calculadora apontando uma tendência marcam o analista.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a bar-chart clipboard and a calculator, pointing at a rising trend line, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r042",
+    "sheet_id": "s063",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Trufa BI",
+    "character_desc": "Cogumelo que apresenta dashboards; o painel de medidores e pizzas com ponteiro revela o BI.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, presenting a dashboard board of gauges and pie charts, holding a pointer stick, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r043",
+    "sheet_id": "s063",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Champi Analytics",
+    "character_desc": "Cogumelo que transforma dado bruto em limpo; os canos de transformação ligando barril a gráfico revelam o analytics eng.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, connecting raw-data barrels to a clean chart through tiny transform pipes, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r044",
+    "sheet_id": "s063",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Cogu Viz",
+    "character_desc": "Cogumelo artista de gráficos; o cavalete com gráfico colorido e a paleta de cores marcam o dataviz.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, painting a colorful graph on an easel, holding a palette of chart colors, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r045",
+    "sheet_id": "s063",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Boleto DevOps",
+    "character_desc": "Cogumelo que une dev e ops; a fita infinito e a caixa de ferramentas com chave e engrenagem revelam o DevOps.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding an infinity-loop ribbon and an open toolbox, a wrench and gear in hand, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r046",
+    "sheet_id": "s063",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Champi SRE",
+    "character_desc": "Cogumelo que mantém tudo de pé; o monitor de batimentos, o extintor e o mostrador de uptime revelam o SRE.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a heartbeat uptime monitor and a small fire extinguisher, alert but calm posture, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r047",
+    "sheet_id": "s063",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Micélio Plataforma",
+    "character_desc": "Cogumelo que constrói a base para os outros; a plataforma de tábuas encaixadas revela o platform eng.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, building a sturdy raised platform of interlocked planks for others to stand upon, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r048",
+    "sheet_id": "s063",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Nuvem Cogu",
+    "character_desc": "Cogumelo sobre a nuvem; os blocos-servidor flutuantes e a planta revelam o arquiteto de nuvem.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, standing on a fluffy cloud, arranging floating server blocks, holding a small blueprint, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r049",
+    "sheet_id": "s063",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Timão Champi",
+    "character_desc": "Cogumelo que pilota contêineres; o leme de navio guiando caixotes revela o admin de Kubernetes.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a ship's helm wheel, steering many small container crates arranged around, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r050",
+    "sheet_id": "s063",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Boleto Rede",
+    "character_desc": "Cogumelo que tece a rede; os fios de cabo luminoso entre nós e o plugue Ethernet revelam o eng. de redes.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, weaving glowing cable threads between small nodes, holding an Ethernet plug, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r051",
+    "sheet_id": "s063",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Trufa Admin",
+    "character_desc": "Cogumelo administrador; o molho de chaves e o console de terminal revelam o sysadmin.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a big ring of keys and a small terminal console, patch tools at the belt, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r052",
+    "sheet_id": "s063",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Champi Release",
+    "character_desc": "Cogumelo que lança versões; o foguete e a fita de versão sendo cortada revelam o release eng.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a launch rocket and a version-tag ribbon, cutting a small release ribbon, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r053",
+    "sheet_id": "s063",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Martelo Cogu",
+    "character_desc": "Cogumelo construtor; o martelo, os blocos empilhados e o capacete revelam o build eng.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a hammer beside an assembly of stacked brick blocks, wearing a tiny hard hat, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r054",
+    "sheet_id": "s063",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Esteira Enoki",
+    "character_desc": "Cogumelo da esteira automática; as caixas passando por portões e o carimbo verde revelam o CI/CD.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, operating a conveyor belt looping boxes through check-gates, holding a green check stamp, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r055",
+    "sheet_id": "s063",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Escudo Boleto",
+    "character_desc": "Cogumelo vigilante; o escudo e o cadeado com crachá revelam o eng. de segurança.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a shield and a padlock, vigilant guarding stance, a badge on the cap, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r056",
+    "sheet_id": "s063",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Ladino Champi",
+    "character_desc": "Cogumelo furtivo; o capuz, o conjunto de gazuas e a bandeira red-team revelam o pentester.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, wearing a stealthy hood, holding a lockpick set and a small red-team flag, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r057",
+    "sheet_id": "s063",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Trufa AppSec",
+    "character_desc": "Cogumelo que blinda o código; a lupa sobre o escudo de código e os curativos de patch revelam o AppSec.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, inspecting a code-shield with a magnifying glass, small patch band-aids on the armor, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r058",
+    "sheet_id": "s063",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cogu Cripto",
+    "character_desc": "Cogumelo dos cifrados; a roda de cifra, a chave e as runas flutuantes revelam o criptógrafo.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a cipher wheel and a key, cryptic runes floating around, a scroll of ciphers, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r059",
+    "sheet_id": "s063",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Champi Conforme",
+    "character_desc": "Cogumelo das regras; o carimbo de checklist, o livro de normas e o selo oficial revelam o compliance.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a checklist stamp and a rulebook, an official wax seal, a tidy formal sash, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r060",
+    "sheet_id": "s063",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Véu Cogu",
+    "character_desc": "Cogumelo que protege dados; o véu de privacidade e o marcador de redação sobre um cartão mascarado revelam a privacidade.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a privacy veil-curtain and a redaction marker over a masked data card, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r061",
+    "sheet_id": "s063",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Bombeiro Boleto",
+    "character_desc": "Cogumelo que apaga incêndios; o capacete de bombeiro, o sino de alarme e o extintor revelam o respondente de incidentes.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, wearing a firefighter helmet, holding an alarm bell and an extinguisher, urgent forward lean, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r062",
+    "sheet_id": "s063",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Xadrez Champi",
+    "character_desc": "Cogumelo estrategista; o tabuleiro de setas de ataque e o cavalo de xadrez revelam o threat modeler.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, studying a strategy board of attack-arrow diagrams, holding a chess knight piece, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r063",
+    "sheet_id": "s063",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Champi QA",
+    "character_desc": "Cogumelo caçador de bugs; a checklist, a lupa e a rede de insetos revelam o QA.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a checklist and a magnifying glass, a small bug-catching net over the shoulder, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r064",
+    "sheet_id": "s063",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Robô Cogu",
+    "character_desc": "Cogumelo que automatiza testes; o robozinho de automação e o pergaminho de script revelam o SDET.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a small automation robot and a test-script scroll, gears turning nearby, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r065",
+    "sheet_id": "s063",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Cronô Boleto",
+    "character_desc": "Cogumelo que mede carga; o cronômetro, o mostrador de carga e os pesos revelam o perf tester.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a stopwatch and a load-gauge dial, small stress-weights stacked at the base, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r066",
+    "sheet_id": "s063",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Trufa Manual",
+    "character_desc": "Cogumelo minucioso; a checklist marcada à mão, a lupa e o lápis revelam o testador manual.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, clicking through a checklist by hand, holding a magnifier and a pencil, careful attentive look, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r067",
+    "sheet_id": "s063",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Champi Acesso QA",
+    "character_desc": "Cogumelo que testa acesso; a varinha de leitor de tela e o verificador de contraste revelam o a11y tester.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, testing with a screen-reader wand and a contrast checker, an ear-and-eye motif on the cap, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r068",
+    "sheet_id": "s063",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Pena Cogu",
+    "character_desc": "Cogumelo escriba; a pena, o manual aberto e o tinteiro revelam o technical writer.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a quill over an open manual book, an ink pot at the base, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r069",
+    "sheet_id": "s063",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Megafone Champi",
+    "character_desc": "Cogumelo que fala pela comunidade; o megafone, o coração e a faixa revelam o dev advocate.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a small megaphone and a heart, a friendly wave, a community banner behind, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r070",
+    "sheet_id": "s063",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Trufa Conteúdo",
+    "character_desc": "Cogumelo que planeja conteúdo; o calendário editorial e os cartões de história com ponteiro revelam o estrategista.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, arranging a content-calendar board and story cards, holding a pointer, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r071",
+    "sheet_id": "s063",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Globo Cogu",
+    "character_desc": "Cogumelo que traduz para o mundo; o globo e as bolhas de fala em muitos alfabetos revelam a localização.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a small globe with speech bubbles in many scripts, translation tags floating, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r072",
+    "sheet_id": "s063",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Champi Design",
+    "character_desc": "Cogumelo que desenha o produto; o wireframe e o mockup polido com lápis e régua revelam o product designer.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a wireframe and a polished product mockup, a pencil and ruler in hand, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r073",
+    "sheet_id": "s063",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Palheta Cogu",
+    "character_desc": "Cogumelo visual; a paleta de tinta, as amostras de cor e o pincel artístico revelam o visual designer.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a paint palette and color swatches, an artful brush poised, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r074",
+    "sheet_id": "s063",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Toque Boleto",
+    "character_desc": "Cogumelo dos gestos; os arcos de toque e swipe num painel e as setas de fluxo revelam o interaction designer.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, demonstrating tap and swipe gesture arcs on a panel, dotted flow arrows around, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r075",
+    "sheet_id": "s063",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Fluxo Champi",
+    "character_desc": "Cogumelo em fluxo; as trilhas de movimento giratórias e a linha de frames revelam o motion designer.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, surrounded by swirling motion trails, holding a timeline strip of animation frames, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r076",
+    "sheet_id": "s063",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Pincel Trufa",
+    "character_desc": "Cogumelo ilustrador; a caneta de desenho e a tela com rabisco revelam o ilustrador.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a drawing pen over a sketch canvas showing a small doodle, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r077",
+    "sheet_id": "s063",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Cogu Assets",
+    "character_desc": "Cogumelo que cria assets; a bandeja de ícones, sprites e tiles com pinça revela o asset designer.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, arranging a tray of tiny icons, sprites and tiles, holding fine tweezers, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r078",
+    "sheet_id": "s063",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Selo Champi",
+    "character_desc": "Cogumelo da marca; o carimbo de logo-emblema e as fichas de cor da marca revelam o brand designer.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a logo-emblem stamp and brand color chips, elegant refined stance, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r079",
+    "sheet_id": "s063",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Nota Boleto",
+    "character_desc": "Cogumelo do som; os fones, o diapasão e a fita de onda sonora com notas revelam o sound designer.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, wearing headphones, holding a tuning fork and a sound-wave ribbon, music notes floating, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r080",
+    "sheet_id": "s063",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Cubo Cogu",
+    "character_desc": "Cogumelo escultor 3D; o cubo/esfera em wireframe sobre a mesa giratória e as ferramentas de argila revelam o 3D artist.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, sculpting a wireframe 3D cube and sphere on a turntable, holding clay-sculpting tools, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r081",
+    "sheet_id": "s063",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Dado Champi",
+    "character_desc": "Cogumelo que projeta jogos; o dado e o esboço de mapa de fase com joystick revelam o game designer.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a game die and a level-map sketch, a small joystick nearby, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r082",
+    "sheet_id": "s063",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Mapa Trufa",
+    "character_desc": "Cogumelo que monta fases; a maquete de nível com plataformas e bandeirinhas e a régua revelam o level designer.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, arranging a miniature level map with platforms and flags, holding a ruler, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r083",
+    "sheet_id": "s063",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Conto Cogu",
+    "character_desc": "Cogumelo contador; o livro de histórias aberto e o pergaminho de diálogo ramificado revelam o narrative designer.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding an open storybook and a branching dialogue scroll, a quill in hand, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r084",
+    "sheet_id": "s063",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Joystick Champi",
+    "character_desc": "Cogumelo que programa jogos; o controle e a sprite-sheet com motivo pixel revelam o game dev.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a game controller and a pixel sprite-sheet, small pixel-block motifs around, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r085",
+    "sheet_id": "s063",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Brilho Boleto",
+    "character_desc": "Cogumelo dos gráficos; o orbe de shader luminoso e o prisma de luz com gradientes revelam o graphics eng.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a glowing shader orb and a light prism casting rendered gradients, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r086",
+    "sheet_id": "s063",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Chip Cogu",
+    "character_desc": "Cogumelo do hardware embarcado; a placa de circuito, o ferro de solda e o cap-microchip revelam o embedded.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a tiny circuit board and a soldering iron, a microchip pattern printed on the cap, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r087",
+    "sheet_id": "s063",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Trufa Firmware",
+    "character_desc": "Cogumelo que grava firmware; o chip de memória, a chave de fenda e o cartucho ROM revelam o firmware eng.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, flashing a memory chip, holding a screwdriver and a ROM cartridge, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r088",
+    "sheet_id": "s063",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Antena Champi",
+    "character_desc": "Cogumelo conectado; a antena no chapéu, os sensores ligados e as ondas de wifi revelam o IoT eng.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, cap topped with a small antenna, holding connected sensor gadgets, wifi waves radiating, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r089",
+    "sheet_id": "s063",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Corrente Cogu",
+    "character_desc": "Cogumelo da cadeia de blocos; a corrente de blocos ligados, a moeda e o pergaminho-ledger revelam o blockchain dev.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a chain of linked blocks and a coin, a ledger scroll at the base, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r090",
+    "sheet_id": "s063",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Lupa Boleto",
+    "character_desc": "Cogumelo que audita contratos; a lupa sobre o pergaminho de contrato com marca de verificação e moeda revelam o auditor.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, inspecting a contract scroll with a magnifier, a checkmark and a coin beside it, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r091",
+    "sheet_id": "s063",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Champi Imersivo",
+    "character_desc": "Cogumelo imersivo; o visor de VR e as formas holográficas flutuantes revelam o eng. de AR/VR.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, wearing a VR headset visor, holding floating holographic shapes, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r092",
+    "sheet_id": "s063",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Robô Trufa",
+    "character_desc": "Cogumelo da robótica; o braço robótico, o controle remoto e as engrenagens revelam o robotics eng.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a small robotic arm and a remote control, gears and bolts around the base, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r093",
+    "sheet_id": "s063",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Broto Champi",
+    "character_desc": "Cogumelo que faz crescer; regando um broto-gráfico ascendente com a seta pra cima e o funil revelam o growth eng.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, watering a rising growth-chart sprout, holding an upward arrow, a small funnel nearby, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r094",
+    "sheet_id": "s063",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Boleto SEO",
+    "character_desc": "Cogumelo que escala rankings; a lupa sobre a escada de posições e as tags de palavra-chave subindo revelam o SEO.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a magnifying glass over a ranking ladder, keyword tags climbing upward, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r095",
+    "sheet_id": "s063",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Champi MarTech",
+    "character_desc": "Cogumelo que automatiza marketing; o megafone ligado a engrenagens e funis com mostradores revelam o martech.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, connecting a megaphone to gears and marketing funnels, adjusting automation dials, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r096",
+    "sheet_id": "s063",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Chave Cogu",
+    "character_desc": "Cogumelo que encaixa soluções; a peça de quebra-cabeça entrando na fechadura e o tablet de demo revelam o solutions eng.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, fitting a puzzle piece into a lock, holding a demo tablet, offering a handshake, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r097",
+    "sheet_id": "s063",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Fone Champi",
+    "character_desc": "Cogumelo prestativo; o headset, a chave-inglesa e a boia salva-vidas revelam o support eng.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, wearing a headset, holding a wrench and a help lifebuoy ring, friendly reassuring look, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r098",
+    "sheet_id": "s063",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Trufa Vendas",
+    "character_desc": "Cogumelo que demonstra e vende; o tablet de demo, o gráfico apresentado e a gravata revelam o sales eng.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a demo tablet and presenting a rising chart, wearing a small tie, offering a handshake, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r099",
+    "sheet_id": "s063",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Moeda Boleto",
+    "character_desc": "Cogumelo das finanças de nuvem; a balança de moedas, o razão de orçamento e a calculadora revelam o FinOps.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a coin scale and a budget ledger, a calculator and dollar tags at the base, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s063-r100",
+    "sheet_id": "s063",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Juíz Champi",
+    "character_desc": "Cogumelo jurídico; o martelo de juiz, o pergaminho de lei e a balança da justiça revelam o legal counsel.",
+    "nano_prompt": "Delicate mycological watercolor illustration of a single anthropomorphic mushroom character with a rounded cap and slender stem, holding a gavel and a scroll of law, a small scales-of-justice beside, a formal collar, soft translucent washes, fine ink linework, muted earthy pastel palette, delicate spore-dust texture, tiny gentle expressive face, full-body view standing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s096-r001",
+    "sheet_id": "s096",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Mestre Blueprint",
+    "character_desc": "herói-construtor de fase que ergue o mapa inteiro do castelo antes de qualquer inimigo aparecer; carrega uma planta pixelada gigante e uma vara de medir.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a heroic pixel builder hero holding a glowing blueprint scroll of a castle level in one hand and a measuring rod in the other, tool-belt of construction icons, confident commanding pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r002",
+    "sheet_id": "s096",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Capitão Squad",
+    "character_desc": "líder de esquadrão arcade que aponta o caminho para os outros sprites, com megafone de bloco e capacete de comando.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a squad-leader pixel hero wearing a captain helmet with a star, holding a blocky megaphone and pointing forward, small pixel arrow above, decisive leading pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r003",
+    "sheet_id": "s096",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Sábio Staff",
+    "character_desc": "veterano do fliperama de nível máximo, cajado-bastão com cristal de código e capa estrelada de experiência.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a high-level veteran pixel sage in a starry cape holding a staff topped with a glowing code crystal, level-max aura, wise steady stance, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r004",
+    "sheet_id": "s096",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Grão-Principal",
+    "character_desc": "personagem-mago supremo do gabinete, coroa de circuito e orbe de arquitetura flutuando, aura dourada de high score.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a supreme pixel archmage with a circuit crown, floating architecture orb, golden high-score aura, imposing authoritative pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r005",
+    "sheet_id": "s096",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Gerente Joystick",
+    "character_desc": "treinador de heróis do fliperama que segura pranchetas e distribui vidas extras, apito de bloco no pescoço.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a coach-like pixel manager holding a blocky clipboard and a stack of extra-life icons, whistle around neck, encouraging mentor pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r006",
+    "sheet_id": "s096",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Piloto Produto",
+    "character_desc": "navegador do mapa-mundo do jogo com bússola de roadmap e mochila de features priorizadas.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel product navigator holding a roadmap compass and a backpack of stacked feature crates, pointing at a floating map marker, planning pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r007",
+    "sheet_id": "s096",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Guardião Backlog",
+    "character_desc": "zelador arcade de uma pilha de cartuchos-tarefa priorizados, prancheta com checklist pixelado.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel keeper standing beside a tall stack of task cartridges, holding a prioritized checklist board, organizing gesture, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r008",
+    "sheet_id": "s096",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Maestro Programa",
+    "character_desc": "regente do fliperama que sincroniza vários gabinetes ao mesmo tempo, batuta-bloco e painel de cronograma.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel conductor waving a blocky baton in front of a schedule board linking several arcade cabinets, coordinating pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r009",
+    "sheet_id": "s096",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Cronô Projeto",
+    "character_desc": "corredor contra o tempo do arcade com ampulheta de bloco, gráfico de Gantt pixelado e cronômetro.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel time-runner holding a blocky hourglass and a small Gantt-chart board, stopwatch in hand, focused on-schedule pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r010",
+    "sheet_id": "s096",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Mestre Sprint",
+    "character_desc": "facilitador arcade que gira uma roleta de sprint e segura post-its em bloco, aura de fluxo contínuo.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel facilitator spinning a sprint wheel, holding blocky sticky-notes on a board, calm servant-leader pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r011",
+    "sheet_id": "s096",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Forjador Server",
+    "character_desc": "operário do subsolo do gabinete que martela blocos de lógica num servidor-torre pixelado.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel underground worker hammering glowing logic blocks into a tower server rack, wrench on belt, sturdy building pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r012",
+    "sheet_id": "s096",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Arquiteta API",
+    "character_desc": "personagem-ponte que conecta canos-de-encaixe entre dois gabinetes, segurando plugue-conector universal.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel bridge-builder connecting interlocking pipe-connectors between two cabinets, holding a universal plug adapter, connecting pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r013",
+    "sheet_id": "s096",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Enxame Micro",
+    "character_desc": "herói dividido em vários mini-sprites orbitando, cada um um pequeno serviço-cubo independente.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel hero surrounded by several tiny orbiting service-cube minions, each a small independent module, distributed swarm pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r014",
+    "sheet_id": "s096",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Encanador Fluxo",
+    "character_desc": "personagem-encanador do arcade guiando bolinhas de dados por canos coloridos conectados.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel plumber guiding glowing data-balls through a system of colorful connected pipes, wrench in hand, flow-directing pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r015",
+    "sheet_id": "s096",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Garimpeiro Dados",
+    "character_desc": "minerador do fliperama com picareta-bloco escavando veios de dados brilhantes em cavernas de blocos.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel miner swinging a blocky pickaxe at a glowing vein of data ore, cart of data-gems beside, digging pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r016",
+    "sheet_id": "s096",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Zelador Banco",
+    "character_desc": "guardião de um cofre-servidor gigante com chaves-bloco e cilindros de disco empilhados.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel vault-keeper standing before a giant database vault cylinder, ring of blocky keys, guarding stacked disk drums, custodial pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r017",
+    "sheet_id": "s096",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Feiticeiro Query",
+    "character_desc": "mago do arcade que conjura runas SELECT flutuantes de um pergaminho de tabela.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel spellcaster summoning floating query runes from a table-grid scroll, glowing SELECT glyph, casting pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r018",
+    "sheet_id": "s096",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Veloz Cache",
+    "character_desc": "corredor-relâmpago do fliperama que guarda blocos quentes num compartimento de acesso instantâneo.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel speed-runner with lightning trail placing hot glowing blocks into a fast-access slot, stopwatch aura, dashing pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r019",
+    "sheet_id": "s096",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Carteiro Fila",
+    "character_desc": "entregador arcade empurrando um carrinho-fila de pacotes-mensagem ordenados um atrás do outro.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel courier pushing a cart of queued message-parcels lined up in order, mailbag on shoulder, delivering pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r020",
+    "sheet_id": "s096",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Rastreador Busca",
+    "character_desc": "explorador do fliperama com lupa-bloco gigante localizando um item brilhante no índice.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel tracker holding a giant blocky magnifying lens over a glowing indexed item, search beam, hunting pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r021",
+    "sheet_id": "s096",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Pintor Tela",
+    "character_desc": "artista do arcade montando a interface na frente do gabinete com pincel-bloco e paleta de botões.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel painter assembling a UI screen with a blocky brush and a palette of buttons and widgets, arranging front-of-cabinet display, crafting pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r022",
+    "sheet_id": "s096",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Montador UI",
+    "character_desc": "engenheiro do fliperama encaixando componentes-botão numa moldura de tela como peças de encaixe.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel engineer snapping button and slider components into a screen frame like puzzle pieces, toolbelt of widgets, assembling pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r023",
+    "sheet_id": "s096",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Guia Jornada",
+    "character_desc": "desenhista de percurso do arcade traçando o caminho do jogador com fita-seta e mapa de fluxo.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel path-designer drawing a player journey with an arrow tape across a flow map board, empathy heart icon, guiding pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r024",
+    "sheet_id": "s096",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Curador Kit",
+    "character_desc": "organizador arcade de uma estante de peças-padrão idênticas e reutilizáveis, régua de tokens.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel curator beside a shelf of identical reusable standard component tiles, holding a token ruler, systemizing pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r025",
+    "sheet_id": "s096",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Sentinela Acesso",
+    "character_desc": "herói do fliperama com bengala-bloco e emblema de ouvido/olho que abre rampas para todos os sprites.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel guardian holding a blocky white cane with an accessibility ear-and-eye badge, building a ramp for all, inclusive welcoming pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r026",
+    "sheet_id": "s096",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Turbo Página",
+    "character_desc": "piloto de corrida do arcade que enxuga blocos pesados para deixar a tela leve e veloz, medidor de FPS.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel racer trimming heavy blocks off a page to make it fast, holding an FPS speed gauge, streamlined dashing pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r027",
+    "sheet_id": "s096",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Estilista Bloco",
+    "character_desc": "alfaiate do fliperama vestindo os sprites com camadas de estilo, fita-métrica de pixels e paleta.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel tailor dressing a widget with style layers, holding a pixel measuring tape and color swatch fan, styling pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r028",
+    "sheet_id": "s096",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Anima Frames",
+    "character_desc": "malabarista do arcade girando uma tira de quadros-chave que ganham vida em movimento.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel juggler spinning a strip of keyframe cells that come alive, motion arc trail, animating pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r029",
+    "sheet_id": "s096",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Andarilho Móvel",
+    "character_desc": "herói portátil do fliperama segurando um mini-gabinete de mão como um console.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel handheld-hero holding a mini pocket arcade device with both hands, thumbs on buttons, portable-play pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r030",
+    "sheet_id": "s096",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Fruta Maçã",
+    "character_desc": "personagem elegante do arcade com gabinete-maçã minimalista brilhante e botão único.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel sleek-hero holding a minimalist glowing apple-shaped device with a single round button, polished clean pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r031",
+    "sheet_id": "s096",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Robô Verde",
+    "character_desc": "androide-mascote do fliperama de casco verde com antenas, carregando dispositivo aberto e modular.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel green robot-mascot with antennae holding an open modular green device, friendly customizing pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r032",
+    "sheet_id": "s096",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Ponte Nativa",
+    "character_desc": "personagem-gêmeo do arcade que espelha uma tela em dois gabinetes com um único cartucho.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel twin-bridge hero mirroring one screen across two devices from a single shared cartridge, unifying pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r033",
+    "sheet_id": "s096",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Pássaro Flutter",
+    "character_desc": "herói alado do fliperama com asas-de-borboleta pixeladas espelhando a mesma tela em qualquer gabinete.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel winged hero with blue butterfly wings mirroring an identical UI on any device, single-codebase glow, fluttering pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r034",
+    "sheet_id": "s096",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Vidente Dados",
+    "character_desc": "adivinho do arcade lendo uma bola-de-cristal cheia de gráficos e curvas de tendência.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel fortune-teller peering into a crystal ball full of charts and trend curves, hypothesis glyphs, insight-reading pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r035",
+    "sheet_id": "s096",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Domador Modelo",
+    "character_desc": "treinador de fera do fliperama alimentando um monstro-modelo de blocos com dados de treino.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel beast-tamer feeding training data pellets to a friendly block-model creature on a leash, training pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r036",
+    "sheet_id": "s096",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Mecânico Modelo",
+    "character_desc": "mecânico de pit-stop do arcade que reabastece e reimplanta o monstro-modelo numa esteira automatizada.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel pit-mechanic servicing and redeploying a model-creature on an automated conveyor, wrench and gauge, ops pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r037",
+    "sheet_id": "s096",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Alquimista IA",
+    "character_desc": "cientista do fliperama misturando poções de neurônios brilhantes num laboratório de blocos.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel alchemist mixing glowing neuron potions over a lab bench of bubbling flasks, discovery spark, experimenting pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r038",
+    "sheet_id": "s096",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Sussurrador Prompt",
+    "character_desc": "encantador de palavras do arcade que sopra runas de texto num orbe-génio de IA.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel word-charmer whispering glowing text runes into an AI genie orb, scroll of prompts, coaxing pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r039",
+    "sheet_id": "s096",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Tradutor Fala",
+    "character_desc": "personagem do fliperama com balões de fala pixelados convertendo palavras em blocos de significado.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel language-hero surrounded by speech bubbles turning words into meaning-blocks, tongue-and-gear badge, parsing pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r040",
+    "sheet_id": "s096",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Olho Visão",
+    "character_desc": "ciclope amigável do arcade com um grande olho-câmera que reconhece objetos em molduras de detecção.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel friendly cyclops with a big camera-eye projecting object-detection boxes onto items, scanning pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r041",
+    "sheet_id": "s096",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Leitor Painel",
+    "character_desc": "analista do fliperama apontando para um gráfico de barras pixelado com ponteiro-laser de bloco.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel analyst pointing a blocky laser at a bar chart board, magnifier and spreadsheet tile, explaining pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r042",
+    "sheet_id": "s096",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Contador BI",
+    "character_desc": "personagem do arcade abraçando um painel de KPIs com medidores e velas de indicador.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel hero holding a BI dashboard slab full of KPI gauges and indicator lights, reporting pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r043",
+    "sheet_id": "s096",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Refinador Métrica",
+    "character_desc": "artesão do fliperama que lapida dados brutos em cubos-métrica limpos e brilhantes numa bancada.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel craftsman polishing raw data into clean glowing metric-cubes on a workbench, modeling pipes, refining pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r044",
+    "sheet_id": "s096",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Escultor Gráfico",
+    "character_desc": "escultor do arcade moldando gráficos coloridos de pizza e linha como esculturas de bloco.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel sculptor shaping colorful pie and line charts into block sculptures, chisel and palette, presenting pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r045",
+    "sheet_id": "s096",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Malabar Deploy",
+    "character_desc": "malabarista do fliperama equilibrando engrenagens de servidor e caixas de deploy sem deixar cair.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel juggler balancing spinning server gears and deploy crates on a unicycle, infinity-loop icon, keeping-it-running pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r046",
+    "sheet_id": "s096",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Vigia Uptime",
+    "character_desc": "guarda noturno do arcade monitorando um painel de sinais verdes com farol de alerta e pager.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel night-guard watching a wall of green status lights, alert lantern and pager, vigilant on-call pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r047",
+    "sheet_id": "s096",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Fundador Plataforma",
+    "character_desc": "construtor do fliperama que assenta trilhos e plataformas de bloco para os outros heróis correrem.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel platform-builder laying track rails and paved platform tiles for other heroes, self-service kiosk, foundation pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r048",
+    "sheet_id": "s096",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Piloto Nuvem",
+    "character_desc": "aviador do arcade navegando entre ilhas-nuvem de servidor com timão e mapa de regiões.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel aviator steering among floating cloud-server islands, ship wheel and region map, navigating pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r049",
+    "sheet_id": "s096",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Timoneiro Leme",
+    "character_desc": "capitão do fliperama girando um grande leme-de-navio orquestrando contêineres-caixa empilhados.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel captain turning a big ship helm orchestrating stacked container-crates on a deck, steering pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r050",
+    "sheet_id": "s096",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Tecelão Rede",
+    "character_desc": "tecelão do arcade conectando nós luminosos com fios de rede como uma teia pixelada.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel weaver stringing glowing network nodes with cables into a web, router totem, wiring pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r051",
+    "sheet_id": "s096",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Zelador Sistema",
+    "character_desc": "faxineiro-guardião do fliperama com chaveiro enorme cuidando de racks e ventoinhas.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel custodian with a huge keyring tending server racks and cooling fans, oil can and duster, maintaining pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r052",
+    "sheet_id": "s096",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Lançador Release",
+    "character_desc": "artilheiro do arcade disparando um cartucho-versão etiquetado de um canhão de lançamento.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel gunner launching a labeled version cartridge from a release cannon, tag flag, shipping pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r053",
+    "sheet_id": "s096",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Ferreiro Build",
+    "character_desc": "ferreiro do fliperama martelando fragmentos de código numa bigorna até virar um cartucho pronto.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel blacksmith hammering code shards on an anvil into a finished cartridge, gear tongs, forging pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r054",
+    "sheet_id": "s096",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Esteira Contínua",
+    "character_desc": "operador do arcade ao lado de uma esteira automatizada que testa e empacota cartuchos em loop.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel operator beside an automated conveyor testing and packaging cartridges in a loop, green-check stamp, pipeline pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r055",
+    "sheet_id": "s096",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Escudo Guarda",
+    "character_desc": "cavaleiro do fliperama com escudo-cadeado e armadura de firewall bloqueando setas inimigas.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel knight with a padlock shield and firewall armor deflecting enemy arrows, vigilant defending pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r056",
+    "sheet_id": "s096",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Ladrão Ético",
+    "character_desc": "personagem ninja do arcade testando fechaduras com gazua-bloco e capuz, sacola de exploits marcada OK.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel ethical ninja picking a lock with a blocky lockpick, hooded, bag marked with a safe checkmark, sneaking pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r057",
+    "sheet_id": "s096",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Blindador App",
+    "character_desc": "armeiro do fliperama reforçando um cartucho-app com placas de blindagem e rebites de segurança.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel armorer reinforcing an app-cartridge with armor plates and security rivets, bug-net tool, hardening pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r058",
+    "sheet_id": "s096",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Mago Cifra",
+    "character_desc": "mago do arcade selando pergaminhos com cadeado-runa e chave-dupla brilhante.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel wizard sealing scrolls with rune-locks and a glowing key pair, cipher wheel amulet, encrypting pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r059",
+    "sheet_id": "s096",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Juiz Regra",
+    "character_desc": "árbitro do fliperama com martelo-de-juiz e checklist de selos de conformidade carimbados.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel referee holding a judge gavel and a checklist of stamped compliance seals, rulebook, auditing pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r060",
+    "sheet_id": "s096",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Véu Privado",
+    "character_desc": "guardião do arcade cobrindo dados pessoais com um manto-borrão e cofre de anonimização.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel guardian draping a blur-cloak over personal-data blocks beside an anonymization vault, shield-eye badge, protecting pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r061",
+    "sheet_id": "s096",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Bombeiro Incidente",
+    "character_desc": "bombeiro do fliperama apagando um servidor em chamas com extintor-bloco e sirene na cabeça.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel firefighter spraying a blocky extinguisher at a flaming server, siren light on helmet, runbook, emergency pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r062",
+    "sheet_id": "s096",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Estrategista Ameaça",
+    "character_desc": "general do arcade movendo peças de ataque num tabuleiro de mapa de ameaças com alfinetes.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel general moving attack pieces on a threat-map board with pins and red strings, planning defensive pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r063",
+    "sheet_id": "s096",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Caçador Bug",
+    "character_desc": "caçador do fliperama com rede-de-borboleta capturando bugs-inseto pixelados num pote de vidro.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel hunter netting pixel bug-insects into a glass jar, magnifier and checklist, catching pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r064",
+    "sheet_id": "s096",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Autômato Teste",
+    "character_desc": "robô-tester do arcade com braços mecânicos que repetem o mesmo teste em loop infinito.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel test-robot with mechanical arms repeating a test on a loop, green pass badges, automation gear, robotic pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r065",
+    "sheet_id": "s096",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Martelo Carga",
+    "character_desc": "levantador de peso do fliperama sobrecarregando um servidor com halteres de tráfego para medir o limite.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel weightlifter piling traffic dumbbells onto a straining server to test its limit, stopwatch gauge, stress pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r066",
+    "sheet_id": "s096",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Explorador Manual",
+    "character_desc": "aventureiro do arcade percorrendo a fase clique por clique com lupa e caderno de anotações.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel adventurer exploring a level step by step with a magnifier and notebook, checklist tiles, inspecting pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r067",
+    "sheet_id": "s096",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Prova Acesso",
+    "character_desc": "testador do fliperama verificando rampas e contrastes com bengala-bloco e medidor de acesso.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel tester checking ramps and contrast with a blocky cane and an accessibility meter, ear-eye badge, verifying pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r068",
+    "sheet_id": "s096",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Escriba Manual",
+    "character_desc": "escriba do arcade escrevendo um grande pergaminho-manual pixelado com pena e tinteiro de bloco.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel scribe writing a large manual scroll with a blocky quill and inkpot, book stack, documenting pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r069",
+    "sheet_id": "s096",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Arauto Dev",
+    "character_desc": "arauto do fliperama num palco com microfone-bloco espalhando adesivos e demos para a plateia.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel herald on a small stage with a blocky microphone tossing sticker swag and demo cartridges, evangelizing pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r070",
+    "sheet_id": "s096",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Planejador Conteúdo",
+    "character_desc": "estrategista do arcade organizando cartões de conteúdo num calendário-tabuleiro pixelado.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel strategist arranging content cards on a calendar board, funnel map and pen, planning pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r071",
+    "sheet_id": "s096",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Poliglota Idioma",
+    "character_desc": "viajante do fliperama com globo-bloco trocando bandeirinhas de idioma nos balões de texto.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel traveler holding a block-globe swapping language flags into text bubbles, translation gears, localizing pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r072",
+    "sheet_id": "s096",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Arquiteto Produto",
+    "character_desc": "designer-construtor do arcade montando fluxos e telas num quadro de protótipo de blocos.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel designer-builder assembling flows and screens on a prototype board, ruler and stylus, shaping pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r073",
+    "sheet_id": "s096",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Pintor Visual",
+    "character_desc": "pintor do fliperama compondo layout com paleta de cores, régua-áurea e pincel de pixel.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel painter composing a layout with a color palette, golden ratio ruler and pixel brush, styling pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r074",
+    "sheet_id": "s096",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Regente Toque",
+    "character_desc": "maestro do arcade coreografando gestos e microinterações com setas de toque brilhantes.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel choreographer orchestrating tap and swipe gesture arrows around a screen, ripple feedback, interaction pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r075",
+    "sheet_id": "s096",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Dançarino Movimento",
+    "character_desc": "dançarino do fliperama deixando um rastro de quadros de movimento e curvas de easing brilhantes.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel dancer trailing motion frames and glowing easing curves, timeline ribbon, animating pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r076",
+    "sheet_id": "s096",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Pincel Ilustra",
+    "character_desc": "ilustrador do arcade segurando pincel gigante e prancheta com criatura pixelada desenhada.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel illustrator holding a giant brush and a drawing board with a sketched creature, ink pots, drawing pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r077",
+    "sheet_id": "s096",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Fábrica Asset",
+    "character_desc": "artesão do fliperama produzindo ícones e sprites idênticos numa esteira de asset-tiles.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel craftsman producing identical icon and sprite tiles on an asset conveyor, stamp tool, exporting pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r078",
+    "sheet_id": "s096",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Selo Marca",
+    "character_desc": "joalheiro do arcade forjando um brasão-logo brilhante com paleta de marca e selo de identidade.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel jeweler forging a glowing brand crest with a brand palette and identity stamp, presenting pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r079",
+    "sheet_id": "s096",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Chip Som",
+    "character_desc": "músico do fliperama tocando um teclado-chip que dispara notas 8-bit e ondas quadradas visíveis.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel musician playing a chiptune keyboard emitting visible 8-bit square-wave notes, headphones, composing pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r080",
+    "sheet_id": "s096",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Escultor Cubo",
+    "character_desc": "escultor 3D do arcade moldando uma malha-wireframe de blocos num torno giratório.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel sculptor shaping a rotating wireframe block-mesh on a turntable, vertex tools, modeling pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r081",
+    "sheet_id": "s096",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Arquiteto Diversão",
+    "character_desc": "designer do fliperama desenhando o loop-de-jogo num quadro com dados, fichas e regras de bloco.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel designer drawing a core game loop on a board with dice, tokens and rule cards, inventing pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r082",
+    "sheet_id": "s096",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Construtor Fase",
+    "character_desc": "construtor do arcade montando uma fase com blocos de plataforma, moedas e inimigos posicionados.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel builder assembling a level from platform blocks, coins and placed enemies, grid map, building pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r083",
+    "sheet_id": "s096",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Contador História",
+    "character_desc": "bardo do fliperama abrindo um livro-ramificado brilhante com balões de diálogo e caminhos de enredo.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel bard opening a glowing branching storybook with dialogue bubbles and plot paths, quill, narrating pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r084",
+    "sheet_id": "s096",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Herói Cartucho",
+    "character_desc": "desenvolvedor-mascote do arcade soldando lógica de gameplay dentro de um cartucho aberto brilhante.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel developer-mascot soldering gameplay logic inside an open glowing cartridge, controller and code chip, building pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r085",
+    "sheet_id": "s096",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Feiticeiro Luz",
+    "character_desc": "mago do fliperama conjurando shaders e reflexos brilhantes sobre uma esfera de render.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel wizard conjuring glowing shaders and light rays over a render sphere, GPU wand, lighting pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r086",
+    "sheet_id": "s096",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Soldador Chip",
+    "character_desc": "técnico do arcade soldando um microchip minúsculo numa placa-de-circuito verde com ferro quente.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel technician soldering a tiny microchip onto a green circuit board with a hot iron, magnifier goggles, precise pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r087",
+    "sheet_id": "s096",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Alma Firmware",
+    "character_desc": "espírito do fliperama insuflando código-vida dentro de um chip-cérebro brilhante de dispositivo.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel spirit breathing code-life into a glowing brain-chip inside a device shell, flashing tool, low-level pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r088",
+    "sheet_id": "s096",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Pastor Sensores",
+    "character_desc": "pastor do arcade guiando um rebanho de mini-dispositivos-sensor conectados por sinais brilhantes.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel shepherd guiding a flock of tiny sensor-devices linked by glowing signal waves, antenna crook, herding pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r089",
+    "sheet_id": "s096",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Mineiro Corrente",
+    "character_desc": "minerador do fliperama forjando blocos numa corrente-de-elos brilhante que se estende ao infinito.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel miner forging glowing linked chain-blocks stretching into a ledger, hash lantern, chaining pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r090",
+    "sheet_id": "s096",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Inspetor Contrato",
+    "character_desc": "inspetor do arcade lendo um contrato-pergaminho de blocos com lupa procurando trincas armadilha.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel inspector scanning a smart-contract scroll with a magnifier for trap cracks, red-flag pins, auditing pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r091",
+    "sheet_id": "s096",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Vidente Óculos",
+    "character_desc": "personagem do fliperama de óculos-visor projetando hologramas de bloco flutuando ao redor.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel hero wearing a VR visor projecting floating holographic blocks around, handheld controllers, immersive pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r092",
+    "sheet_id": "s096",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Mestre Autômato",
+    "character_desc": "engenheiro do arcade ao lado de um robô-braço de blocos que ele controla com um painel de botões.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel engineer beside a blocky robot arm he controls from a button panel, gear and remote, robotics pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r093",
+    "sheet_id": "s096",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Alquimista Growth",
+    "character_desc": "cientista do fliperama misturando poções de funil que fazem uma curva de usuários subir em foguete.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel scientist mixing funnel potions launching a rising user-growth rocket curve, A/B flask pair, experimenting pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r094",
+    "sheet_id": "s096",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Guia Ranking",
+    "character_desc": "escalador do arcade subindo uma escada de posições de busca plantando bandeira de palavra-chave no topo.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel climber ascending a search-ranking ladder planting a keyword flag at the top, magnifier compass, climbing pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r095",
+    "sheet_id": "s096",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Engenheiro Campanha",
+    "character_desc": "operador do fliperama num painel de automação de marketing disparando funis e e-mails-bloco.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel operator at a marketing-automation panel launching funnels and email-blocks, megaphone and gears, campaign pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r096",
+    "sheet_id": "s096",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Elo Solução",
+    "character_desc": "ponte-personagem do arcade conectando um cliente-sprite a um gabinete-produto com aperto de mão.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel bridge-hero connecting a client-sprite to a product cabinet with a handshake plug, demo tablet, connecting pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r097",
+    "sheet_id": "s096",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Salva-Vidas Suporte",
+    "character_desc": "salva-vidas do fliperama atendendo um chat-boia com fone-de-ouvido e caixa de ferramentas de conserto.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel lifeguard answering a chat-buoy with a headset and a repair toolbox, ticket queue tiles, helping pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r098",
+    "sheet_id": "s096",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Demonstrador Vendas",
+    "character_desc": "apresentador do arcade num pódio mostrando um gabinete-produto brilhante com gesto de venda e maleta.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel presenter at a podium showcasing a glowing product cabinet with a selling gesture and briefcase, pitching pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r099",
+    "sheet_id": "s096",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Contador Moeda",
+    "character_desc": "tesoureiro do fliperama pesando moedas-de-nuvem numa balança e cortando gastos com tesoura de bloco.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel treasurer weighing cloud-coins on a scale and trimming costs with blocky scissors, ledger and calculator, budgeting pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s096-r100",
+    "sheet_id": "s096",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Guardião Selo",
+    "character_desc": "tabelião do arcade segurando um grande pergaminho-contrato com selo de cera e martelo de justiça.",
+    "nano_prompt": "8-bit pixel art retro arcade sprite, chunky blocky pixels, limited vibrant NES-style color palette, bold black outline, fliperama arcade cabinet game character, a pixel notary holding a large contract scroll with a wax seal and a justice gavel, scales badge, legal pose, full-body front-facing standing character sprite, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

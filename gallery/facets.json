@@ -1,0 +1,624 @@
+{
+ "roles": [
+  [
+   "r001",
+   "Arquiteto de Solução"
+  ],
+  [
+   "r002",
+   "Tech Lead"
+  ],
+  [
+   "r003",
+   "Staff Engineer"
+  ],
+  [
+   "r004",
+   "Principal Engineer"
+  ],
+  [
+   "r005",
+   "Engineering Manager"
+  ],
+  [
+   "r006",
+   "Product Manager"
+  ],
+  [
+   "r007",
+   "Product Owner"
+  ],
+  [
+   "r008",
+   "Program Manager"
+  ],
+  [
+   "r009",
+   "Project Manager"
+  ],
+  [
+   "r010",
+   "Scrum Master"
+  ],
+  [
+   "r011",
+   "Backend Developer"
+  ],
+  [
+   "r012",
+   "API Designer"
+  ],
+  [
+   "r013",
+   "Microservices Engineer"
+  ],
+  [
+   "r014",
+   "Pipeline Developer"
+  ],
+  [
+   "r015",
+   "Data Engineer"
+  ],
+  [
+   "r016",
+   "Database Administrator"
+  ],
+  [
+   "r017",
+   "SQL Specialist"
+  ],
+  [
+   "r018",
+   "Caching Engineer"
+  ],
+  [
+   "r019",
+   "Message Queue Engineer"
+  ],
+  [
+   "r020",
+   "Search Engineer"
+  ],
+  [
+   "r021",
+   "Frontend Developer"
+  ],
+  [
+   "r022",
+   "UI Engineer"
+  ],
+  [
+   "r023",
+   "UX Designer"
+  ],
+  [
+   "r024",
+   "Design Systems Engineer"
+  ],
+  [
+   "r025",
+   "Accessibility Specialist"
+  ],
+  [
+   "r026",
+   "Web Performance Engineer"
+  ],
+  [
+   "r027",
+   "CSS Specialist"
+  ],
+  [
+   "r028",
+   "Animation Engineer"
+  ],
+  [
+   "r029",
+   "Mobile Developer"
+  ],
+  [
+   "r030",
+   "iOS Developer"
+  ],
+  [
+   "r031",
+   "Android Developer"
+  ],
+  [
+   "r032",
+   "React Native Developer"
+  ],
+  [
+   "r033",
+   "Flutter Developer"
+  ],
+  [
+   "r034",
+   "Data Scientist"
+  ],
+  [
+   "r035",
+   "ML Engineer"
+  ],
+  [
+   "r036",
+   "MLOps Engineer"
+  ],
+  [
+   "r037",
+   "AI Researcher"
+  ],
+  [
+   "r038",
+   "Prompt Engineer"
+  ],
+  [
+   "r039",
+   "NLP Engineer"
+  ],
+  [
+   "r040",
+   "Computer Vision Engineer"
+  ],
+  [
+   "r041",
+   "Data Analyst"
+  ],
+  [
+   "r042",
+   "BI Analyst"
+  ],
+  [
+   "r043",
+   "Analytics Engineer"
+  ],
+  [
+   "r044",
+   "Data Viz Specialist"
+  ],
+  [
+   "r045",
+   "DevOps Engineer"
+  ],
+  [
+   "r046",
+   "Site Reliability Engineer"
+  ],
+  [
+   "r047",
+   "Platform Engineer"
+  ],
+  [
+   "r048",
+   "Cloud Architect"
+  ],
+  [
+   "r049",
+   "Kubernetes Admin"
+  ],
+  [
+   "r050",
+   "Network Engineer"
+  ],
+  [
+   "r051",
+   "Systems Administrator"
+  ],
+  [
+   "r052",
+   "Release Engineer"
+  ],
+  [
+   "r053",
+   "Build Engineer"
+  ],
+  [
+   "r054",
+   "CI/CD Engineer"
+  ],
+  [
+   "r055",
+   "Security Engineer"
+  ],
+  [
+   "r056",
+   "Penetration Tester"
+  ],
+  [
+   "r057",
+   "AppSec Engineer"
+  ],
+  [
+   "r058",
+   "Cryptographer"
+  ],
+  [
+   "r059",
+   "Compliance Officer"
+  ],
+  [
+   "r060",
+   "Privacy Engineer"
+  ],
+  [
+   "r061",
+   "Incident Responder"
+  ],
+  [
+   "r062",
+   "Threat Modeler"
+  ],
+  [
+   "r063",
+   "QA Engineer"
+  ],
+  [
+   "r064",
+   "SDET (Automação)"
+  ],
+  [
+   "r065",
+   "Performance Tester"
+  ],
+  [
+   "r066",
+   "Manual Tester"
+  ],
+  [
+   "r067",
+   "Accessibility Tester"
+  ],
+  [
+   "r068",
+   "Technical Writer"
+  ],
+  [
+   "r069",
+   "Developer Advocate"
+  ],
+  [
+   "r070",
+   "Content Strategist"
+  ],
+  [
+   "r071",
+   "Localization Engineer"
+  ],
+  [
+   "r072",
+   "Product Designer"
+  ],
+  [
+   "r073",
+   "Visual Designer"
+  ],
+  [
+   "r074",
+   "Interaction Designer"
+  ],
+  [
+   "r075",
+   "Motion Designer"
+  ],
+  [
+   "r076",
+   "Illustrator"
+  ],
+  [
+   "r077",
+   "Asset Designer"
+  ],
+  [
+   "r078",
+   "Brand Designer"
+  ],
+  [
+   "r079",
+   "Sound Designer"
+  ],
+  [
+   "r080",
+   "3D Artist"
+  ],
+  [
+   "r081",
+   "Game Designer"
+  ],
+  [
+   "r082",
+   "Level Designer"
+  ],
+  [
+   "r083",
+   "Narrative Designer"
+  ],
+  [
+   "r084",
+   "Game Developer"
+  ],
+  [
+   "r085",
+   "Graphics/Shader Engineer"
+  ],
+  [
+   "r086",
+   "Embedded Engineer"
+  ],
+  [
+   "r087",
+   "Firmware Engineer"
+  ],
+  [
+   "r088",
+   "IoT Engineer"
+  ],
+  [
+   "r089",
+   "Blockchain Developer"
+  ],
+  [
+   "r090",
+   "Smart Contract Auditor"
+  ],
+  [
+   "r091",
+   "AR/VR Engineer"
+  ],
+  [
+   "r092",
+   "Robotics Engineer"
+  ],
+  [
+   "r093",
+   "Growth Engineer"
+  ],
+  [
+   "r094",
+   "SEO Specialist"
+  ],
+  [
+   "r095",
+   "Marketing Technologist"
+  ],
+  [
+   "r096",
+   "Solutions Engineer"
+  ],
+  [
+   "r097",
+   "Support Engineer"
+  ],
+  [
+   "r098",
+   "Sales Engineer"
+  ],
+  [
+   "r099",
+   "FinOps Analyst"
+  ],
+  [
+   "r100",
+   "Legal Counsel"
+  ]
+ ],
+ "analogies": [
+  "Adesivos die-cut",
+  "Animais da floresta",
+  "Animais míticos (dragão, grifo)",
+  "Anjos e demônios",
+  "Arcade retrô",
+  "Arquétipos (caricatura)",
+  "Art déco",
+  "Artistas (pintor, escultor)",
+  "Atletas por esporte",
+  "Aves exóticas",
+  "Bebidas e coquetéis",
+  "Bebidas quentes aconchegantes",
+  "Borboletas e mariposas",
+  "Café e padaria",
+  "Cartas de baralho",
+  "Cavaleiros medievais",
+  "Chefs e cozinheiros",
+  "Chás e infusões",
+  "Cientistas (estilizados)",
+  "Circo (malabarista, mágico)",
+  "Classes de RPG (mago, guerreiro)",
+  "Cogumelos",
+  "Colecionáveis",
+  "Comidas kawaii",
+  "Constelações",
+  "Criaturas do fundo do mar",
+  "Cristais e gemas",
+  "Cubismo",
+  "Cyberpunk",
+  "Detetives e espiões",
+  "Deuses do Olimpo",
+  "Deuses egípcios",
+  "Deuses hindus",
+  "Deuses nórdicos",
+  "Dinossauros",
+  "Doces e sobremesas",
+  "Elementos químicos como heróis",
+  "Eletrodomésticos com rosto",
+  "Emojis 3D",
+  "Empresas como mascotes",
+  "Enamel pins",
+  "Espíritos da natureza",
+  "Exploradores/aventureiros",
+  "Fast food com rosto",
+  "Fenômenos do tempo",
+  "Ferramentas",
+  "Frutas e vegetais",
+  "Frutas tropicais",
+  "Gadgets e câmeras",
+  "Impressionismo",
+  "Insetos",
+  "Instrumentos musicais",
+  "Logomarcas famosas (paródia)",
+  "Louças e cerâmicas",
+  "Magos e bruxas",
+  "Mascote genérico",
+  "Material de escritório",
+  "Mechas gigantes",
+  "Micróbios/bactérias fofos",
+  "Minimalismo suíço",
+  "Móveis icônicos do design",
+  "Músicos por gênero",
+  "Ninjas e samurais",
+  "Onda japonesa",
+  "Países/tribos",
+  "Personagens amarelos",
+  "Personas de usuário",
+  "Piratas",
+  "Planetas e astros",
+  "Plantas e flores",
+  "Profissões clássicas",
+  "Queijos do mundo",
+  "Raças de cachorro",
+  "Raças de fantasia (elfo, anão, orc)",
+  "Raças de gato",
+  "Retrô anos 80",
+  "Robôs retrô",
+  "Répteis e anfíbios",
+  "Santos e ícones",
+  "Signos do zodíaco",
+  "Steampunk",
+  "Super-heróis",
+  "Surrealismo",
+  "Sushi e comida japonesa",
+  "Tarô",
+  "Temperos e especiarias",
+  "Utensílios de cozinha",
+  "Vilões carismáticos",
+  "Xadrez (peças)",
+  "Yokai japoneses",
+  "Árvores"
+ ],
+ "aesthetics": [
+  "3D isométrico",
+  "Amigurumi (crochê)",
+  "Anime food art",
+  "Anime mecha",
+  "Aquarela",
+  "Aquarela etérea",
+  "Aquarela micológica",
+  "Art nouveau",
+  "Arte Rider-Waite",
+  "Arte devocional",
+  "Arte mural/hieróglifo",
+  "Autorretrato impressionista",
+  "Azulejo/mosaico português",
+  "Balão inflável / mylar",
+  "Barroco claro-escuro",
+  "Bauhaus geométrico",
+  "Blueprint técnico",
+  "Bobblehead cabeçudo",
+  "Botânica científica",
+  "Capa de disco vinil",
+  "Cartaz de circo vintage",
+  "Cartaz esportivo vintage",
+  "Cartoon científico",
+  "Cartoon kawaii",
+  "Chibi cartoon",
+  "Chibi pastel",
+  "Claymation (massinha)",
+  "Constelação neon",
+  "Crochê/feltro",
+  "Dalí onírico",
+  "Diário de expedição",
+  "Dourado geométrico 1920s",
+  "Engrenagens sépia",
+  "Escultura de bronze",
+  "Escultura de mármore",
+  "Estilo Apple/Fluent 3D",
+  "Estilo Simpsons (Groening)",
+  "Film noir",
+  "Flat design (icon)",
+  "Flat design suave",
+  "Flat vector",
+  "Foto de estúdio realista",
+  "Foto de produto minimalista",
+  "Foto de produto vibrante",
+  "Foto gourmet",
+  "Foto realista",
+  "Funko Pop style",
+  "Gouache de receita",
+  "Graffiti / street art",
+  "Holográfico iridescente",
+  "Ilustração aconchegante",
+  "LEGO / blocos",
+  "Line art dourado",
+  "Low-poly 3D",
+  "Madeira entalhada",
+  "Mapa celeste dourado antigo",
+  "Mascote corporativo anos 90",
+  "Menu art deco",
+  "Muppet (feltro costurado)",
+  "Mármore preto e branco",
+  "Naipe ornamentado",
+  "Nanquim oriental",
+  "Neon chuvoso",
+  "Neon sign",
+  "Origami / dobradura",
+  "Papercraft",
+  "Pelúcia (plush)",
+  "Picasso facetado",
+  "Pin de esmalte metálico",
+  "Pincelada Monet",
+  "Pixel 8-bit",
+  "Pixel art 16-bit",
+  "Pixel art 8-bit",
+  "Pop art (Warhol)",
+  "Pop art vibrante",
+  "Pop-science cartoon",
+  "Prancha entomológica vintage",
+  "Quadrinhos (halftone)",
+  "Render 3D iridescente",
+  "Render de produto premium",
+  "Risograph",
+  "Rótulo vintage",
+  "Sci-fi anos 50",
+  "South Park (recorte de papel)",
+  "Sticker brilhante",
+  "Sumi-e (tinta)",
+  "Synthwave",
+  "Tin toy (lata vintage)",
+  "Tipográfico geométrico",
+  "Ukiyo-e",
+  "Ukiyo-e clássico (Hokusai)",
+  "Vaporwave neon",
+  "Vitral",
+  "Vitral gótico",
+  "Voxel / Minecraft",
+  "Wojak / feels (MS Paint)",
+  "Woodcut",
+  "Xilogravura antiga",
+  "Ícone bizantino dourado",
+  "Óleo renascentista"
+ ],
+ "families": [
+  "Animal",
+  "Comida",
+  "Gente",
+  "Heróis",
+  "Marcas",
+  "Materiais",
+  "Mito",
+  "Natureza",
+  "Objetos",
+  "Épocas"
+ ],
+ "categories": [
+  "Backend",
+  "Conteúdo",
+  "Dados/IA",
+  "Design",
+  "Especializado",
+  "Frontend",
+  "Infra",
+  "Liderança",
+  "Negócio",
+  "Qualidade",
+  "Segurança"
+ ]
+}

@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s040-r001",
+    "sheet_id": "s040",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Monsieur Grandé",
+    "character_desc": "O mestre de cerimônias que projeta o espetáculo inteiro; cartola alta, batuta apontando e um grande pergaminho com a planta da lona do picadeiro.",
+    "nano_prompt": "Vintage circus poster style illustration of a grand ringmaster architect in a tall top hat and tailcoat, holding a rolled blueprint of the big-top tent and a conductor baton pointing to the sky, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r002",
+    "sheet_id": "s040",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Maestro Léo",
+    "character_desc": "O regente da trupe que conduz os acrobatas em cena; batuta na mão, apito no pescoço e partitura aberta guiando o ritmo dos números.",
+    "nano_prompt": "Vintage circus poster style illustration of a circus troupe conductor waving a baton with a whistle around the neck and an open score sheet, leading unseen performers, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r003",
+    "sheet_id": "s040",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Veterano Stellan",
+    "character_desc": "O malabarista veterano coberto de medalhas que orienta os novatos; padrão complexo de argolas no ar e faixa de mestre no peito.",
+    "nano_prompt": "Vintage circus poster style illustration of a veteran master juggler covered in medals, juggling a complex ring pattern, wearing a sash of honor, mentoring stance, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r004",
+    "sheet_id": "s040",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Grande Prospero",
+    "character_desc": "O mágico principal do topo do cartaz; capa bordada de estrelas, cartola imponente e gesto largo comandando toda a mágica do circo.",
+    "nano_prompt": "Vintage circus poster style illustration of a grand principal magician in a star-embroidered cape and imposing top hat, arms raised in a commanding grand-illusion gesture, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r005",
+    "sheet_id": "s040",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Diretor Dumont",
+    "character_desc": "O empresário da trupe que organiza os artistas; prancheta com a escala do dia, apito e gesto acolhedor reunindo a companhia.",
+    "nano_prompt": "Vintage circus poster style illustration of a troupe manager in a ringmaster coat holding a clipboard schedule and a whistle, gathering gesture toward the company, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r006",
+    "sheet_id": "s040",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Madame Programa",
+    "character_desc": "A planejadora do espetáculo que decide os números; folheto-programa aberto nas mãos e lápis, escolhendo a ordem das atrações.",
+    "nano_prompt": "Vintage circus poster style illustration of a show planner holding an open printed playbill program and a pencil, deciding the running order of acts, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r007",
+    "sheet_id": "s040",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Dona Fortuna",
+    "character_desc": "A dona do circo que detém o negócio; escritura enrolada, chave dourada da bilheteria e postura de quem prioriza cada atração.",
+    "nano_prompt": "Vintage circus poster style illustration of a circus owner holding a rolled deed and a golden ticket-booth key, proud proprietor stance, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r008",
+    "sheet_id": "s040",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Baronesa Turnê",
+    "character_desc": "A coordenadora da grande turnê; mapa das cidades numa das mãos, faixa com bandeirinhas de destinos e várias flâmulas de lonas.",
+    "nano_prompt": "Vintage circus poster style illustration of a grand tour coordinator holding a map of tour cities, draped in bunting flags of destinations, multiple tent pennants, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r009",
+    "sheet_id": "s040",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Capitão Cronos",
+    "character_desc": "O gerente do picadeiro que controla prazos; cronômetro grande, quadro de horários com barras e apito marcando cada tempo.",
+    "nano_prompt": "Vintage circus poster style illustration of a project ringmaster holding a large stopwatch beside a schedule board of bars, whistle in mouth, timing pose, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r010",
+    "sheet_id": "s040",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Ritmo Rafa",
+    "character_desc": "O coordenador que mantém o compasso da trupe; ampulheta de sprint, cartões coloridos na mão e apito guiando o giro dos números.",
+    "nano_prompt": "Vintage circus poster style illustration of a rhythm-keeper coordinator holding a sprint hourglass and colorful cards, whistle around neck, keeping the beat, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r011",
+    "sheet_id": "s040",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Engrenoux",
+    "character_desc": "O maquinista dos bastidores que move os mecanismos ocultos; macacão, chave-inglesa e grandes engrenagens que giram atrás da cortina.",
+    "nano_prompt": "Vintage circus poster style illustration of a backstage stagehand machinist in overalls turning large hidden gears with a wrench behind a curtain edge, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r012",
+    "sheet_id": "s040",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Porteiro Pia",
+    "character_desc": "O artista da janela-bilheteria que recebe pedidos e devolve respostas; guichê portátil, plugues e cabos conectando dois lados.",
+    "nano_prompt": "Vintage circus poster style illustration of a connector performer holding a portable ticket-window frame with plugs and cables, handing items in and out, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r013",
+    "sheet_id": "s040",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Girópolis",
+    "character_desc": "O equilibrista de pratinhos que roda muitos pratos independentes em varetas; cada prato um número autônomo girando sozinho.",
+    "nano_prompt": "Vintage circus poster style illustration of a plate-spinner keeping many small independent plates spinning on separate sticks, balanced busy pose, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r014",
+    "sheet_id": "s040",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Canaleto",
+    "character_desc": "O artista da calha que alimenta bolas por um cano contínuo; funil no alto e esteira levando as peças de um número ao outro.",
+    "nano_prompt": "Vintage circus poster style illustration of a chute performer feeding balls into a long pipeline funnel, conveyor of props flowing along, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r015",
+    "sheet_id": "s040",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Aquário Aquiles",
+    "character_desc": "O mestre das águas que canaliza os fluxos; grandes canos, torneira e um reservatório de onde bombeia o líquido do espetáculo.",
+    "nano_prompt": "Vintage circus poster style illustration of a waterworks master channeling flows through big pipes and a valve, a reservoir tank, pumping stance, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r016",
+    "sheet_id": "s040",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Guardião Baú",
+    "character_desc": "O guardião do baú-cofre de arquivos, montado num elefante-memória; molho enorme de chaves e o grande baú lacrado do circo.",
+    "nano_prompt": "Vintage circus poster style illustration of a vault-keeper beside a giant memory elephant, holding a huge ring of keys and a sealed archive trunk, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r017",
+    "sheet_id": "s040",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Laço Lucia",
+    "character_desc": "A artista do laço que pesca registros exatos do baú; fichário de cartões numa mão, laço na outra puxando só o item pedido.",
+    "nano_prompt": "Vintage circus poster style illustration of a lasso performer pulling a specific card from an index box, coiled lasso in hand, precise catch pose, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r018",
+    "sheet_id": "s040",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Rápido Rocco",
+    "character_desc": "O artista do saque veloz que mantém adereços prontos à mão; prateleira de itens ao lado, cronômetro e postura de reflexo rápido.",
+    "nano_prompt": "Vintage circus poster style illustration of a quick-draw performer with a shelf of ready props at hand and a stopwatch, lightning-fast reflex stance, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r019",
+    "sheet_id": "s040",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Fila Fabiano",
+    "character_desc": "O condutor da fila ordenada; cordão de senhas, esteira de envelopes numerados e gesto chamando o próximo da vez.",
+    "nano_prompt": "Vintage circus poster style illustration of a queue conductor with a rope of numbered tickets and a conveyor of numbered envelopes, calling the next in line, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r020",
+    "sheet_id": "s040",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Holofoto Íris",
+    "character_desc": "A operadora do holofote que encontra números no escuro; lupa gigante numa mão e facho de luz na outra revelando a atração certa.",
+    "nano_prompt": "Vintage circus poster style illustration of a spotlight operator holding a giant magnifying glass and a beam of light finding the right act in the dark, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r021",
+    "sheet_id": "s040",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Cortina Clara",
+    "character_desc": "A artista da boca-de-cena que enfrenta a plateia; abre a grande cortina do palco com pose de estreia, o rosto do espetáculo.",
+    "nano_prompt": "Vintage circus poster style illustration of a front-of-house performer opening the grand stage curtain, facing the audience, the face of the show, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r022",
+    "sheet_id": "s040",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Painel Pierre",
+    "character_desc": "O construtor da fachada do palco; segura painéis com botões e alavancas decoradas que compõem a frente vistosa do número.",
+    "nano_prompt": "Vintage circus poster style illustration of a stage-facade builder holding decorated panels with buttons and levers that form the show front, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r023",
+    "sheet_id": "s040",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Guia Guilhermina",
+    "character_desc": "A lanterninha que guia a experiência da plateia; mapa das poltronas na mão, lanterna gentil e gesto conduzindo o público.",
+    "nano_prompt": "Vintage circus poster style illustration of an usher guiding the audience experience, holding a seating map and a gentle lantern, welcoming gesture, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r024",
+    "sheet_id": "s040",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Kit Constança",
+    "character_desc": "A guarda-adereços de peças padronizadas; caixa modular com adereços idênticos e encaixáveis, montando números com o mesmo kit.",
+    "nano_prompt": "Vintage circus poster style illustration of a prop-master holding a modular kit box of identical standardized interlocking props, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r025",
+    "sheet_id": "s040",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Rampa Rita",
+    "character_desc": "A lanterninha que garante circo para todos; rampa portátil, programa em braille e gesto acolhedor abrindo caminho para qualquer um.",
+    "nano_prompt": "Vintage circus poster style illustration of an inclusive usher carrying a portable ramp and a braille program, welcoming-for-all gesture, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r026",
+    "sheet_id": "s040",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Veloz Vera",
+    "character_desc": "A acrobata da prova de velocidade num monociclo aerodinâmico; cronômetro no pescoço e faixas de vento, tudo enxuto e rápido.",
+    "nano_prompt": "Vintage circus poster style illustration of a speed performer on a streamlined racing unicycle with a stopwatch, wind ribbons, fast trim pose, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r027",
+    "sheet_id": "s040",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Pincel Paloma",
+    "character_desc": "A estilista que decora o espetáculo; paleta de tintas numa mão, retalho de tecido brilhante na outra, embelezando o número.",
+    "nano_prompt": "Vintage circus poster style illustration of a costume stylist holding a paint palette and a swatch of shiny fabric, decorating flourish pose, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r028",
+    "sheet_id": "s040",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Zootropo Zé",
+    "character_desc": "O operador do zootrópio que dá movimento às coisas; tambor giratório com figurinhas e manivela criando a ilusão de vida.",
+    "nano_prompt": "Vintage circus poster style illustration of a zoetrope operator spinning a drum of tiny figures with a crank, bringing motion to life, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r029",
+    "sheet_id": "s040",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Bolso Bruno",
+    "character_desc": "O artista da mini-lona portátil; carrega um circo de bolso dobrável nas costas, pronto para armar o show em qualquer lugar.",
+    "nano_prompt": "Vintage circus poster style illustration of a traveling performer carrying a foldable pocket-size mini big-top on the back, ready to set up anywhere, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r030",
+    "sheet_id": "s040",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Prateado Aurélio",
+    "character_desc": "O acrobata polido de traje prateado e sóbrio; segura uma maçã reluzente, elegância minimalista e movimentos impecáveis.",
+    "nano_prompt": "Vintage circus poster style illustration of a polished acrobat in a sleek silver minimalist costume holding a shiny apple prop, elegant refined pose, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r031",
+    "sheet_id": "s040",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Verdinho Amaro",
+    "character_desc": "O malabarista do mascote verde mecânico; peças robóticas verdes nas mãos e no traje, abertura amistosa e versátil.",
+    "nano_prompt": "Vintage circus poster style illustration of a juggler themed around a friendly green mechanical mascot, green robotic pieces in hands and costume, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r032",
+    "sheet_id": "s040",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Gêmeo Duo",
+    "character_desc": "O artista de troca rápida que faz dois shows ao mesmo tempo; traje dividido ao meio, prata de um lado e verde do outro.",
+    "nano_prompt": "Vintage circus poster style illustration of a quick-change artist performing two shows at once in a split costume, silver on one half and green on the other, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r033",
+    "sheet_id": "s040",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Asa Aline",
+    "character_desc": "A aerialista de asas de borboleta que voa por todos os palcos; um par de asas leves e fita esvoaçante levando o número a toda parte.",
+    "nano_prompt": "Vintage circus poster style illustration of an aerialist with light butterfly wings and a fluttering ribbon, soaring graceful pose, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r034",
+    "sheet_id": "s040",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Vidente Vitória",
+    "character_desc": "A cartomante que lê padrões na bola de cristal; turbante, bola brilhante com constelações e gesto de quem enxerga a tendência.",
+    "nano_prompt": "Vintage circus poster style illustration of a fortune teller in a turban reading patterns in a glowing crystal ball with swirling constellations, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r035",
+    "sheet_id": "s040",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Domadora Dara",
+    "character_desc": "A domadora que ensina truques a uma fera treinada; chicote leve, banquinho e uma criatura amestrada aprendendo o número.",
+    "nano_prompt": "Vintage circus poster style illustration of an animal trainer teaching tricks to a trained beast, light whip and pedestal, the learning creature beside, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r036",
+    "sheet_id": "s040",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Mecânico Melo",
+    "character_desc": "O mecânico que mantém a fera-máquina rodando no picadeiro; óleo, chave e ajustes finos no autômato amestrado em cena.",
+    "nano_prompt": "Vintage circus poster style illustration of a mechanic keeping the trained beast-machine running in the ring, oilcan and wrench tuning a mechanical creature, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r037",
+    "sheet_id": "s040",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Professor Enigma",
+    "character_desc": "O inventor de contraption experimental; jaleco, óculos e uma engenhoca estranha com bobinas soltando faíscas de descoberta.",
+    "nano_prompt": "Vintage circus poster style illustration of an inventor professor in a lab coat and goggles beside a strange experimental contraption with sparking coils, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r038",
+    "sheet_id": "s040",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Sussurro Sábio",
+    "character_desc": "O ventríloquo que sussurra para o boneco falar; boneco no colo e gesto ao ouvido, moldando cada palavra do número.",
+    "nano_prompt": "Vintage circus poster style illustration of a ventriloquist with a puppet on the lap, whispering to the ear to shape its words, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r039",
+    "sheet_id": "s040",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Poliglota Pilar",
+    "character_desc": "A oradora que treina o papagaio falante; ave no ombro, balões de fala em pano e gesto declamando em muitas línguas.",
+    "nano_prompt": "Vintage circus poster style illustration of a polyglot orator training a talking parrot on the shoulder, cloth speech bubbles, declaiming gesture, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r040",
+    "sheet_id": "s040",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Olho de Águia",
+    "character_desc": "O atirador de olhar certeiro que lê os alvos; luneta numa mão, monóculo gigante e mira precisa no ponto exato.",
+    "nano_prompt": "Vintage circus poster style illustration of a sharpshooter with an eagle eye holding a telescope and a giant monocle, precise aim reading targets, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r041",
+    "sheet_id": "s040",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Ábaco Ana",
+    "character_desc": "A leitora de números que aponta o painel de estatísticas; ábaco na mão e faixa com gráficos, explicando as contagens.",
+    "nano_prompt": "Vintage circus poster style illustration of a numbers reader holding an abacus and pointing to a hanging chart banner, explaining tallies, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r042",
+    "sheet_id": "s040",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Balanço Bento",
+    "character_desc": "O leitor do painel de negócios; livro-razão aberto com gráficos, bola de cristal-dashboard e gesto interpretando os indicadores.",
+    "nano_prompt": "Vintage circus poster style illustration of a business insight reader with an open ledger of charts and a crystal-ball dashboard, interpreting gesture, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r043",
+    "sheet_id": "s040",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Medidor Mateo",
+    "character_desc": "O construtor do placar do espetáculo; monta o quadro de pontuação com réguas e fichas, medindo cada número com precisão.",
+    "nano_prompt": "Vintage circus poster style illustration of a metrics builder assembling a scoreboard with rulers and tokens, measuring each act precisely, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r044",
+    "sheet_id": "s040",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Luzes Lúcia",
+    "character_desc": "A pintora de luz que faz fogos-de-artifício de gráficos; varinha luminosa desenhando curvas e barras coloridas no ar.",
+    "nano_prompt": "Vintage circus poster style illustration of a light-painter drawing chart fireworks in the air with a luminous wand, colorful bars and curves, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r045",
+    "sheet_id": "s040",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Roustabout Rui",
+    "character_desc": "O montador que arma e desmonta a lona; cinto de ferramentas, marreta e um mastro de tenda erguido sobre o ombro.",
+    "nano_prompt": "Vintage circus poster style illustration of a roustabout raising and striking the tent, tool belt and mallet, a tent pole over the shoulder, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r046",
+    "sheet_id": "s040",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Rede Renê",
+    "character_desc": "O riggeiro da rede de segurança que impede a queda do show; rede enrolada, arnês, sino de alerta e olhar vigilante.",
+    "nano_prompt": "Vintage circus poster style illustration of a safety-net rigger holding a coiled net and harness with an alert bell, vigilant watchful stance, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r047",
+    "sheet_id": "s040",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Alicerce Alba",
+    "character_desc": "A construtora do grande picadeiro que dá palco a todos; mastro central nas mãos e a plataforma sobre a qual os números acontecem.",
+    "nano_prompt": "Vintage circus poster style illustration of a big-top platform builder holding the central pole and standing on the stage that supports all acts, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r048",
+    "sheet_id": "s040",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Balonista Bruna",
+    "character_desc": "A arquiteta das alturas que constrói castelos no ar; balão de ar quente, nuvens de algodão e maquete flutuante de tenda.",
+    "nano_prompt": "Vintage circus poster style illustration of an aerial architect with a hot-air balloon and cotton clouds, holding a floating tent model in the sky, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r049",
+    "sheet_id": "s040",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Timoneiro Kaio",
+    "character_desc": "O condutor de uma frota de vagões-contêiner amestrados; roda de leme na mão guiando carroças de carga em formação.",
+    "nano_prompt": "Vintage circus poster style illustration of a fleet helmsman steering a caravan of trained container wagons with a ship's wheel, cargo carts in formation, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r050",
+    "sheet_id": "s040",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Cabo Célio",
+    "character_desc": "O riggeiro que liga as lonas com cabos e cordas; rolo de fio nas mãos, torres de tenda conectadas por linhas tensionadas.",
+    "nano_prompt": "Vintage circus poster style illustration of a rigging performer connecting tents with cables and ropes, a coil of wire in hand, tensioned lines between poles, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r051",
+    "sheet_id": "s040",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Gerador Gil",
+    "character_desc": "O guardião do motor dos bastidores; molho de chaves, alavancas de controle e o grande gerador que mantém as luzes acesas.",
+    "nano_prompt": "Vintage circus poster style illustration of a backstage engine keeper with a ring of keys and control levers beside a big generator keeping the lights on, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r052",
+    "sheet_id": "s040",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Canhão Caetano",
+    "character_desc": "O artilheiro que lança o homem-bala do lançamento; pavio na mão, grande canhão de circo apontado e pose triunfal de disparo.",
+    "nano_prompt": "Vintage circus poster style illustration of a cannon launcher lighting the fuse of a big circus cannon aimed to launch the human cannonball, triumphant pose, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r053",
+    "sheet_id": "s040",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Montador Baltasar",
+    "character_desc": "O montador que constrói os cenários a partir de peças; martelo, encaixes e engrenagens, erguendo o adereço do número.",
+    "nano_prompt": "Vintage circus poster style illustration of an assembler building set pieces from parts with a hammer, joints and gears, raising a prop, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r054",
+    "sheet_id": "s040",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Esteira Estela",
+    "character_desc": "A operadora da esteira que entrega números frescos sem parar; correia rolante levando adereços prontos direto ao picadeiro.",
+    "nano_prompt": "Vintage circus poster style illustration of a conveyor-belt operator continuously delivering fresh props straight into the ring on a rolling belt, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r055",
+    "sheet_id": "s040",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Domador Dax",
+    "character_desc": "O domador-guarda que mantém as feras-ameaça sob controle; chicote, banquinho e escudo com brasão de proteção.",
+    "nano_prompt": "Vintage circus poster style illustration of a lion-tamer guard keeping threat-beasts at bay with a whip and pedestal, holding a protection-crest shield, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r056",
+    "sheet_id": "s040",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Houdino",
+    "character_desc": "O escapista que testa cada fechadura e corrente; algemas abertas, gazua na mão e correntes se soltando do corpo.",
+    "nano_prompt": "Vintage circus poster style illustration of an escape artist testing every lock and chain, open handcuffs and a lockpick, chains slipping off, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r057",
+    "sheet_id": "s040",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Escudeiro Elias",
+    "character_desc": "O cavaleiro que guarda a lona do app; armadura vintage de circo, lança e grande escudo com o emblema do aplicativo.",
+    "nano_prompt": "Vintage circus poster style illustration of an armored knight guarding the app-tent in vintage circus armor with a lance and a large app-emblem shield, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r058",
+    "sheet_id": "s040",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cifra Silêncio",
+    "character_desc": "O mágico dos códigos secretos; roda cifrante nas mãos, caixa lacrada com cadeado e gesto de guardar o segredo.",
+    "nano_prompt": "Vintage circus poster style illustration of a cipher magician holding a code wheel and a padlocked sealed box, secret-keeping gesture, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r059",
+    "sheet_id": "s040",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Inspetor Íntegro",
+    "character_desc": "O fiscal do regulamento; livro de regras aberto, checklist carimbada e o grande selo oficial na mão erguida.",
+    "nano_prompt": "Vintage circus poster style illustration of a rulebook inspector holding an open regulations book, a stamped checklist, and a large official seal, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r060",
+    "sheet_id": "s040",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Véu Valentina",
+    "character_desc": "A artista do véu que protege identidades; máscaras nas mãos, cortinas de tule e um público de rostos preservados atrás.",
+    "nano_prompt": "Vintage circus poster style illustration of a veiling performer protecting identities with masks and gauze curtains, hidden faces behind, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r061",
+    "sheet_id": "s040",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Brigada Bruno",
+    "character_desc": "O bombeiro do circo que corre para apagar o incêndio; extintor de latão, capacete e balde d'água em corrida de emergência.",
+    "nano_prompt": "Vintage circus poster style illustration of a circus firefighter rushing with a brass extinguisher, helmet and water bucket, emergency response run, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r062",
+    "sheet_id": "s040",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Oráculo Sombrio",
+    "character_desc": "O vidente dos perigos que mapeia os riscos; quadro com maus presságios, ponteiro apontando ameaças e olhar cauteloso.",
+    "nano_prompt": "Vintage circus poster style illustration of a fortune teller of dangers mapping risks on a board of dark omens, pointing to threats, cautious look, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r063",
+    "sheet_id": "s040",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Inspetora Íris",
+    "character_desc": "A inspetora de qualidade que testa o trampolim antes do número; lupa numa mão e selo de aprovado na outra, verificando tudo.",
+    "nano_prompt": "Vintage circus poster style illustration of a quality inspector testing the trampoline before the act with a magnifying glass and an approval stamp, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r064",
+    "sheet_id": "s040",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Autômato Aldo",
+    "character_desc": "O autômato testador que repete o número sem cansar; braço mecânico com prancheta, marcando cada verificação automaticamente.",
+    "nano_prompt": "Vintage circus poster style illustration of a robotic tester automaton repeating tests tirelessly, a mechanical arm holding a checklist, ticking marks, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r065",
+    "sheet_id": "s040",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Forte Fábio",
+    "character_desc": "O homem-forte que leva os pesos ao limite; halteres colossais, veias saltadas e pose de esforço máximo testando a resistência.",
+    "nano_prompt": "Vintage circus poster style illustration of a strongman stress-testing colossal barbells to the limit, straining maximum-effort pose, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r066",
+    "sheet_id": "s040",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Manual Marta",
+    "character_desc": "A inspetora que prova cada número com as próprias mãos; prancheta, lápis e gesto minucioso conferindo item por item.",
+    "nano_prompt": "Vintage circus poster style illustration of a hands-on inspector trying each act by hand with a clipboard and pencil, meticulous checking gesture, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r067",
+    "sheet_id": "s040",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Prova Priscila",
+    "character_desc": "A testadora que confirma circo para todos; rampa portátil e venda nos olhos, verificando que qualquer um aproveita o número.",
+    "nano_prompt": "Vintage circus poster style illustration of an accessibility tester verifying inclusion with a portable ramp and a blindfold, confirming everyone can enjoy, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r068",
+    "sheet_id": "s040",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Escriba Eloá",
+    "character_desc": "A escriba que redige o programa e o manual dos números; pergaminho longo, pena de escrever e gesto documentando a trupe.",
+    "nano_prompt": "Vintage circus poster style illustration of a scribe writing the program and manual of acts on a long scroll with a quill, documenting gesture, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r069",
+    "sheet_id": "s040",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Arauto Aldo",
+    "character_desc": "O anunciante da entrada que chama a multidão; megafone de latão, cartola e gesto largo convidando o público para dentro.",
+    "nano_prompt": "Vintage circus poster style illustration of an entrance barker drawing the crowd with a brass megaphone, top hat, wide inviting gesture, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r070",
+    "sheet_id": "s040",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Enredo Estela",
+    "character_desc": "A autora do folheto que planeja a história do show; storyboard em painéis, lápis e gesto ordenando a narrativa das atrações.",
+    "nano_prompt": "Vintage circus poster style illustration of a playbill author planning the show's story on a storyboard of panels with a pencil, ordering the narrative, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r071",
+    "sheet_id": "s040",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Babel Bianca",
+    "character_desc": "A arauta multilíngue de muitas nações; leque de bandeirinhas de vários países e faixas traduzidas anunciando o circo a todos.",
+    "nano_prompt": "Vintage circus poster style illustration of a multilingual barker with a fan of many national flags and translated banners announcing the show, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r072",
+    "sheet_id": "s040",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Traço Teodoro",
+    "character_desc": "O desenhista que esboça o número inteiro; lápis, régua e a planta do picadeiro rascunhada num grande caderno de projeto.",
+    "nano_prompt": "Vintage circus poster style illustration of a show designer sketching the whole act with pencil and ruler over a big design pad of the ring layout, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r073",
+    "sheet_id": "s040",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Cartazista Cora",
+    "character_desc": "A pintora do próprio cartaz de circo; cavalete, pincel largo e a arte vistosa do espetáculo tomando forma diante dela.",
+    "nano_prompt": "Vintage circus poster style illustration of a poster painter working at an easel with a broad brush, the show's vivid poster art taking shape, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r074",
+    "sheet_id": "s040",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Marionete Marco",
+    "character_desc": "O titeriteiro que desenha como plateia e número se encontram; cruzeta de fios nas mãos guiando o boneco em resposta ao público.",
+    "nano_prompt": "Vintage circus poster style illustration of a puppeteer designing how audience and act interact, holding marionette control bars guiding a puppet, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r075",
+    "sheet_id": "s040",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Fita Fernanda",
+    "character_desc": "A dançarina de fitas que projeta o movimento gracioso; longas serpentinas rodopiando em curvas suaves ao redor do corpo.",
+    "nano_prompt": "Vintage circus poster style illustration of a ribbon dancer designing graceful motion, long streamers swirling in smooth curves around the body, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r076",
+    "sheet_id": "s040",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Caricato Caio",
+    "character_desc": "O caricaturista que desenha os artistas; cavalete pequeno, carvão na mão e um retrato exagerado de um palhaço em progresso.",
+    "nano_prompt": "Vintage circus poster style illustration of a caricature artist at a small easel with charcoal, an exaggerated clown portrait in progress, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r077",
+    "sheet_id": "s040",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Adereço Ada",
+    "character_desc": "A construtora de adereços individuais; bancada com pequenos objetos, ferramenta fina e um adereço acabado erguido com orgulho.",
+    "nano_prompt": "Vintage circus poster style illustration of a prop-maker at a workbench of small crafted objects with a fine tool, proudly holding a finished prop, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r078",
+    "sheet_id": "s040",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Brasão Belmiro",
+    "character_desc": "O porta-estandarte da identidade do circo; bandeira com o brasão da trupe e um selo de lacre, ostentando a marca do espetáculo.",
+    "nano_prompt": "Vintage circus poster style illustration of a crest-bearer holding a flag with the circus emblem and a wax seal, showcasing the show's brand, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r079",
+    "sheet_id": "s040",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Fanfarra Fábio",
+    "character_desc": "O homem-orquestra que faz os sons do circo; bumbo nas costas, pratos, gaita e uma pequena calíope soltando notas festivas.",
+    "nano_prompt": "Vintage circus poster style illustration of a one-man-band making the circus sounds with a bass drum on the back, cymbals, harmonica and a small calliope, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r080",
+    "sheet_id": "s040",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Escultor Silvano",
+    "character_desc": "O escultor que molda figuras em volume; busto de argila num pedestal, espátula na mão dando forma tridimensional ao número.",
+    "nano_prompt": "Vintage circus poster style illustration of a sculptor shaping a figure in the round, a clay bust on a pedestal, sculpting tool giving three-dimensional form, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r081",
+    "sheet_id": "s040",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Roleta Rosa",
+    "character_desc": "A mestra dos jogos de sorte da avenida; roda da fortuna colorida, fichas na mão e gesto convidando à brincadeira do parque.",
+    "nano_prompt": "Vintage circus poster style illustration of a games-of-chance master of the midway with a colorful wheel of fortune and tokens, inviting-to-play gesture, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r082",
+    "sheet_id": "s040",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Labirinto Lino",
+    "character_desc": "O construtor do labirinto da casa maluca; planta do funhouse enrolada, espelhos tortos e portas-armadilha do percurso.",
+    "nano_prompt": "Vintage circus poster style illustration of a funhouse maze builder holding a rolled funhouse blueprint, warped mirrors and trap-doors of the course, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r083",
+    "sheet_id": "s040",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Contista Clô",
+    "character_desc": "A contadora de histórias que tece o enredo do show; livro aberto e gesto teatral narrando a saga das atrações do circo.",
+    "nano_prompt": "Vintage circus poster style illustration of a storyteller weaving the show's tale with an open book and a dramatic theatrical narrating gesture, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r084",
+    "sheet_id": "s040",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Barraca Bento",
+    "character_desc": "O operador da barraca de jogos interativos; alavanca-joystick, prêmios pendurados e o balcão de brincadeira do parque montado.",
+    "nano_prompt": "Vintage circus poster style illustration of a funhouse game-booth operator with a joystick lever, hanging prizes and a set-up midway game counter, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r085",
+    "sheet_id": "s040",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Prisma Pietro",
+    "character_desc": "O mago da luz e da cor; prisma nas mãos, holofotes coloridos e um leque de feixes multicoloridos irradiando do corpo.",
+    "nano_prompt": "Vintage circus poster style illustration of a light-and-color magician holding a prism with colored spotlights and a fan of multicolored beams radiating, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r086",
+    "sheet_id": "s040",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Caixinha Caio",
+    "character_desc": "O relojoeiro das mini-engenhocas; caixa de música aberta na mão, lupa no olho e engrenagens minúsculas ajustadas com pinça.",
+    "nano_prompt": "Vintage circus poster style illustration of a tiny-mechanism tinkerer holding an open music box with a loupe, adjusting minuscule gears with tweezers, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r087",
+    "sheet_id": "s040",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Corda Cornélio",
+    "character_desc": "O guardião do maquinário interno do autômato; grande chave de corda na mão, dando corda ao coração mecânico da figura.",
+    "nano_prompt": "Vintage circus poster style illustration of an automaton's inner-clockwork keeper holding a large winding key, winding the mechanical heart of a figure, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r088",
+    "sheet_id": "s040",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Enxame Enzo",
+    "character_desc": "O titeriteiro de muitos animais mecânicos conectados; fios irradiando das mãos para bichinhos de lata espalhados pela feira.",
+    "nano_prompt": "Vintage circus poster style illustration of a puppeteer of many connected mechanical animals, wires radiating from the hands to tin creatures around the fair, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r089",
+    "sheet_id": "s040",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Elo Eleutério",
+    "character_desc": "O artista da corrente que forja elos num livro-razão; longa corrente dourada nas mãos, cada elo lacrado ligado ao seguinte.",
+    "nano_prompt": "Vintage circus poster style illustration of a chain performer forging golden links into a ledger, a long chain in hand, each sealed link joined to the next, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r090",
+    "sheet_id": "s040",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Fiscal do Elo",
+    "character_desc": "O inspetor da corrente que confere cada elo; lupa numa mão, selo na outra, examinando a resistência de cada elo dourado.",
+    "nano_prompt": "Vintage circus poster style illustration of a chain inspector checking each golden link with a magnifying glass and a seal, verifying every joint, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r091",
+    "sheet_id": "s040",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Ilusão Ivo",
+    "character_desc": "O ilusionista da caixa de espelhos que cria mundos imersivos; óculos-caleidoscópio e uma caixa mágica de reflexos infinitos.",
+    "nano_prompt": "Vintage circus poster style illustration of an illusionist of the mirror-box creating immersive worlds, kaleidoscope goggles and a box of infinite reflections, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r092",
+    "sheet_id": "s040",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Autômato Augusto",
+    "character_desc": "O construtor do autômato mecânico; chave de fenda na mão e uma marionete-robô de latão articulada em pé ao seu lado.",
+    "nano_prompt": "Vintage circus poster style illustration of a mechanical-automaton builder with a screwdriver beside an articulated brass robot marionette, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r093",
+    "sheet_id": "s040",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Balão Beatriz",
+    "character_desc": "A infladora que faz a plateia crescer; enche um enorme balão que se expande e ergue uma faixa de gráfico ascendente.",
+    "nano_prompt": "Vintage circus poster style illustration of a balloon-inflater growing the crowd, blowing up a huge expanding balloon, holding a rising growth chart banner, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r094",
+    "sheet_id": "s040",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Placa Plínio",
+    "character_desc": "O plantador de placas que torna o circo fácil de achar; feixe de setas indicadoras e placas apontando o caminho da lona.",
+    "nano_prompt": "Vintage circus poster style illustration of a signpost planter making the circus easy to find, a bundle of direction arrows and signs pointing the way, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r095",
+    "sheet_id": "s040",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Panfleto Pia",
+    "character_desc": "A artilheira do canhão de panfletos; dispara handbills pelo ar, balde de cola e rolo colando cartazes por toda parte.",
+    "nano_prompt": "Vintage circus poster style illustration of a flyer-cannon shooter spraying handbills into the air, a paste bucket and roller pasting posters everywhere, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r096",
+    "sheet_id": "s040",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Solução Sofia",
+    "character_desc": "A demonstradora que mostra como o número resolve o problema; adereço-demo na mão e gesto apresentando a engenhoca funcionando.",
+    "nano_prompt": "Vintage circus poster style illustration of a solutions demonstrator showing how the act solves a problem, holding a demo prop, presenting it working, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r097",
+    "sheet_id": "s040",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Socorro Silas",
+    "character_desc": "O atendente prestativo que ajuda os visitantes; kit de primeiros socorros e caixa de ferramentas, resolvendo o apuro com um sorriso.",
+    "nano_prompt": "Vintage circus poster style illustration of a helpful attendant assisting guests with a first-aid kit and a toolbox, solving trouble with a smile, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r098",
+    "sheet_id": "s040",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Vendedor Valfrido",
+    "character_desc": "O barker charmoso que vende com truques de amostra; bilhete na mão, malinha de mostruário e gesto convincente de fechamento.",
+    "nano_prompt": "Vintage circus poster style illustration of a charming sales barker pitching with sample tricks, a ticket in hand and a sample case, convincing closing gesture, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r099",
+    "sheet_id": "s040",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Bilheteiro Bruno",
+    "character_desc": "O contador da bilheteria que soma custos e trocados; caixa registradora, pilhas de moedas e gesto conferindo o balanço do dia.",
+    "nano_prompt": "Vintage circus poster style illustration of a ticket-booth counter tallying costs and coins, a cash box with stacks of coins, checking the day's balance, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s040-r100",
+    "sheet_id": "s040",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Árbitro Aurélio",
+    "character_desc": "O oficial do contrato que faz cumprir as regras; pergaminho do acordo enrolado, martelo de juiz e selo de lacre na mão.",
+    "nano_prompt": "Vintage circus poster style illustration of a contract official enforcing the rules with a rolled agreement scroll, a judge's gavel and a wax seal, rendered as a full-body single performer in bold ochre-red-and-cream retro lithograph linework with gold accents, ornate scrollwork and starburst flourishes, richly detailed theatrical circus costume, dramatic showman full-length standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

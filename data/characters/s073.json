@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s073-r001",
+    "sheet_id": "s073",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Mestre Nigiri",
+    "character_desc": "Um nigiri de salmão imponente, o arquiteto do balcão: segura uma planta enrolada e um compasso que desenham a estrutura do prato.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a grand salmon nigiri, holding a rolled blueprint scroll and a tiny compass, standing on a miniature sushi-boat pedestal, confident visionary pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r002",
+    "sheet_id": "s073",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Capitão Maki",
+    "character_desc": "Um maki de atum que lidera o rolo: aponta o caminho com uma vareta de bambu e carrega a bandeirinha do time.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a tekka maki roll, pointing forward with a bamboo pointer, small team flag on its back, decisive leading pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r003",
+    "sheet_id": "s073",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Sensei Toro",
+    "character_desc": "Um nigiri de toro veterano e influente: postura serena de quem resolve os problemas mais difíceis do balcão.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a fatty tuna nigiri, arms crossed wisely, a subtle senior badge ribbon, calm mentoring aura, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r004",
+    "sheet_id": "s073",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Grão-Uni",
+    "character_desc": "Um gunkan de ouriço no topo da hierarquia: coroa de louros e leque de estratégia guiam decisões amplas.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a sea urchin gunkan, wearing a tiny laurel crown, holding a strategy fan, principled and elevated pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r005",
+    "sheet_id": "s073",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Gohan-chan",
+    "character_desc": "Um onigiri acolhedor que cuida do time: prancheta com post-its e sorriso caloroso de gerente de pessoas.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a rice ball onigiri, hugging a small clipboard with sticky notes, warm caring smile, gathering gesture, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r006",
+    "sheet_id": "s073",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Bento Prisma",
+    "character_desc": "Uma marmita bento cheia de compartimentos: apresenta o roadmap do produto e prioriza cada divisória.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a colorful bento box, presenting a glowing product roadmap card, one hand on chin thinking, curious pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r007",
+    "sheet_id": "s073",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Dono Temaki",
+    "character_desc": "Um temaki que abraça o próprio cone: guarda o backlog priorizado como dono do produto.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a temaki hand roll, holding a prioritized backlog scroll cone, protective ownership stance, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r008",
+    "sheet_id": "s073",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Osen Coordenador",
+    "character_desc": "Uma bandeja de sushi variada: coordena várias bandeirinhas ligadas, cuidando de vários programas de uma vez.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a assorted sushi tray, juggling several tiny linked flags, orchestrating multiple plates at once, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r009",
+    "sheet_id": "s073",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Kanban Roll",
+    "character_desc": "Um kappa maki metódico: cronograma enrolado e cronômetro na mão para manter o projeto no prazo.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a cucumber kappa maki, holding a small Gantt-chart scroll and a stopwatch, organized planning pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r010",
+    "sheet_id": "s073",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Sprint Dango",
+    "character_desc": "Um espetinho de dango de três cores: agita a bandeirinha de burndown e facilita as cerimônias do sprint.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a three-color dango skewer, spinning a tiny burndown chart flag on a stick, energetic facilitating pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r011",
+    "sheet_id": "s073",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Miso Servidor",
+    "character_desc": "Uma tigela de missoshiru fumegante: serve o caldo como um servidor, com um bloco de tofu em forma de rack.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a bowl of miso soup, holding a steaming server-rack tofu block and a ladle, sturdy dependable pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r012",
+    "sheet_id": "s073",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Endpoint Ebi",
+    "character_desc": "Um nigiri de camarão elegante: apresenta um conector encaixável, desenhando contratos de API limpos.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a shrimp nigiri, presenting a small socket-and-plug connector, tidy interface-defining gesture, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r013",
+    "sheet_id": "s073",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Mini-Maki Trio",
+    "character_desc": "Três minirroles conectados: cada peça é um microsserviço independente que conversa com os vizinhos.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a trio of small maki pieces, three tiny linked roll segments floating in orbit, modular pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r014",
+    "sheet_id": "s073",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Kaiten Fluxo",
+    "character_desc": "Um pratinho de kaiten-zushi na esteira: canaliza os dados pela esteira como um pipeline em fluxo.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a conveyor-belt sushi plate, riding a tiny conveyor belt, funnel and pipe props, streaming pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r015",
+    "sheet_id": "s073",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Data-Gunkan",
+    "character_desc": "Um gunkan de ovas: cada continha de ova é um dado, empilhado em caixotes prontos para o pipeline.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a roe gunkan maki, cradling stacks of glowing roe-bead data crates, industrious pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r016",
+    "sheet_id": "s073",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Guardião Tsukemono",
+    "character_desc": "Um pote de conservas (tsukemono): guarda os dados curados com uma grande chave de administrador do banco.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a jar of pickled vegetables, holding a big brass key over a pickle jar, careful custodian pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r017",
+    "sheet_id": "s073",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Wasabi Query",
+    "character_desc": "Um montinho de wasabi picante: lupa em punho, faz consultas afiadas e precisas nas tabelas.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a wasabi mound, holding a magnifying glass over a query card, sharp precise expression, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r018",
+    "sheet_id": "s073",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Mochi Cache",
+    "character_desc": "Um mochi fofo e elástico: abraça a ampulheta relâmpago, guardando respostas rápidas em cache.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a soft mochi ball, hugging a tiny lightning-fast hourglass, springy quick pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r019",
+    "sheet_id": "s073",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Fila Kushikatsu",
+    "character_desc": "Um espeto de kushikatsu: cada item enfileirado na vareta representa mensagens ordenadas numa fila.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a skewered kushikatsu, items neatly queued on a skewer, orderly conveyor pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r020",
+    "sheet_id": "s073",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Nori Buscador",
+    "character_desc": "Uma folha de nori exploradora: lupa brilhante e leque de índices para achar tudo no cardápio.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a seaweed nori sheet, holding a glowing magnifier and a tiny index card fan, searching pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r021",
+    "sheet_id": "s073",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Sakura Front",
+    "character_desc": "Um sakura-mochi rosado: exibe um painel de interface pastel, montando a tela que o usuário vê.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a sakura mochi, presenting a floating pastel UI panel frame, welcoming display pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r022",
+    "sheet_id": "s073",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Botão Taiyaki",
+    "character_desc": "Um taiyaki lustroso: monta botões e componentes brilhantes, cuidando dos detalhes da UI.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a fish-shaped taiyaki, holding a set of glossy clickable button chips, polished builder pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r023",
+    "sheet_id": "s073",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Fluxo Chawan",
+    "character_desc": "Um chawanmushi delicado: desenha a jornada do usuário como uma fita suave, pensando na experiência.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a chawanmushi custard cup, sketching a smooth user-journey ribbon path, empathetic thoughtful pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r024",
+    "sheet_id": "s073",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Kit Kamaboko",
+    "character_desc": "Fatias de kamaboko com espiral idêntica: organiza tokens repetíveis num grid, o sistema de design.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a kamaboko fish-cake slices, arranging matching swirl-pattern tokens in a neat grid, systematic pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r025",
+    "sheet_id": "s073",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Onigiri Braille",
+    "character_desc": "Um onigiri com pontinhos táteis: cartão de contraste e bengala-guia, garantindo acesso para todos.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a onigiri with tactile dots, holding a high-contrast contrast-ratio card and a small guide cane, inclusive pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r026",
+    "sheet_id": "s073",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Soba Veloz",
+    "character_desc": "Uma tigela de soba veloz: velocímetro e cronômetro em punho, otimizando a performance da página.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a bowl of soba noodles, sprinting with a tiny speedometer and stopwatch, motion-blur speed pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r027",
+    "sheet_id": "s073",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Estilo Tamago",
+    "character_desc": "Um tamago dourado e liso: pincel e paleta de gradientes, estilizando cada detalhe com CSS.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a tamago egg nigiri, holding a paintbrush and a swatch of gradient tiles, stylish decorating pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r028",
+    "sheet_id": "s073",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Tween Takoyaki",
+    "character_desc": "Uma bolinha de takoyaki saltitante: cercada de arcos de movimento, dá vida às animações da tela.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a takoyaki ball, surrounded by motion-arc swirls and keyframe dots, bouncy animated pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r029",
+    "sheet_id": "s073",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Pocket Musubi",
+    "character_desc": "Um spam musubi portátil: segura duas telinhas de celular, construindo apps para os dois mundos móveis.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a spam musubi, holding two tiny mobile-screen slates side by side, on-the-go pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r030",
+    "sheet_id": "s073",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Ringo Maçã",
+    "character_desc": "Uma maçã do amor reluzente: segura um tablet-fruta minimalista e polido, no capricho do ecossistema da maçã.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a apple-shaped candy apple, holding a sleek minimalist fruit-slate device, refined premium pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r031",
+    "sheet_id": "s073",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Dorayaki Verde",
+    "character_desc": "Um dorayaki verdinho: abraça um robozinho de pelúcia, construindo apps para o mundo Android.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a green dorayaki, holding a friendly little robot-droid plush, cheerful open pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r032",
+    "sheet_id": "s073",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Ponte Onigiri",
+    "character_desc": "Um par de onigiri unido: liga duas telinhas com um único cabo, um código só para as duas plataformas.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a double onigiri pair, bridging two mini-screens with a single glowing cable, unifying pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r033",
+    "sheet_id": "s073",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Flutter Manju",
+    "character_desc": "Um manju com carimbo de borboleta: uma tela que se reflete em vários aparelhos, fluida e leve.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a butterfly-stamped manju, holding one canvas that mirrors into many screens, fluid graceful pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r034",
+    "sheet_id": "s073",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Doutor Dashi",
+    "character_desc": "Uma tigela de dashi translúcido: frasco borbulhante e gráfico de dispersão, extraindo a essência dos dados.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a bowl of clear dashi broth, holding a bubbling flask and a scatter-plot card, curious experimenting pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r035",
+    "sheet_id": "s073",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Robô Gyoza",
+    "character_desc": "Um gyoza recheado: abraça um cérebro-engrenagem de rede neural, treinando modelos de machine learning.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a gyoza dumpling, hugging a small neural-network gear brain, training a mini model pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r036",
+    "sheet_id": "s073",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Esteira Ramen",
+    "character_desc": "Uma tigela de ramen: cavalga uma esteira automatizada com engrenagens de deploy, colocando modelos em produção.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a ramen bowl, riding an automated pipeline conveyor with deploy gears, tireless ops pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r037",
+    "sheet_id": "s073",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Sábio Umeboshi",
+    "character_desc": "Um umeboshi enrugado e sábio: lê um artigo científico flutuante sob uma lâmpada de ideias.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a umeboshi plum, reading a floating research paper scroll and a lightbulb, contemplative pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r038",
+    "sheet_id": "s073",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Sussurro Shoyu",
+    "character_desc": "Um pratinho de shoyu: sussurra num balão de fala brilhante, moldando prompts com a dose certa de tempero.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a soy-sauce dish, whispering into a glowing speech-bubble prompt card, coaxing gentle pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r039",
+    "sheet_id": "s073",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Palavra Natto",
+    "character_desc": "Uma tigela de nattô grudenta: desembaraça fios de palavras em rótulos, entendendo a linguagem natural.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a natto beans bowl, untangling sticky word-strings into neat labeled tags, patient pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r040",
+    "sheet_id": "s073",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Olho Tobiko",
+    "character_desc": "Um gunkan de tobiko: cada ova é um pixel; segura uma lente de reconhecimento que enxerga imagens.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a tobiko roe gunkan, holding a bounding-box viewfinder lens, keen observant pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r041",
+    "sheet_id": "s073",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Gráfico Gari",
+    "character_desc": "Um gari (gengibre em conserva): apresenta um leque de gráficos de pizza, analisando os números.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a pickled ginger gari, presenting a small pie-chart fan, tidy explaining pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r042",
+    "sheet_id": "s073",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Painel Yakitori",
+    "character_desc": "Um espeto de yakitori: mostra um painel com barrinhas, transformando dados em relatórios de BI.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a yakitori skewer, holding a mini dashboard board with tiny bar charts, reporting pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r043",
+    "sheet_id": "s073",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Molde Karaage",
+    "character_desc": "Karaage crocante: organiza cubos de dados com um funil, modelando as tabelas de analytics.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a karaage fried chicken, arranging clean data-cube blocks with a funnel, modeling pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r044",
+    "sheet_id": "s073",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Arco-Sashimi",
+    "character_desc": "Um sashimi arco-íris: paleta de cores em punho, transformando dados em visualizações bonitas.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a rainbow sashimi platter, holding a glowing color-graph palette, artistic display pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r045",
+    "sheet_id": "s073",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Chef Teppan",
+    "character_desc": "Uma chapa de teppanyaki: chave de fenda e espátula-foguete, integrando desenvolvimento e operação.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a teppanyaki grill plate, holding a wrench and a deploy-rocket spatula, hands-on operations pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r046",
+    "sheet_id": "s073",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Farol Chochin",
+    "character_desc": "Um manju em forma de lanterna: monitor de batimentos e pager, mantendo o sistema sempre no ar.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a lantern-shaped chochin manju, holding a heartbeat-monitor lantern and a pager, vigilant reliable pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r047",
+    "sheet_id": "s073",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Base Sushi-Geta",
+    "character_desc": "Uma tábua-geta de sushi: a plataforma firme onde as outras peças se apoiam para trabalhar.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a wooden sushi geta board, presenting a sturdy platform tray that others stand on, foundational pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r048",
+    "sheet_id": "s073",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Nuvem Wataame",
+    "character_desc": "Um algodão-doce fofo: flutua numa nuvem de servidores, desenhando a arquitetura da infraestrutura.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a cotton-candy wataame, floating on a fluffy server-cloud holding blueprint of racks, airy pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r049",
+    "sheet_id": "s073",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Timoneiro Tako",
+    "character_desc": "Um polvo capitão: com os tentáculos gira um leme e organiza caixas-contêiner, o timoneiro do Kubernetes.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a octopus takoyaki captain, steering a small ship-wheel with container-box tentacles, orchestrating pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r050",
+    "sheet_id": "s073",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Nó Renkon",
+    "character_desc": "Uma fatia de renkon (raiz de lótus): os furos ligam cabos brilhantes, conectando a rede.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a lotus-root renkon slice, connecting glowing cables through its holes like a hub, networking pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r051",
+    "sheet_id": "s073",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Zelador Zaru",
+    "character_desc": "Uma esteira de bambu zaru: vassoura e cinto de ferramentas, cuidando dos servidores como zelador.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a zaru bamboo tray, holding a broom and a toolbelt tending server tofu blocks, caretaker pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r052",
+    "sheet_id": "s073",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Selo Manju",
+    "character_desc": "Um manju carimbado de festa: fita de versão e selo de cera, oficializando cada lançamento.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a stamped celebration manju, holding a version-tag ribbon and a wax seal, ceremonial release pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r053",
+    "sheet_id": "s073",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Forma Taiyaki",
+    "character_desc": "Uma forma de taiyaki: molde de ferro que junta as peças, compilando e montando o build.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a taiyaki waffle mold, holding a casting iron mold assembling parts, constructing pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r054",
+    "sheet_id": "s073",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Loop Kaiten",
+    "character_desc": "Um pratinho de esteira em looping: roda o ciclo infinito de testar e entregar da CI/CD.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a conveyor sushi loop plate, riding an endless test-and-deploy conveyor loop, cyclical pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r055",
+    "sheet_id": "s073",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Escudo Nori",
+    "character_desc": "Um rolo blindado de nori: escudo e cadeado em punho, protegendo o sistema contra ameaças.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a armored nori-wrapped roll, holding a shield and a padlock, watchful guardian pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r056",
+    "sheet_id": "s073",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Ninja Shuriken",
+    "character_desc": "Um senbei em forma de shuriken: gazuas na mão, testa as defesas invadindo furtivamente.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a shuriken-shaped rice cracker, sneaking with lockpicks probing a tiny vault, stealthy testing pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r057",
+    "sheet_id": "s073",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Guarda Katsu",
+    "character_desc": "Um tonkatsu empanado e resistente: lupa e escudo, blindando a segurança da aplicação.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a tonkatsu cutlet, inspecting code-armor plates with a magnifier and shield, defensive pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r058",
+    "sheet_id": "s073",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cifra Konpeito",
+    "character_desc": "Konpeitô estreladinho: embaralha cristais-chave num baú trancado, cifrando os segredos.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a star-sugar konpeito, scrambling glowing key-crystals into a locked chest, secretive pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r059",
+    "sheet_id": "s073",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Selo Hanko",
+    "character_desc": "Um mochi em forma de carimbo hanko: carimbo de aprovação e checklist, garantindo a conformidade.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a hanko-stamp rice cake, holding an approval stamp and a checklist scroll, dutiful pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r060",
+    "sheet_id": "s073",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Véu Furoshiki",
+    "character_desc": "Um embrulho furoshiki de sushi: envolve dados sensíveis num tecido, protegendo a privacidade.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a furoshiki-wrapped sushi bundle, wrapping sensitive data-beads in a privacy cloth, protective pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r061",
+    "sheet_id": "s073",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Alarme Suzu",
+    "character_desc": "Um manju-sininho suzu: toca o alarme e segura um extintor, respondendo aos incidentes na hora.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a bell-shaped suzu manju, ringing a small alarm bell holding a fire-extinguisher, urgent responder pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r062",
+    "sheet_id": "s073",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Mapa Oni",
+    "character_desc": "Um senbei com máscara de oni: estuda um mapa de ameaças cheio de alfinetes, modelando os riscos.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a oni-mask senbei, studying a threat-map board with warning pins, strategic wary pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r063",
+    "sheet_id": "s073",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Provador Hashi",
+    "character_desc": "Um par de hashi provador: checklist e lupa, testando cada prato antes de servir.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a chopsticks-holding tester, inspecting a plate with a checklist and magnifier, meticulous tasting pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r064",
+    "sheet_id": "s073",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Robô Kaiten",
+    "character_desc": "Um sushi-robô da esteira: um braço automatizado carimba vistos verdes, testando tudo sozinho.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a robot conveyor sushi, an automated arm stamping green check marks on plates, mechanical pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r065",
+    "sheet_id": "s073",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Turbo Ramen",
+    "character_desc": "Um ramen turbinado: cronômetro e manômetro, medindo o sistema sob carga pesada.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a steaming turbo ramen, holding a stopwatch and stress-gauge under heavy load, straining pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r066",
+    "sheet_id": "s073",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Olhar Dango",
+    "character_desc": "Um trio de dango atento: checklist na mão, aponta cada detalhe testando manualmente.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a careful dango trio, holding a checklist and pointing at a plate detail, attentive manual pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r067",
+    "sheet_id": "s073",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Guia Onigiri",
+    "character_desc": "Um onigiri-guia: cartão de contraste e régua tátil, testando se todos conseguem usar.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a guide-dog onigiri, holding a contrast card and a tactile ruler, verifying inclusive pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r068",
+    "sheet_id": "s073",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Escriba Fumi",
+    "character_desc": "Um rolinho em forma de pergaminho: pincel e manual aberto, documentando tudo com clareza.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a scroll-shaped rice roll, holding a brush and an unrolled manual scroll, diligent writing pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r069",
+    "sheet_id": "s073",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Arauto Taiko",
+    "character_desc": "Um manju-tambor taiko: megafone e prato de demonstração, defendendo e ensinando a comunidade dev.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a taiko-drum manju, holding a small megaphone and a demo plate, enthusiastic advocating pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r070",
+    "sheet_id": "s073",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Curador Kaiseki",
+    "character_desc": "Um arranjo kaiseki: planeja a sequência dos pratinhos de conteúdo, o estrategista da narrativa.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a kaiseki course arrangement, arranging a planned sequence of tiny content plates, strategic pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r071",
+    "sheet_id": "s073",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Poliglota Gari",
+    "character_desc": "Um gari multilíngue: várias bandeirinhas e um globo, adaptando o produto para cada idioma.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a multi-flag gari platter, holding several little language flags and a globe, translating pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r072",
+    "sheet_id": "s073",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Prova Bento",
+    "character_desc": "Uma marmita bento de protótipo: bandeja com wireframes, iterando o desenho do produto.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a prototype bento box, presenting a wireframe-lined empty bento tray, iterating designer pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r073",
+    "sheet_id": "s073",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Pincel Sashimi",
+    "character_desc": "Um sashimi montado em rosa: pincel e leque de cores, cuidando do visual bonito de cada tela.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a artistic sashimi rose, holding a paintbrush and a color-swatch fan, elegant styling pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r074",
+    "sheet_id": "s073",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Toque Takoyaki",
+    "character_desc": "Um takoyaki interativo: aperta um botão que solta ondas de toque, desenhando cada interação.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a interactive takoyaki, pressing a glowing tap-ripple button, responsive playful pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r075",
+    "sheet_id": "s073",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Trilha Nagashi",
+    "character_desc": "Um somen que escorre (nagashi): fitas de movimento ao redor, desenhando o motion das telas.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a flowing nagashi somen, surrounded by swooping motion-line ribbons, graceful moving pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r076",
+    "sheet_id": "s073",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Traço Manju",
+    "character_desc": "Um manju desenhado a lápis: caneta e telinha com rabisco, ilustrando à mão as artes.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a sketch-drawn manju, holding a pencil and a small canvas with a doodle, artistic pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r077",
+    "sheet_id": "s073",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Kit Kamaboko-2",
+    "character_desc": "Um jogo de kamaboko-recurso: organiza ícones exportados numa bandeja, entregando os assets prontos.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a asset-tray kamaboko set, arranging neat exported icon tiles in a tray, organized asset pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r078",
+    "sheet_id": "s073",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Marca Noren",
+    "character_desc": "Um noren (cortina de loja) de sushi: selo de assinatura e paleta, cuidando da identidade da marca.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a noren-curtain sushi, holding a signature seal and a color-identity swatch, branding pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r079",
+    "sheet_id": "s073",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Sino Furin",
+    "character_desc": "Um manju-furin (sininho de vento): notas musicais e sininho, desenhando os sons da experiência.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a furin wind-bell manju, holding musical note bubbles and a tiny bell, sound-designing pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r080",
+    "sheet_id": "s073",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Escultor Uni",
+    "character_desc": "Um uni escultural: modela uma peça 3D em wireframe com ferramentas, criando volumes e formas.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a sculpted sea-urchin form, sculpting a 3D wireframe rice model with tools, volumetric pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r081",
+    "sheet_id": "s073",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Mestre Sugoroku",
+    "character_desc": "Uma peça de sushi de tabuleiro sugoroku: dados e carta de jogo, desenhando as regras da diversão.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a board-game sushi piece, holding tiny dice and a game-board card, playful designing pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r082",
+    "sheet_id": "s073",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Mapa Dango",
+    "character_desc": "Um espeto de dango-mapa: pergaminho com o traçado da fase e alfinetes, desenhando os níveis.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a level-map dango skewer, holding a small stage-map scroll with path pins, planning pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r083",
+    "sheet_id": "s073",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Contador Bunraku",
+    "character_desc": "Um manju-marionete bunraku: pergaminho de história e máscara, tecendo a narrativa do jogo.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a bunraku-puppet manju, holding a tiny story scroll and a theater mask, storytelling pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r084",
+    "sheet_id": "s073",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Pixel Takoyaki",
+    "character_desc": "Um takoyaki pixelado: controle retrô e coraçãozinho, programando o jogo em si.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a 8-bit takoyaki, holding a retro game controller and a heart icon, gaming builder pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r085",
+    "sheet_id": "s073",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Brilho Mizuame",
+    "character_desc": "Um mizuame reluzente: raios de luz num prisma, programando shaders e gráficos brilhantes.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a glowing mizuame candy, radiating shader light-rays through a prism, luminous rendering pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r086",
+    "sheet_id": "s073",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Chip Senbei",
+    "character_desc": "Um senbei com trilhas de circuito: microchip e ferro de solda, programando sistemas embarcados.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a circuit-board senbei, holding a tiny microchip and a soldering iron, precise embedded pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r087",
+    "sheet_id": "s073",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Núcleo Mochi",
+    "character_desc": "Um mochi-núcleo: abraça um chip de ROM brilhante, escrevendo o firmware que fala com o hardware.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a core-firmware mochi, cradling a glowing low-level ROM chip, foundational precise pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r088",
+    "sheet_id": "s073",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Rede Renkon-2",
+    "character_desc": "Uma renkon sensorial: continhas de sinal wifi ligam sensores, conectando dispositivos IoT.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a sensor-dotted renkon, surrounded by tiny wifi-signal beads linking sensors, connected pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r089",
+    "sheet_id": "s073",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Corrente Maki",
+    "character_desc": "Um maki em elos: segura uma corrente de blocos-livro-razão, construindo em blockchain.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a chain-link maki roll, holding a chain of linked ledger blocks, decentralized pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r090",
+    "sheet_id": "s073",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Lupa Konpeito",
+    "character_desc": "Um konpeitô auditor: lupa sobre um pergaminho-contrato brilhante, revisando contratos inteligentes.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a audit-star konpeito, inspecting a glowing contract scroll with a magnifier, scrutinizing pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r091",
+    "sheet_id": "s073",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Visor Tamago",
+    "character_desc": "Um tamago de visor: usa um óculos de realidade virtual que projeta camadas flutuantes.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a visor-wearing tamago, wearing a small VR headset framing a floating layer, immersive pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r092",
+    "sheet_id": "s073",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Autômato Tako",
+    "character_desc": "Um takoyaki-polvo robótico: braços mecânicos com ferramentas, programando robôs.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a robotic octopus takoyaki, mechanical tentacle arms gripping tools and gears, robotic pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r093",
+    "sheet_id": "s073",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Broto Kaiware",
+    "character_desc": "Um broto de kaiware: seta de crescimento e funil, cultivando o crescimento do produto.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a sprouting kaiware radish, holding a rising growth-arrow sprout and a funnel, upward energetic pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r094",
+    "sheet_id": "s073",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Farol Toro-Nagashi",
+    "character_desc": "Uma lanterninha flutuante toro-nagashi: escada de ranking e ímã, atraindo tráfego com SEO.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a lantern-float toro nagashi, holding a ranking-ladder and a magnet drawing arrows, discoverable pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r095",
+    "sheet_id": "s073",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Megafone Manju",
+    "character_desc": "Um manju-megafone: funil e bandeirinhas de campanha, ligando marketing e tecnologia.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a megaphone manju, holding a funnel and small campaign flags, marketing-tech pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r096",
+    "sheet_id": "s073",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Ponte Bento",
+    "character_desc": "Uma bandeja-ponte bento: token de aperto de mãos ligando produto e cliente, o engenheiro de soluções.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a bridge-tray bento, holding a handshake token bridging a plate and a client cup, connecting pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r097",
+    "sheet_id": "s073",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Socorro Ocha",
+    "character_desc": "Uma xícara de chá quentinha (ocha): headset e boia salva-vidas, dando suporte com carinho.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a warm ocha teacup, holding a headset and a helpful lifebuoy, friendly assisting pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r098",
+    "sheet_id": "s073",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Vitrine Sampuru",
+    "character_desc": "Um sampuru (réplica de comida de vitrine): mostra um prato reluzente, convencendo como engenheiro de vendas.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a sampuru food-model display, presenting a shiny showcase plate with a price tag ribbon, persuasive pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r099",
+    "sheet_id": "s073",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Caixa Zeni",
+    "character_desc": "Um manju-porta-moedas gama-guchi: ábaco e pilhas de moedas, controlando os custos de nuvem (FinOps).",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a coin-purse gama-guchi manju, holding a tiny abacus and coin stacks, thrifty analyzing pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s073-r100",
+    "sheet_id": "s073",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Juíza Ougi",
+    "character_desc": "Um manju-leque ougi: martelinho de juiz e pergaminho de cláusulas, cuidando do jurídico.",
+    "nano_prompt": "Glossy anime food art illustration, kawaii chibi anthropomorphic Japanese food character with tiny arms and legs and a cute expressive face, vivid cel shading, glistening food highlights, soft rim light and dreamy anime glow, a folding-fan ougi manju, holding a tiny gavel and a scroll of clauses, poised judicial pose, full-body chibi framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

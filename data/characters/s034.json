@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s034-r001",
+    "sheet_id": "s034",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Dra. Blueprint",
+    "character_desc": "Dra. Blueprint é um cientista-chefe que projeta o experimento inteiro na estética risograph de duas tintas; segura uma planta molecular gigante e um compasso.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, holding a giant molecular blueprint scroll and a brass compass, confident planner pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r002",
+    "sheet_id": "s034",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Prof. Bancada",
+    "character_desc": "Prof. Bancada é um cientista sênior que conduz a equipe de laboratório na estética risograph de duas tintas; aponta para um quadro de reações enquanto orienta assistentes.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, pointing at a floating reaction diagram, mentoring gesture, clipboard tucked under arm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r003",
+    "sheet_id": "s034",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Dr. Fundamento",
+    "character_desc": "Dr. Fundamento é um cientista-veterano que resolve os problemas mais profundos na estética risograph de duas tintas; empunha uma lupa colossal sobre uma amostra complexa.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, wielding a colossal magnifying glass over a complex crystalline sample, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r004",
+    "sheet_id": "s034",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Dra. Axioma",
+    "character_desc": "Dra. Axioma é um cientista-eminência que define os princípios do campo na estética risograph de duas tintas; segura um cristal-chave luminoso sobre um pedestal.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, holding up a glowing key-crystal on a small pedestal, authoritative posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r005",
+    "sheet_id": "s034",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Dra. Cultura",
+    "character_desc": "Dra. Cultura é um gestora do laboratório que cuida da equipe e do fluxo na estética risograph de duas tintas; carrega uma prancheta de turnos e uma cafeteira de vidro.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, carrying a shift clipboard and a glass coffee percolator, caring supervisor pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r006",
+    "sheet_id": "s034",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Dra. Hipótese",
+    "character_desc": "Dra. Hipótese é um cientista que decide qual experimento vale a pena na estética risograph de duas tintas; equilibra uma balança com frascos de prioridade.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, balancing a scale weighing two priority flasks, decisive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r007",
+    "sheet_id": "s034",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Dr. Amostra",
+    "character_desc": "Dr. Amostra é um dono do lote experimental que prioriza os testes na estética risograph de duas tintas; segura uma bandeja de tubos etiquetados por cor.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, holding a tray of color-coded sample tubes, prioritizing gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r008",
+    "sheet_id": "s034",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Dra. Coorte",
+    "character_desc": "Dra. Coorte é um cientista que coordena vários experimentos paralelos na estética risograph de duas tintas; gerencia um painel de ampulhetas sincronizadas.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, managing a rack of synchronized hourglasses, coordinating both hands, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r009",
+    "sheet_id": "s034",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Dr. Cronograma",
+    "character_desc": "Dr. Cronograma é um cientista que mantém o experimento no prazo na estética risograph de duas tintas; segura um cronômetro grande e um diagrama de etapas.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, holding a large stopwatch and a step-by-step flow chart card, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r010",
+    "sheet_id": "s034",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Dra. Ritmo",
+    "character_desc": "Dra. Ritmo é um facilitadora que remove obstáculos do experimento na estética risograph de duas tintas; toca um pequeno sino e segura um cartão de rituais.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, ringing a small bell and holding a ritual checklist card, upbeat stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r011",
+    "sheet_id": "s034",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Dr. Reator",
+    "character_desc": "Dr. Reator é um cientista que constrói o motor químico por trás de tudo na estética risograph de duas tintas; opera um reator borbulhante conectado a mangueiras.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, operating a bubbling core reactor flask connected to coiled tubing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r012",
+    "sheet_id": "s034",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Dra. Válvula",
+    "character_desc": "Dra. Válvula é um cientista que projeta as conexões entre aparelhos na estética risograph de duas tintas; conecta bocais e adaptadores de vidro rotulados.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, connecting labeled glass valve adapters and nozzles between beakers, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r013",
+    "sheet_id": "s034",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Dr. Módulo",
+    "character_desc": "Dr. Módulo é um cientista que divide o experimento em mini-reatores na estética risograph de duas tintas; segura uma bandeja de frascos idênticos e independentes.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, holding a tray of many small identical modular flasks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r014",
+    "sheet_id": "s034",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Dra. Destilaria",
+    "character_desc": "Dra. Destilaria é um cientista que faz a matéria fluir pelos tubos na estética risograph de duas tintas; acompanha um alambique com fluxo contínuo de gotas.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, tending a distillation still with a continuous stream of droplets, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r015",
+    "sheet_id": "s034",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Dra. Fluxo",
+    "character_desc": "Dra. Fluxo é um cientista que canaliza rios de dados-líquido na estética risograph de duas tintas; direciona funis e canos que despejam em grandes garrafões.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, directing funnels and pipes pouring liquid into large carboys, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r016",
+    "sheet_id": "s034",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Dr. Estufa",
+    "character_desc": "Dr. Estufa é um guardião do arquivo de amostras refrigeradas na estética risograph de duas tintas; abre um armário-geladeira cheio de frascos catalogados.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, opening a refrigerated cabinet full of catalogued specimen jars, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r017",
+    "sheet_id": "s034",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Dra. Consulta",
+    "character_desc": "Dra. Consulta é um cientista que busca a amostra exata no acervo na estética risograph de duas tintas; usa pinças longas para pescar um frasco específico.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, using long tweezers to pick one specific jar from a shelf grid, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r018",
+    "sheet_id": "s034",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Dr. Térmica",
+    "character_desc": "Dr. Térmica é um cientista que guarda reações prontas para uso rápido na estética risograph de duas tintas; mantém uma garrafa térmica pronta ao lado da bancada.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, keeping a ready thermos flask warm beside the bench, quick-access pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r019",
+    "sheet_id": "s034",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Dra. Esteira",
+    "character_desc": "Dra. Esteira é um cientista que enfileira frascos numa linha ordenada na estética risograph de duas tintas; empurra frascos numa esteira com fila de espera.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, queuing flasks along a small conveyor belt in orderly line, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r020",
+    "sheet_id": "s034",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Dr. Índice",
+    "character_desc": "Dr. Índice é um cientista que encontra qualquer composto num piscar na estética risograph de duas tintas; segura um fichário giratório e uma lupa de busca.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, spinning a rotary card index and holding a search magnifier, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r021",
+    "sheet_id": "s034",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Dra. Vitrine",
+    "character_desc": "Dra. Vitrine é um cientista que monta a face visível do experimento na estética risograph de duas tintas; ajusta uma redoma de vidro com display exposto.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, adjusting a glass display dome showing a neat exhibit inside, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r022",
+    "sheet_id": "s034",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Dr. Painel",
+    "character_desc": "Dr. Painel é um cientista que constrói os controles que se veem na estética risograph de duas tintas; opera um painel de botões e mostradores brilhantes.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, operating a panel of glowing dials and buttons, presenting gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r023",
+    "sheet_id": "s034",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Dra. Percurso",
+    "character_desc": "Dra. Percurso é um cientista que estuda como as pessoas usam o aparato na estética risograph de duas tintas; segura um mapa de fluxo com pegadas desenhadas.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, holding a user-journey map card marked with footprints and arrows, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r024",
+    "sheet_id": "s034",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Dra. Kit",
+    "character_desc": "Dra. Kit é um cientista que padroniza os componentes reutilizáveis na estética risograph de duas tintas; organiza uma caixa modular de peças de vidro iguais.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, organizing a modular kit box of standardized glass components, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r025",
+    "sheet_id": "s034",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Dr. Acesso",
+    "character_desc": "Dr. Acesso é um cientista que garante que todos possam usar o aparato na estética risograph de duas tintas; adapta alças e rampas em bengala de laboratório.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, adding grip handles and a ramp adapter, holding a tactile-labeled flask, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r026",
+    "sheet_id": "s034",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Dra. Turbina",
+    "character_desc": "Dra. Turbina é um cientista que faz o experimento correr mais rápido na estética risograph de duas tintas; segura um cronômetro ao lado de um frasco em disparada.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, holding a stopwatch beside a speeding reaction flask leaving motion streaks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r027",
+    "sheet_id": "s034",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Dra. Camada",
+    "character_desc": "Dra. Camada é um cientista que estiliza a aparência de cada frasco na estética risograph de duas tintas; pinta gradientes e rótulos elegantes num béquer.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, painting elegant gradients and trim onto a beaker with a fine brush, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r028",
+    "sheet_id": "s034",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Dr. Trajeto",
+    "character_desc": "Dr. Trajeto é um cientista que dá movimento fluido às reações na estética risograph de duas tintas; acompanha bolhas subindo em espiral num tubo curvo.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, watching bubbles rise in a graceful spiral through a curved tube, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r029",
+    "sheet_id": "s034",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Dra. Portátil",
+    "character_desc": "Dra. Portátil é um cientista do laboratório de bolso na estética risograph de duas tintas; segura um kit de experimentos compacto de mão.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, holding a compact pocket-sized experiment kit in both hands, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r030",
+    "sheet_id": "s034",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Dr. Maçã-Vidro",
+    "character_desc": "Dr. Maçã-Vidro é um cientista de um laboratório elegante e fechado na estética risograph de duas tintas; manuseia um aparato minimalista e polido de vidro.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, handling a sleek minimalist polished glass apparatus, refined pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r031",
+    "sheet_id": "s034",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Dra. Robótica",
+    "character_desc": "Dra. Robótica é um cientista do laboratório verde e aberto na estética risograph de duas tintas; ajusta um braço mecânico segurando uma pipeta.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, adjusting a small green robotic arm holding a pipette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r032",
+    "sheet_id": "s034",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Dr. Ponte",
+    "character_desc": "Dr. Ponte é um cientista que faz um só kit servir a dois laboratórios na estética risograph de duas tintas; segura um aparato duplo espelhado que funciona nos dois.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, holding a mirrored dual-adapter apparatus that fits two rigs at once, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r033",
+    "sheet_id": "s034",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Dra. Alado",
+    "character_desc": "Dra. Alado é um cientista cujo kit único voa entre bancadas na estética risograph de duas tintas; carrega uma maleta-laboratório com asinhas azuis.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, carrying a briefcase-lab with little blue wings, versatile stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r034",
+    "sheet_id": "s034",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Dra. Padrão",
+    "character_desc": "Dra. Padrão é um cientista que lê os segredos escondidos nos números na estética risograph de duas tintas; estuda um gráfico de dispersão flutuante com lupa.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, studying a floating scatter-plot chart through a magnifier, curious, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r035",
+    "sheet_id": "s034",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Dr. Autômato",
+    "character_desc": "Dr. Autômato é um cientista que ensina a máquina a prever reações na estética risograph de duas tintas; alimenta um cérebro-máquina com frascos rotulados.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, feeding labeled flasks into a mechanical learning brain device, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r036",
+    "sheet_id": "s034",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Dra. Manutenção",
+    "character_desc": "Dra. Manutenção é um cientista que mantém a máquina-preditora rodando na estética risograph de duas tintas; engraxa engrenagens do cérebro-máquina com óleo.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, oiling the gears of the learning-brain machine with an oil can, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r037",
+    "sheet_id": "s034",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Dr. Fronteira",
+    "character_desc": "Dr. Fronteira é um cientista que explora reações nunca antes vistas na estética risograph de duas tintas; anota num caderno enquanto observa um fenômeno raro.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, scribbling in a notebook while observing a strange glowing phenomenon, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r038",
+    "sheet_id": "s034",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Dra. Fórmula",
+    "character_desc": "Dra. Fórmula é um cientista que sussurra a receita certa ao aparato na estética risograph de duas tintas; segura um cartão de instruções e uma varinha-pipeta.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, holding an incantation-recipe card and a wand-like pipette, whispering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r039",
+    "sheet_id": "s034",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Dr. Linguagem",
+    "character_desc": "Dr. Linguagem é um cientista que decifra a fala das amostras na estética risograph de duas tintas; traduz símbolos borbulhantes num diário decodificador.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, translating bubbling symbols into a decoder diary, interpreting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r040",
+    "sheet_id": "s034",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Dra. Retina",
+    "character_desc": "Dra. Retina é um cientista que ensina o aparato a enxergar na estética risograph de duas tintas; aponta uma lente-olho para uma amostra visual.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, aiming an eye-lens scanner at a visual sample, observing intently, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r041",
+    "sheet_id": "s034",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Dr. Tabela",
+    "character_desc": "Dr. Tabela é um cientista que resume o que os números dizem na estética risograph de duas tintas; aponta para um gráfico de barras impresso na mão.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, pointing at a hand-held printed bar-chart card, explaining, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r042",
+    "sheet_id": "s034",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Dra. Vitral",
+    "character_desc": "Dra. Vitral é um cientista que transforma dados em painéis brilhantes na estética risograph de duas tintas; segura um mosaico de mini-gráficos iluminados.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, holding a stained-glass mosaic of glowing mini-charts, presenting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r043",
+    "sheet_id": "s034",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Dr. Refino",
+    "character_desc": "Dr. Refino é um cientista que limpa e prepara os números crus na estética risograph de duas tintas; filtra líquido turvo num funil até ficar cristalino.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, filtering cloudy liquid through a funnel until it runs crystal clear, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r044",
+    "sheet_id": "s034",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Dra. Aquarela",
+    "character_desc": "Dra. Aquarela é um cientista que pinta os dados para todos entenderem na estética risograph de duas tintas; desenha um gráfico colorido num cavalete de vidro.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, painting a colorful chart onto a glass easel with a brush, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r045",
+    "sheet_id": "s034",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Dr. Engrenagem",
+    "character_desc": "Dr. Engrenagem é um cientista que automatiza toda a montagem do lab na estética risograph de duas tintas; aperta parafusos numa esteira de montagem automática.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, tightening bolts on an automated assembly line with a wrench, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r046",
+    "sheet_id": "s034",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Dra. Plantão",
+    "character_desc": "Dra. Plantão é um cientista que garante o lab nunca desligar na estética risograph de duas tintas; monitora mostradores de estabilidade com fone e prancheta.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, monitoring stability gauges with a headset and clipboard, vigilant, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r047",
+    "sheet_id": "s034",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Dr. Alicerce",
+    "character_desc": "Dr. Alicerce é um cientista que constrói a base que todos usam na estética risograph de duas tintas; assenta blocos-módulo padronizados numa bancada-base.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, laying standardized foundation blocks onto a base workbench, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r048",
+    "sheet_id": "s034",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Dra. Nuvem",
+    "character_desc": "Dra. Nuvem é um arquiteta do grande laboratório suspenso na estética risograph de duas tintas; desenha uma planta de laboratório flutuante nas nuvens.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, sketching a floating cloud-lab blueprint, gesturing upward, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r049",
+    "sheet_id": "s034",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Dr. Contêiner",
+    "character_desc": "Dr. Contêiner é um cientista que orquestra frascos em caixas idênticas na estética risograph de duas tintas; empilha e comanda caixotes de amostras em grade.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, stacking and steering a grid of identical shipping crates of flasks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r050",
+    "sheet_id": "s034",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Dra. Cabo",
+    "character_desc": "Dra. Cabo é um cientista que liga todos os aparatos entre si na estética risograph de duas tintas; conecta um emaranhado de tubos e fios entre bancadas.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, connecting a tidy bundle of tubes and cables between stations, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r051",
+    "sheet_id": "s034",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Dr. Zelador",
+    "character_desc": "Dr. Zelador é um cientista que mantém todo o lab funcionando na estética risograph de duas tintas; carrega um molho de chaves e um kit de manutenção.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, carrying a ring of keys and a maintenance toolkit, dependable pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r052",
+    "sheet_id": "s034",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Dra. Selo",
+    "character_desc": "Dra. Selo é um cientista que libera cada nova versão do composto na estética risograph de duas tintas; aplica um lacre de cera num frasco aprovado.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, pressing a wax seal onto an approved release flask, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r053",
+    "sheet_id": "s034",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Dr. Forja",
+    "character_desc": "Dr. Forja é um cientista que compila os ingredientes num só produto na estética risograph de duas tintas; despeja vários frascos num molde e forma um lingote.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, pouring several flasks into a mold to cast one finished ingot, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r054",
+    "sheet_id": "s034",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Dra. Correia",
+    "character_desc": "Dra. Correia é um cientista que emenda montagem e entrega numa linha só na estética risograph de duas tintas; opera uma esteira que vai da mistura ao frasco pronto.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, operating a conveyor running from mixing to a finished bottle, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r055",
+    "sheet_id": "s034",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Dr. Cadeado",
+    "character_desc": "Dr. Cadeado é um cientista que protege o laboratório de intrusos na estética risograph de duas tintas; instala um cadeado gigante numa redoma de amostra.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, fastening a giant padlock onto a specimen dome, guarding stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r056",
+    "sheet_id": "s034",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Dra. Brecha",
+    "character_desc": "Dra. Brecha é um cientista que tenta invadir o próprio lab para testá-lo na estética risograph de duas tintas; usa gazua e lanterna sobre uma fechadura de vidro.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, using a lockpick and flashlight on a glass lock, sneaky grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r057",
+    "sheet_id": "s034",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Dr. Blindagem",
+    "character_desc": "Dr. Blindagem é um cientista que reforça os aparatos contra falhas na estética risograph de duas tintas; aplica placas de escudo em torno de um reator.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, bolting shield plates around a reactor flask, protective gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r058",
+    "sheet_id": "s034",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Dra. Cifra",
+    "character_desc": "Dra. Cifra é um cientista que embaralha as fórmulas em código na estética risograph de duas tintas; escreve símbolos secretos num pergaminho lacrado.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, writing secret cipher symbols onto a sealed scroll, mysterious, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r059",
+    "sheet_id": "s034",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Dr. Regulamento",
+    "character_desc": "Dr. Regulamento é um cientista que confere se tudo segue as normas na estética risograph de duas tintas; carimba um formulário ao lado de um livro de regras.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, stamping a compliance form beside a thick rulebook, checking, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r060",
+    "sheet_id": "s034",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Dra. Cortina",
+    "character_desc": "Dra. Cortina é um cientista que oculta os dados sensíveis das amostras na estética risograph de duas tintas; cobre frascos com um pano e tarja de privacidade.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, draping a privacy cloth and redaction bars over sensitive vials, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r061",
+    "sheet_id": "s034",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Dr. Extintor",
+    "character_desc": "Dr. Extintor é um cientista que corre para apagar reações fora de controle na estética risograph de duas tintas; aponta um extintor a um frasco em chamas azuis.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, aiming a fire extinguisher at a flask erupting in blue flames, urgent, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r062",
+    "sheet_id": "s034",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Dra. Presságio",
+    "character_desc": "Dra. Presságio é um cientista que imagina tudo que pode dar errado na estética risograph de duas tintas; aponta para um quadro de árvore de ameaças.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, pointing at a threat-tree diagram board, cautious contemplative pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r063",
+    "sheet_id": "s034",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Dr. Controle",
+    "character_desc": "Dr. Controle é um cientista que testa se cada reação funciona na estética risograph de duas tintas; confere itens numa lista com um béquer de teste.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, checking off a test checklist while inspecting a beaker, scrutinizing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r064",
+    "sheet_id": "s034",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Dra. Autoteste",
+    "character_desc": "Dra. Autoteste é um cientista que monta robôs que testam sozinhos na estética risograph de duas tintas; aciona um braço robô que repete o mesmo teste.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, triggering a robot arm that repeats an identical test automatically, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r065",
+    "sheet_id": "s034",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Dr. Estresse",
+    "character_desc": "Dr. Estresse é um cientista que força o aparato ao limite na estética risograph de duas tintas; empilha pesos sobre um frasco que resiste sob pressão.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, piling heavy weights onto a flask straining under pressure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r066",
+    "sheet_id": "s034",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Dra. Lupa-Fina",
+    "character_desc": "Dra. Lupa-Fina é um cientista que examina cada detalhe à mão na estética risograph de duas tintas; inspeciona um frasco de perto com lupa e caderno.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, inspecting a flask up close with a magnifier and note pad, meticulous, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r067",
+    "sheet_id": "s034",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Dr. Tato",
+    "character_desc": "Dr. Tato é um cientista que testa o acesso de todos ao aparato na estética risograph de duas tintas; verifica alças e etiquetas em braille numa amostra.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, checking grip handles and braille labels on a sample, testing access, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r068",
+    "sheet_id": "s034",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Dra. Manual",
+    "character_desc": "Dra. Manual é um cientista que escreve o guia de cada experimento na estética risograph de duas tintas; redige num grande manual encadernado com pena.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, writing in a large bound manual with a quill, documenting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r069",
+    "sheet_id": "s034",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Dr. Palco",
+    "character_desc": "Dr. Palco é um cientista que demonstra o aparato para a plateia na estética risograph de duas tintas; apresenta uma reação num pequeno palco com megafone.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, presenting a demo reaction on a small stage with a megaphone, upbeat, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r070",
+    "sheet_id": "s034",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Dra. Roteiro",
+    "character_desc": "Dra. Roteiro é um cientista que planeja a narrativa dos experimentos na estética risograph de duas tintas; organiza cartões de história num quadro de sequência.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, arranging story cards on a storyboard rail, planning gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r071",
+    "sheet_id": "s034",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Dr. Babel",
+    "character_desc": "Dr. Babel é um cientista que traduz o aparato para vários idiomas na estética risograph de duas tintas; troca rótulos de bandeiras diferentes num mesmo frasco.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, swapping multi-flag language labels on a single flask, translating, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r072",
+    "sheet_id": "s034",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Dra. Protótipo",
+    "character_desc": "Dra. Protótipo é um cientista que desenha e testa o aparato ideal na estética risograph de duas tintas; esboça e monta um modelo de vidro num caderno-oficina.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, sketching and shaping a glass prototype at a workshop pad, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r073",
+    "sheet_id": "s034",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Dr. Paleta",
+    "character_desc": "Dr. Paleta é um cientista que escolhe as cores e a beleza do aparato na estética risograph de duas tintas; segura uma paleta de tintas e um frasco recém-pintado.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, holding a paint palette and a freshly styled beaker, artistic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r074",
+    "sheet_id": "s034",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Dra. Gatilho",
+    "character_desc": "Dra. Gatilho é um cientista que desenha como o aparato reage ao toque na estética risograph de duas tintas; pressiona um botão que dispara uma reação encadeada.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, pressing a button that triggers a chained reaction, interactive gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r075",
+    "sheet_id": "s034",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Dr. Cinético",
+    "character_desc": "Dr. Cinético é um cientista que dá vida ao movimento das reações na estética risograph de duas tintas; acompanha um pêndulo e engrenagens em pleno movimento.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, watching a pendulum and gears in lively motion, dynamic stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r076",
+    "sheet_id": "s034",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Dra. Nanquim",
+    "character_desc": "Dra. Nanquim é um cientista que ilustra as amostras à mão na estética risograph de duas tintas; desenha uma criatura microscópica numa prancha.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, drawing a microscopic creature on an illustration board with ink pen, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r077",
+    "sheet_id": "s034",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Dr. Molde",
+    "character_desc": "Dr. Molde é um cientista que produz peças visuais em série na estética risograph de duas tintas; estampa figuras idênticas com um carimbo de bandeja.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, stamping identical visual assets with a tray stamp, producing set, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r078",
+    "sheet_id": "s034",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Dra. Marca",
+    "character_desc": "Dra. Marca é um cientista que dá identidade única ao laboratório na estética risograph de duas tintas; aplica um brasão-emblema numa redoma de vidro.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, applying an emblem crest onto a glass dome, branding gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r079",
+    "sheet_id": "s034",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Dr. Diapasão",
+    "character_desc": "Dr. Diapasão é um cientista que sintoniza os sons do experimento na estética risograph de duas tintas; segura um diapasão perto de um frasco ressonante.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, holding a tuning fork near a resonating flask, listening pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r080",
+    "sheet_id": "s034",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Dra. Escultura",
+    "character_desc": "Dra. Escultura é um cientista que constrói modelos tridimensionais na estética risograph de duas tintas; modela uma molécula 3D em argila sobre um torno.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, sculpting a 3D molecule model in clay on a turntable, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r081",
+    "sheet_id": "s034",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Dr. Regra-Jogo",
+    "character_desc": "Dr. Regra-Jogo é um cientista que inventa as regras do experimento-jogo na estética risograph de duas tintas; segura um tabuleiro com dados e peças de reação.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, holding a game board with dice and reaction tokens, inventive, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r082",
+    "sheet_id": "s034",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Dra. Labirinto",
+    "character_desc": "Dra. Labirinto é um cientista que projeta o percurso do experimento na estética risograph de duas tintas; monta um labirinto de tubos com pontos de checkpoint.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, assembling a maze of tubes with little checkpoint flags, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r083",
+    "sheet_id": "s034",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Dr. Enredo",
+    "character_desc": "Dr. Enredo é um cientista que costura a história do experimento na estética risograph de duas tintas; conecta frascos numa linha do tempo com fios coloridos.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, linking flasks along a timeline with colored threads, storytelling, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r084",
+    "sheet_id": "s034",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Dra. Arcade",
+    "character_desc": "Dra. Arcade é um cientista que constrói o aparato-jogo completo na estética risograph de duas tintas; opera uma máquina de vidro com joystick e reações.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, operating a glass arcade machine with joystick and reactions, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r085",
+    "sheet_id": "s034",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Dr. Prisma",
+    "character_desc": "Dr. Prisma é um cientista que dá brilho e luz às imagens na estética risograph de duas tintas; refrata um feixe de luz num prisma sobre a bancada.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, refracting a light beam through a prism on the bench, radiant, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r086",
+    "sheet_id": "s034",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Dra. Circuito",
+    "character_desc": "Dra. Circuito é um cientista que trabalha em aparatos minúsculos na estética risograph de duas tintas; solda um chip minúsculo com ferro e lupa.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, soldering a tiny circuit chip with an iron and loupe, precise, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r087",
+    "sheet_id": "s034",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Dr. Semente",
+    "character_desc": "Dr. Semente é um cientista que grava a alma dos pequenos aparatos na estética risograph de duas tintas; insere um chip-semente num dispositivo compacto.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, inserting a seed-chip into a compact device with tweezers, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r088",
+    "sheet_id": "s034",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Dra. Enxame",
+    "character_desc": "Dra. Enxame é um cientista que conecta muitos sensorezinhos na estética risograph de duas tintas; espalha sensores ligados por fios finos numa maquete.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, spreading tiny sensors linked by thin wires across a diorama, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r089",
+    "sheet_id": "s034",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Dr. Corrente",
+    "character_desc": "Dr. Corrente é um cientista que forja elos num livro-razão de vidro na estética risograph de duas tintas; encadeia blocos de vidro trancados por elos.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, chaining locked glass blocks into a ledger, forging links, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r090",
+    "sheet_id": "s034",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Dra. Auditoria-Elo",
+    "character_desc": "Dra. Auditoria-Elo é um cientista que inspeciona cada elo da corrente na estética risograph de duas tintas; examina um bloco da corrente com lupa e selo.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, examining a chain block with magnifier and inspection seal, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r091",
+    "sheet_id": "s034",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Dr. Miragem",
+    "character_desc": "Dr. Miragem é um cientista que sobrepõe o virtual ao real na estética risograph de duas tintas; usa óculos-visor que projetam hologramas de frascos.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, wearing a visor projecting holographic flasks in the air, immersive, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r092",
+    "sheet_id": "s034",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Dra. Autômata",
+    "character_desc": "Dra. Autômata é um cientista que constrói assistentes mecânicos na estética risograph de duas tintas; ajusta um pequeno robô ajudante de laboratório.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, adjusting a small mechanical lab-helper robot with a screwdriver, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r093",
+    "sheet_id": "s034",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Dr. Fermento",
+    "character_desc": "Dr. Fermento é um cientista que faz o experimento crescer e se espalhar na estética risograph de duas tintas; observa colônias se multiplicando numa placa em curva.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, watching colonies multiply on a petri dish, growth-curve pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r094",
+    "sheet_id": "s034",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Dra. Bússola",
+    "character_desc": "Dra. Bússola é um cientista que faz o aparato ser encontrado por todos na estética risograph de duas tintas; segura uma bússola-ímã que atrai holofotes ao frasco.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, holding a compass-magnet drawing spotlights toward a flask, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r095",
+    "sheet_id": "s034",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Dr. Alavanca",
+    "character_desc": "Dr. Alavanca é um cientista que amplifica o alcance do experimento na estética risograph de duas tintas; aciona uma alavanca que dispara um megafone de fumaça.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, pulling a lever that fires a signal-smoke megaphone, promoting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r096",
+    "sheet_id": "s034",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Dra. Encaixe",
+    "character_desc": "Dra. Encaixe é um cientista que adapta o aparato à necessidade de cada um na estética risograph de duas tintas; monta um adaptador sob medida entre dois aparatos.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, fitting a custom adapter bridging two clients' rigs, helpful, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r097",
+    "sheet_id": "s034",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Dr. Socorro",
+    "character_desc": "Dr. Socorro é um cientista que resolve o problema de quem usa o aparato na estética risograph de duas tintas; atende um telefone de vidro segurando um kit de reparo.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, answering a glass telephone while holding a repair kit, helpful, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r098",
+    "sheet_id": "s034",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Dra. Vitrine-Venda",
+    "character_desc": "Dra. Vitrine-Venda é um cientista que mostra o melhor do aparato ao cliente na estética risograph de duas tintas; apresenta um frasco reluzente com gesto de oferta.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, presenting a gleaming showcase flask with an offering gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r099",
+    "sheet_id": "s034",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Dr. Balança-Ouro",
+    "character_desc": "Dr. Balança-Ouro é um cientista que controla o custo dos reagentes na estética risograph de duas tintas; pesa reagentes numa balança com moedas de um lado.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, weighing reagents on a scale against gold coins, frugal accounting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s034-r100",
+    "sheet_id": "s034",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Dra. Estatuto",
+    "character_desc": "Dra. Estatuto é um cientista que garante que o experimento é legal na estética risograph de duas tintas; segura uma balança da justiça ao lado de um contrato.",
+    "nano_prompt": "Two-ink risograph print of a single stylized cartoon scientist, waist-up bust portrait, wearing a white lab coat and safety goggles, rendered in fluorescent pink and blue inks only, grainy halftone dot texture with slight ink misregistration and paper grain, flat limited-palette look, holding scales of justice beside a rolled contract, judicious pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

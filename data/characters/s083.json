@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s083-r001",
+    "sheet_id": "s083",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Bloco-Mestre",
+    "character_desc": "Mascote voxel arquiteto que planeja a construção inteira; carrega uma planta enrolada e um capacete azul com esquadro.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, wearing a blue voxel hard hat, holding a rolled voxel blueprint under one arm and a cube-tipped drafting square, confident planning smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r002",
+    "sheet_id": "s083",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Cubo-Líder",
+    "character_desc": "Mascote voxel tech lead que guia o time; segura uma bandeirinha de comando e usa um crachá de destaque.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, raising a small voxel command flag, wearing a leader badge, hand on hip in a guiding pose, encouraging grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r003",
+    "sheet_id": "s083",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Staff-Cubo",
+    "character_desc": "Mascote voxel staff engineer sênior; segura um pergaminho técnico e usa medalha de veterano.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a technical voxel scroll, wearing a veteran medal on the chest, calm authoritative expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r004",
+    "sheet_id": "s083",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Principal-Bloco",
+    "character_desc": "Mascote voxel principal engineer; empunha um cetro de engrenagem e coroa discreta de blocos.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a gear-topped voxel scepter, tiny blocky crown, wise steady gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r005",
+    "sheet_id": "s083",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Gestor-Cubinho",
+    "character_desc": "Mascote voxel engineering manager; carrega um quadro kanban de blocos e um apito de coordenação.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a small voxel kanban board with sticky cubes, a coordination whistle around the neck, warm managing smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r006",
+    "sheet_id": "s083",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Produto-Bloco",
+    "character_desc": "Mascote voxel product manager; segura um mapa de rota com pinos e uma lupa de prioridade.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel roadmap board with pin cubes and a magnifying glass, thoughtful prioritizing look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r007",
+    "sheet_id": "s083",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Dono-Cubo",
+    "character_desc": "Mascote voxel product owner; abraça um backlog de blocos empilhados e aponta a prioridade.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, hugging a stack of labeled backlog cubes, pointing at the top cube, decisive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r008",
+    "sheet_id": "s083",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Programa-Bloco",
+    "character_desc": "Mascote voxel program manager; equilibra vários fios de projeto e usa cronograma de blocos.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, juggling several connected voxel project threads, a block Gantt chart tucked under arm, organized smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r009",
+    "sheet_id": "s083",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Projeto-Cubo",
+    "character_desc": "Mascote voxel project manager; segura prancheta de blocos e ampulheta de prazo.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel clipboard and a blocky hourglass, checking-off gesture, focused smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r010",
+    "sheet_id": "s083",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Scrum-Bloquinho",
+    "character_desc": "Mascote voxel scrum master; carrega quadro de sprint e bastão facilitador em espiral.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel sprint board and a spiral facilitation baton, friendly servant-leader smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r011",
+    "sheet_id": "s083",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Servidor-Cubo",
+    "character_desc": "Mascote voxel backend dev; carrega um bloco-servidor com luzinhas e uma chave de API.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, carrying a glowing voxel server block on the back, holding a cube API key, focused builder look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r012",
+    "sheet_id": "s083",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "API-Bloco",
+    "character_desc": "Mascote voxel API designer; segura conectores encaixáveis de blocos como plugues.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding two interlocking voxel connector blocks like plugs, arranging endpoints, tidy designer smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r013",
+    "sheet_id": "s083",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Micro-Cubinhos",
+    "character_desc": "Mascote voxel microservices; cercado por vários mini-blocos-serviço orbitando.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, surrounded by several tiny orbiting voxel service cubes linked by lines, coordinating gesture, busy grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r014",
+    "sheet_id": "s083",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Pipeline-Bloco",
+    "character_desc": "Mascote voxel pipeline dev; opera uma esteira de blocos que transporta dados-cubo.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, operating a voxel conveyor belt carrying data cubes, hand on lever, diligent expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r015",
+    "sheet_id": "s083",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Dado-Mineiro",
+    "character_desc": "Mascote voxel data engineer; empunha picareta e carrega minério-cubo de dados brilhante.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, wielding a voxel pickaxe, a glowing data-ore cube in the other hand, miner's determined look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r016",
+    "sheet_id": "s083",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "DBA-Bloco",
+    "character_desc": "Mascote voxel DBA; guarda um baú-banco de dados com cilindros empilhados e chave-mestra.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, standing beside a voxel database chest of stacked cylinder blocks, holding a master key, watchful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r017",
+    "sheet_id": "s083",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "SQL-Cubo",
+    "character_desc": "Mascote voxel SQL specialist; segura um funil de consulta que filtra blocos-linha.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel query funnel filtering row cubes, precise selecting gesture, sharp focused eyes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r018",
+    "sheet_id": "s083",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Cache-Bloquinho",
+    "character_desc": "Mascote voxel caching engineer; carrega gavetas rápidas de blocos com raio de velocidade.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel fast-access drawer of cubes with lightning marks, quick ready pose, speedy grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r019",
+    "sheet_id": "s083",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Fila-Cubo",
+    "character_desc": "Mascote voxel message queue; enfileira blocos-mensagem numa esteira ordenada.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, lining up voxel message cubes on an ordered rail, handing one forward, orderly calm expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r020",
+    "sheet_id": "s083",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Busca-Bloco",
+    "character_desc": "Mascote voxel search engineer; segura lupa gigante que indexa blocos etiquetados.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a big voxel magnifying glass over indexed tagged cubes, searching pose, curious smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r021",
+    "sheet_id": "s083",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Tela-Cubo",
+    "character_desc": "Mascote voxel frontend dev; carrega uma janela-bloco com botões pixelados.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel window frame with pixel buttons and cursor, arranging layout, cheerful builder smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r022",
+    "sheet_id": "s083",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "UI-Bloquinho",
+    "character_desc": "Mascote voxel UI engineer; encaixa componentes-bloco de botões e sliders.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, assembling voxel UI component blocks (buttons, sliders) on a panel, tidy composing gesture, focused smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r023",
+    "sheet_id": "s083",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "UX-Cubo",
+    "character_desc": "Mascote voxel UX designer; segura mapa de jornada com setas e post-its de bloco.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel journey map with arrow paths and sticky-note cubes, empathetic thoughtful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r024",
+    "sheet_id": "s083",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Sistema-Bloco",
+    "character_desc": "Mascote voxel design systems; organiza uma paleta de blocos-componente padronizados.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, arranging a standardized palette of voxel component blocks in a grid, systematic proud smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r025",
+    "sheet_id": "s083",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Acesso-Cubinho",
+    "character_desc": "Mascote voxel accessibility specialist; segura símbolo universal de acesso e bengala-bloco.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel universal-access symbol block and a guide cane, inclusive warm smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r026",
+    "sheet_id": "s083",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Veloz-Bloco",
+    "character_desc": "Mascote voxel web perf engineer; carrega cronômetro-bloco e blocos leves com asas.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel stopwatch, lightweight cubes with tiny wings floating nearby, speedy determined look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r027",
+    "sheet_id": "s083",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "CSS-Cubo",
+    "character_desc": "Mascote voxel CSS specialist; empunha pincel-bloco e paleta de estilos pixelados.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel style brush and a pixel color palette, styling a block, artsy playful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r028",
+    "sheet_id": "s083",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Anima-Bloquinho",
+    "character_desc": "Mascote voxel animation engineer; segura tira de quadros-bloco em sequência de movimento.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel filmstrip of frame cubes showing a bouncing motion, lively animated grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r029",
+    "sheet_id": "s083",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Móvel-Cubo",
+    "character_desc": "Mascote voxel mobile dev; carrega um celular-bloco pixelado nas mãos.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a chunky voxel smartphone block with a pixel app screen, tapping gesture, cheerful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r030",
+    "sheet_id": "s083",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "iOS-Bloco",
+    "character_desc": "Mascote voxel iOS dev; segura um celular-bloco com maçã-cubo mordida.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel phone block with a bitten apple cube emblem, sleek confident smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r031",
+    "sheet_id": "s083",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Andro-Cubinho",
+    "character_desc": "Mascote voxel Android dev; abraça um robozinho-bloco verde de antenas.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, hugging a small green voxel robot mascot with antennae, friendly open-source grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r032",
+    "sheet_id": "s083",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Ponte-Bloco",
+    "character_desc": "Mascote voxel React Native dev; segura dois celulares-bloco ligados por uma ponte-átomo.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding two voxel phone blocks bridged by a spinning atom cube, bridging pose, versatile smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r033",
+    "sheet_id": "s083",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Flutter-Cubo",
+    "character_desc": "Mascote voxel Flutter dev; segura celular-bloco com asa-borboleta pixelada.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel phone block with a pixel butterfly wing motif, smooth graceful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r034",
+    "sheet_id": "s083",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Ciência-Bloco",
+    "character_desc": "Mascote voxel data scientist; segura frasco-bloco de dados e um gráfico-cubo flutuante.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel data flask and a floating cube chart, curious analytical expression, lab goggles, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r035",
+    "sheet_id": "s083",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "ML-Cubo",
+    "character_desc": "Mascote voxel ML engineer; alimenta uma rede neural de blocos ligados por fios.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, feeding data cubes into a voxel neural network of linked nodes, training gesture, focused smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r036",
+    "sheet_id": "s083",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "MLOps-Bloquinho",
+    "character_desc": "Mascote voxel MLOps; empurra um modelo-bloco por uma esteira com engrenagens de deploy.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, pushing a voxel model cube along a gear-driven deploy rail, operational steady look, wrench in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r037",
+    "sheet_id": "s083",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Pesquisa-Cubo",
+    "character_desc": "Mascote voxel AI researcher; segura pergaminho de fórmulas e lâmpada-bloco de ideia.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel formula scroll and a glowing idea lightbulb cube, inquisitive thoughtful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r038",
+    "sheet_id": "s083",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Prompt-Bloco",
+    "character_desc": "Mascote voxel prompt engineer; segura balão de fala-bloco com cursor mágico.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel speech-bubble block with a magic sparkle cursor, crafting words, clever grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r039",
+    "sheet_id": "s083",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Fala-Cubinho",
+    "character_desc": "Mascote voxel NLP engineer; cercado por blocos-palavra flutuando em ordem.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, surrounded by floating voxel word blocks arranging into a sentence, listening thoughtful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r040",
+    "sheet_id": "s083",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Visão-Bloco",
+    "character_desc": "Mascote voxel computer vision; usa visor-bloco que enquadra objetos com caixas-cubo.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, wearing a voxel visor projecting bounding-box cubes around objects, scanning attentive look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r041",
+    "sheet_id": "s083",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Análise-Cubo",
+    "character_desc": "Mascote voxel data analyst; segura prancheta com gráfico de barras-bloco e lupa.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel clipboard with a bar-chart of cubes and a magnifying glass, insightful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r042",
+    "sheet_id": "s083",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "BI-Bloquinho",
+    "character_desc": "Mascote voxel BI analyst; apresenta um painel-bloco com medidores e gráficos pixelados.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, presenting a voxel dashboard block with gauges and pixel charts, pointing proudly, sharp smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r043",
+    "sheet_id": "s083",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Analytics-Cubo",
+    "character_desc": "Mascote voxel analytics engineer; conecta blocos-fonte a um modelo-cubo limpo.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, connecting voxel source blocks into a clean modeled cube with pipes, organizing gesture, tidy smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r044",
+    "sheet_id": "s083",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Viz-Bloco",
+    "character_desc": "Mascote voxel dataviz specialist; ergue um gráfico-cubo colorido tipo pizza pixelada.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding up a colorful voxel pie-chart cube and a line-graph block, artistic proud smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r045",
+    "sheet_id": "s083",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "DevOps-Cubo",
+    "character_desc": "Mascote voxel DevOps; equilibra fita infinita de blocos e chave inglesa-cubo.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel infinity-loop tape and a wrench cube, cross-functional busy grin, tool belt of cubes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r046",
+    "sheet_id": "s083",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "SRE-Bloquinho",
+    "character_desc": "Mascote voxel SRE; monitora painel de blocos-alerta e segura extintor-cubo.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, watching a voxel alert panel of status cubes, holding a fire-extinguisher block, calm on-call expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r047",
+    "sheet_id": "s083",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Plataforma-Bloco",
+    "character_desc": "Mascote voxel platform engineer; ergue uma base-plataforma de blocos para outros subirem.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, standing on and lifting a voxel platform slab as a foundation, supportive sturdy pose, reliable smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r048",
+    "sheet_id": "s083",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Nuvem-Cubo",
+    "character_desc": "Mascote voxel cloud architect; segura uma nuvem-bloco pixelada com servidores dentro.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a fluffy voxel cloud block containing tiny server cubes, visionary upward gaze, planning smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r049",
+    "sheet_id": "s083",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "K8s-Bloquinho",
+    "character_desc": "Mascote voxel Kubernetes admin; pilota um leme-bloco de navio cercado por contêineres-cubo.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, steering a voxel ship-helm wheel surrounded by floating container cubes, captain's confident smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r050",
+    "sheet_id": "s083",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Rede-Cubo",
+    "character_desc": "Mascote voxel network engineer; segura cabos-bloco e um roteador pixelado com luzes.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding voxel network cables plugged into a pixel router block with blinking lights, connecting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r051",
+    "sheet_id": "s083",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Sysadmin-Bloco",
+    "character_desc": "Mascote voxel sysadmin; carrega chaveiro gigante de blocos e terminal portátil.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, carrying a big voxel keyring and a portable terminal block, vigilant keeper expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r052",
+    "sheet_id": "s083",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Release-Cubinho",
+    "character_desc": "Mascote voxel release engineer; segura foguete-bloco de lançamento com tag de versão.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a small voxel launch rocket with a version-tag cube, ready-to-ship excited smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r053",
+    "sheet_id": "s083",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Build-Bloco",
+    "character_desc": "Mascote voxel build engineer; opera uma prensa-bloco que compila cubos em um só.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, operating a voxel press that compiles many cubes into one solid block, focused assembling look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r054",
+    "sheet_id": "s083",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "CICD-Cubo",
+    "character_desc": "Mascote voxel CI/CD engineer; conduz esteira circular de blocos com checks verdes.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, guiding a looping voxel conveyor of cubes stamped with green checkmarks, automated steady smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r055",
+    "sheet_id": "s083",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Escudo-Bloco",
+    "character_desc": "Mascote voxel security engineer; empunha escudo-cubo com cadeado pixelado.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel shield block with a pixel padlock emblem, guarding stance, protective firm expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r056",
+    "sheet_id": "s083",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Pentest-Cubinho",
+    "character_desc": "Mascote voxel pentester; usa capuz-bloco e segura gazua-cubo mirando um cadeado.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, wearing a voxel hoodie, holding a lockpick cube aimed at a padlock block, mischievous clever grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r057",
+    "sheet_id": "s083",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "AppSec-Cubo",
+    "character_desc": "Mascote voxel AppSec; inspeciona um app-bloco com lupa e cola remendos de segurança.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, inspecting an app block with a magnifying glass and applying voxel security patches, careful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r058",
+    "sheet_id": "s083",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cripto-Bloco",
+    "character_desc": "Mascote voxel cryptographer; embaralha blocos-letra com uma chave-cubo brilhante.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, scrambling voxel letter-cubes with a glowing key block, secretive focused expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r059",
+    "sheet_id": "s083",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Compliance-Cubo",
+    "character_desc": "Mascote voxel compliance officer; segura checklist-bloco e carimbo de aprovado.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel checklist board and an approval stamp cube, formal by-the-book smile, tie block, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r060",
+    "sheet_id": "s083",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Privacy-Bloquinho",
+    "character_desc": "Mascote voxel privacy engineer; guarda dados pessoais-cubo dentro de um cofre-bloco.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, placing personal-data cubes into a voxel safe block, protective careful expression, small tie, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r061",
+    "sheet_id": "s083",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Resposta-Bloco",
+    "character_desc": "Mascote voxel incident responder; corre com kit de emergência-bloco e sirene pixelada.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, rushing with a voxel emergency kit and a pixel siren light, urgent alert expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r062",
+    "sheet_id": "s083",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Ameaça-Cubo",
+    "character_desc": "Mascote voxel threat modeler; estuda um diagrama-bloco com setas de ataque marcadas.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, studying a voxel diagram board with red attack-arrow cubes, strategic wary look, chin on hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r063",
+    "sheet_id": "s083",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "QA-Bloquinho",
+    "character_desc": "Mascote voxel QA engineer; segura lupa e carimbo de bug-cubo vermelho.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a magnifying glass and a red bug cube stamp, inspecting a block, meticulous smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r064",
+    "sheet_id": "s083",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "SDET-Cubo",
+    "character_desc": "Mascote voxel SDET; opera um robô-bloco que testa cubos automaticamente.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, commanding a small voxel test-robot poking cubes with green checks, automation-savvy grin, script scroll, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r065",
+    "sheet_id": "s083",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Carga-Bloco",
+    "character_desc": "Mascote voxel performance tester; empurra muitos blocos-usuário contra um sistema-cubo.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, pushing a crowd of tiny voxel user-cubes against a system block, holding a stopwatch, stress-test smirk, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r066",
+    "sheet_id": "s083",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Manual-Cubinho",
+    "character_desc": "Mascote voxel manual tester; percorre um roteiro-bloco clicando passo a passo.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, following a voxel test-script scroll while tapping steps on a screen block, patient thorough smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r067",
+    "sheet_id": "s083",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Acesso-QA-Cubo",
+    "character_desc": "Mascote voxel accessibility tester; testa contraste e teclado num app-bloco com ícone de acesso.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, testing an app block with a voxel access icon, checking contrast swatches and a keyboard cube, caring smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r068",
+    "sheet_id": "s083",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Escriba-Bloco",
+    "character_desc": "Mascote voxel technical writer; segura pena-cubo e um manual-bloco aberto.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel quill and an open manual block with pixel pages, tidy explaining smile, small glasses, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r069",
+    "sheet_id": "s083",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Arauto-Cubo",
+    "character_desc": "Mascote voxel developer advocate; segura microfone-bloco e camiseta de comunidade.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel microphone, wearing a community tee, waving to a crowd, enthusiastic outgoing grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r070",
+    "sheet_id": "s083",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Estratégia-Bloquinho",
+    "character_desc": "Mascote voxel content strategist; organiza cartões-bloco de conteúdo num calendário.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, arranging voxel content cards on a calendar board, planning gesture, focused strategic smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r071",
+    "sheet_id": "s083",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Idioma-Cubo",
+    "character_desc": "Mascote voxel localization engineer; encaixa blocos-bandeira em balões de fala traduzidos.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, swapping voxel flag cubes into translated speech-bubble blocks, globe cube nearby, welcoming smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r072",
+    "sheet_id": "s083",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Produto-Design-Bloco",
+    "character_desc": "Mascote voxel product designer; segura protótipo-bloco com telas encaixadas.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel prototype board of linked screen blocks, sketching pose, creative confident smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r073",
+    "sheet_id": "s083",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Visual-Cubo",
+    "character_desc": "Mascote voxel visual designer; empunha paleta-bloco e pincel pintando um cubo colorido.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel palette and brush, painting a vivid gradient cube, artistic joyful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r074",
+    "sheet_id": "s083",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Interação-Bloquinho",
+    "character_desc": "Mascote voxel interaction designer; conecta botões-bloco a setas de fluxo animadas.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, linking voxel button blocks with animated arrow flows, tapping a prototype, playful focused smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r075",
+    "sheet_id": "s083",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Motion-Cubo",
+    "character_desc": "Mascote voxel motion designer; segura tira-bloco de quadros com trilha de movimento.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel keyframe strip with a swooping motion trail, dynamic energetic grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r076",
+    "sheet_id": "s083",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Ilustra-Bloco",
+    "character_desc": "Mascote voxel illustrator; desenha uma criatura-cubo numa prancheta com lápis grande.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, drawing a voxel creature on a block canvas with a chunky pencil, imaginative cheerful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r077",
+    "sheet_id": "s083",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Asset-Cubinho",
+    "character_desc": "Mascote voxel asset designer; carrega baú de sprites-bloco e ícones pixelados.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, carrying a voxel chest of sprite-cubes and pixel icons, organizing assets, tidy proud smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r078",
+    "sheet_id": "s083",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Marca-Cubo",
+    "character_desc": "Mascote voxel brand designer; ergue um logo-bloco e paleta de cores da marca.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding up a voxel logo-mark cube and a brand color-swatch strip, polished confident smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r079",
+    "sheet_id": "s083",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Som-Bloco",
+    "character_desc": "Mascote voxel sound designer; usa fones-bloco e segura onda sonora pixelada.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, wearing voxel headphones, holding a pixel sound-wave block and a note cube, groovy listening smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r080",
+    "sheet_id": "s083",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "3D-Cubo",
+    "character_desc": "Mascote voxel 3D artist; molda uma escultura-bloco girando num pedestal.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, sculpting a rotating voxel statue on a pedestal with modeling tools, focused creative smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r081",
+    "sheet_id": "s083",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Jogo-Design-Bloquinho",
+    "character_desc": "Mascote voxel game designer; segura dado-bloco gigante e mapa de mecânicas.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a giant voxel dice cube and a mechanics map board, playful inventive grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r082",
+    "sheet_id": "s083",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Fase-Cubo",
+    "character_desc": "Mascote voxel level designer; monta um cenário-bloco em miniatura com plataformas.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, arranging a miniature voxel level of platforms and hazard cubes, world-building focused smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r083",
+    "sheet_id": "s083",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Narra-Bloco",
+    "character_desc": "Mascote voxel narrative designer; segura livro-bloco aberto com árvore de diálogo.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding an open voxel storybook with branching dialogue cube nodes, storytelling warm smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r084",
+    "sheet_id": "s083",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Game-Dev-Cubo",
+    "character_desc": "Mascote voxel game developer; empunha um controle-bloco pixelado e uma moeda flutuante.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a chunky voxel game controller with a floating coin cube, playful gamer grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r085",
+    "sheet_id": "s083",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Shader-Bloquinho",
+    "character_desc": "Mascote voxel graphics engineer; pinta luz num cubo com pincel de brilho e prisma.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, painting glowing light onto a cube with a shimmer brush and a prism block, dazzled focused smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r086",
+    "sheet_id": "s083",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Embarcado-Cubo",
+    "character_desc": "Mascote voxel embedded engineer; segura placa-bloco pequena com chip pixelado.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a tiny voxel circuit board with a pixel chip, soldering iron cube in hand, precise focused look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r087",
+    "sheet_id": "s083",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Firmware-Bloco",
+    "character_desc": "Mascote voxel firmware engineer; insere um chip-bloco de código numa placa base.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, inserting a voxel firmware chip cube into a mainboard block, careful low-level focused smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r088",
+    "sheet_id": "s083",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "IoT-Cubinho",
+    "character_desc": "Mascote voxel IoT engineer; cercado por mini-eletrodomésticos-bloco conectados por ondas.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, surrounded by little voxel smart-device cubes linked by wireless waves, connecting gesture, bright smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r089",
+    "sheet_id": "s083",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Corrente-Bloco",
+    "character_desc": "Mascote voxel blockchain dev; segura uma corrente de blocos-cubo entrelaçados.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a linked chain of voxel blocks with hash marks, distributed-ledger pose, confident smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r090",
+    "sheet_id": "s083",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Contrato-Cubo",
+    "character_desc": "Mascote voxel smart contract auditor; inspeciona um bloco-contrato com lupa e selo.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, inspecting a voxel smart-contract block with a magnifying glass and a seal stamp, scrutinizing look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r091",
+    "sheet_id": "s083",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "ARVR-Bloquinho",
+    "character_desc": "Mascote voxel AR/VR engineer; usa óculos-bloco de realidade virtual com holograma-cubo.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, wearing a bulky voxel VR headset with a floating hologram cube in front, immersed amazed grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r092",
+    "sheet_id": "s083",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Robô-Cubo",
+    "character_desc": "Mascote voxel robotics engineer; segura um controle e um bracinho-robô de blocos.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a controller wired to a small voxel robot arm gripping a cube, tinkering focused smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r093",
+    "sheet_id": "s083",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Growth-Bloco",
+    "character_desc": "Mascote voxel growth engineer; rega um gráfico-planta de blocos que sobe em degraus.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, watering a voxel plant-graph that grows in stair-step cubes, funnel chart nearby, optimistic smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r094",
+    "sheet_id": "s083",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "SEO-Cubinho",
+    "character_desc": "Mascote voxel SEO specialist; segura lupa apontando ao topo de uma lista-bloco de ranking.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a magnifying glass over a voxel ranking list, pushing a page block to the top spot, keen smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r095",
+    "sheet_id": "s083",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "MarTech-Cubo",
+    "character_desc": "Mascote voxel marketing technologist; opera um funil-bloco que converte visitantes-cubo.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, operating a voxel funnel turning visitor cubes into star customers, megaphone in hand, upbeat grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r096",
+    "sheet_id": "s083",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Solução-Bloco",
+    "character_desc": "Mascote voxel solutions engineer; encaixa uma peça-bloco cliente no produto-cubo certo.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, fitting a client puzzle-cube into a matching product block, demoing gesture, helpful confident smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r097",
+    "sheet_id": "s083",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Suporte-Cubo",
+    "character_desc": "Mascote voxel support engineer; usa headset-bloco e segura ferramenta com balão de ajuda.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, wearing a voxel headset, holding a wrench and a floating help speech-bubble cube, friendly helpful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r098",
+    "sheet_id": "s083",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Vendas-Bloquinho",
+    "character_desc": "Mascote voxel sales engineer; apresenta um produto-bloco com gráfico de valor e aperto de mão.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, presenting a voxel product block with a value chart, offering a handshake, persuasive warm smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r099",
+    "sheet_id": "s083",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "FinOps-Cubo",
+    "character_desc": "Mascote voxel FinOps analyst; equilibra moedas-bloco numa balança e segura calculadora pixelada.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, balancing voxel coin cubes on a scale, holding a pixel calculator, cost-conscious thoughtful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s083-r100",
+    "sheet_id": "s083",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Lei-Bloco",
+    "character_desc": "Mascote voxel legal counsel; segura martelo-bloco de juiz e um documento-cubo carimbado.",
+    "nano_prompt": "A blocky voxel mascot, Minecraft-style cubic geometry, cube head with chunky pixelated 8-bit face, boxy stubby limbs, low-resolution pixel textures, soft studio voxel lighting, full-body standing pose, holding a voxel judge gavel and a stamped document cube, formal balanced expression, tiny tie, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

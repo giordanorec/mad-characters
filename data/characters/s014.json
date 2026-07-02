@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s014-r001",
+    "sheet_id": "s014",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Master Aldebrand",
+    "character_desc": "Elfo-ancião arquiteto-mor de uma cidadela élfica; segura uma maquete de torre cristalina e um compasso de prata.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a stately high-elf elder architect with pointed ears and long silver hair, holding a crystalline scale model of an elven tower, a silver drafting compass tucked in his robe, calm visionary gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r002",
+    "sheet_id": "s014",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Captain Thoradin",
+    "character_desc": "Anão capitão que lidera a coluna de escavadores; empunha um martelo-marcador e um estandarte curto da tropa.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a broad dwarf war-captain with braided beard, one hand on a leading standard banner, a rune-hammer resting on his shoulder, commanding confident expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r003",
+    "sheet_id": "s014",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Elder Vorgath",
+    "character_desc": "Orc veterano de guilda, respeitado pelos jovens; usa medalhas de ferro e apoia a mão num pergaminho de batalhas passadas.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a scarred veteran orc mentor with graying tusks, iron guild medals on his leather harness, resting a hand on a worn campaign scroll, wise steady look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r004",
+    "sheet_id": "s014",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Grand Sage Elenor",
+    "character_desc": "Elfa-arquimaga principal, autoridade máxima em feitiços de sistema; carrega um cajado de nós que ramifica em vários caminhos.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a regal principal archmage elf with a tall branching knotted staff that splits into many paths, ornate star-embroidered robe, serene authoritative presence, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r005",
+    "sheet_id": "s014",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Warden Brunhild",
+    "character_desc": "Anã guardiã do salão que organiza os clãs mineiros; segura um rol de nomes e uma chave-mestra dos aposentos.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a dwarf hall-warden woman with helm braids, holding a roster ledger and a large ring of keys, warm but firm managerial expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r006",
+    "sheet_id": "s014",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Lady Miravel",
+    "character_desc": "Halfling administradora que decide o que a vila constrói; segura um mapa de prioridades e uma pena de decisão.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a bright halfling steward woman with curly hair, holding a priorities map scroll and a decision quill, pointing thoughtfully, curious visionary look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r007",
+    "sheet_id": "s014",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Reeve Tobin",
+    "character_desc": "Halfling zelador do rol de tarefas da vila; carrega uma tábua com fichas ordenadas de pedidos.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a tidy halfling reeve holding a wooden board stacked with ordered request tokens, quill behind the ear, organized attentive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r008",
+    "sheet_id": "s014",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Marshal Isolde",
+    "character_desc": "Nobre humana que coordena várias campanhas ao mesmo tempo; segura um mapa-mestre com vários alfinetes.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a noble human program-marshal woman in Renaissance gown, holding a large master campaign map dotted with many pins, coordinating composed gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r009",
+    "sheet_id": "s014",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Steward Cedric",
+    "character_desc": "Mordomo humano que rege o cronograma de uma obra; carrega uma ampulheta e um rol de etapas.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a human project-steward man in doublet, holding an hourglass and a schedule scroll of milestones, diligent focused expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r010",
+    "sheet_id": "s014",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Brother Anselm",
+    "character_desc": "Gnomo mestre-de-cerimônia que remove obstáculos da equipe; segura um pequeno sino de reunião e um bastão liso.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a friendly gnome ceremony-master with round spectacles, ringing a small meeting bell, holding a smooth facilitation staff, encouraging expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r011",
+    "sheet_id": "s014",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Forgeson Dagmar",
+    "character_desc": "Anão ferreiro das forjas subterrâneas que sustentam tudo; usa avental de couro e segura bigorna-em-miniatura de engrenagens.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a soot-dusted dwarf backend smith with leather apron, holding a small anvil geared with cogs and a forge tong, sturdy dependable look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r012",
+    "sheet_id": "s014",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Scribe Faelar",
+    "character_desc": "Elfo escriba que define os portões de entrada do reino; segura um pergaminho de contratos e uma chave de portão.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, an elegant elf gate-scribe holding a contract scroll of interface clauses and an ornate gate key, precise diplomatic expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r013",
+    "sheet_id": "s014",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Tinker Bregol",
+    "character_desc": "Gnomo engenhoso que monta autômatos em módulos pequenos e independentes; segura três engenhocas separadas conectadas por fios.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a clever gnome tinkerer holding three small independent clockwork modules linked by thin wires, tool-belt of tiny gears, inventive grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r014",
+    "sheet_id": "s014",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Sluicewright Orin",
+    "character_desc": "Anão construtor de canais e comportas que movem minério em fluxo; segura uma calha em miniatura com fluxo de pedras.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a dwarf channel-builder holding a miniature sluice with flowing ore pebbles, wet leather gloves, pragmatic engineering look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r015",
+    "sheet_id": "s014",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Rivermaster Kael",
+    "character_desc": "Meio-elfo engenheiro que canaliza grandes rios de dados-água até reservatórios; segura um aqueduto em miniatura.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a half-elf water-engineer holding a miniature aqueduct funneling water into a basin, coiled measuring rope, steady practical gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r016",
+    "sheet_id": "s014",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Keeper Thruna",
+    "character_desc": "Anã guardiã do cofre-arquivo do clã; segura um grande grimório-registro acorrentado e a chave do cofre.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a dwarf vault-keeper woman guarding a large chained ledger tome, a heavy vault key on her belt, vigilant custodian expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r017",
+    "sheet_id": "s014",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Diviner Sable",
+    "character_desc": "Elfa que interroga o oráculo de tabelas e traz respostas exatas; segura cristal-consulta gravado com colunas.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, an elf query-diviner woman holding a faceted consultation crystal etched with table columns, tracing a line of light, sharp precise look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r018",
+    "sheet_id": "s014",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Quickhand Pip",
+    "character_desc": "Halfling ágil que guarda respostas prontas para entregar num piscar; segura sacola de fichas repetidas e um relógio de bolso.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a nimble halfling relay-runner holding a satchel of duplicated ready tokens and a pocket sundial, quick alert expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r019",
+    "sheet_id": "s014",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Ferryman Doran",
+    "character_desc": "Barqueiro humano que transporta mensagens em fila ordenada de barcaças; segura remo e um enfileirado de cartas-selo.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a human message-ferryman holding an oar and a lined-up bundle of sealed letters in order, calm patient conveyor expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r020",
+    "sheet_id": "s014",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Seeker Ilvana",
+    "character_desc": "Elfa rastreadora que encontra qualquer verbete na biblioteca infinita; segura uma lupa rúnica e um índice cintilante.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, an elf lore-seeker woman holding a runic magnifying lens over a glowing index scroll, keen searching gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r021",
+    "sheet_id": "s014",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Limner Rowan",
+    "character_desc": "Meio-elfo pintor das fachadas visíveis do castelo; segura paleta e um painel de vitral montado.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a half-elf facade-painter holding an artist palette and a small assembled stained-glass panel, expressive creative look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r022",
+    "sheet_id": "s014",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Glazier Nimue",
+    "character_desc": "Elfa vitralista que encaixa cada componente da janela; segura peças de vidro-botão e uma junta de chumbo.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, an elf pane-crafter woman holding button-shaped glass components and a lead came joint, meticulous tidy expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r023",
+    "sheet_id": "s014",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Pathfinder Wren",
+    "character_desc": "Halfling que desenha o caminho mais fácil pelos salões; segura um mapa de trilhas com pegadas marcadas.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a halfling wayfinder holding a journey map traced with footprints and easy paths, empathetic thoughtful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r024",
+    "sheet_id": "s014",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Patternwright Sela",
+    "character_desc": "Elfa que tece um livro de padrões reutilizáveis para toda a corte; segura um mostruário de ladrilhos idênticos.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, an elf pattern-weaver woman holding a swatch board of identical reusable tiles and a token stamp, systematic composed expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r025",
+    "sheet_id": "s014",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Beacon Alric",
+    "character_desc": "Humano que constrói rampas e corrimãos para todos alcançarem o castelo; segura maquete de rampa e um sino guia.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a human ramp-builder holding a small ramp-and-railing model and a guiding hand-bell, inclusive caring expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r026",
+    "sheet_id": "s014",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Swiftwind Talia",
+    "character_desc": "Elfa corredora que enxuga cada peso da carruagem para ir mais rápido; segura uma pena-cronômetro e roda leve.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, an elf speed-courier woman holding a feather-light wheel and a stopwatch pendant, wind-swept hair, brisk energetic look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r027",
+    "sheet_id": "s014",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Tessa the Tiler",
+    "character_desc": "Gnoma que alinha cada azulejo do piso à perfeição; segura esquadro e ladrilhos coloridos empilhados.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a gnome mosaic-tiler woman holding a set-square and a stack of colored tiles, precise decorative pride in her expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r028",
+    "sheet_id": "s014",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Flicker Odo",
+    "character_desc": "Fada-esprite que dá vida e movimento às figuras do salão; segura uma varinha que deixa rastro de quadros.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a small winged sprite motion-conjurer holding a wand leaving a trail of animation frames, playful lively expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r029",
+    "sheet_id": "s014",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Roamer Finn",
+    "character_desc": "Halfling que carrega tudo num relicário portátil de bolso; segura um pequeno tríptico dobrável de telas.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a halfling pocket-traveler holding a small foldable triptych of screens, travel cloak, adaptable friendly look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r030",
+    "sheet_id": "s014",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Silverleaf Aria",
+    "character_desc": "Elfa refinada de uma corte polida e fechada; segura uma tábua-espelho lustrada de maçã prateada.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a polished high-elf artisan woman holding a sleek silver-apple mirror tablet, minimalist elegant refined expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r031",
+    "sheet_id": "s014",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Greenhand Boldo",
+    "character_desc": "Goblin engenhoso da tribo verde que ajusta cada engenhoca aberta; segura um autômato verde meio-aberto.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a friendly green goblin gadget-tinker holding a half-open green clockwork droid figure, tool in hand, tinkering grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r032",
+    "sheet_id": "s014",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Bridger Naia",
+    "character_desc": "Meio-elfa que forja um único artefato que serve a dois reinos; segura um medalhão gêmeo que se divide.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a half-elf twin-crafter woman holding a single medallion that splits to serve two realms, resourceful bridging expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r033",
+    "sheet_id": "s014",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Bluewing Petra",
+    "character_desc": "Fada que molda pássaros-mensageiros idênticos para qualquer céu; segura um pássaro azul mecânico.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a fae dart-crafter woman holding an identical blue mechanical bird, layered feather cloak, smooth cheerful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r034",
+    "sheet_id": "s014",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Oracle Vesna",
+    "character_desc": "Elfa que lê padrões nas estrelas e prevê o futuro do reino; segura astrolábio e um mapa de constelações.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, an elf star-diviner woman holding an astrolabe over a constellation chart, contemplative predictive gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r035",
+    "sheet_id": "s014",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Golem-smith Harn",
+    "character_desc": "Anão que forja e treina golens de aprendizado; segura um pequeno golem de argila com runa na testa.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a dwarf golem-trainer holding a small clay learning-golem with a rune on its forehead, calibration mallet, focused builder look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r036",
+    "sheet_id": "s014",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Kennel-master Ivo",
+    "character_desc": "Humano que mantém a matilha de golens rodando saudável em campo; segura coleira-arreio e frasco de óleo.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a human beast-keeper holding a golem harness-collar and an oil flask for upkeep, watchful operations expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r037",
+    "sheet_id": "s014",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Seeker Lumen",
+    "character_desc": "Elfo pesquisador que busca feitiços nunca vistos; segura um tomo aberto irradiando novos símbolos.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, an elf arcane-scholar holding an open tome radiating never-seen symbols, ink-stained fingers, inquisitive frontier gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r038",
+    "sheet_id": "s014",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Whisperer Cael",
+    "character_desc": "Meio-elfo que sussurra as palavras exatas para comandar o oráculo; segura um pergaminho de encantamentos precisos.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a half-elf word-charmer holding a scroll of precise incantation phrases, one finger raised as if speaking, persuasive clever look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r039",
+    "sheet_id": "s014",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Linguist Orla",
+    "character_desc": "Elfa que entende todas as línguas dos povos; segura pedra-tradutora e um pergaminho multilíngue.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, an elf tongue-mage woman holding a translator rune-stone and a multilingual scroll, understanding attentive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r040",
+    "sheet_id": "s014",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Farsight Rhys",
+    "character_desc": "Meio-orc que reconhece rostos e sinais à distância; usa monóculo-visor rúnico e segura um retrato reconhecido.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a half-orc eye-seer with a runic monocle visor, holding a small recognized portrait, perceptive scanning gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r041",
+    "sheet_id": "s014",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Tallyman Bront",
+    "character_desc": "Anão que lê montes de números e conta a história por trás; segura ábaco e um rol de contagens.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a dwarf ledger-reader holding an abacus and a tally scroll, spectacles low on nose, analytical inquisitive look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r042",
+    "sheet_id": "s014",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Herald Divna",
+    "character_desc": "Humana arauto que apresenta os números do reino à corte; segura estandarte-gráfico com barras bordadas.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a human court-herald woman holding a chart-banner embroidered with bars and a pointer rod, presenting confident expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r043",
+    "sheet_id": "s014",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Refiner Ludo",
+    "character_desc": "Gnomo que refina minério bruto de números em barras limpas; segura funil-alambique e lingotes ordenados.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a gnome ore-refiner holding a refining funnel-still and neatly stacked number ingots, meticulous transforming look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r044",
+    "sheet_id": "s014",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Painter Silja",
+    "character_desc": "Elfa iluminadora que transforma dados em belas figuras; segura pergaminho com gráficos pintados a ouro.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, an elf chart-illuminator woman holding an illuminated scroll of gold-painted graphs, brush in hand, artistic clear-eyed expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r045",
+    "sheet_id": "s014",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Bridgewright Torvald",
+    "character_desc": "Anão que constrói pontes e estradas entre forja e campo de batalha; segura ferramenta multiuso e um trilho.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a dwarf road-builder holding a multi-tool wrench and a track rail piece, tool-laden apron, reliable can-do expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r046",
+    "sheet_id": "s014",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Sentinel Auda",
+    "character_desc": "Humana sentinela que mantém a muralha de pé sob cerco; segura tocha-vigília e um sino de alarme.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a human wall-watcher woman holding a vigil torch and an alarm bell, uptime-worn armor, alert steadfast gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r047",
+    "sheet_id": "s014",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Foundation Mabon",
+    "character_desc": "Anão que assenta as fundações onde todos os outros constroem; segura nível de pedreiro e bloco-base.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a dwarf ground-layer holding a mason level and a foundation base-block, dusty hands, dependable enabling look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r048",
+    "sheet_id": "s014",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Skywright Elaine",
+    "character_desc": "Elfa que desenha castelos nas nuvens do reino etéreo; segura maquete de castelo flutuante em névoa.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, an elf cloud-architect woman holding a floating castle model wreathed in mist, airy visionary expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r049",
+    "sheet_id": "s014",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Herdmaster Krog",
+    "character_desc": "Orc pastoreiro que arreia dezenas de baús-golens em rebanho ordenado; segura leme de timão e um baú marcado.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, an orc container-drover holding a helm-wheel and a marked cargo crate, herding many crates, commanding herd-keeper look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r050",
+    "sheet_id": "s014",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Weaver Sindri",
+    "character_desc": "Gnomo que tece a teia de fios e sinais entre torres; segura novelo de fios luminosos e conector.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a gnome cable-weaver holding a spool of glowing wires and a plug connector, web of threads around him, connective focused look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r051",
+    "sheet_id": "s014",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Warden Ottar",
+    "character_desc": "Anão administrador que mantém as máquinas do castelo ligadas; segura molho de chaves e uma lanterna de manutenção.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a dwarf keep-keeper holding a ring of maintenance keys and a service lantern, tool-belt, steady custodial expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r052",
+    "sheet_id": "s014",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Herald Bexley",
+    "character_desc": "Humano que dá o sinal para lançar a nova campanha ao mundo; segura selo-lançamento e uma bandeira de partida.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a human gate-opener holding a release seal and a launch flag mid-raise, ceremonial confident expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r053",
+    "sheet_id": "s014",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Forgemaster Ingrid",
+    "character_desc": "Anã que funde muitas peças brutas numa só espada acabada; segura molde e uma lâmina recém-forjada.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a dwarf assembler woman holding a casting mold and a freshly-forged blade, sparks on her apron, assembling determined look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r054",
+    "sheet_id": "s014",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Relaywright Pol",
+    "character_desc": "Gnomo que opera a esteira que testa e entrega cada peça; segura uma correia com engrenagens e selo verde.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a gnome conveyor-tender holding a geared conveyor belt with a green pass-stamp, automation-minded tidy expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r055",
+    "sheet_id": "s014",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Warden Kessia",
+    "character_desc": "Humana guardiã que defende as muralhas de invasores; segura escudo-brasão e uma chave-cadeado.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a human shield-warden woman holding a crest shield and a padlock key, watchful protective expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r056",
+    "sheet_id": "s014",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Shadowfoot Vex",
+    "character_desc": "Meio-elfo que testa as defesas tentando arrombá-las primeiro; segura gazua e um capuz sombrio.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a hooded half-elf lock-breaker holding a set of lockpicks, shadowy cloak, sly probing expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r057",
+    "sheet_id": "s014",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Armorer Dane",
+    "character_desc": "Anão que blinda cada artefato antes de entrar em combate; segura peitoral reforçado e rebite.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a dwarf app-armorer holding a reinforced breastplate and a rivet punch, hardening careful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r058",
+    "sheet_id": "s014",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cipher Nyx",
+    "character_desc": "Elfo que sela segredos em runas indecifráveis; segura anel-selo e um pergaminho de cifras cintilantes.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, an elf rune-cipherer holding a signet ring and a scroll of shimmering ciphers, secretive intelligent gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r059",
+    "sheet_id": "s014",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Magister Odila",
+    "character_desc": "Humana magistrada que garante que o reino siga as leis; segura balança e um códice selado.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a human law-magister woman holding scales of justice and a sealed codex, stern principled expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r060",
+    "sheet_id": "s014",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Veilkeeper Sira",
+    "character_desc": "Elfa que protege os nomes e segredos pessoais dos súditos; segura relicário lacrado e um véu de proteção.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, an elf secret-guardian woman holding a sealed reliquary and a protective veil, discreet safeguarding expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r061",
+    "sheet_id": "s014",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Firewatch Bran",
+    "character_desc": "Meio-orc que corre para apagar o incêndio quando a torre pega fogo; segura balde-mágico e um sino de alarme.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a half-orc alarm-runner holding a magic water bucket and an alarm bell mid-swing, urgent decisive expression, faint smoke, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r062",
+    "sheet_id": "s014",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Seer Malaketh",
+    "character_desc": "Orc que prevê por onde o inimigo vai atacar antes que ataque; segura mapa de fraquezas com marcas vermelhas.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, an orc doom-forecaster holding a fortress map marked with red weak-point crosses, strategic wary gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r063",
+    "sheet_id": "s014",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Proofer Wenna",
+    "character_desc": "Halfling que examina cada artefato à procura de defeitos; segura lupa e uma lista de marcas de checagem.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a halfling flaw-finder woman holding a magnifying glass over an item and a checklist tablet, meticulous scrutinizing look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r064",
+    "sheet_id": "s014",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Golem-tester Rix",
+    "character_desc": "Gnomo que constrói pequenos autômatos que testam tudo sozinhos; segura um golem-testador que aperta botões.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a gnome trial-automaton builder holding a small self-testing golem pressing buttons, automation-clever grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r065",
+    "sheet_id": "s014",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Strongarm Ulf",
+    "character_desc": "Anão que empilha pesos até o suporte gemer para achar o limite; segura halteres-de-carga e um manômetro.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a dwarf load-tester holding stacked stress weights and a pressure gauge, muscles flexed, testing-to-the-limit expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r066",
+    "sheet_id": "s014",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Sifter Elda",
+    "character_desc": "Humana que confere cada peça manualmente uma a uma; segura pena de conferência e uma bandeja de amostras.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a human hand-checker woman holding a checking quill and a tray of samples, patient meticulous expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r067",
+    "sheet_id": "s014",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Ramp-prover Cole",
+    "character_desc": "Humano que testa se as rampas servem a todos de fato; segura maquete de rampa com boneco e um sino.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a human access-checker holding a ramp model with a tiny figure and a bell, empathetic verifying expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r068",
+    "sheet_id": "s014",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Chronicler Eldoran",
+    "character_desc": "Elfo cronista que escreve os manuais e crônicas do reino; segura pena-longa e um códice aberto.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, an elf lore-scribe holding a long quill and an open illuminated codex, ink pot, articulate thoughtful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r069",
+    "sheet_id": "s014",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Bard Fenwick",
+    "character_desc": "Meio-elfo bardo que viaja pregando as maravilhas da forja aos vilarejos; segura alaúde e um pergaminho de demonstração.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a half-elf road-bard holding a lute and a demo scroll, travel cloak, charismatic outgoing expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r070",
+    "sheet_id": "s014",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Loremaster Talis",
+    "character_desc": "Elfa que planeja quais histórias o reino deve contar; segura mapa narrativo com nós temáticos.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, an elf tale-planner woman holding a narrative map of themed nodes and a quill, strategic storyteller expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r071",
+    "sheet_id": "s014",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Tongue-turner Zara",
+    "character_desc": "Meio-elfa que adapta cada crônica para os costumes de outros reinos; segura globo-atlas e pergaminhos em várias escritas.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a half-elf realm-adapter woman holding a small atlas globe and scrolls in varied scripts, culturally attuned expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r072",
+    "sheet_id": "s014",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Artificer Lysa",
+    "character_desc": "Elfa que projeta o artefato inteiro, forma e função; segura protótipo esculpido e um esboço.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, an elf artifact-designer woman holding a sculpted prototype and a sketch, thoughtful holistic creative expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r073",
+    "sheet_id": "s014",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Colorwright Bram",
+    "character_desc": "Gnomo mestre das cores e formas belas; segura leque de pigmentos e um painel de brasões.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a gnome hue-master holding a fan of pigment swatches and a crest panel, aesthetic discerning expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r074",
+    "sheet_id": "s014",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Lever-smith Odette",
+    "character_desc": "Humana que projeta como cada alavanca responde ao toque; segura mecanismo de botão e engrenagem responsiva.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a human mechanism-designer woman holding a responsive button mechanism and a gear, tactile inventive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r075",
+    "sheet_id": "s014",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Whirl Ashwin",
+    "character_desc": "Fada que coreografa o movimento gracioso das figuras; segura fita esvoaçante que traça arcos.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a sprite motion-designer holding a flowing ribbon tracing graceful arcs, dynamic elegant expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r076",
+    "sheet_id": "s014",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Illuminator Perrin",
+    "character_desc": "Halfling que ilustra à mão cada página do grimório; segura pincel fino e uma folha ricamente desenhada.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a halfling manuscript-illustrator holding a fine brush and a richly drawn illustrated leaf, imaginative absorbed expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r077",
+    "sheet_id": "s014",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Prop-carver Nola",
+    "character_desc": "Gnoma que entalha todos os pequenos objetos e ícones do reino; segura bandeja de miniaturas entalhadas.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a gnome asset-carver woman holding a tray of carved miniature props and icons, a chisel, prolific crafty expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r078",
+    "sheet_id": "s014",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Sigil-lord Varian",
+    "character_desc": "Humano que cria o brasão e a identidade do reino; segura escudo-brasão recém-pintado e selo.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a human heraldry-master holding a freshly painted crest shield and a wax seal, identity-proud composed expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r079",
+    "sheet_id": "s014",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Echo Maren",
+    "character_desc": "Fada que tece os sons e cânticos do salão; segura sino-diapasão e ondas sonoras esculpidas em cristal.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a fae sound-weaver holding a tuning-fork chime and crystal-carved sound waves, attuned listening expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r080",
+    "sheet_id": "s014",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Sculptor Halvar",
+    "character_desc": "Anão que esculpe estátuas tridimensionais dos heróis; segura cinzel e um busto de pedra em progresso.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a dwarf statue-carver holding a chisel and a half-finished three-dimensional stone bust, tactile sculptor expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r081",
+    "sheet_id": "s014",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Ludomaster Fabl",
+    "character_desc": "Gnomo que inventa as regras dos jogos da corte; segura tabuleiro dobrável e dados entalhados.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a gnome game-inventor holding a folding game board and carved dice, mischievous inventive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r082",
+    "sheet_id": "s014",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Mapwright Selene",
+    "character_desc": "Elfa que desenha os labirintos e masmorras da aventura; segura mapa de masmorra com salas ligadas.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, an elf labyrinth-designer woman holding a dungeon map of linked rooms and a compass, spatial cunning expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r083",
+    "sheet_id": "s014",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Taleweaver Corin",
+    "character_desc": "Meio-elfo que entrelaça as tramas e diálogos da saga; segura livro de ramos de escolhas.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a half-elf story-designer holding a book of branching choice-threads, expressive imaginative narrative gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r084",
+    "sheet_id": "s014",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Machinist Dorn",
+    "character_desc": "Anão que constrói de fato a máquina-jogo que roda tudo; segura engenhoca-console com manivela e cristais.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a dwarf game-machinist holding a hand-cranked engine console with glowing crystals, hands-on builder expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r085",
+    "sheet_id": "s014",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Lightbender Auri",
+    "character_desc": "Elfa que dobra a luz e as sombras sobre as superfícies; segura prisma que projeta gradientes coloridos.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, an elf light-mage woman holding a prism projecting colored gradients over a surface, luminous artistic gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r086",
+    "sheet_id": "s014",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Cogsmith Beorn",
+    "character_desc": "Anão que constrói minúsculas máquinas dentro de pedras-amuleto; segura amuleto aberto cheio de engrenagens finas.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a dwarf tiny-machinist holding an opened amulet packed with fine gears, jeweler's loupe on brow, precise embedded-craft expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r087",
+    "sheet_id": "s014",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Runewright Halla",
+    "character_desc": "Gnoma que grava as runas de instrução no coração dos autômatos; segura núcleo rúnico e estilete.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a gnome core-scribe woman holding a rune-inscribed core stone and an engraving stylus, low-level focused expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r088",
+    "sheet_id": "s014",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Beaconmaster Idris",
+    "character_desc": "Meio-elfo que liga sinos e faróis distantes numa rede que conversa; segura poste-baliza com vários sininhos.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a half-elf signal-linker holding a beacon post strung with many small bells and a signal orb, connected watchful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r089",
+    "sheet_id": "s014",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Ledgerforge Malik",
+    "character_desc": "Humano que forja o grande livro-corrente inquebrável dos pactos; segura corrente-elo e um livro selado.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a human chain-keeper holding a linked chain-ledger and a sealed pact book, immutable trustworthy expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r090",
+    "sheet_id": "s014",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Auditor Verena",
+    "character_desc": "Elfa que inspeciona cada elo dos contratos mágicos à procura de brechas; segura lupa sobre um contrato-corrente.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, an elf pact-inspector woman holding a magnifier over a chain-contract scroll, forensic scrutinizing gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r091",
+    "sheet_id": "s014",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Veil-mage Orion",
+    "character_desc": "Meio-elfo que sobrepõe visões mágicas ao mundo real; usa óculos-visor cristalino e segura orbe de miragem.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a half-elf illusion-weaver wearing a crystalline visor lens, holding a mirage orb overlaying a scene, immersive wondrous expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r092",
+    "sheet_id": "s014",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Golemwright Nadia",
+    "character_desc": "Humana que constrói golens andantes que agem no mundo; segura braço mecânico articulado e controle.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a human automaton-engineer woman holding an articulated mechanical arm and a control lever, mechanically-minded steady expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r093",
+    "sheet_id": "s014",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Cultivator Enzo",
+    "character_desc": "Halfling que faz a vila crescer plantando sementes de novos súditos; segura vaso com árvore em expansão e regador.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a halfling growth-gardener holding a pot with a rapidly branching tree and a watering can, optimistic expansive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r094",
+    "sheet_id": "s014",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Signpost Delia",
+    "character_desc": "Humana que ergue placas para que viajantes achem o reino primeiro; segura placa-seta e uma bússola.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a human beacon-guide woman holding a directional signpost arrow and a compass, visibility-minded inviting expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r095",
+    "sheet_id": "s014",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Herald-tinker Cyrus",
+    "character_desc": "Gnomo que constrói engenhocas para espalhar a fama do reino; segura autômato-mensageiro com trombeta.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a gnome outreach-engine builder holding a trumpet-bearing messenger automaton, promotional clever expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r096",
+    "sheet_id": "s014",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Envoy Thaddeus",
+    "character_desc": "Humano enviado que monta a solução na frente do cliente-nobre; segura maleta-oficina aberta com peças.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a human field-artificer holding an open workshop briefcase of parts, diplomatic resourceful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r097",
+    "sheet_id": "s014",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Healer Bryn",
+    "character_desc": "Halfling que socorre súditos com problemas no artefato; segura kit de reparo e um sino de chamado.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a halfling aid-mender holding a repair kit pouch and a help bell, kind reassuring expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r098",
+    "sheet_id": "s014",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Merchant Roderic",
+    "character_desc": "Humano que demonstra e vende o artefato aos nobres; segura o artefato reluzente e um pergaminho de acordo.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a human artifact-merchant holding a gleaming artifact aloft and a deal scroll, persuasive charismatic expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r099",
+    "sheet_id": "s014",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Coinwarden Mira",
+    "character_desc": "Anã que vigia o custo de cada moeda gasta na forja da nuvem; segura balança de moedas e um rol de gastos.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a dwarf treasury-analyst woman holding a coin scale and a spending ledger, cost-conscious sharp expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s014-r100",
+    "sheet_id": "s014",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Advocate Sabine",
+    "character_desc": "Humana conselheira jurídica que protege o reino nos tratados; segura códice de leis e uma pena de assinatura.",
+    "nano_prompt": "Renaissance oil-painting portrait, half-length bust, subject facing three-quarter view, thick visible oil brushstrokes, warm chiaroscuro glazed lighting, aged varnish patina, classic noble portrait composition, a human court-counsel woman holding a book of laws and a signing quill, judicious composed expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

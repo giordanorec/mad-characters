@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s028-r001",
+    "sheet_id": "s028",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Vaudre",
+    "character_desc": "Espírito do bosque ancestral que molda árvores em arcos e pontes; segura uma planta de vinhas luminosas como blueprint. Comunica o Arquiteto de Solução: visão estrutural.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, an ancient grove spirit made of woven roots and vines, holding a glowing blueprint drawn in luminous leaf-veins, drafting quill of light floating beside a hand, calm architect gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r002",
+    "sheet_id": "s028",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Mistlead",
+    "character_desc": "Espírito-guia da névoa que abre trilhas na floresta para os menores; ergue uma lanterna de vaga-lume conduzindo o caminho. Lê-se como Tech Lead.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a guiding mist spirit leading smaller wisps forward, raising a firefly lantern, a small floating compass of dew, resolute guiding pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r003",
+    "sheet_id": "s028",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Grantwyn",
+    "character_desc": "Espírito-carvalho de raízes profundas e presença firme; equilibra um cristal de resina sobre a palma. Sugere Staff Engineer: pilar técnico.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a deep-rooted oak spirit with broad steady form, balancing a large amber resin crystal on an open palm, several floating tool-shaped leaves, grounded stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r004",
+    "sheet_id": "s028",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Eldervane",
+    "character_desc": "Espírito da montanha coberta de líquen, o mais antigo do vale; segura um cajado de galho fossilizado. Lê-se como Principal Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, an elder mountain spirit veiled in lichen and drifting cloud, holding a fossilized branch staff crowned with faint runes of light, wise commanding aura, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r005",
+    "sheet_id": "s028",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Cairn",
+    "character_desc": "Espírito das clareiras que reúne pequenos espíritos ao redor de uma fogueira fria; abre os braços em acolhimento. Engineering Manager.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a gathering clearing spirit with wide welcoming arms, small companion wisps orbiting, a soft floating hearth of cool blue flame, nurturing warm expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r006",
+    "sheet_id": "s028",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Bloomsey",
+    "character_desc": "Espírito das flores que sente o que o jardim deseja; segura um broto e aponta rumos. Product Manager: descobre necessidades.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a flower-crowned spirit sensing the meadow, holding a budding sprout in one hand and a small floating roadmap-scroll of petals in the other, curious visionary look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r007",
+    "sheet_id": "s028",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Pippet",
+    "character_desc": "Espírito guardião de uma única moita, protege sua safra com afinco; carrega uma cesta priorizada de frutos. Product Owner.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a small hedge-guardian spirit cradling a woven basket of glowing prioritized berries, a floating tally of stacked leaves, protective focused pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r008",
+    "sheet_id": "s028",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Braidel",
+    "character_desc": "Espírito dos rios que entrelaça vários afluentes num só curso; tece correntes de água luminosa. Program Manager.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a river-weaving spirit braiding several luminous water streams into one flowing course, floating flow-map of ripples, coordinating graceful gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r009",
+    "sheet_id": "s028",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Tallow",
+    "character_desc": "Espírito das estações que marca fases da floresta com precisão; segura uma ampulheta de seiva. Project Manager.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a season-marking spirit holding a sap-filled hourglass, a floating garland of milestone flowers each at a different bloom stage, orderly attentive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r010",
+    "sheet_id": "s028",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Ringlet",
+    "character_desc": "Espírito circular da névoa matinal que reúne a roda dos espíritos; agita um sino de orvalho. Scrum Master.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a swirling morning-mist spirit forming a gentle ring, ringing a small dewdrop bell, floating circular garland marking a cycle, facilitating cheerful stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r011",
+    "sheet_id": "s028",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Hollowen",
+    "character_desc": "Espírito das cavernas-raiz que abriga a engrenagem oculta da floresta; carrega engrenagens de madeira viva. Backend Developer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a hollow-cavern root spirit tending hidden living-wood gears deep in the trunk, floating cogs of bark, sturdy behind-the-scenes builder pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r012",
+    "sheet_id": "s028",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Portalis",
+    "character_desc": "Espírito dos portões de pedra musgosa entre clareiras; segura chaves de galho que abrem passagens. API Designer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a mossy-gateway spirit standing at a stone archway of vines, holding a ring of branch-keys and a floating contract-scroll of leaves, precise connective pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r013",
+    "sheet_id": "s028",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Splitmoss",
+    "character_desc": "Espírito do musgo que se divide em muitos pequenos jardins autônomos; cada broto flutua separado. Microservices Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a moss spirit fragmenting into many small self-contained floating garden-orbs connected by fine luminous threads, distributed modular composition, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r014",
+    "sheet_id": "s028",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Rillwen",
+    "character_desc": "Espírito do riacho que conduz água de nascente até o vale por canais; guia um fio d'água contínuo. Pipeline Developer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a brook spirit channeling a continuous ribbon of spring water through carved leaf-troughs, floating stages of flowing droplets, steady conveying pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r015",
+    "sheet_id": "s028",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Delvara",
+    "character_desc": "Espírito das camadas de solo que extrai minerais e os refina em pó luminoso; peneira terra brilhante. Data Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a soil-strata spirit sifting glowing mineral dust through a woven sieve, floating layered strata of luminous earth, transforming diligent pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r016",
+    "sheet_id": "s028",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Cistern",
+    "character_desc": "Espírito guardião do lago subterrâneo, mantém as águas puras e organizadas; segura uma concha-reservatório. Database Administrator.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, an underground-lake guardian spirit cradling a shell reservoir of ordered glowing water, floating grid of neat lily-pad tables, custodial calm pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r017",
+    "sheet_id": "s028",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Queryl",
+    "character_desc": "Espírito ágil dos peixes de luz que encontra a gota exata no lago; aponta com uma vara de junco. SQL Specialist.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a nimble spirit of light-fish darting through a pond, pointing with a slender reed rod to a single glowing droplet among many, precise selective pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r018",
+    "sheet_id": "s028",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Glacely",
+    "character_desc": "Espírito do gelo que guarda instantes congelados para uso rápido; segura fragmentos de neve suspensos. Caching Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a frost spirit holding suspended frozen memory-flakes ready at hand, floating shelf of quick-access icicles, swift retrieving pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r019",
+    "sheet_id": "s028",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Ferryel",
+    "character_desc": "Espírito das folhas ao vento que carrega mensagens de uma margem a outra em fila; enfileira folhas voadoras. Message Queue Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a wind-leaf spirit ushering a neat single-file line of message-carrying leaves across a stream, floating queue of ordered petals, dispatching pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r020",
+    "sheet_id": "s028",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Questra",
+    "character_desc": "Espírito rastreador da mata que fareja qualquer trilha até a fonte; ergue uma pena-bússola. Search Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a tracking woodland spirit raising a compass-feather that points through the underbrush, floating index of glowing footprints, seeking alert pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r021",
+    "sheet_id": "s028",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Petrina",
+    "character_desc": "Espírito das folhas de superfície que pinta a face visível do jardim; segura um pincel de flor. Frontend Developer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a surface-leaf spirit painting the visible canopy with a blossom-tipped brush, floating framed window of luminous foliage, expressive presenting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r022",
+    "sheet_id": "s028",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Faycelle",
+    "character_desc": "Espírito das corolas simétricas que arruma cada pétala no lugar exato; alinha flores flutuantes. UI Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a corolla spirit arranging floating flower-components into a tidy symmetrical layout grid, holding a petal-ruler of light, meticulous aligning pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r023",
+    "sheet_id": "s028",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Wendill",
+    "character_desc": "Espírito das trilhas suaves que torna cada caminho intuitivo para viajantes; desenha veredas de luz. UX Designer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a gentle-path spirit sketching an intuitive winding trail of glowing stepping-stones, floating map of a smooth journey, empathetic guiding pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r024",
+    "sheet_id": "s028",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Latticel",
+    "character_desc": "Espírito das treliças que fornece peças-padrão para todo o jardim; distribui folhas idênticas. Design Systems Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a trellis spirit dispensing a set of identical reusable leaf-tiles from a floating library-shelf of components, systematic organizing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r025",
+    "sheet_id": "s028",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Openell",
+    "character_desc": "Espírito acolhedor que garante que todo ser da floresta alcance a luz; ergue uma rampa de raízes. Accessibility Specialist.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a welcoming spirit lowering a gentle root-ramp so every small creature reaches the light, floating symbols of open hands and eyes in dew, inclusive caring pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r026",
+    "sheet_id": "s028",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Zephyrine",
+    "character_desc": "Espírito da brisa veloz que faz o pólen viajar leve e rápido; sopra sementes ágeis. Web Performance Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a swift-breeze spirit blowing pollen-seeds fast and light, floating feather-gauge measuring speed, streamlined aerodynamic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r027",
+    "sheet_id": "s028",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Tintavel",
+    "character_desc": "Espírito dos pigmentos que colore cada pétala com estilo próprio; segura uma paleta de seiva. CSS Specialist.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a pigment spirit styling petals with a sap-palette and slender brush, floating swatches of watercolor washes, artful precise pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r028",
+    "sheet_id": "s028",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Flittle",
+    "character_desc": "Espírito das asas que dá movimento gracioso a folhas e flores; deixa rastro de luz em arco. Animation Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a winged motion-spirit trailing an arc of light as it animates dancing leaves, floating motion-lines of luminous mist, dynamic fluid pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r029",
+    "sheet_id": "s028",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Pockette",
+    "character_desc": "Espírito viajante que cabe na palma da mão e vive nas trilhas; carrega um seixo-tela. Mobile Developer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a tiny travelling spirit resting on a hand-sized pebble-screen glowing with soft light, floating pocket of moss, portable nimble pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r030",
+    "sheet_id": "s028",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Orchily",
+    "character_desc": "Espírito da orquídea polida e elegante do jardim murado; segura uma maçã-fruto lustrosa. iOS Developer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a polished orchid spirit of refined elegance holding a glossy luminous fruit shaped like a rounded leaf, floating minimalist petals, sleek graceful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r031",
+    "sheet_id": "s028",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Verdroid",
+    "character_desc": "Espírito do trevo verde robusto que cresce em qualquer solo; segura um broto-robô de folhas. Android Developer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a hardy green-clover spirit holding a small leaf-golem sprout, floating gears of vine, adaptable versatile pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r032",
+    "sheet_id": "s028",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Twinnett",
+    "character_desc": "Espírito gêmeo que floresce em duas margens ao mesmo tempo com uma só semente; ponte de raiz dupla. React Native Developer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a twin-shore spirit blooming on two banks from one seed, a single root-bridge splitting to both sides, floating dual mirrored leaves, unifying pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r033",
+    "sheet_id": "s028",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Fluttress",
+    "character_desc": "Espírito da borboleta que reveste tudo com asas coloridas idênticas; capa de escamas iridescentes. Flutter Developer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a butterfly spirit cloaked in identical iridescent scale-panels rendering everything uniformly, floating widget-wings of petals, smooth graceful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r034",
+    "sheet_id": "s028",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Runelace",
+    "character_desc": "Espírito das constelações refletidas no lago que lê padrões nas águas; segura um astrolábio de junco. Data Scientist.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a constellation spirit reading star-patterns mirrored in a pond, holding a reed astrolabe, floating scatter of glowing data-fireflies forming a curve, analytical pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r035",
+    "sheet_id": "s028",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Sproutine",
+    "character_desc": "Espírito que ensina um broto a reconhecer a luz por repetição; treina uma muda viva. ML Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit training a young sprout to bend toward light through repetition, floating cycle of feedback-petals, patient teaching pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r036",
+    "sheet_id": "s028",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Tendril",
+    "character_desc": "Espírito das gavinhas que mantém as plantas treinadas sempre vivas e regadas; rega mudas em fileira. MLOps Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a tendril spirit tending rows of trained saplings on a floating trellis-pipeline, watering-can of dew, maintaining steady operational pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r037",
+    "sheet_id": "s028",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Aurwen",
+    "character_desc": "Espírito etéreo que persegue luzes ainda não nomeadas na alvorada; segura uma lente de gota. AI Researcher.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, an ethereal dawn spirit chasing faint unnamed lights, holding a dewdrop lens, floating half-formed glyphs of mist, inquisitive exploratory pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r038",
+    "sheet_id": "s028",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Whisperel",
+    "character_desc": "Espírito da voz do vento que sussurra às plantas as palavras certas para florescerem. Prompt Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a wind-voice spirit whispering the right words to a listening flower, floating ribbons of luminous phrasing curling into mist, coaxing gentle pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r039",
+    "sheet_id": "s028",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Lexvine",
+    "character_desc": "Espírito das folhas-palavra que traduz o farfalhar da mata em sentido; tece frases de nervuras. NLP Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a word-leaf spirit weaving rustling foliage into meaning, floating strands of vein-text turning to petals, interpreting thoughtful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r040",
+    "sheet_id": "s028",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Ocellus",
+    "character_desc": "Espírito de muitos olhos-orvalho que enxerga formas na neblina; segura uma lente-flor. Computer Vision Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a many-dewdrop-eyed spirit perceiving shapes in fog, holding a flower-lens framing a scene, floating grid of glowing pixels-as-pollen, observant pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r041",
+    "sheet_id": "s028",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Countess",
+    "character_desc": "Espírito que conta cada grão de pólen e revela o que os números dizem; segura um ábaco de sementes. Data Analyst.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit counting pollen grains on a seed-abacus, floating simple bar-chart of stacked leaves, clarifying explanatory pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r042",
+    "sheet_id": "s028",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Beacely",
+    "character_desc": "Espírito farol que resume o estado do jardim num único brilho legível; ergue um painel de flores. BI Analyst.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a beacon spirit raising a floating dashboard-panel of glowing flowers each showing a metric, summarizing informative pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r043",
+    "sheet_id": "s028",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Modelle",
+    "character_desc": "Espírito jardineiro que organiza canteiros de dados em fileiras limpas e confiáveis. Analytics Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a garden-tidying spirit arranging data-beds into clean reliable rows, floating layered soil-tables of light, structuring careful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r044",
+    "sheet_id": "s028",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Chartrine",
+    "character_desc": "Espírito que arranja vaga-lumes em formas belas e claras para contar histórias. Data Viz Specialist.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit arranging fireflies into a beautiful clear luminous chart-shape, floating elegant curve of glowing dots, artful communicating pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r045",
+    "sheet_id": "s028",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Bridgel",
+    "character_desc": "Espírito construtor de pontes de cipó entre a nascente e a clareira, sempre atento ao fluxo. DevOps Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a bridge-building spirit joining spring and clearing with a vine-bridge of automation, floating loop of infinity-shaped mist, connecting reliable pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r046",
+    "sheet_id": "s028",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Sentwyn",
+    "character_desc": "Espírito vigia que mantém o rio correndo sem transbordar, calmo em qualquer tempestade. Site Reliability Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a watchful spirit keeping the river flowing steady through storm, holding a floating gauge of dew-levels, resilient calm guardian pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r047",
+    "sheet_id": "s028",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Terrace",
+    "character_desc": "Espírito que talha o terreno em terraços firmes onde outros espíritos plantam. Platform Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit carving the hillside into firm terraces where other wisps can plant, floating foundation of stacked stone-leaves, supportive builder pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r048",
+    "sheet_id": "s028",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Nimbelle",
+    "character_desc": "Espírito das nuvens que ergue jardins suspensos no céu conforme a necessidade. Cloud Architect.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a cloud spirit raising floating sky-gardens that scale with need, holding a wisp of cumulus, floating airborne terraces, expansive visionary pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r049",
+    "sheet_id": "s028",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Podwynn",
+    "character_desc": "Espírito pastor que conduz um rebanho de vagens flutuantes em harmonia. Kubernetes Admin.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a shepherd spirit herding a cluster of floating seed-pods into balanced formation, holding a curved reed staff, orchestrating pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r050",
+    "sheet_id": "s028",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Filigrane",
+    "character_desc": "Espírito das teias de orvalho que conecta cada canto da floresta com fios cintilantes. Network Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a dew-web spirit weaving shimmering threads linking every corner of the forest, floating nodes of light-droplets, connective pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r051",
+    "sheet_id": "s028",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Rootward",
+    "character_desc": "Espírito zelador que mantém as raízes-servas do bosque saudáveis e atualizadas. Systems Administrator.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a caretaker spirit maintaining the forest's server-roots, holding a pruning-shear of light and an oil-drop of resin, dutiful upkeep pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r052",
+    "sheet_id": "s028",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Blossell",
+    "character_desc": "Espírito que decide o instante exato em que o botão vira flor aberta ao mundo. Release Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit choosing the exact moment a bud opens to the world, holding a floating blooming flower mid-release, floating version-rings of petals, decisive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r053",
+    "sheet_id": "s028",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Kindler",
+    "character_desc": "Espírito que junta gravetos dispersos e os funde num único tronco pronto. Build Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit gathering scattered twigs and fusing them into one finished trunk-artifact, floating assembly of interlocking branches, constructive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r054",
+    "sheet_id": "s028",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Cyclette",
+    "character_desc": "Espírito da roldana de cipó que repete o ciclo semear-testar-plantar sem cessar. CI/CD Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a vine-pulley spirit endlessly cycling sow-test-plant, floating loop of green arrows made of leaves, automated rhythmic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r055",
+    "sheet_id": "s028",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Thornwarden",
+    "character_desc": "Espírito das sebes espinhosas que protege o jardim de intrusos; ergue escudo de espinhos. Security Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a thorn-hedge warden spirit raising a shield of interlocked thorns, floating locked-bramble sigil, vigilant protective pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r056",
+    "sheet_id": "s028",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Piercet",
+    "character_desc": "Espírito travesso que testa cada cerca procurando a brecha; segura um espinho-chave. Penetration Tester.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a mischievous spirit probing a hedge for gaps with a lockpick-thorn, floating map of hidden holes in the bramble, sly testing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r057",
+    "sheet_id": "s028",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Barkward",
+    "character_desc": "Espírito da casca que blinda cada tronco por dentro contra pragas. AppSec Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a bark spirit armoring a trunk from within against pests, holding a floating shield-leaf inspecting code-grain, defensive careful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r058",
+    "sheet_id": "s028",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cipheria",
+    "character_desc": "Espírito das runas de orvalho que esconde segredos em padrões de gelo ilegíveis. Cryptographer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a dew-rune spirit hiding secrets in unreadable frost-patterns, holding a keyed snowflake, floating scramble of glowing glyphs, enigmatic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r059",
+    "sheet_id": "s028",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Statute",
+    "character_desc": "Espírito guardião das leis antigas do bosque que verifica cada rito. Compliance Officer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit guardian of the grove's ancient laws checking each rite against a floating stone-tablet of leaf-runes, holding a seal-stamp of resin, formal pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r060",
+    "sheet_id": "s028",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Veilwen",
+    "character_desc": "Espírito que cobre as trilhas dos animais para que ninguém os rastreie. Privacy Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit veiling creatures' tracks in protective mist so none can trace them, holding a floating cloak of fog, floating redaction-petals, discreet shielding pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r061",
+    "sheet_id": "s028",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Emberwake",
+    "character_desc": "Espírito que corre primeiro ao incêndio da mata e organiza a resposta. Incident Responder.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit rushing first to a forest fire, raising an alarm-bell flower and a bucket of dew, floating alert-embers, urgent decisive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r062",
+    "sheet_id": "s028",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Foreshade",
+    "character_desc": "Espírito que imagina onde a tempestade pode atingir antes que ela venha. Threat Modeler.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit foreseeing where storms may strike, tracing attack-paths as floating lightning-vines over a map of the grove, anticipating watchful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r063",
+    "sheet_id": "s028",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Siftwen",
+    "character_desc": "Espírito que examina cada fruto em busca de bicho antes da colheita. QA Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit inspecting each fruit for flaws before harvest, holding a magnifying dewdrop, floating checklist of leaf-marks, scrutinizing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r064",
+    "sheet_id": "s028",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Autumbot",
+    "character_desc": "Espírito que fabrica pequenos duendes-inseto para testar frutos automaticamente. SDET.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit conjuring tiny automated insect-sprites that test fruit on repeat, floating swarm of glowing test-bugs, floating green pass-marks, systematic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r065",
+    "sheet_id": "s028",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Straina",
+    "character_desc": "Espírito que empurra o galho ao limite para ver quanto peso aguenta. Performance Tester.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit bending a branch to its limit to test its strength, holding a floating load-gauge of stacked stones, straining measuring pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r066",
+    "sheet_id": "s028",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Handsel",
+    "character_desc": "Espírito paciente que prova cada trilha a pé, sentindo cada pedra. Manual Tester.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a patient spirit walking each trail on foot to feel every stone, holding a lantern and a floating notebook of pressed leaves, careful methodical pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r067",
+    "sheet_id": "s028",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Openbud",
+    "character_desc": "Espírito que confere se toda criatura consegue usar cada trilha sem barreira. Accessibility Tester.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit checking every trail is usable for all creatures, holding a floating checklist beside open-hand and eye dew-symbols, verifying inclusive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r068",
+    "sheet_id": "s028",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Scrivel",
+    "character_desc": "Espírito que grava a sabedoria da floresta em folhas-manuscrito legíveis. Technical Writer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit inscribing forest wisdom onto readable manuscript-leaves with a reed pen, floating scroll of clear diagrams in dew-ink, documenting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r069",
+    "sheet_id": "s028",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Herolde",
+    "character_desc": "Espírito arauto que viaja entre bosques contando as maravilhas do jardim. Developer Advocate.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a herald spirit travelling between groves proclaiming the garden's wonders, raising a flower-trumpet, floating banner of leaves, enthusiastic outreach pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r070",
+    "sheet_id": "s028",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Threadle",
+    "character_desc": "Espírito que planeja qual história a floresta vai contar em cada estação. Content Strategist.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit planning the forest's seasonal story, arranging a floating storyboard of leaf-panels, holding a strategy-map of vines, thoughtful planning pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r071",
+    "sheet_id": "s028",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Polylune",
+    "character_desc": "Espírito das muitas luas que fala a língua de cada canto da floresta. Localization Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a many-moons spirit speaking every corner's tongue, holding floating leaves each in a different script-glyph of dew, world-globe of moss, adapting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r072",
+    "sheet_id": "s028",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Formose",
+    "character_desc": "Espírito escultor que dá forma completa à experiência de uma flor, do broto ao aroma. Product Designer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a sculptor spirit shaping a flower's whole experience from bud to scent, holding a floating clay-petal prototype, holistic crafting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r073",
+    "sheet_id": "s028",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Chromelle",
+    "character_desc": "Espírito que escolhe as cores exatas que fazem o jardim encantar o olhar. Visual Designer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit choosing the exact enchanting colors of the garden, holding a floating palette-flower of graded washes, aesthetic composing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r074",
+    "sheet_id": "s028",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Touchwen",
+    "character_desc": "Espírito que ensina flores a responderem ao toque de forma agradável. Interaction Designer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit teaching flowers to respond pleasingly to touch, tracing a floating gesture-arc of glowing ripples, responsive attentive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r075",
+    "sheet_id": "s028",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Glidessa",
+    "character_desc": "Espírito que dá às folhas a queda mais graciosa e o movimento mais suave. Motion Designer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit giving leaves the most graceful fall, trailing floating easing-curves of luminous mist, elegant flowing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r076",
+    "sheet_id": "s028",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Inkbloom",
+    "character_desc": "Espírito que desenha à mão criaturas imaginárias nas cascas das árvores. Illustrator.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit hand-drawing imaginary creatures onto bark, holding a brush dripping luminous ink, floating sketch of a whimsical beast, creative pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r077",
+    "sheet_id": "s028",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Pebblewen",
+    "character_desc": "Espírito que talha pequenos ícones-seixo úteis para todo o jardim. Asset Designer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit carving small useful pebble-icons for the garden, floating tray of tidy leaf-glyph assets, precise crafting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r078",
+    "sheet_id": "s028",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Sigilla",
+    "character_desc": "Espírito que dá ao bosque um emblema-flor único e reconhecível. Brand Designer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit forming the grove's single recognizable emblem-flower, holding a floating crest of stylized petals, defining confident pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r079",
+    "sheet_id": "s028",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Chimewen",
+    "character_desc": "Espírito das cordas de vento que compõe a trilha sonora da floresta. Sound Designer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a wind-chime spirit composing the forest's soundtrack, holding a set of floating dewdrop bells and reed-flute, floating sound-ripples of light, musical pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r080",
+    "sheet_id": "s028",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Volumel",
+    "character_desc": "Espírito que esculpe formas em três dimensões a partir de argila de névoa. 3D Artist.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit sculpting three-dimensional forms from mist-clay, rotating a floating faceted crystal-model, floating wireframe of vine-lattice, shaping pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r081",
+    "sheet_id": "s028",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Ludelle",
+    "character_desc": "Espírito brincalhão que inventa as regras dos jogos entre os riachos. Game Designer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a playful spirit inventing the rules of brook-games, holding floating dice-seeds and a rulebook-leaf, floating game-loop of petals, inventive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r082",
+    "sheet_id": "s028",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Mazewen",
+    "character_desc": "Espírito que desenha labirintos de sebe cheios de segredos e desafios. Level Designer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit designing a hedge-maze full of secrets, holding a floating map of winding paths with hidden nooks, floating flags of leaves, planning pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r083",
+    "sheet_id": "s028",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Fabelle",
+    "character_desc": "Espírito contador que tece o enredo dos mitos da floresta. Narrative Designer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a storyteller spirit weaving the forest's myth-plot, holding an open glowing tale-scroll, floating branching story-threads of vine, narrating pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r084",
+    "sheet_id": "s028",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Sportle",
+    "character_desc": "Espírito que dá vida jogável às criaturas do jogo da floresta. Game Developer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit bringing forest game-creatures to interactive life, holding a floating controller of woven twigs, floating sprite-wisps mid-motion, energetic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r085",
+    "sheet_id": "s028",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Glimmris",
+    "character_desc": "Espírito que faz a luz brincar nas superfícies com brilhos e sombras vivas. Graphics/Shader Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit making light play across surfaces with living gleams and shadow, holding a prism-dewdrop casting rainbow washes, floating shader-facets, luminous pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r086",
+    "sheet_id": "s028",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Cricketel",
+    "character_desc": "Espírito minúsculo que habita sementes e faz pequenas coisas pensarem. Embedded Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a tiny spirit dwelling inside a seed making small things think, holding a glowing chip-shaped leaf, floating micro-circuits of vein, compact pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r087",
+    "sheet_id": "s028",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Corewen",
+    "character_desc": "Espírito que sussurra as primeiras instruções ao coração de uma semente. Firmware Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit whispering first instructions to a seed's core, holding a floating tiny scroll embedded in an acorn, floating low-level runes, foundational pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r088",
+    "sheet_id": "s028",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Netherbell",
+    "character_desc": "Espírito que conecta muitas florzinhas sensoras que reportam o clima. IoT Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit linking many small sensor-flowers reporting the weather, holding a floating web of tiny glowing blossoms, connected attentive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r089",
+    "sheet_id": "s028",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Chainar",
+    "character_desc": "Espírito que enfileira elos de âmbar imutáveis num colar transparente. Blockchain Developer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit stringing immutable amber links into a transparent chain-necklace, floating ledger of glowing blocks, distributed steadfast pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r090",
+    "sheet_id": "s028",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Vowen",
+    "character_desc": "Espírito que examina cada elo de âmbar em busca de trinca oculta. Smart Contract Auditor.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit inspecting each amber link for hidden cracks, holding a magnifying dewdrop over a chain-necklace, floating audit-marks of light, scrutinizing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r091",
+    "sheet_id": "s028",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Mirevel",
+    "character_desc": "Espírito que sobrepõe visões encantadas ao mundo real da floresta. AR/VR Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit overlaying enchanted visions onto the real forest, wearing goggles of dew-glass, floating translucent phantom-layers of leaves, immersive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r092",
+    "sheet_id": "s028",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Cogsprite",
+    "character_desc": "Espírito que anima criaturas-autômato de galho que se movem sozinhas. Robotics Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit animating branch-automaton creatures that move on their own, holding a floating jointed twig-limb, floating gears of bark, tinkering pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r093",
+    "sheet_id": "s028",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Sproutgale",
+    "character_desc": "Espírito que faz o jardim se espalhar rápido, semeando cada vento. Growth Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit spreading the garden fast, casting seeds on every gust, floating rising graph-vine curving upward, expansive energetic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r094",
+    "sheet_id": "s028",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Beckonel",
+    "character_desc": "Espírito farol que faz o bosque ser encontrado por viajantes distantes. SEO Specialist.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a beacon spirit making the grove easy to find, raising a glowing signal-flower, floating keywords-as-fireflies drawing travellers, attracting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r095",
+    "sheet_id": "s028",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Trellhas",
+    "character_desc": "Espírito que liga as ferramentas do jardineiro num sistema de crescimento. Marketing Technologist.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit wiring the gardener's tools into one growth-system, holding a floating trellis linking funnel-flowers, connecting strategic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r096",
+    "sheet_id": "s028",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Fitwen",
+    "character_desc": "Espírito que molda a solução exata ao formato do vale do cliente. Solutions Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a spirit fitting a tailored bloom into a valley's exact shape, holding a floating puzzle-leaf snapping into place, adapting helpful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r097",
+    "sheet_id": "s028",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Solacea",
+    "character_desc": "Espírito curador que acode a criatura ferida e resolve seu apuro. Support Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a caring spirit soothing a hurt creature and solving its trouble, holding a floating healing-blossom and a ticket-leaf, compassionate helpful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r098",
+    "sheet_id": "s028",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Charmwen",
+    "character_desc": "Espírito encantador que mostra a viajantes a beleza útil do jardim. Sales Engineer.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a charming spirit showing travellers the garden's useful beauty, presenting a floating radiant bloom in open hands, floating value-petals, persuasive warm pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r099",
+    "sheet_id": "s028",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Tallywen",
+    "character_desc": "Espírito zeloso que mede seiva e água para não desperdiçar recurso. FinOps Analyst.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a thrifty spirit measuring sap and water to avoid waste, holding a floating scale of dew-coins and a budget-leaf, cost-conscious careful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s028-r100",
+    "sheet_id": "s028",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Lawrelle",
+    "character_desc": "Espírito togado dos carvalhos-lei que aconselha sobre os pactos da floresta. Legal Counsel.",
+    "nano_prompt": "ethereal watercolor nature spirit, translucent luminous body dissolving into drifting mist and soft pigment washes, ghostly phantasmal glow, delicate wet-on-wet paper texture, muted botanical palette, full-body floating figure, a robed oak-law spirit advising on the forest's pacts, holding a floating tablet of leaf-clauses and a laurel gavel, judicious formal pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

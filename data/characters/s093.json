@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s093-r001",
+    "sheet_id": "s093",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Arquiteta do Grid Neon",
+    "character_desc": "Implante holográfico na têmpora que projeta plantas 3D de cidades-servidor; casaco técnico com trilhas de luz que mapeiam sistemas inteiros.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a poised woman architect with a glowing temple implant projecting a floating holographic 3D blueprint of a megacity server-grid, wearing a technical trench coat threaded with luminous circuit lines, cybernetic monocle scanning structures. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r002",
+    "sheet_id": "s093",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Comandante da Linha-Técnica",
+    "character_desc": "HUD tático no olho que orquestra squads de drones-código; braçadeira com relés que coordena o time em tempo real.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a confident tech lead with a tactical single-eye HUD visor directing a small swarm of coordination drones, a forearm relay bracer glowing with team-sync lights, worn utility jacket with rank pauldron. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r003",
+    "sheet_id": "s093",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Sentinela Staff",
+    "character_desc": "Exoesqueleto leve nos ombros que carrega múltiplos sistemas; implantes veteranos que resolvem problemas transversais da cidade.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a seasoned staff engineer with a light shoulder exo-frame bearing multiple system modules, veteran cybernetic implants across the jaw, holographic problem-map hovering at the shoulder. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r004",
+    "sheet_id": "s093",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Principal do Núcleo",
+    "character_desc": "Coroa de sensores que enxerga a arquitetura inteira da metrópole; manto técnico de alta patente com nós de luz.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a principal engineer wearing a crown-like sensor halo perceiving the whole city architecture, a high-rank technical mantle with luminous nodes, deep calm authority in the eyes. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r005",
+    "sheet_id": "s093",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Regente de Engenharia",
+    "character_desc": "Painel de gestão no antebraço que mostra a saúde do time; fone-implante que ouve todos os squads da rua.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. an engineering manager with a forearm management panel showing team-health gauges, an implanted earpiece linking every street squad, a tailored techwear coat. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r006",
+    "sheet_id": "s093",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Oráculo de Produto",
+    "character_desc": "Lente de visão de mercado que sobrepõe roadmaps nas ruas; tablet-holograma preso ao braço com o norte do produto.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a product oracle with a market-vision lens overlaying glowing roadmaps onto the rainy street, an arm-mounted holographic product tablet, decisive expression. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r007",
+    "sheet_id": "s093",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Guardião do Backlog",
+    "character_desc": "Rosário de fichas holográficas priorizadas na cintura; visor que ranqueia demandas por valor.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a product owner with a hip chain of prioritized holographic backlog cards, a value-ranking visor sorting demands, pragmatic stance in a slick raincoat. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r008",
+    "sheet_id": "s093",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Maestro de Programas",
+    "character_desc": "Baguete-controle que rege múltiplos projetos simultâneos; teia de fios de luz conectando iniciativas no peito.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a program manager holding a conductor-baton controller orchestrating multiple project streams, a chest web of glowing initiative threads, elegant commanding posture. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r009",
+    "sheet_id": "s093",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Cartógrafo de Prazos",
+    "character_desc": "Cronômetro-implante no pulso que projeta cronogramas Gantt em luz; cinto com marcos temporais.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a project manager with a wrist chrono-implant projecting a glowing Gantt timeline, a belt of temporal milestone tokens, focused planner gaze. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r010",
+    "sheet_id": "s093",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Xamã do Sprint",
+    "character_desc": "Bastão-totem com anéis rotativos de cerimônia ágil; aura de sinos-implante que marca o ritmo do ciclo.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a scrum master shaman holding a totem staff with rotating agile-ceremony rings, implanted chime pods marking sprint rhythm, encouraging warm expression. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r011",
+    "sheet_id": "s093",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Forjador do Backend",
+    "character_desc": "Braços aumentados com ferramentas de servidor; núcleo de servidor pulsando no peito como coração.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a backend developer with augmented mechanical arms holding server tools, a pulsing server-core glowing like a heart in the chest, grease-streaked techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r012",
+    "sheet_id": "s093",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Arquiteta de Portais-API",
+    "character_desc": "Luvas que desenham contratos de endpoint em luz; anel de conectores REST flutuando ao redor do braço.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. an API designer with gloves drawing luminous endpoint contracts in the air, a floating ring of REST connector nodes orbiting the forearm, sleek focused look. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r013",
+    "sheet_id": "s093",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Tecelã de Microserviços",
+    "character_desc": "Enxame de módulos-cubo orbitando os ombros, cada um um serviço; fios de luz interligando-os.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a microservices engineer with a swarm of small cube service-modules orbiting the shoulders, thin light threads linking them, a modular segmented jacket. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r014",
+    "sheet_id": "s093",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Condutor do Pipeline",
+    "character_desc": "Braço-canalizador por onde flui dado luminoso de ponta a ponta; visor que vê o fluxo do ETL.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a pipeline developer with a channel-arm through which luminous data flows end to end, a flow-visor tracking ETL streams, industrial techwear with conduit tubes. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r015",
+    "sheet_id": "s093",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Mineradora de Dados-Bruto",
+    "character_desc": "Furadeira-implante que extrai veios de dado das paredes da cidade; mochila-refinaria nas costas.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a data engineer with a drill-implant arm extracting glowing data veins from city walls, a back-mounted refinery pack, dust-and-neon-streaked heavy jacket. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r016",
+    "sheet_id": "s093",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Guardiã do Datacore",
+    "character_desc": "Chave-mestra biônica pendurada ao pescoço; olho-scanner que audita o banco de dados vivo pulsando atrás dela.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a database administrator guardian with a bionic master-key pendant, a scanner-eye auditing a living pulsing database vault behind her, vault-keeper long coat. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r017",
+    "sheet_id": "s093",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Encantadora de Queries",
+    "character_desc": "Varinha-terminal que digita SQL em luz no ar; sigilos de consulta girando na palma.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a SQL specialist casting glowing SQL queries into the air with a terminal-wand, rotating query sigils in the open palm, arcane-tech hooded jacket. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r018",
+    "sheet_id": "s093",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Sentinela do Cache",
+    "character_desc": "Cofre-relâmpago no peito que guarda respostas quentes; luvas que congelam e liberam dados instantâneos.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a caching engineer with a lightning-vault chest module storing hot responses, gloves that freeze and release instant data shards, fast sleek reflective coat. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r019",
+    "sheet_id": "s093",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Despachante de Filas",
+    "character_desc": "Esteira-implante no braço movendo pacotes-mensagem enfileirados; painel FIFO piscando no ombro.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a message queue engineer with a conveyor-belt arm moving queued message packets, a blinking FIFO panel on the shoulder, logistics-grade techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r020",
+    "sheet_id": "s093",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Rastreadora do Índice",
+    "character_desc": "Lupa-drone que varre um oceano de dados indexados; farol-implante que ilumina resultados relevantes.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a search engineer with a magnifier-drone sweeping an ocean of indexed data, a beacon-implant lighting relevant results, explorer techwear with index cards of light. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r021",
+    "sheet_id": "s093",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Pintora da Interface",
+    "character_desc": "Luvas-pincel que desenham UIs vivas no ar; visor que mostra o layout responsivo em camadas.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a frontend developer with brush-gloves painting living glowing UI panels in the air, a visor showing layered responsive layouts, colorful reflective techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r022",
+    "sheet_id": "s093",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Escultora de Componentes",
+    "character_desc": "Bancada portátil no antebraço montando widgets luminosos; peças de UI encaixáveis na cintura.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a UI engineer with a forearm micro-workbench assembling glowing widgets, snap-together UI pieces on the belt, precise crafty expression. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r023",
+    "sheet_id": "s093",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Leitora de Jornadas",
+    "character_desc": "Óculos que mapeiam o caminho do usuário como trilhas de luz no chão; caderno-holograma de fluxos.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a UX designer wearing goggles that map user journeys as glowing floor trails, a holographic flow-notebook in hand, empathetic thoughtful look, soft techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r024",
+    "sheet_id": "s093",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Curadora do Sistema-Design",
+    "character_desc": "Paleta-implante que distribui tokens de estilo padronizados; grade modular de luz atrás dela.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a design systems engineer with a palette-implant dispensing standardized style tokens, a modular light-grid behind, orderly minimalist techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r025",
+    "sheet_id": "s093",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Voz do Acesso",
+    "character_desc": "Implante auditivo-visual que traduz interfaces para todos; halo de ondas inclusivas ao redor da cabeça.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. an accessibility specialist with an audio-visual implant translating interfaces for everyone, a halo of inclusive signal waves around the head, warm caring expression. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r026",
+    "sheet_id": "s093",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Aceleradora da Web",
+    "character_desc": "Botas-turbina e cronômetro no peito medindo milissegundos; rastros de velocidade nos ombros.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a web performance engineer with turbine accents and a chest chrono measuring milliseconds, speed-trail light streaks on the shoulders, aerodynamic racing techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r027",
+    "sheet_id": "s093",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Estilista das Cascatas",
+    "character_desc": "Luvas que dobram folhas de estilo em luz fluida; cachecol-CSS que muda de cor e forma.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a CSS specialist with gloves folding fluid glowing style-sheets, a color-shifting CSS scarf morphing shape, fashionable expressive techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r028",
+    "sheet_id": "s093",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Coreógrafa do Movimento",
+    "character_desc": "Braceletes que deixam rastros de animação no ar; visor com curvas de easing pulsando.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. an animation engineer with bracelets leaving motion-trail afterimages in the air, a visor showing pulsing easing curves, graceful dynamic pose. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r029",
+    "sheet_id": "s093",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Nômade do Bolso",
+    "character_desc": "Dispositivo dobrável no antebraço que vira qualquer tela; holsters com apps portáteis luminosos.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a mobile developer with a foldable forearm device unfolding into any screen, holsters of glowing portable app-cartridges, on-the-go nomad techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r030",
+    "sheet_id": "s093",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Cavaleira da Maçã",
+    "character_desc": "Armadura polida minimalista com um núcleo-fruta luminoso; luva de gestos suaves precisos.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. an iOS developer in polished minimalist armor with a glowing fruit-core emblem, a gesture glove making smooth precise motions, clean premium techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r031",
+    "sheet_id": "s093",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Andarilho do Androide",
+    "character_desc": "Braço robótico verde translúcido cheio de módulos abertos; drone-mascote flutuando ao lado.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. an Android developer with a translucent green robotic arm full of open modules, a small mascot-robot drone floating beside, hacker open-source techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r032",
+    "sheet_id": "s093",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Ponte-Nativa",
+    "character_desc": "Duas mãos biônicas fundindo dois mundos de luz num só app; ponte de circuito ligando os braços.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a React Native developer with two bionic hands merging two light-worlds into one app, a circuit-bridge arcing between the arms, dual-tone hybrid techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r033",
+    "sheet_id": "s093",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Alado do Flutter",
+    "character_desc": "Asas-widget que batem renderizando telas idênticas; núcleo azul de motor gráfico no peito.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a Flutter developer with widget-wings that flap rendering identical screens, a blue rendering-engine core in the chest, agile winged techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r034",
+    "sheet_id": "s093",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Vidente dos Dados",
+    "character_desc": "Terceiro olho holográfico que enxerga padrões estatísticos; nuvem de pontos-dado orbitando a cabeça.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a data scientist with a holographic third eye seeing statistical patterns, a cloud of orbiting data-points around the head, contemplative scholar techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r035",
+    "sheet_id": "s093",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Domadora de Modelos",
+    "character_desc": "Coleira-controle ligada a uma fera-rede neural de luz; luva que ajusta pesos brilhantes.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. an ML engineer holding a control-leash tied to a glowing neural-network beast, a glove tuning luminous weights, trainer-style rugged techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r036",
+    "sheet_id": "s093",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Zelador dos Modelos-Vivos",
+    "character_desc": "Painel de monitoramento no braço vigiando modelos em produção; drone-veterinário de deploy ao lado.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. an MLOps engineer with an arm monitoring panel watching live production models, a small deploy-medic drone beside, operations vest techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r037",
+    "sheet_id": "s093",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Exploradora do Desconhecido",
+    "character_desc": "Capacete-antena captando ideias inéditas do éter de dados; caderno-holograma de hipóteses.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. an AI researcher with an antenna-helmet capturing novel ideas from the data-ether, a holographic hypothesis notebook, curious frontier-explorer techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r038",
+    "sheet_id": "s093",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Sussurradora de Prompts",
+    "character_desc": "Microfone-implante que molda palavras em comandos luminosos; véu de texto-luz fluindo dos lábios.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a prompt engineer with a mic-implant shaping words into glowing commands, a veil of flowing light-text streaming from the lips, mystic wordsmith techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r039",
+    "sheet_id": "s093",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Intérprete das Vozes",
+    "character_desc": "Fones que decompõem fala em partículas de significado; onda sonora tatuada em luz no pescoço.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. an NLP engineer with headphones decomposing speech into meaning-particles, a glowing sound-wave etched on the neck, linguistic analyst techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r040",
+    "sheet_id": "s093",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Olho-Máquina",
+    "character_desc": "Olho cibernético gigante que reconhece o mundo em caixas delimitadoras; grade de detecção projetada à frente.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a computer vision engineer with a large cybernetic eye recognizing the world in bounding boxes, a projected detection grid ahead, optical-tech visor jacket. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r041",
+    "sheet_id": "s093",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Leitora de Padrões",
+    "character_desc": "Régua-laser que corta gráficos no ar; painel de dashboards flutuando ao redor dos ombros.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a data analyst with a laser-ruler slicing charts in the air, floating dashboard panels around the shoulders, sharp analytical techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r042",
+    "sheet_id": "s093",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Tradutora do Negócio",
+    "character_desc": "Visor que converte números em decisões de luz; maleta-holograma com KPIs brilhando.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a BI analyst with a visor converting numbers into glowing decisions, a holographic briefcase of shining KPIs, corporate-neon smart techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r043",
+    "sheet_id": "s093",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Engenheira das Métricas",
+    "character_desc": "Ferramentas que esculpem modelos de dados limpos; tubos luminosos transformando dados brutos em ouro.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. an analytics engineer with tools sculpting clean data-models, glowing tubes transforming raw data into gold streams, tidy pragmatic techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r044",
+    "sheet_id": "s093",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Artesã dos Gráficos",
+    "character_desc": "Luvas que sopram gráficos de vidro-luz vivos; paleta de visualizações girando na palma.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a data viz specialist with gloves blowing living glass-light charts, a rotating palette of visualizations in the palm, artful colorful techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r045",
+    "sheet_id": "s093",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Mecânico do Deploy",
+    "character_desc": "Cinto de ferramentas de infra com chaves-inglesas luminosas; braço que aperta parafusos de pipeline no ar.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a DevOps engineer with an infra tool-belt of glowing wrenches, an arm tightening floating pipeline bolts, grease-and-neon mechanic techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r046",
+    "sheet_id": "s093",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Vigia da Confiabilidade",
+    "character_desc": "Torre de vigilância-implante nas costas monitorando uptime; escudo com medidor de SLA no braço.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a site reliability engineer with a back-mounted watchtower implant monitoring uptime, an arm shield showing an SLA gauge, alert sentinel techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r047",
+    "sheet_id": "s093",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Fundadora da Plataforma",
+    "character_desc": "Base-plataforma flutuante sob os pés feita de blocos de luz; ferramentas que outros times usam penduradas nela.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a platform engineer standing on a floating platform-base of light blocks, developer tools hanging from it for others to use, foundational sturdy techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r048",
+    "sheet_id": "s093",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Arquiteta das Nuvens",
+    "character_desc": "Nuvens-servidor holográficas flutuando sobre as mãos; mapa de regiões-cloud projetado no manto.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a cloud architect with holographic server-clouds floating above the hands, a cloud-region map projected across the mantle, ethereal high-altitude techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r049",
+    "sheet_id": "s093",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Timoneira dos Contêineres",
+    "character_desc": "Leme-implante que pilota um cargueiro de contêineres de luz; enxame de pods orbitando os ombros.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a kubernetes admin with a helm-implant steering a glowing container cargo-ship, a swarm of orbiting pods around the shoulders, maritime-tech captain jacket. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r050",
+    "sheet_id": "s093",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Tecelã da Rede",
+    "character_desc": "Mãos entrelaçando cabos de fibra luminosa; roteador-coração pulsando pacotes no peito.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a network engineer weaving glowing fiber cables between the hands, a router-heart pulsing packets in the chest, cable-laden utility techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r051",
+    "sheet_id": "s093",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Zelador dos Sistemas",
+    "character_desc": "Chaveiro gigante de acessos-root; terminal-implante no pulso administrando máquinas da cidade.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a systems administrator with a giant ring of root-access keys, a wrist terminal-implant managing city machines, weathered dependable techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r052",
+    "sheet_id": "s093",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Lançadora de Versões",
+    "character_desc": "Cápsula-foguete no ombro pronta pra deploy; painel de release com tag brilhante na mão.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a release engineer with a shoulder rocket-capsule ready to deploy, a glowing release-tag panel in hand, launch-crew techwear with countdown lights. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r053",
+    "sheet_id": "s093",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Ferreiro do Build",
+    "character_desc": "Bigorna-implante que forja artefatos compilados; martelo-luz batendo binários no braço.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a build engineer with an anvil-implant forging compiled artifacts, a glowing hammer striking binaries on the arm, sparks-and-neon blacksmith techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r054",
+    "sheet_id": "s093",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Guardiã do Fluxo Contínuo",
+    "character_desc": "Esteira circular de luz girando builds em testes e deploys; semáforo verde-implante no peito.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a CI/CD engineer with a circular light-conveyor cycling builds through tests and deploys, a green-light implant on the chest, automation-grade techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r055",
+    "sheet_id": "s093",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Netrunner do Firewall",
+    "character_desc": "Escudo-firewall holográfico no braço barrando intrusões; olho vermelho de detecção de ameaças.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a security engineer netrunner with a holographic firewall shield on the arm blocking intrusions, a red threat-detection eye, armored hacker techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r056",
+    "sheet_id": "s093",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Fantasma da Brecha",
+    "character_desc": "Traje furtivo com ganchos de invasão; luva que arromba fechaduras digitais em luz.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a penetration tester in a stealth suit with intrusion hooks, a glove picking glowing digital locks, shadowy infiltrator techwear with hood. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r057",
+    "sheet_id": "s093",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Blindadora de Apps",
+    "character_desc": "Placas de armadura modular que ela encaixa em aplicações vulneráveis; scanner de falhas no olho.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. an AppSec engineer fitting modular armor plates onto vulnerable applications, a flaw-scanner eye, protective reinforced techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r058",
+    "sheet_id": "s093",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Tecelã de Cifras",
+    "character_desc": "Anéis giratórios de chaves criptográficas nas mãos; véu de código cifrado fluindo em luz.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a cryptographer with rotating cipher-key rings in the hands, a veil of encrypted code flowing in light, arcane secretive techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r059",
+    "sheet_id": "s093",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Juíza da Conformidade",
+    "character_desc": "Balança-holograma pesando regras e riscos; selo-implante de aprovação brilhando na palma.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a compliance officer holding a holographic scale weighing rules and risks, an approval-seal implant glowing in the palm, formal authoritative techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r060",
+    "sheet_id": "s093",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Guardadora da Privacidade",
+    "character_desc": "Manto que apaga dados pessoais em névoa; cofre-implante de anonimização no peito.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a privacy engineer with a mantle that erases personal data into mist, an anonymization-vault implant in the chest, discreet guardian techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r061",
+    "sheet_id": "s093",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Bombeira dos Incidentes",
+    "character_desc": "Traje resistente com extintor-implante de fogo digital; sirene-luz vermelha girando no ombro.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. an incident responder in a rugged suit with a digital-fire extinguisher implant, a spinning red alarm-light on the shoulder, emergency-crew techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r062",
+    "sheet_id": "s093",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Cartógrafa das Ameaças",
+    "character_desc": "Mapa holográfico de vetores de ataque flutuando à frente; alfinetes-luz marcando riscos.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a threat modeler with a holographic map of attack vectors floating ahead, glowing pins marking risks, strategic tactician techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r063",
+    "sheet_id": "s093",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Caçadora de Bugs",
+    "character_desc": "Rede-implante que captura bugs-inseto luminosos; visor que destaca falhas em vermelho.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a QA engineer with a net-implant catching glowing bug-insects, a visor highlighting defects in red, patient hunter techwear with specimen jars of light. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r064",
+    "sheet_id": "s093",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Autômato dos Testes",
+    "character_desc": "Braços-robô que rodam mil casos de teste sozinhos; painel de suíte automatizada girando.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. an SDET with robotic arms running a thousand test cases automatically, a rotating automated test-suite panel, precise machine-assisted techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r065",
+    "sheet_id": "s093",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Provocadora de Carga",
+    "character_desc": "Canhão-implante que dispara tráfego massivo em sistemas; medidor de estresse pulsando vermelho.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a performance tester with a load-cannon implant firing massive traffic at systems, a pulsing red stress-meter, heavy-duty stress-lab techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r066",
+    "sheet_id": "s093",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Andarilha dos Casos",
+    "character_desc": "Prancheta-holograma com roteiros de teste; lupa cuidadosa varrendo a interface passo a passo.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a manual tester with a holographic clipboard of test scripts, a careful magnifier scanning the interface step by step, meticulous inspector techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r067",
+    "sheet_id": "s093",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Provadora do Acesso",
+    "character_desc": "Ferramentas que testam interfaces com todos os sentidos; halo de ondas de leitor-de-tela.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. an accessibility tester with tools probing interfaces through every sense, a halo of screen-reader waves, inclusive careful techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r068",
+    "sheet_id": "s093",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Escriba do Manual",
+    "character_desc": "Caneta-holograma que grava documentação luminosa no ar; pergaminho-tela desenrolando conhecimento.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a technical writer with a holographic pen inscribing luminous docs in the air, an unrolling screen-scroll of knowledge, scholarly techwear with data-ink stains. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r069",
+    "sheet_id": "s093",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Arauto dos Devs",
+    "character_desc": "Megafone-implante que espalha conhecimento em ondas de luz; palco portátil brilhando à sua frente.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a developer advocate with a megaphone-implant broadcasting knowledge in light waves, a glowing portable stage ahead, charismatic showman techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r070",
+    "sheet_id": "s093",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Estrategista da Narrativa",
+    "character_desc": "Tabuleiro-holograma que arranja peças de conteúdo; fio condutor de luz ligando histórias.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a content strategist arranging content pieces on a holographic board, a glowing narrative thread linking stories, thoughtful planner techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r071",
+    "sheet_id": "s093",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Poliglota das Telas",
+    "character_desc": "Tradutor-implante na garganta que fala mil idiomas em luz; globo giratório de locales ao lado.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a localization engineer with a throat translator-implant speaking a thousand languages in light, a rotating globe of locales beside, worldly multilingual techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r072",
+    "sheet_id": "s093",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Artesã do Produto",
+    "character_desc": "Mãos que moldam protótipos de luz maleável; caderno-holograma de personas ao lado.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a product designer with hands molding malleable light-prototypes, a holographic persona notebook beside, creative user-centered techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r073",
+    "sheet_id": "s093",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Pintora do Visual",
+    "character_desc": "Aerógrafo-implante que lança cor e forma; paleta luminosa flutuando na mão livre.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a visual designer with an airbrush-implant spraying color and form, a floating luminous palette in the free hand, vibrant artistic techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r074",
+    "sheet_id": "s093",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Coreógrafa da Interação",
+    "character_desc": "Luvas que desenham gestos e toques em rastros de luz; painel de estados de botão pulsando.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. an interaction designer with gloves drawing gestures and taps as light trails, a pulsing button-states panel, playful precise techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r075",
+    "sheet_id": "s093",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Feiticeira do Movimento",
+    "character_desc": "Batuta que faz elementos dançarem em transições fluidas; espirais de easing girando ao redor.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a motion designer with a baton making elements dance in fluid transitions, swirling easing-spirals around, elegant kinetic techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r076",
+    "sheet_id": "s093",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Desenhista das Cenas",
+    "character_desc": "Pincel-luz que dá vida a ilustrações no ar; caderno-holograma de sketches vivos.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. an illustrator with a light-brush bringing airborne illustrations to life, a holographic sketchbook of living drawings, expressive dreamer techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r077",
+    "sheet_id": "s093",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Forjadora de Sprites",
+    "character_desc": "Braço que estampa sprites e ícones pixelados em luz; grade de assets brilhando na cintura.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. an asset designer with an arm stamping pixel sprites and icons in light, a belt-grid of glowing assets, playful pixel-craft techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r078",
+    "sheet_id": "s093",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Guardiã da Marca",
+    "character_desc": "Selo-implante que crava a identidade luminosa em tudo; aura de cor de marca ao redor.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a brand designer with a seal-implant branding luminous identity onto everything, an aura of signature brand-color around, iconic bold techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r079",
+    "sheet_id": "s093",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Escultora do Som",
+    "character_desc": "Fones-implante que moldam ondas sonoras visíveis; mixer holográfico flutuando nas mãos.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a sound designer with implant-headphones shaping visible sound waves, a floating holographic mixer in the hands, sonic atmospheric techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r080",
+    "sheet_id": "s093",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Escultora Tridimensional",
+    "character_desc": "Mãos que giram modelos 3D de luz no ar; malha wireframe orbitando o antebraço.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a 3D artist with hands rotating glowing 3D models in the air, a wireframe mesh orbiting the forearm, sculptor-precision techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r081",
+    "sheet_id": "s093",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Arquiteta do Jogo",
+    "character_desc": "Tabuleiro-holograma de regras e loops de gameplay; dado-implante de luz na palma.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a game designer with a holographic board of rules and gameplay loops, a light-die implant in the palm, imaginative playful techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r082",
+    "sheet_id": "s093",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Construtora de Mundos",
+    "character_desc": "Maquete-holograma de fase flutuando; ferramentas que erguem plataformas de luz.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a level designer with a floating holographic level-diorama, tools raising light platforms, architect-of-play techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r083",
+    "sheet_id": "s093",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Tecelã de Histórias",
+    "character_desc": "Livro-holograma que ramifica enredos em galhos de luz; fios de narrativa entrelaçados nas mãos.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a narrative designer with a holographic book branching plots into light-limbs, narrative threads woven between the hands, storyteller mystic techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r084",
+    "sheet_id": "s093",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Programadora do Jogo",
+    "character_desc": "Controle-implante fundido à mão que codifica mecânicas vivas; sprites de gameplay saltando ao redor.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a game developer with a controller-implant fused to the hand coding live mechanics, gameplay sprites leaping around, energetic gamer techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r085",
+    "sheet_id": "s093",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Alquimista dos Shaders",
+    "character_desc": "Mãos que pintam luz, sombra e reflexo em superfícies; prisma-implante refratando cores.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a graphics shader engineer with hands painting light, shadow and reflection onto surfaces, a refracting prism-implant, iridescent luminous techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r086",
+    "sheet_id": "s093",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Soldadora do Embarcado",
+    "character_desc": "Ferro de solda-implante e placas de circuito nos braços; chips brilhantes encaixados no traje.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. an embedded engineer with a soldering-iron implant and circuit boards on the arms, glowing chips embedded in the suit, hardware-hacker techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r087",
+    "sheet_id": "s093",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Sussurradora do Firmware",
+    "character_desc": "Chip-implante na têmpora falando a língua das máquinas; fita de bits luminosos fluindo do braço.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a firmware engineer with a temple chip-implant speaking the machines' tongue, a ribbon of luminous bits flowing from the arm, low-level tinkerer techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r088",
+    "sheet_id": "s093",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Pastora dos Dispositivos",
+    "character_desc": "Enxame de mini-drones-sensor obedecendo seu bastão; malha de IoT pulsando ao redor dela.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. an IoT engineer with a swarm of tiny sensor-drones obeying a control staff, a pulsing IoT mesh around her, connected-everything techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r089",
+    "sheet_id": "s093",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Forjadora da Corrente",
+    "character_desc": "Correntes de blocos luminosos entrelaçadas nos braços; cofre-implante descentralizado no peito.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a blockchain developer with chains of glowing blocks woven along the arms, a decentralized vault-implant in the chest, crypto-punk techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r090",
+    "sheet_id": "s093",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Inspetora dos Contratos",
+    "character_desc": "Lupa-implante que lê contratos inteligentes em luz; selo de auditoria brilhando na palma.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a smart contract auditor with a magnifier-implant reading glowing smart contracts, an audit-seal shining in the palm, forensic scrutineer techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r091",
+    "sheet_id": "s093",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Arquiteta das Realidades",
+    "character_desc": "Visor que sobrepõe mundos virtuais ao real; camadas de holograma flutuando ao redor da cabeça.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. an AR/VR engineer with a visor overlaying virtual worlds onto reality, layers of hologram floating around the head, immersive futurist techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r092",
+    "sheet_id": "s093",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Domadora dos Autômatos",
+    "character_desc": "Braço-controle ligado a um robô-parceiro de luz; painel de servos e juntas piscando.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a robotics engineer with a control-arm linked to a glowing robot companion, a blinking panel of servos and joints, mechatronic pragmatic techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r093",
+    "sheet_id": "s093",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Alquimista do Crescimento",
+    "character_desc": "Gráfico-implante de curva ascendente projetado do peito; funil de luz atraindo usuários.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a growth engineer with an implant projecting a rising growth-curve from the chest, a light-funnel drawing in users, experimental hustler techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r094",
+    "sheet_id": "s093",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Farejadora dos Buscadores",
+    "character_desc": "Antena-implante que capta a atenção dos motores de busca; ímã de tráfego luminoso na mão.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. an SEO specialist with an antenna-implant catching search-engine attention, a glowing traffic-magnet in the hand, savvy visibility techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r095",
+    "sheet_id": "s093",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Engenheira das Campanhas",
+    "character_desc": "Console de automação de marketing no antebraço; balões de mensagem-luz disparando alvo a alvo.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a marketing technologist with a forearm marketing-automation console, message-light bubbles firing target to target, connected campaign techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r096",
+    "sheet_id": "s093",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Ponte das Soluções",
+    "character_desc": "Maleta-holograma que traduz problemas em soluções demonstráveis; ponte de luz entre cliente e código.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a solutions engineer with a holographic briefcase turning problems into demoable solutions, a light-bridge between client and code, polished consultant techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r097",
+    "sheet_id": "s093",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Guardiã do Suporte",
+    "character_desc": "Fone-headset-implante ligado a chamados; escudo-luz que resolve tickets em tempo real.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a support engineer with a headset-implant tied to incoming tickets, a light-shield resolving tickets in real time, calm helpful frontline techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r098",
+    "sheet_id": "s093",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Embaixadora das Vendas",
+    "character_desc": "Holograma de demo brilhando na palma; maleta-implante que apresenta o produto em luz.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a sales engineer with a glowing demo-hologram in the palm, an implant-briefcase presenting the product in light, confident persuasive techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r099",
+    "sheet_id": "s093",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Contadora dos Custos",
+    "character_desc": "Ábaco-holograma de gastos-cloud girando; medidor de queima de orçamento pulsando no braço.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a FinOps analyst with a rotating holographic cloud-cost abacus, a budget-burn meter pulsing on the arm, sharp cost-conscious techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  },
+  {
+    "char_id": "s093-r100",
+    "sheet_id": "s093",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Advogada do Código",
+    "character_desc": "Balança-implante de justiça digital; contratos luminosos flutuando e selo legal na palma.",
+    "nano_prompt": "Cyberpunk bust portrait, rain-soaked neon dirty-high-tech atmosphere, magenta and cyan lighting, chest-up framing, subject looking directly at the camera. a legal counsel with a digital-justice scale implant, luminous contracts floating around, a legal-seal glowing in the palm, formal composed techwear. centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, cinematic neon lighting"
+  }
+]

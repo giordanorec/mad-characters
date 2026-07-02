@@ -1,0 +1,802 @@
+[
+ {
+  "n": 1,
+  "id": "r001",
+  "category": "Liderança",
+  "slug": "arquiteto",
+  "name": "Arquiteto de Solução",
+  "real_mad_role": true
+ },
+ {
+  "n": 2,
+  "id": "r002",
+  "category": "Liderança",
+  "slug": "tech-lead",
+  "name": "Tech Lead",
+  "real_mad_role": false
+ },
+ {
+  "n": 3,
+  "id": "r003",
+  "category": "Liderança",
+  "slug": "staff-engineer",
+  "name": "Staff Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 4,
+  "id": "r004",
+  "category": "Liderança",
+  "slug": "principal-engineer",
+  "name": "Principal Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 5,
+  "id": "r005",
+  "category": "Liderança",
+  "slug": "eng-manager",
+  "name": "Engineering Manager",
+  "real_mad_role": false
+ },
+ {
+  "n": 6,
+  "id": "r006",
+  "category": "Liderança",
+  "slug": "product-manager",
+  "name": "Product Manager",
+  "real_mad_role": false
+ },
+ {
+  "n": 7,
+  "id": "r007",
+  "category": "Liderança",
+  "slug": "product-owner",
+  "name": "Product Owner",
+  "real_mad_role": false
+ },
+ {
+  "n": 8,
+  "id": "r008",
+  "category": "Liderança",
+  "slug": "program-manager",
+  "name": "Program Manager",
+  "real_mad_role": false
+ },
+ {
+  "n": 9,
+  "id": "r009",
+  "category": "Liderança",
+  "slug": "project-manager",
+  "name": "Project Manager",
+  "real_mad_role": false
+ },
+ {
+  "n": 10,
+  "id": "r010",
+  "category": "Liderança",
+  "slug": "scrum-master",
+  "name": "Scrum Master",
+  "real_mad_role": false
+ },
+ {
+  "n": 11,
+  "id": "r011",
+  "category": "Backend",
+  "slug": "backend-dev",
+  "name": "Backend Developer",
+  "real_mad_role": false
+ },
+ {
+  "n": 12,
+  "id": "r012",
+  "category": "Backend",
+  "slug": "api-designer",
+  "name": "API Designer",
+  "real_mad_role": false
+ },
+ {
+  "n": 13,
+  "id": "r013",
+  "category": "Backend",
+  "slug": "microservices-eng",
+  "name": "Microservices Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 14,
+  "id": "r014",
+  "category": "Backend",
+  "slug": "pipeline-dev",
+  "name": "Pipeline Developer",
+  "real_mad_role": true
+ },
+ {
+  "n": 15,
+  "id": "r015",
+  "category": "Backend",
+  "slug": "data-engineer",
+  "name": "Data Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 16,
+  "id": "r016",
+  "category": "Backend",
+  "slug": "dba",
+  "name": "Database Administrator",
+  "real_mad_role": true
+ },
+ {
+  "n": 17,
+  "id": "r017",
+  "category": "Backend",
+  "slug": "sql-specialist",
+  "name": "SQL Specialist",
+  "real_mad_role": false
+ },
+ {
+  "n": 18,
+  "id": "r018",
+  "category": "Backend",
+  "slug": "caching-engineer",
+  "name": "Caching Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 19,
+  "id": "r019",
+  "category": "Backend",
+  "slug": "queue-engineer",
+  "name": "Message Queue Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 20,
+  "id": "r020",
+  "category": "Backend",
+  "slug": "search-engineer",
+  "name": "Search Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 21,
+  "id": "r021",
+  "category": "Frontend",
+  "slug": "frontend-dev",
+  "name": "Frontend Developer",
+  "real_mad_role": true
+ },
+ {
+  "n": 22,
+  "id": "r022",
+  "category": "Frontend",
+  "slug": "ui-engineer",
+  "name": "UI Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 23,
+  "id": "r023",
+  "category": "Frontend",
+  "slug": "ux-designer",
+  "name": "UX Designer",
+  "real_mad_role": false
+ },
+ {
+  "n": 24,
+  "id": "r024",
+  "category": "Frontend",
+  "slug": "design-systems-eng",
+  "name": "Design Systems Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 25,
+  "id": "r025",
+  "category": "Frontend",
+  "slug": "a11y-specialist",
+  "name": "Accessibility Specialist",
+  "real_mad_role": false
+ },
+ {
+  "n": 26,
+  "id": "r026",
+  "category": "Frontend",
+  "slug": "web-perf-engineer",
+  "name": "Web Performance Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 27,
+  "id": "r027",
+  "category": "Frontend",
+  "slug": "css-specialist",
+  "name": "CSS Specialist",
+  "real_mad_role": false
+ },
+ {
+  "n": 28,
+  "id": "r028",
+  "category": "Frontend",
+  "slug": "animation-engineer",
+  "name": "Animation Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 29,
+  "id": "r029",
+  "category": "Frontend",
+  "slug": "mobile-dev",
+  "name": "Mobile Developer",
+  "real_mad_role": true
+ },
+ {
+  "n": 30,
+  "id": "r030",
+  "category": "Frontend",
+  "slug": "ios-dev",
+  "name": "iOS Developer",
+  "real_mad_role": false
+ },
+ {
+  "n": 31,
+  "id": "r031",
+  "category": "Frontend",
+  "slug": "android-dev",
+  "name": "Android Developer",
+  "real_mad_role": false
+ },
+ {
+  "n": 32,
+  "id": "r032",
+  "category": "Frontend",
+  "slug": "react-native-dev",
+  "name": "React Native Developer",
+  "real_mad_role": false
+ },
+ {
+  "n": 33,
+  "id": "r033",
+  "category": "Frontend",
+  "slug": "flutter-dev",
+  "name": "Flutter Developer",
+  "real_mad_role": false
+ },
+ {
+  "n": 34,
+  "id": "r034",
+  "category": "Dados/IA",
+  "slug": "data-scientist",
+  "name": "Data Scientist",
+  "real_mad_role": false
+ },
+ {
+  "n": 35,
+  "id": "r035",
+  "category": "Dados/IA",
+  "slug": "ml-engineer",
+  "name": "ML Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 36,
+  "id": "r036",
+  "category": "Dados/IA",
+  "slug": "mlops-engineer",
+  "name": "MLOps Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 37,
+  "id": "r037",
+  "category": "Dados/IA",
+  "slug": "ai-researcher",
+  "name": "AI Researcher",
+  "real_mad_role": false
+ },
+ {
+  "n": 38,
+  "id": "r038",
+  "category": "Dados/IA",
+  "slug": "llm-prompt",
+  "name": "Prompt Engineer",
+  "real_mad_role": true
+ },
+ {
+  "n": 39,
+  "id": "r039",
+  "category": "Dados/IA",
+  "slug": "nlp-engineer",
+  "name": "NLP Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 40,
+  "id": "r040",
+  "category": "Dados/IA",
+  "slug": "cv-engineer",
+  "name": "Computer Vision Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 41,
+  "id": "r041",
+  "category": "Dados/IA",
+  "slug": "data-analyst",
+  "name": "Data Analyst",
+  "real_mad_role": false
+ },
+ {
+  "n": 42,
+  "id": "r042",
+  "category": "Dados/IA",
+  "slug": "bi-analyst",
+  "name": "BI Analyst",
+  "real_mad_role": false
+ },
+ {
+  "n": 43,
+  "id": "r043",
+  "category": "Dados/IA",
+  "slug": "analytics-engineer",
+  "name": "Analytics Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 44,
+  "id": "r044",
+  "category": "Dados/IA",
+  "slug": "dataviz-specialist",
+  "name": "Data Viz Specialist",
+  "real_mad_role": false
+ },
+ {
+  "n": 45,
+  "id": "r045",
+  "category": "Infra",
+  "slug": "devops-installer",
+  "name": "DevOps Engineer",
+  "real_mad_role": true
+ },
+ {
+  "n": 46,
+  "id": "r046",
+  "category": "Infra",
+  "slug": "sre",
+  "name": "Site Reliability Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 47,
+  "id": "r047",
+  "category": "Infra",
+  "slug": "platform-engineer",
+  "name": "Platform Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 48,
+  "id": "r048",
+  "category": "Infra",
+  "slug": "cloud-architect",
+  "name": "Cloud Architect",
+  "real_mad_role": false
+ },
+ {
+  "n": 49,
+  "id": "r049",
+  "category": "Infra",
+  "slug": "k8s-admin",
+  "name": "Kubernetes Admin",
+  "real_mad_role": false
+ },
+ {
+  "n": 50,
+  "id": "r050",
+  "category": "Infra",
+  "slug": "network-engineer",
+  "name": "Network Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 51,
+  "id": "r051",
+  "category": "Infra",
+  "slug": "sysadmin",
+  "name": "Systems Administrator",
+  "real_mad_role": false
+ },
+ {
+  "n": 52,
+  "id": "r052",
+  "category": "Infra",
+  "slug": "release-engineer",
+  "name": "Release Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 53,
+  "id": "r053",
+  "category": "Infra",
+  "slug": "build-engineer",
+  "name": "Build Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 54,
+  "id": "r054",
+  "category": "Infra",
+  "slug": "cicd-engineer",
+  "name": "CI/CD Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 55,
+  "id": "r055",
+  "category": "Segurança",
+  "slug": "security-auditor",
+  "name": "Security Engineer",
+  "real_mad_role": true
+ },
+ {
+  "n": 56,
+  "id": "r056",
+  "category": "Segurança",
+  "slug": "pentester",
+  "name": "Penetration Tester",
+  "real_mad_role": false
+ },
+ {
+  "n": 57,
+  "id": "r057",
+  "category": "Segurança",
+  "slug": "appsec-engineer",
+  "name": "AppSec Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 58,
+  "id": "r058",
+  "category": "Segurança",
+  "slug": "cryptographer",
+  "name": "Cryptographer",
+  "real_mad_role": false
+ },
+ {
+  "n": 59,
+  "id": "r059",
+  "category": "Segurança",
+  "slug": "compliance-officer",
+  "name": "Compliance Officer",
+  "real_mad_role": false
+ },
+ {
+  "n": 60,
+  "id": "r060",
+  "category": "Segurança",
+  "slug": "privacy-engineer",
+  "name": "Privacy Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 61,
+  "id": "r061",
+  "category": "Segurança",
+  "slug": "incident-responder",
+  "name": "Incident Responder",
+  "real_mad_role": false
+ },
+ {
+  "n": 62,
+  "id": "r062",
+  "category": "Segurança",
+  "slug": "threat-modeler",
+  "name": "Threat Modeler",
+  "real_mad_role": false
+ },
+ {
+  "n": 63,
+  "id": "r063",
+  "category": "Qualidade",
+  "slug": "qa-tester",
+  "name": "QA Engineer",
+  "real_mad_role": true
+ },
+ {
+  "n": 64,
+  "id": "r064",
+  "category": "Qualidade",
+  "slug": "sdet",
+  "name": "SDET (Automação)",
+  "real_mad_role": false
+ },
+ {
+  "n": 65,
+  "id": "r065",
+  "category": "Qualidade",
+  "slug": "perf-tester",
+  "name": "Performance Tester",
+  "real_mad_role": false
+ },
+ {
+  "n": 66,
+  "id": "r066",
+  "category": "Qualidade",
+  "slug": "manual-tester",
+  "name": "Manual Tester",
+  "real_mad_role": false
+ },
+ {
+  "n": 67,
+  "id": "r067",
+  "category": "Qualidade",
+  "slug": "a11y-tester",
+  "name": "Accessibility Tester",
+  "real_mad_role": false
+ },
+ {
+  "n": 68,
+  "id": "r068",
+  "category": "Conteúdo",
+  "slug": "docs-writer",
+  "name": "Technical Writer",
+  "real_mad_role": true
+ },
+ {
+  "n": 69,
+  "id": "r069",
+  "category": "Conteúdo",
+  "slug": "dev-advocate",
+  "name": "Developer Advocate",
+  "real_mad_role": false
+ },
+ {
+  "n": 70,
+  "id": "r070",
+  "category": "Conteúdo",
+  "slug": "content-strategist",
+  "name": "Content Strategist",
+  "real_mad_role": false
+ },
+ {
+  "n": 71,
+  "id": "r071",
+  "category": "Conteúdo",
+  "slug": "i18n-engineer",
+  "name": "Localization Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 72,
+  "id": "r072",
+  "category": "Design",
+  "slug": "product-designer",
+  "name": "Product Designer",
+  "real_mad_role": false
+ },
+ {
+  "n": 73,
+  "id": "r073",
+  "category": "Design",
+  "slug": "visual-designer",
+  "name": "Visual Designer",
+  "real_mad_role": false
+ },
+ {
+  "n": 74,
+  "id": "r074",
+  "category": "Design",
+  "slug": "interaction-designer",
+  "name": "Interaction Designer",
+  "real_mad_role": false
+ },
+ {
+  "n": 75,
+  "id": "r075",
+  "category": "Design",
+  "slug": "motion-designer",
+  "name": "Motion Designer",
+  "real_mad_role": false
+ },
+ {
+  "n": 76,
+  "id": "r076",
+  "category": "Design",
+  "slug": "illustrator",
+  "name": "Illustrator",
+  "real_mad_role": false
+ },
+ {
+  "n": 77,
+  "id": "r077",
+  "category": "Design",
+  "slug": "asset-designer",
+  "name": "Asset Designer",
+  "real_mad_role": true
+ },
+ {
+  "n": 78,
+  "id": "r078",
+  "category": "Design",
+  "slug": "brand-designer",
+  "name": "Brand Designer",
+  "real_mad_role": false
+ },
+ {
+  "n": 79,
+  "id": "r079",
+  "category": "Design",
+  "slug": "sound-designer",
+  "name": "Sound Designer",
+  "real_mad_role": false
+ },
+ {
+  "n": 80,
+  "id": "r080",
+  "category": "Design",
+  "slug": "3d-artist",
+  "name": "3D Artist",
+  "real_mad_role": false
+ },
+ {
+  "n": 81,
+  "id": "r081",
+  "category": "Design",
+  "slug": "game-designer",
+  "name": "Game Designer",
+  "real_mad_role": false
+ },
+ {
+  "n": 82,
+  "id": "r082",
+  "category": "Design",
+  "slug": "level-designer",
+  "name": "Level Designer",
+  "real_mad_role": false
+ },
+ {
+  "n": 83,
+  "id": "r083",
+  "category": "Design",
+  "slug": "narrative-designer",
+  "name": "Narrative Designer",
+  "real_mad_role": false
+ },
+ {
+  "n": 84,
+  "id": "r084",
+  "category": "Especializado",
+  "slug": "game-dev",
+  "name": "Game Developer",
+  "real_mad_role": false
+ },
+ {
+  "n": 85,
+  "id": "r085",
+  "category": "Especializado",
+  "slug": "graphics-engineer",
+  "name": "Graphics/Shader Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 86,
+  "id": "r086",
+  "category": "Especializado",
+  "slug": "embedded-engineer",
+  "name": "Embedded Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 87,
+  "id": "r087",
+  "category": "Especializado",
+  "slug": "firmware-engineer",
+  "name": "Firmware Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 88,
+  "id": "r088",
+  "category": "Especializado",
+  "slug": "iot-engineer",
+  "name": "IoT Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 89,
+  "id": "r089",
+  "category": "Especializado",
+  "slug": "blockchain-dev",
+  "name": "Blockchain Developer",
+  "real_mad_role": false
+ },
+ {
+  "n": 90,
+  "id": "r090",
+  "category": "Especializado",
+  "slug": "smartcontract-auditor",
+  "name": "Smart Contract Auditor",
+  "real_mad_role": false
+ },
+ {
+  "n": 91,
+  "id": "r091",
+  "category": "Especializado",
+  "slug": "arvr-engineer",
+  "name": "AR/VR Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 92,
+  "id": "r092",
+  "category": "Especializado",
+  "slug": "robotics-engineer",
+  "name": "Robotics Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 93,
+  "id": "r093",
+  "category": "Negócio",
+  "slug": "growth-engineer",
+  "name": "Growth Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 94,
+  "id": "r094",
+  "category": "Negócio",
+  "slug": "seo-specialist",
+  "name": "SEO Specialist",
+  "real_mad_role": false
+ },
+ {
+  "n": 95,
+  "id": "r095",
+  "category": "Negócio",
+  "slug": "marketing-tech",
+  "name": "Marketing Technologist",
+  "real_mad_role": false
+ },
+ {
+  "n": 96,
+  "id": "r096",
+  "category": "Negócio",
+  "slug": "solutions-engineer",
+  "name": "Solutions Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 97,
+  "id": "r097",
+  "category": "Negócio",
+  "slug": "support-engineer",
+  "name": "Support Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 98,
+  "id": "r098",
+  "category": "Negócio",
+  "slug": "sales-engineer",
+  "name": "Sales Engineer",
+  "real_mad_role": false
+ },
+ {
+  "n": 99,
+  "id": "r099",
+  "category": "Negócio",
+  "slug": "finops",
+  "name": "FinOps Analyst",
+  "real_mad_role": false
+ },
+ {
+  "n": 100,
+  "id": "r100",
+  "category": "Negócio",
+  "slug": "legal-counsel",
+  "name": "Legal Counsel",
+  "real_mad_role": false
+ }
+]

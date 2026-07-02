@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s007-r001",
+    "sheet_id": "s007",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Blueprintossauro",
+    "character_desc": "Um braquiossauro sábio e cabeçudo que rege a solução: segura uma planta arquitetônica enrolada, um compasso e usa capacete de obra.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a wise green Brachiosaurus, holding a rolled architectural blueprint and a tiny compass, wearing a hard hat, gazing thoughtfully at a floating structure diagram, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r002",
+    "sheet_id": "s007",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Liderex",
+    "character_desc": "T-rex chibi de bonezinho de capitão que lidera o time técnico, apontando o caminho com o bracinho e prancheta na mão.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a confident orange Tyrannosaurus rex, wearing a small captain cap, holding a clipboard and pointing forward with a tiny arm, leading gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r003",
+    "sheet_id": "s007",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Staffodon",
+    "character_desc": "Iguanodonte robusto e experiente que resolve tudo: canivete gigante multiuso e uma pilha de pergaminhos de código já resolvidos.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a sturdy teal Iguanodon, holding a large multi-tool and a stack of solved code scrolls, calm expert expression, thumb-spike raised, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r004",
+    "sheet_id": "s007",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Principaltops",
+    "character_desc": "Triceratops principesco com coroinha dourada entre os chifres e uma gema mestra brilhante — a autoridade técnica máxima.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a regal purple Triceratops, wearing a tiny golden crown between the frills, holding a glowing master gem, dignified pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r005",
+    "sheet_id": "s007",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Gestorbossauro",
+    "character_desc": "Parassauolofo acolhedor com caneca de café e um quadrinho com a lista do time, sorriso encorajador de gestor de pessoas.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a friendly yellow Parasaurolophus, holding a coffee mug and a small team roster board, warm encouraging smile, one arm open, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r006",
+    "sheet_id": "s007",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Prodino",
+    "character_desc": "Estegossauro rosa que cuida do produto: placas dorsais cobertas de post-its, roadmap na mão e uma lâmpada de ideia flutuando.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a bright pink Stegosaurus, holding a product roadmap scroll and a sticky-note-covered plate on its back, pointing at a lightbulb, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r007",
+    "sheet_id": "s007",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Ownerraptor",
+    "character_desc": "Velociraptor dono do produto que abraça o backlog priorizado e ergue uma bandeirinha de check — decide o que vem primeiro.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a coral Velociraptor, hugging a prioritized backlog scroll and holding a tiny flag with a checkmark, decisive stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r008",
+    "sheet_id": "s007",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Programossauro",
+    "character_desc": "Anquilossauro largo que coordena vários projetos: fitas de roadmap interligando marcos, olhar de quem alinha o programa todo.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a broad blue Ankylosaurus, holding several linked roadmap ribbons connecting little milestones, tail club resting, coordinating look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r009",
+    "sheet_id": "s007",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Projetodon",
+    "character_desc": "Maiassauro organizado com cronograma de Gantt na mão, cronômetro e checklist debaixo do braço — o dono do prazo.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a tidy green Maiasaura, holding a Gantt-chart scroll and a small stopwatch, checklist tucked under arm, organized smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r010",
+    "sheet_id": "s007",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Scrumzinho",
+    "character_desc": "Compsognato saltitante e pequenininho que facilita o time: quadro de sprint com cartõezinhos e um sininho de cerimônia.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a bouncy lime Compsognathus, holding a sprint board with tiny cards and a small handbell, energetic cheerful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r011",
+    "sheet_id": "s007",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Backendossauro",
+    "character_desc": "Alossauro das entranhas do sistema: headset, um rack de servidor brilhante e uma engrenagem — constrói a lógica por trás.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a deep-green Allosaurus, wearing a headset, holding a glowing server rack and a gear, focused coding expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r012",
+    "sheet_id": "s007",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "APIraptor",
+    "character_desc": "Galimimo elegante que desenha contratos: encaixa duas peças de quebra-cabeça e segura um conector plug — a API que conversa.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a cyan Gallimimus, holding two puzzle pieces that snap together and a small socket-plug connector, tidy pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r013",
+    "sheet_id": "s007",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Microssauro",
+    "character_desc": "Microraptor cercado de caixinhas-cubo flutuantes ligadas por fios, malabarismo de blocos modulares — os microsserviços.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a small mint Microraptor, surrounded by several tiny floating cube-boxes connected by threads, juggling little modular blocks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r014",
+    "sheet_id": "s007",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Pipedon",
+    "character_desc": "Espinossauro de vela com uma tubulação segmentada por onde flui o dado, válvulas na crista — mestre dos pipelines.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a flowing blue Spinosaurus, holding a segmented pipe with water/data flowing through it, sail-fin lined with little valves, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r015",
+    "sheet_id": "s007",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Dataengossauro",
+    "character_desc": "Diplodoco de pescoção que transporta baldes de gotas de dado como esteira, chapéu-funil — engenheiro de dados.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a slate Diplodocus, carrying buckets of glowing data droplets along its long neck like a conveyor, funnel hat, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r016",
+    "sheet_id": "s007",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Dibiassauro",
+    "character_desc": "Anquilossauro que abraça um tamborzão cilíndrico de banco de dados com cadeado e usa oculinhos — o guardião do DB.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a chunky bronze Ankylosaurus, hugging a big cylindrical database drum with a padlock, wearing tiny glasses, guardian pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r017",
+    "sheet_id": "s007",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Queryraptor",
+    "character_desc": "Deinonico que garimpa dados: lupa sobre uma grade brilhante de tabela e um pergaminho de consulta na garra.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a teal Deinonychus, holding a magnifying glass over a glowing table grid, tiny query-scroll in the other claw, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r018",
+    "sheet_id": "s007",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Cacheossauro",
+    "character_desc": "Ornitomimo veloz com cronômetro relâmpago e um chipzinho de memória quente — acelera tudo com cache.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a fast red Ornithomimus, holding a lightning-fast stopwatch and a small memory chip glowing warm, speedy blur pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r019",
+    "sheet_id": "s007",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Filadon",
+    "character_desc": "Hadrossauro ordeiro com bandeja-esteira de envelopes de mensagem enfileiradinhos — cuida da fila de mensagens.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a orderly orange Hadrosaurus, holding a conveyor tray of stacked message envelopes in a neat line, calm dispatcher look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r020",
+    "sheet_id": "s007",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Buscassauro",
+    "character_desc": "Troodon curioso e esperto com lupa gigante e um fichário de índice — o engenheiro de busca que acha tudo.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a keen indigo Troodon, holding a giant magnifying glass and a tiny index-card catalog, big curious eyes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r021",
+    "sheet_id": "s007",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Frontossauro",
+    "character_desc": "Estegossauro que monta a vitrine: segura uma moldura de janela de navegador como quadro e um pincel — o frontend.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a bright sky-blue Stegosaurus, holding a browser-window frame like a painting and a paintbrush, cheerful presenting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r022",
+    "sheet_id": "s007",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "UIguanodon",
+    "character_desc": "Iguanodonte que organiza botõezinhos e sliders flutuantes com os espinhos do polegar — engenheiro de interface.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a lavender Iguanodon, arranging floating UI buttons and sliders with its thumb-spikes, tidy component tray, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r023",
+    "sheet_id": "s007",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "UXimo",
+    "character_desc": "Parassauolofo empático com um mapa de jornada sinuoso e um coração de empatia — desenha a experiência do usuário.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a soft peach Parasaurolophus, holding a user-journey map with a winding path and a big empathy heart, thoughtful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r024",
+    "sheet_id": "s007",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Sistemadon",
+    "character_desc": "Coritossauro metódico com bandeja de componentes idênticos alinhadinhos — o guardião do design system.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a mint Corythosaurus, holding a tray of matching identical LEGO-like components neatly aligned, tidy librarian pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r025",
+    "sheet_id": "s007",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Acessadon",
+    "character_desc": "Maiassauro acolhedor com placa do símbolo de acessibilidade e uma tábua em braille — inclui todo mundo.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a warm yellow Maiasaura, holding a large accessibility symbol sign and a small braille tablet, welcoming open arms, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r026",
+    "sheet_id": "s007",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Perfossauro",
+    "character_desc": "Estrutiomimo raivosamente rápido com velocímetro no máximo e uma pena de leveza — otimiza a performance web.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a swift red Struthiomimus, holding a speed gauge dialed to max and a feather to show lightness, running blur, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r027",
+    "sheet_id": "s007",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "CSSaurinho",
+    "character_desc": "Paquicefalossauro estiloso de boina pintando gradientes arredondados com rolinho — o artista do CSS.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a stylish magenta Pachycephalosaurus, painting rounded gradients with a roller brush, wearing a beret, domed head as canvas, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r028",
+    "sheet_id": "s007",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Animassauro",
+    "character_desc": "Ornitomimo cheio de vida cercado de linhas de arco de movimento e uma bolinha na mola — o engenheiro de animação.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a lively teal Ornithomimus, surrounded by little motion-arc lines and holding a bouncing ball on a spring, mid-hop, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r029",
+    "sheet_id": "s007",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Mobilodon",
+    "character_desc": "Compsognato que abraça um smartphone quase do seu tamanho, canetinha atrás da orelha — o mobile dev.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a green Compsognathus, hugging a chunky smartphone almost its own size, tiny stylus behind ear, proud pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r030",
+    "sheet_id": "s007",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "iOssauro",
+    "character_desc": "Galimimo minimalista com celular branco de cantos arredondados e uma frutinha tipo maçã colada — o iOS dev.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a sleek white Gallimimus, holding a polished rounded-corner phone with a tiny apple-shaped fruit sticker, minimalist pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r031",
+    "sheet_id": "s007",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Androdon",
+    "character_desc": "Kentrossauro com um robozinho-mascote verde e uma engrenagem open-source — o Android dev.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a green Kentrosaurus, holding a little green robot mascot toy and an open-source gear, friendly grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r032",
+    "sheet_id": "s007",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Nativossauro",
+    "character_desc": "Ouranossauro de vela que faz ponte: dois celulares (um verde, um azul) unidos por uma ponte de código — React Native.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a blue-cyan Ouranosaurus, holding two phones (one green one blue) fused by a single code-bridge, sail-fin bridging, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r033",
+    "sheet_id": "s007",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Flutodon",
+    "character_desc": "Dino-arqueopterix azul com um widget em forma de borboleta esvoaçante e um único código-fonte — o Flutter dev.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a bright blue Archaeopteryx-dino, holding a fluttering butterfly-shaped widget and a single codebase scroll, feathery wings spread, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r034",
+    "sheet_id": "s007",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Cientidon",
+    "character_desc": "Triceratops de oculinhos com um béquer de dados brilhantes e um gráfico de dispersão — o cientista de dados.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a violet Triceratops, wearing round glasses, holding a beaker of glowing data and a scatter-plot chart, curious frown, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r035",
+    "sheet_id": "s007",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "MLossauro",
+    "character_desc": "Deinonico com um nó neural em forma de cérebro ligado por fios e engrenagem de treino — o engenheiro de ML.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a electric-blue Deinonychus, holding a tiny brain-shaped neural node connected by wires and a training gear, focused, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r036",
+    "sheet_id": "s007",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "MLOpsdon",
+    "character_desc": "Anquilossauro que equilibra um modelo-cérebro numa esteira com setas de deploy e chave inglesa — o MLOps.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a steel-gray Ankylosaurus, balancing a brain model on a conveyor loop with deploy arrows, wrench in claw, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r037",
+    "sheet_id": "s007",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Pesquissauro",
+    "character_desc": "Terizinossauro sonhador cercado de interrogações e fórmulas flutuantes, segurando um paper brilhante — o pesquisador de IA.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a dreamy indigo Therizinosaurus, surrounded by floating question marks and formulas, holding a glowing research paper, long claws, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r038",
+    "sheet_id": "s007",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Promptodon",
+    "character_desc": "Oviraptor esperto com um balão de fala em pergaminho e uma varinha apontando pra nuvem de palavras — o prompt engineer.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a golden Oviraptor, holding a speech-bubble scroll and a magic wand pointing at glowing words-cloud, clever wink, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r039",
+    "sheet_id": "s007",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "NLPossauro",
+    "character_desc": "Parassauolofo cuja crista é uma onda sonora, segurando um balão de fala e um dicionário — o engenheiro de NLP.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a teal Parasaurolophus, holding a talking speech-bubble and a little dictionary book, crest shaped like a soundwave, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r040",
+    "sheet_id": "s007",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Visossauro",
+    "character_desc": "Troodon com um monóculo de lente de câmera e uma foto com caixa de detecção — o engenheiro de visão computacional.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a green Troodon, wearing a single big camera-lens monocle and holding a photo with a detection box, keen eyes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r041",
+    "sheet_id": "s007",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Analista-don",
+    "character_desc": "Iguanodonte com prancheta de gráfico de barras e lupa sobre os números — o analista de dados.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a orange Iguanodon, holding a clipboard with a bar chart and a magnifying glass over numbers, tidy pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r042",
+    "sheet_id": "s007",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "BIssauro",
+    "character_desc": "Estegossauro cujas placas dorsais são painéis com medidores brilhantes — apresenta o dashboard, o analista de BI.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a blue Stegosaurus, holding a glowing dashboard panel with tiny gauges on its back plates, presenting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r043",
+    "sheet_id": "s007",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Analytdon",
+    "character_desc": "Coritossauro que monta canos de dado num funil limpo alimentando um gráfico — o analytics engineer.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a teal Corythosaurus, assembling data pipes into a clean funnel feeding a chart, tidy modeling pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r044",
+    "sheet_id": "s007",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Vizossauro",
+    "character_desc": "Paquicefalossauro artista pintando gráfico de pizza e de linha coloridos no ar com pincel brilhante — o data viz.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a rainbow-accented Pachycephalosaurus, painting a colorful pie chart and line graph in the air with a glowing brush, artistic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r045",
+    "sheet_id": "s007",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "DevOpsauro",
+    "character_desc": "Anquilossauro com uma fita em loop infinito e chave inglesa, cinto de ferramentas — o DevOps que integra tudo.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a orange Ankylosaurus, holding an infinity-loop ribbon and a wrench, tool-belt around waist, hands-on pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r046",
+    "sheet_id": "s007",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "SREdon",
+    "character_desc": "Triceratops de capacete de bombeiro com um pager e um escudo verde de uptime — o SRE que mantém tudo de pé.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a red Triceratops, wearing a firefighter helmet, holding a pager and a green uptime shield, alert stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r047",
+    "sheet_id": "s007",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Plataformossauro",
+    "character_desc": "Braquiossauro que ergue uma plataforma plana com apps em cima — o platform engineer que sustenta os times.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a slate Brachiosaurus, holding a wide flat platform slab with tiny apps standing on it, supportive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r048",
+    "sheet_id": "s007",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Cloudodon",
+    "character_desc": "Dino-pteranodonte flutuando entre nuvenzinhas fofas com um servidor em forma de nuvem — o arquiteto de cloud.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a sky-blue Pteranodon-dino, floating with tiny fluffy clouds around, holding a cloud-shaped server, wings spread, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r049",
+    "sheet_id": "s007",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "K8sossauro",
+    "character_desc": "Anquilossauro pilotando um leme de sete raios com continerezinhos empilhados nas costas — o admin de Kubernetes.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a blue Ankylosaurus, steering a ship's helm wheel with seven spokes, tiny container boxes stacked on back, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r050",
+    "sheet_id": "s007",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Redessauro",
+    "character_desc": "Diplodoco cujo pescoço vira cabos de rede, segurando um roteador de luzinhas piscando — o engenheiro de redes.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a teal Diplodocus, its long neck coiled like network cables, holding a router with blinking lights, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r051",
+    "sheet_id": "s007",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Sysdon",
+    "character_desc": "Iguanodonte com um console de terminal enorme, caneca de café e molho de chaves no cinto — o sysadmin confiável.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a gray Iguanodon, holding a big terminal console box and a coffee mug, keys on belt, tired but reliable smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r052",
+    "sheet_id": "s007",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Releasossauro",
+    "character_desc": "Galimimo com um foguete de fita de versão e uma bandeira quadriculada de largada — o release engineer.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a green Gallimimus, holding a rocket with a version-tag ribbon, checkered launch flag in the other claw, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r053",
+    "sheet_id": "s007",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Buildon",
+    "character_desc": "Anquilossauro montando blocos-tijolo brilhantes num cubo compilado com martelinho — o build engineer.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a bronze Ankylosaurus, assembling glowing brick-blocks into a compiled cube with a tiny hammer, focused, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r054",
+    "sheet_id": "s007",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "CICDossauro",
+    "character_desc": "Ornitomimo correndo numa esteira em loop levando um pacote por checkpoints — o engenheiro de CI/CD.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a teal Ornithomimus, running along a looping conveyor track carrying a package through checkpoints, motion blur, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r055",
+    "sheet_id": "s007",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Segurossauro",
+    "character_desc": "Anquilossauro blindado com um escudão de fechadura e um cadeado — o engenheiro de segurança.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a navy Ankylosaurus, holding a big shield with a keyhole and a padlock, armored plates, vigilant pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r056",
+    "sheet_id": "s007",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Pentestodon",
+    "character_desc": "Velociraptor de moletom com chave-micha e uma bandeirinha vermelha, sorriso maroto — o pentester.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a dark-purple Velociraptor, wearing a tiny hoodie, holding a lockpick and a red flag, sneaky grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r057",
+    "sheet_id": "s007",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "AppSecdon",
+    "character_desc": "Estegossauro cujas placas são escudinhos, segurando um bug preso na rede — o AppSec que protege o app.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a green Stegosaurus, its back plates shaped like tiny shields, holding a bug caught in a net, protective pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r058",
+    "sheet_id": "s007",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Criptossauro",
+    "character_desc": "Triceratops com uma chave brilhante e uma roda de cifra embaralhada — o criptógrafo misterioso.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a violet Triceratops, holding a glowing key and a scrambled lock-cipher wheel, mysterious eyes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r059",
+    "sheet_id": "s007",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Compliadon",
+    "character_desc": "Iguanodonte com prancheta de checklist cheia de checks verdes e um carimbo de aprovação — o compliance officer.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a beige Iguanodon, holding a checklist clipboard with big green checkmarks and a rubber approval stamp, formal pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r060",
+    "sheet_id": "s007",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Privadon",
+    "character_desc": "Anquilossauro que abraça uma pasta de dados pessoais trancada com escudo — o privacy engineer, cuidadoso.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a teal Ankylosaurus, hugging a locked personal-data folder with a shield, curtain of privacy around, careful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r061",
+    "sheet_id": "s007",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Incidentossauro",
+    "character_desc": "Ornitomimo de headset com um sino de alarme vermelho e extintor, correndo urgente — o incident responder.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a red Ornithomimus, wearing a headset, holding a red alarm bell and a fire extinguisher, urgent running pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r062",
+    "sheet_id": "s007",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Ameassauro",
+    "character_desc": "Troodon estudando um quadro de ameaças com alfinetes de caveira e setas de ataque — o threat modeler.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a dark-teal Troodon, studying a threat-map board with little skull pins and drawing attack arrows, plotting eyes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r063",
+    "sheet_id": "s007",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "QAssauro",
+    "character_desc": "Deinonico com lupa gigante sobre um bug e um checklist de aprova/reprova — o QA caçador de defeitos.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a green Deinonychus, holding a giant magnifying glass over a bug and a red-green pass/fail checklist, sharp eyes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r064",
+    "sheet_id": "s007",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "SDETodon",
+    "character_desc": "Ornitomimo com um braço-robô carimbando checks automáticos numa grade de testes — o SDET de automação.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a blue Ornithomimus, holding a robot-arm gadget stamping automatic check marks on a test grid, efficient pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r065",
+    "sheet_id": "s007",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Perfotestodon",
+    "character_desc": "Estrutiomimo com medidor de estresse e uma pilha de pesos de carga, suando — o testador de performance.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a orange Struthiomimus, holding a stress gauge and a stack of load weights, sweating slightly, straining pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r066",
+    "sheet_id": "s007",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Manutestodon",
+    "character_desc": "Maiassauro com roteiro de teste impresso clicando com o dedão, metódico — o testador manual.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a yellow Maiasaura, holding a printed test-script sheet and clicking through with a big finger, methodical pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r067",
+    "sheet_id": "s007",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Acesstestodon",
+    "character_desc": "Parassauolofo com um alto-falante de leitor de tela e checklist do símbolo de acessibilidade — o a11y tester.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a warm-green Parasaurolophus, holding a screen-reader speaker and the accessibility symbol checklist, listening pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r068",
+    "sheet_id": "s007",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Docssauro",
+    "character_desc": "Braquiossauro de oculinhos com um manual aberto e uma pena de escrever — o technical writer.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a tan Brachiosaurus, wearing tiny reading glasses, holding a big open manual book and a feather quill, studious, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r069",
+    "sheet_id": "s007",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Advossauro",
+    "character_desc": "Parassauolofo animado com microfone, adesivo de coração e crachá de conferência — o developer advocate.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a bright orange Parasaurolophus, holding a microphone and a heart-shaped sticker, wearing a conference lanyard, cheering pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r070",
+    "sheet_id": "s007",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Estrategodon",
+    "character_desc": "Coritossauro com um calendário de conteúdo e uma placa de setas de narrativa — o content strategist.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a purple Corythosaurus, holding a content calendar board and a signpost with story arrows, planning pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r071",
+    "sheet_id": "s007",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "i18nossauro",
+    "character_desc": "Iguanodonte segurando um globo com balõezinhos de fala em vários alfabetos e bandeirinhas — o localization engineer.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a teal Iguanodon, holding a globe with speech bubbles in many scripts and translation flags, worldly pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r072",
+    "sheet_id": "s007",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Prodesigndon",
+    "character_desc": "Estegossauro com um wireframe e um coração, placas dorsais de post-its de ideia — o product designer.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a pink Stegosaurus, holding a wireframe frame and a heart, back plates as sticky-note ideas, creative pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r073",
+    "sheet_id": "s007",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Visudon",
+    "character_desc": "Paquicefalossauro de boina com leque de amostras de cor e pincel — o visual designer.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a magenta Pachycephalosaurus, holding a color-swatch fan and a paintbrush, beret on domed head, artistic flourish, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r074",
+    "sheet_id": "s007",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Interadon",
+    "character_desc": "Ouranossauro cutucando um botão flutuante que acende em ondas, crista de toggles — o interaction designer.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a cyan Ouranosaurus, poking a floating button that lights up with a ripple, sail-fin of interactive toggles, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r075",
+    "sheet_id": "s007",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Motiondon",
+    "character_desc": "Ornitomimo deixando rastros de movimento coloridos com uma fita de keyframes — o motion designer.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a teal Ornithomimus, leaving colorful motion-trail arcs, holding a timeline keyframe strip, dynamic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r076",
+    "sheet_id": "s007",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Ilustradon",
+    "character_desc": "Paquicefalossauro alegre com pincelão e paleta de tintas, rabiscos flutuando — o illustrator.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a rainbow Pachycephalosaurus, holding a big paintbrush and an artist palette, doodles floating around, joyful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r077",
+    "sheet_id": "s007",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Assetodon",
+    "character_desc": "Estegossauro com bandeja de ícones e folhas de sprite organizadinhas — o asset designer.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a green Stegosaurus, holding a tray of neat icon tiles and sprite sheets, organized crafting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r078",
+    "sheet_id": "s007",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Brandodon",
+    "character_desc": "Triceratops segurando um emblema-escudo de logo e um cartão de guia de cor — o brand designer.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a golden Triceratops, holding a logo-shaped emblem shield and a color guideline card, proud confident pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r079",
+    "sheet_id": "s007",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Somdon",
+    "character_desc": "Parassauolofo de fones cuja crista é uma onda sonora, segurando um botão de mixagem — o sound designer.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a purple Parasaurolophus, wearing headphones, its crest shaped like a soundwave, holding a mixing knob, grooving pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r080",
+    "sheet_id": "s007",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "3Dossauro",
+    "character_desc": "Triceratops com um cubo-modelo 3D em wireframe e uma ferramenta de escultura — o artista 3D.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a teal Triceratops, holding a wireframe 3D cube-model and a sculpting tool, rotating gizmo floating, focused, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r081",
+    "sheet_id": "s007",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Gamedesigndon",
+    "character_desc": "Paquicefalossauro com controle de videogame, um dado e cartas de regra em leque — o game designer.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a orange Pachycephalosaurus, holding a game controller and a dice, rule-cards fanned out, playful clever pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r082",
+    "sheet_id": "s007",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Leveldon",
+    "character_desc": "Anquilossauro com um tabuleiro de tilemap de plataformas e bandeiras — o level designer.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a green Ankylosaurus, holding a tiny tilemap board with platforms and flags, building-block pieces around, planning, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r083",
+    "sheet_id": "s007",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Narradon",
+    "character_desc": "Parassauolofo com um livro de história de caminhos ramificados e uma pena — o narrative designer.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a violet Parasaurolophus, holding an open storybook with a branching path and a quill, dreamy storyteller pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r084",
+    "sheet_id": "s007",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Gamedon",
+    "character_desc": "Compsognato abraçando um controle e um cartucho de jogo brilhante, olhos empolgados — o game developer.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a blue Compsognathus, hugging a game controller and a glowing game-cartridge, excited gamer eyes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r085",
+    "sheet_id": "s007",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Shaderossauro",
+    "character_desc": "Paquicefalossauro iridescente com um prisma soltando luz de arco-íris e um chip de GPU — o engenheiro de shaders.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a iridescent Pachycephalosaurus, holding a glowing prism casting rainbow light and a GPU chip, shimmering domed head, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r086",
+    "sheet_id": "s007",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Embarcadon",
+    "character_desc": "Compsognato com uma placa de circuito minúscula, microchip e ferro de solda — o engenheiro embarcado.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a green Compsognathus, holding a tiny circuit board with a microchip and a soldering iron, precise pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r087",
+    "sheet_id": "s007",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Firmwaredon",
+    "character_desc": "Troodon com um chip de memória de engrenagem e um pergaminho de código de baixo nível — o firmware engineer.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a bronze Troodon, holding a memory chip labeled with a gear and a low-level code scroll, technical eyes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r088",
+    "sheet_id": "s007",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "IoTossauro",
+    "character_desc": "Ornitomimo cercado de gadgetzinhos smart (lâmpada, sensor, tomada) ligados por ondas de sinal — o IoT engineer.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a teal Ornithomimus, surrounded by little connected smart gadgets (bulb, sensor, plug) linked by signal waves, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r089",
+    "sheet_id": "s007",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Blockossauro",
+    "character_desc": "Anquilossauro segurando uma corrente de blocos-cubo brilhantes e uma moeda — o blockchain developer.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a gold Ankylosaurus, holding a chain of linked glowing cube-blocks and a coin, its plates as chained blocks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r090",
+    "sheet_id": "s007",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Contratossauro",
+    "character_desc": "Troodon inspecionando um contrato em pergaminho com lupa, martelinho e bandeira de bug — o auditor de smart contracts.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a violet Troodon, inspecting a scroll-contract with a magnifying glass, tiny gavel and a bug flag, sharp eyes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r091",
+    "sheet_id": "s007",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "ARVRodon",
+    "character_desc": "Coritossauro de visor de VR encorpado tocando formas holográficas flutuantes — o engenheiro de AR/VR.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a cyan Corythosaurus, wearing a chunky VR headset visor, reaching toward floating holographic shapes, immersed pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r092",
+    "sheet_id": "s007",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Robodon",
+    "character_desc": "Estegossauro com um bracinho-robô e um controle remoto, engenhocas nas placas — o engenheiro de robótica.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a steel-gray Stegosaurus, holding a little robot arm and a remote control, mechanical gizmos on its plates, building pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r093",
+    "sheet_id": "s007",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Growthossauro",
+    "character_desc": "Galimimo com uma seta de crescimento subindo e um funil de usuários caindo — o growth engineer.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a lime Gallimimus, holding a rising growth arrow and a funnel with tiny users dropping in, energetic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r094",
+    "sheet_id": "s007",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "SEOdon",
+    "character_desc": "Troodon com lupa gigante sobre um pódio de ranking e uma etiqueta de palavra-chave — o especialista em SEO.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a green Troodon, holding a giant magnifying glass over a ranking podium and a keyword tag, keen search eyes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r095",
+    "sheet_id": "s007",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Marktechdon",
+    "character_desc": "Parassauolofo com megafone e um gadget de funil de automação, gráfico de campanha flutuando — o marketing technologist.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a orange Parasaurolophus, holding a megaphone and an automation-funnel gadget, campaign chart floating, upbeat pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r096",
+    "sheet_id": "s007",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Soluçodon",
+    "character_desc": "Iguanodonte com uma maleta e uma peça de quebra-cabeça encaixando no cliente — o solutions engineer.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a teal Iguanodon, holding a briefcase and a puzzle piece fitting a client-shaped slot, helpful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r097",
+    "sheet_id": "s007",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Suportodon",
+    "character_desc": "Maiassauro de headset com uma boia salva-vidas e um balão de chat com chave inglesa — o support engineer.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a yellow Maiasaura, wearing a headset, holding a life-ring and a chat bubble with a wrench, reassuring smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r098",
+    "sheet_id": "s007",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Salesdon",
+    "character_desc": "Parassauolofo com um tablet de demo, gesto de aperto de mão e um gráfico de valor — o sales engineer carismático.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a orange Parasaurolophus, holding a demo tablet and a handshake gesture, presenting a value chart, charismatic smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r099",
+    "sheet_id": "s007",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "FinOpsauro",
+    "character_desc": "Anquilossauro com calculadora e uma pilha de moedas com seta de custo pra baixo — o analista de FinOps.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a green Ankylosaurus, holding a calculator and a coin-stack with a downward cost arrow, budget ledger, thrifty pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s007-r100",
+    "sheet_id": "s007",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Legaldon",
+    "character_desc": "Triceratops de golinha de juiz com um martelinho e uma balança da justiça — o consultor jurídico.",
+    "nano_prompt": "Chibi cartoon dinosaur, oversized round head, tiny plump body, huge sparkly eyes, tiny stubby arms, soft pastel colors, thick clean outlines, cel shading, full-body standing pose, cute kawaii style, a navy Triceratops, wearing a tiny judge collar, holding a gavel and a scale of justice, dignified serious pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

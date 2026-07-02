@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s052-r001",
+    "sheet_id": "s052",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Bluprin",
+    "character_desc": "Mascote-castor engravatado que é o arquiteto da empresa: capacete de obra, rolo de blueprints azuis e uma maquete de prédio-servidor nas mãos.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, friendly beaver mascot in a tiny necktie and orange construction helmet, holding a rolled blueprint scroll under one arm and a small cardboard server-tower model, confident planning grin, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r002",
+    "sheet_id": "s052",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Capitão Codigo",
+    "character_desc": "Mascote-lobo líder de matilha (Tech Lead): apito no pescoço, prancheta de sprint e capa curta de super-herói com engrenagem no peito.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, wolf mascot with a coach whistle around the neck, short superhero cape with a gear emblem, holding a clipboard, motivational pointing pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r003",
+    "sheet_id": "s052",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Staffy",
+    "character_desc": "Mascote-elefante veterano (Staff Engineer): óculos redondos, mochila cheia de ferramentas e uma chave inglesa gigante equilibrada no ombro.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, wise elephant mascot with round glasses, tool-stuffed backpack, balancing a giant wrench on the shoulder, calm senior smirk, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r004",
+    "sheet_id": "s052",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Prince Bit",
+    "character_desc": "Mascote-leão principal (Principal Engineer): coroa dourada com ícone de chip, cetro-tuning-fork e faixa real cruzada.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, regal lion mascot wearing a small golden crown topped with a microchip, holding a tuning-fork scepter, royal sash across chest, proud stance, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r005",
+    "sheet_id": "s052",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Gerentão",
+    "character_desc": "Mascote-urso gerente de engenharia: gravata borboleta, prancheta com gráfico de time e crachá de 'MANAGER'.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, big friendly bear mascot in a bow tie, holding an org-chart clipboard, blank employee badge clipped on chest, warm managerial grin, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r006",
+    "sheet_id": "s052",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Pandinha PM",
+    "character_desc": "Mascote-panda Product Manager: post-its coloridos colados no braço, lupa de mercado e balão de ideia acima da cabeça.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, panda mascot covered in colorful sticky notes on one arm, holding a market magnifying glass, thought-bubble balloon prop over head, cheerful, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r007",
+    "sheet_id": "s052",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Ownzy",
+    "character_desc": "Mascote-coruja Product Owner: pilha de cartões de backlog, coroa pequena e uma seta de prioridade apontando pra frente.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, owl mascot holding a stack of backlog index cards, tiny crown, pointing a big priority arrow forward, decisive expression, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r008",
+    "sheet_id": "s052",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Progrão",
+    "character_desc": "Mascote-girafa Program Manager: pescoço longo enxergando tudo, prancheta com múltiplas trilhas e crachá de coordenação.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, giraffe mascot with clipboard showing multiple parallel track lines, coordination badge, overseeing confident pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r009",
+    "sheet_id": "s052",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Cronô",
+    "character_desc": "Mascote-castor Project Manager: gráfico de Gantt enrolado, ampulheta e capacete com relógio.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, beaver mascot holding a rolled Gantt-chart banner and an hourglass, helmet with a small clock, punctual busy expression, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r010",
+    "sheet_id": "s052",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Scrumbo",
+    "character_desc": "Mascote-canguru Scrum Master: apito, quadro kanban portátil no bolso da bolsa e bola de daily nas mãos.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, kangaroo mascot with a whistle, portable kanban board sticking out of its pouch, holding a small standup meeting ball, upbeat facilitator pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r011",
+    "sheet_id": "s052",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Backo",
+    "character_desc": "Mascote-toupeira Backend Dev: capacete de minerador com lanterna, tubulação de dados e rack de servidor pequeno.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, mole mascot with a miner headlamp helmet, holding a segment of data pipe and a small server rack, working underground vibe, focused grin, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r012",
+    "sheet_id": "s052",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Endpoint Pete",
+    "character_desc": "Mascote-pato API Designer: painel de tomadas/plugs coloridos e um contrato-JSON enrolado como pergaminho.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, duck mascot holding a colorful plug-and-socket panel and a rolled JSON contract scroll, presenting an endpoint connector, tidy proud pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r013",
+    "sheet_id": "s052",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Microzé",
+    "character_desc": "Mascote-formiga Microservices: mochila com vários cubinhos-contêiner conectados por fios.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, ant mascot carrying a backpack of many small connected container cubes linked by wires, busy multitasking pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r014",
+    "sheet_id": "s052",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Fluxo",
+    "character_desc": "Mascote-lontra Pipeline Dev: esteira transportadora portátil com pacotes de dados fluindo.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, otter mascot holding a portable conveyor belt with flowing data packages moving along it, cheerful flow-master pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r015",
+    "sheet_id": "s052",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Dado Bruto",
+    "character_desc": "Mascote-castor Data Engineer: baldes de dados brutos, funil gigante e cano de ETL.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, beaver mascot pouring raw-data buckets into a giant funnel connected to an ETL pipe, hard-hat, industrious expression, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r016",
+    "sheet_id": "s052",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Dexter DBA",
+    "character_desc": "Mascote-elefante DBA: cofre-banco de dados no peito, molho de chaves-índice e crachá de admin.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, elephant mascot with a database vault emblem on chest, holding a big ring of index keys, admin badge, guardian stance, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r017",
+    "sheet_id": "s052",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Selecta",
+    "character_desc": "Mascote-coruja SQL Specialist: lupa sobre uma tabela-planilha flutuante e caneta-consulta.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, owl mascot holding a magnifying glass over a floating spreadsheet-table prop and a query pen, clever squinting grin, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r018",
+    "sheet_id": "s052",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Cachê",
+    "character_desc": "Mascote-esquilo Caching Engineer: bochechas cheias de dados guardados e um pote turbo de acesso rápido.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, chipmunk mascot with cheeks bulging full of stored data chips, holding a turbo speed-jar labeled with a lightning bolt icon, fast happy pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r019",
+    "sheet_id": "s052",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Filê Queue",
+    "character_desc": "Mascote-pinguim Message Queue: fila de mensagens-envelope numeradas passando por um tubo pneumático.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, penguin mascot managing a line of numbered message-envelopes moving through a pneumatic tube, orderly pose holding one envelope, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r020",
+    "sheet_id": "s052",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Buscão",
+    "character_desc": "Mascote-cão farejador Search Engineer: lupa gigante, faro apontado e um índice-cartão brilhando.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, bloodhound mascot with a giant magnifying glass, nose pointed forward, holding a glowing search index card, eager sniffing pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r021",
+    "sheet_id": "s052",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Fronty",
+    "character_desc": "Mascote-raposa Frontend Dev: paleta de botões UI, moldura de janela-navegador e pincel de pixels.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, fox mascot holding a browser-window frame prop and a palette of colorful UI buttons, pixel paintbrush, stylish creative pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r022",
+    "sheet_id": "s052",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Botãozinho",
+    "character_desc": "Mascote-coelho UI Engineer: componentes-botão empilhados e régua de espaçamento.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, rabbit mascot stacking reusable UI button components, holding a spacing ruler, precise tidy expression, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r023",
+    "sheet_id": "s052",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Uxana",
+    "character_desc": "Mascote-gata UX Designer: fluxograma de telas em cartões e mapa de jornada do usuário enrolado.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, cat mascot holding a card-based screen flow chart and a rolled user-journey map, empathetic thoughtful pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r024",
+    "sheet_id": "s052",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Systema",
+    "character_desc": "Mascote-abelha Design Systems: colmeia de componentes hexagonais idênticos e guia de tokens.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, bee mascot presenting a honeycomb of identical hexagonal UI components and a design-token guide booklet, organized proud pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r025",
+    "sheet_id": "s052",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Aciza",
+    "character_desc": "Mascote-golfinho Accessibility: bengala-guia, símbolo de acessibilidade no peito e legendas flutuantes.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, dolphin mascot with an accessibility symbol on chest, holding a guide cane and floating caption bars, inclusive welcoming pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r026",
+    "sheet_id": "s052",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Turbão",
+    "character_desc": "Mascote-guepardo Web Performance: cronômetro, medidor de velocidade e rastro de fogo nos pés.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, cheetah mascot holding a stopwatch and a speed gauge, flame trail at the feet, blazing-fast dynamic pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r027",
+    "sheet_id": "s052",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Estiloso",
+    "character_desc": "Mascote-pavão CSS Specialist: leque de folhas de estilo coloridas e pincel de gradiente.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, peacock mascot fanning colorful stylesheet cascade feathers, holding a gradient brush, flamboyant styling pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r028",
+    "sheet_id": "s052",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Twina",
+    "character_desc": "Mascote-beija-flor Animation Engineer: rastro de quadros-chave e cronômetro de easing.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, hummingbird mascot leaving a keyframe motion trail, holding an easing-curve stopwatch, mid-motion blur pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r029",
+    "sheet_id": "s052",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Moby",
+    "character_desc": "Mascote-macaco Mobile Dev: smartphone gigante nas mãos e cinto de gadgets.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, monkey mascot holding an oversized smartphone, gadget utility belt, versatile app-tapping pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r030",
+    "sheet_id": "s052",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Maçã Zé",
+    "character_desc": "Mascote-raposa iOS Dev: tablet elegante minimalista e crachá com maçãzinha estilizada (sem logo real).",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, sleek fox mascot holding a minimalist premium tablet, small stylized generic apple-shape pin (not a real logo), polished pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r031",
+    "sheet_id": "s052",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Droidão",
+    "character_desc": "Mascote-robô-verde Android Dev: antenas, celular robótico e chave de fenda.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, friendly green robot mascot with antennae, holding a robotic smartphone and a screwdriver, cheerful tinkering pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r032",
+    "sheet_id": "s052",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Renative",
+    "character_desc": "Mascote-camaleão React Native: duas telas gêmeas (iOS e Android) equilibradas e átomo girando.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, chameleon mascot balancing twin phone screens (one for each platform) and a spinning atom prop, adaptive color-shifting pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r033",
+    "sheet_id": "s052",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Flutty",
+    "character_desc": "Mascote-borboleta Flutter Dev: asas-widget coloridas e paleta de componentes.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, butterfly mascot with colorful widget-patterned wings, holding a component palette, smooth cross-platform gliding pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r034",
+    "sheet_id": "s052",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Cientista Dados",
+    "character_desc": "Mascote-coruja Data Scientist: jaleco, tubo de ensaio com dados borbulhantes e gráfico de dispersão.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, owl mascot in a lab coat holding a bubbling data test-tube and a scatter-plot chart, curious experimenting pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r035",
+    "sheet_id": "s052",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Emeleco",
+    "character_desc": "Mascote-robô ML Engineer: cérebro-rede neural exposto no capacete e engrenagem de treino.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, robot mascot with a neural-network brain visible in a glass helmet, holding a training gear, learning-focused pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r036",
+    "sheet_id": "s052",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Opsemel",
+    "character_desc": "Mascote-castor MLOps: esteira de modelos versionados e painel de monitoramento.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, beaver mascot running a conveyor of versioned model boxes with a monitoring dashboard panel, ops-ready busy pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r037",
+    "sheet_id": "s052",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Pesquisô",
+    "character_desc": "Mascote-coruja AI Researcher: birrete acadêmico, pilha de papers e lâmpada de insight.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, owl mascot wearing an academic mortarboard, holding a stack of research papers and a glowing insight lightbulb, contemplative pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r038",
+    "sheet_id": "s052",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Promptão",
+    "character_desc": "Mascote-papagaio Prompt Engineer: balão de texto mágico e varinha que conjura palavras.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, parrot mascot conjuring a glowing magic speech-bubble with a word-casting wand, expressive talkative pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r039",
+    "sheet_id": "s052",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Falella",
+    "character_desc": "Mascote-papagaio NLP Engineer: ondas de fala visíveis e dicionário-chip.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, parrot mascot with visible speech waves flowing out, holding a chip-dictionary book, articulate listening pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r040",
+    "sheet_id": "s052",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Visão Vic",
+    "character_desc": "Mascote-águia Computer Vision: óculos-scanner com grade de detecção e câmera.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, eagle mascot wearing scanner goggles with a detection grid overlay, holding a camera, sharp-sighted pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r041",
+    "sheet_id": "s052",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Analista Ana",
+    "character_desc": "Mascote-esquilo Data Analyst: prancheta de gráficos de barras e calculadora.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, squirrel mascot holding a bar-chart clipboard and a calculator, analytical curious pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r042",
+    "sheet_id": "s052",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "BeeAi",
+    "character_desc": "Mascote-abelha BI Analyst: painel de dashboards flutuantes e ponteiro laser.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, bee mascot presenting floating dashboard panels with a laser pointer, insight-sharing pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r043",
+    "sheet_id": "s052",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Analytiko",
+    "character_desc": "Mascote-castor Analytics Engineer: modelo de dados em blocos e cano transformando métricas.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, beaver mascot assembling data-model blocks connected to a metrics-transform pipe, tidy modeling pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r044",
+    "sheet_id": "s052",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Vizu",
+    "character_desc": "Mascote-camaleão Data Viz: pincel que pinta gráficos coloridos no ar.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, chameleon mascot painting colorful charts in the air with a data brush, vibrant expressive pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r045",
+    "sheet_id": "s052",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "DevOpo",
+    "character_desc": "Mascote-castor DevOps: capacete, chave inglesa e símbolo de infinito CI/CD flutuando.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, beaver mascot with hard-hat holding a wrench, a floating infinity CI/CD loop prop, hands-on builder pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r046",
+    "sheet_id": "s052",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Reli",
+    "character_desc": "Mascote-cão-pastor SRE: pager no cinto, extintor e painel de uptime.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, shepherd-dog mascot with a pager on belt, holding a fire extinguisher and an uptime gauge, vigilant on-call pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r047",
+    "sheet_id": "s052",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Platô",
+    "character_desc": "Mascote-tartaruga Platform Engineer: plataforma-base nas costas onde outros ficam de pé, kit de ferramentas internas.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, tortoise mascot carrying a sturdy platform slab on its back as a foundation, internal-tooling kit in hand, supportive stance, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r048",
+    "sheet_id": "s052",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Nuvê",
+    "character_desc": "Mascote-carneiro Cloud Architect: nuvem fofa flutuando ao lado e planta de arquitetura em nuvem.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, sheep mascot with a fluffy cloud floating beside it, holding a cloud-architecture blueprint, visionary pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r049",
+    "sheet_id": "s052",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Kubi",
+    "character_desc": "Mascote-polvo Kubernetes Admin: leme de navio, contêineres orquestrados nos tentáculos.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, octopus mascot holding a ship's helm wheel, juggling orchestrated container boxes on its tentacles, captain pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r050",
+    "sheet_id": "s052",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Redão",
+    "character_desc": "Mascote-aranha Network Engineer: teia de cabos de rede, switch e conector RJ45.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, spider mascot weaving a web of network cables, holding a switch and an RJ45 connector, connected busy pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r051",
+    "sheet_id": "s052",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Sisó",
+    "character_desc": "Mascote-morsa Sysadmin: molho de chaves, caneca de café e terminal-tela portátil.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, walrus mascot with a big key ring, coffee mug, and a portable terminal screen, grumpy-friendly caretaker pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r052",
+    "sheet_id": "s052",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Releasa",
+    "character_desc": "Mascote-foguete Release Engineer: contagem regressiva, botão de deploy e faixa de versão.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, rocket-themed mascot holding a big deploy launch button with a countdown display and a version ribbon, ready-to-ship pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r053",
+    "sheet_id": "s052",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Buildo",
+    "character_desc": "Mascote-castor Build Engineer: martelo, blocos compilados empilhados e barra de progresso.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, beaver mascot with a hammer stacking compiled brick-blocks, a build progress bar prop, constructing pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r054",
+    "sheet_id": "s052",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Cici Dídi",
+    "character_desc": "Mascote-esteira CI/CD Engineer: esteira circular infinita com testes e deploy correndo.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, mascot operating an infinite circular conveyor belt with test checkmarks and deploy arrows looping, automated flow pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r055",
+    "sheet_id": "s052",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Segurão",
+    "character_desc": "Mascote-cão-guarda Security Engineer: escudo-cadeado, capacete e cassetete de firewall.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, guard-dog mascot with a padlock shield, helmet, and a firewall baton, protective defensive stance, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r056",
+    "sheet_id": "s052",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Pentera",
+    "character_desc": "Mascote-gato-ladrão Pentester: gazua, capuz e lanterna investigando fechaduras.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, sneaky cat mascot in a hoodie holding lockpicks and a flashlight inspecting a lock, mischievous ethical-hacker pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r057",
+    "sheet_id": "s052",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Appsegu",
+    "character_desc": "Mascote-tatu AppSec: armadura-escama sobre um app, lupa de vulnerabilidade.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, armadillo mascot curled protectively around an app icon, holding a vulnerability magnifier, armored secure pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r058",
+    "sheet_id": "s052",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cripto",
+    "character_desc": "Mascote-esfinge Cryptographer: chave dourada e prateada, cadeado com números girando.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, sphinx-cat mascot holding a golden key and a silver key, a spinning cipher padlock, enigmatic wise pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r059",
+    "sheet_id": "s052",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Complia",
+    "character_desc": "Mascote-coruja Compliance Officer: balança da justiça, carimbo de aprovado e checklist.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, owl mascot holding scales of justice, an approval stamp, and a compliance checklist, formal upright pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r060",
+    "sheet_id": "s052",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Privô",
+    "character_desc": "Mascote-tartaruga Privacy Engineer: escudo com cadeado e dados anonimizados-borrados.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, tortoise mascot with a privacy shield hiding blurred anonymized data, holding a redaction marker, protective careful pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r061",
+    "sheet_id": "s052",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Incidê",
+    "character_desc": "Mascote-dálmata bombeiro Incident Responder: capacete de bombeiro, sirene e runbook em chamas controladas.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, dalmatian firefighter mascot with a fire helmet, a siren, and a runbook, calmly handling small controlled flames, heroic responder pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r062",
+    "sheet_id": "s052",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Ameaço",
+    "character_desc": "Mascote-mangusto Threat Modeler: tabuleiro de xadrez de ataques e lupa de risco.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, mongoose mascot studying an attack chessboard with a risk magnifier, strategic anticipating pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r063",
+    "sheet_id": "s052",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Kuê Ei",
+    "character_desc": "Mascote-joaninha QA Engineer: lupa caça-bugs e rede de captura de inseto-bug.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, ladybug mascot holding a bug-hunting magnifier and a bug-catching net, meticulous testing pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r064",
+    "sheet_id": "s052",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Autobô",
+    "character_desc": "Mascote-robô SDET: braço mecânico que executa testes e roteiro de automação.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, robot mascot with a mechanical arm running automated test scripts, holding a test automation scroll, tireless precise pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r065",
+    "sheet_id": "s052",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Perfô",
+    "character_desc": "Mascote-touro Performance Tester: haltere de carga, medidor de estresse e cronômetro.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, bull mascot lifting a load dumbbell next to a stress-test gauge, holding a stopwatch, powerful load-testing pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r066",
+    "sheet_id": "s052",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Manuê",
+    "character_desc": "Mascote-castor Manual Tester: checklist gigante, caneta e lupa passo a passo.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, beaver mascot with a giant checklist, pen, and step-by-step magnifier, diligent hands-on testing pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r067",
+    "sheet_id": "s052",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Acitest",
+    "character_desc": "Mascote-golfinho Accessibility Tester: leitor de tela, checklist WCAG e símbolo de acessibilidade.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, dolphin mascot with a screen-reader device, an accessibility checklist, and the accessibility symbol, inclusive verifying pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r068",
+    "sheet_id": "s052",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Escribo",
+    "character_desc": "Mascote-castor Technical Writer: pena gigante, manual encadernado e óculos.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, beaver mascot with round glasses holding a giant quill pen and a bound documentation manual, articulate writing pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r069",
+    "sheet_id": "s052",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Advô",
+    "character_desc": "Mascote-tucano Developer Advocate: microfone, camiseta de evento e adesivos de stickers.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, toucan mascot holding a microphone, wearing an event t-shirt covered in stickers, enthusiastic stage pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r070",
+    "sheet_id": "s052",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Estratê",
+    "character_desc": "Mascote-coruja Content Strategist: mapa de conteúdo, calendário editorial e bússola.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, owl mascot holding a content map, an editorial calendar, and a compass, planning strategic pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r071",
+    "sheet_id": "s052",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Loca",
+    "character_desc": "Mascote-papagaio Localization Engineer: globo, balões de fala em vários idiomas e bandeirinhas.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, parrot mascot spinning a globe surrounded by speech bubbles in different scripts and little flags, multilingual friendly pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r072",
+    "sheet_id": "s052",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Prodê",
+    "character_desc": "Mascote-raposa Product Designer: protótipo de tela, lápis e coração de usuário.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, fox mascot holding a screen prototype, a pencil, and a user-heart icon, balanced product-craft pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r073",
+    "sheet_id": "s052",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Visu",
+    "character_desc": "Mascote-pavão Visual Designer: paleta de cores, tipos de fonte e pincel.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, peacock mascot with a color palette, floating typography samples, and a brush, aesthetic showcase pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r074",
+    "sheet_id": "s052",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Interã",
+    "character_desc": "Mascote-polvo Interaction Designer: botões de gesto, setas de fluxo e controle tátil.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, octopus mascot handling gesture buttons and flow arrows with multiple tentacles, tactile interaction pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r075",
+    "sheet_id": "s052",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Motô",
+    "character_desc": "Mascote-guepardo Motion Designer: linhas de movimento, timeline e claquete.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, cheetah mascot surrounded by motion streak lines, holding an animation timeline and a clapperboard, dynamic moving pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r076",
+    "sheet_id": "s052",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Ilú",
+    "character_desc": "Mascote-castor Illustrator: prancheta de desenho, lápis gigante e paleta.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, beaver mascot at a drawing board with a giant pencil and paint palette, creative sketching pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r077",
+    "sheet_id": "s052",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Assetê",
+    "character_desc": "Mascote-esquilo Asset Designer: sprites e ícones empilhados numa caixa de recursos.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, squirrel mascot organizing a resource box of stacked sprite tiles and icons, tidy asset-packing pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r078",
+    "sheet_id": "s052",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Brandi",
+    "character_desc": "Mascote-leão Brand Designer: paleta de marca, carimbo de logo genérico e faixa.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, lion mascot holding a brand palette, a generic emblem stamp, and a brand ribbon, confident identity pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r079",
+    "sheet_id": "s052",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Sonzô",
+    "character_desc": "Mascote-morcego Sound Designer: fones grandes, onda sonora e teclado-sampler.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, bat mascot with big headphones, visible sound waves, holding a sampler keyboard, groovy audio pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r080",
+    "sheet_id": "s052",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Tridê",
+    "character_desc": "Mascote-camaleão 3D Artist: cubo wireframe girando, mouse 3D e escultura de argila digital.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, chameleon mascot rotating a wireframe cube, holding a 3D mouse and a digital clay sculpt, dimensional modeling pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r081",
+    "sheet_id": "s052",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Jogão",
+    "character_desc": "Mascote-raposa Game Designer: dado gigante, controle de videogame e mapa de níveis.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, fox mascot holding a giant die, a retro game controller, and a level map, playful game-master pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r082",
+    "sheet_id": "s052",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Nível",
+    "character_desc": "Mascote-toupeira Level Designer: maquete de fase com plataformas e bandeira de checkpoint.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, mole mascot presenting a small level diorama with platforms and a checkpoint flag, building-a-stage pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r083",
+    "sheet_id": "s052",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Narra",
+    "character_desc": "Mascote-coruja Narrative Designer: livro de história aberto, balões de diálogo e pena.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, owl mascot with an open story book, floating dialogue balloons, and a quill, storytelling gesturing pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r084",
+    "sheet_id": "s052",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Gamedô",
+    "character_desc": "Mascote-macaco Game Developer: controle, engine-cubo e sprite pulando ao lado.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, monkey mascot holding a game controller and an engine cube, a little jumping sprite beside it, playful coding pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r085",
+    "sheet_id": "s052",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Xadô",
+    "character_desc": "Mascote-camaleão Shader Engineer: esfera com reflexos brilhantes e paleta de luz.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, chameleon mascot holding a glossy shaded sphere with dynamic light reflections and a light palette, glowing render pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r086",
+    "sheet_id": "s052",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Embarcô",
+    "character_desc": "Mascote-formiga Embedded Engineer: placa de circuito, ferro de solda e microchip.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, ant mascot holding a small circuit board, a soldering iron, and a microchip, tiny-hardware focused pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r087",
+    "sheet_id": "s052",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Firmô",
+    "character_desc": "Mascote-tartaruga Firmware Engineer: chip com engrenagem interna e cabo de gravação.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, tortoise mascot holding a chip with visible internal gears and a flashing cable, low-level tinkering pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r088",
+    "sheet_id": "s052",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Iotê",
+    "character_desc": "Mascote-polvo IoT Engineer: vários gadgets conectados sem fio, sensor e lâmpada smart.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, octopus mascot connecting several wireless smart gadgets, a sensor, and a smart bulb across its tentacles, connected-home pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r089",
+    "sheet_id": "s052",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Blocão",
+    "character_desc": "Mascote-castor Blockchain Dev: corrente de blocos-cubo entrelaçados e moeda genérica.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, beaver mascot holding a chain of interlinked cube-blocks and a generic coin token, distributed-ledger pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r090",
+    "sheet_id": "s052",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Contra",
+    "character_desc": "Mascote-coruja Smart Contract Auditor: pergaminho de contrato, lupa e carimbo de auditoria.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, owl mascot inspecting a smart-contract scroll with a magnifier and an audit stamp, scrutinizing pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r091",
+    "sheet_id": "s052",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Arvo",
+    "character_desc": "Mascote-coelho AR/VR Engineer: óculos de realidade virtual e hologramas flutuando ao redor.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, rabbit mascot wearing a VR headset with floating holographic shapes around it, immersive reaching pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r092",
+    "sheet_id": "s052",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Robô Bô",
+    "character_desc": "Mascote-robô Robotics Engineer: braço robótico, controle remoto e chave de fenda.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, robot mascot operating a robotic arm with a remote controller and a screwdriver, mechanical builder pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r093",
+    "sheet_id": "s052",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Grôu",
+    "character_desc": "Mascote-foguete Growth Engineer: gráfico de crescimento em flecha, funil e teste A/B.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, rocket-themed mascot holding a rising growth arrow chart, a funnel, and an A/B test sign, upward energetic pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r094",
+    "sheet_id": "s052",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Seozinho",
+    "character_desc": "Mascote-suricato SEO Specialist: lupa gigante, ranking em degraus e palavras-chave flutuantes.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, meerkat mascot with a giant magnifier, standing on a rising ranking podium with floating keyword tags, alert climbing pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r095",
+    "sheet_id": "s052",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Marketô",
+    "character_desc": "Mascote-tucano Marketing Technologist: megafone, funil de automação e coração de engajamento.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, toucan mascot with a megaphone, an automation funnel, and an engagement heart, promotional lively pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r096",
+    "sheet_id": "s052",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Soluto",
+    "character_desc": "Mascote-golden retriever Solutions Engineer: maleta de demos, laptop e aperto de mão.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, golden retriever mascot with a demo briefcase and a laptop, offering a friendly handshake, helpful pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r097",
+    "sheet_id": "s052",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Suportã",
+    "character_desc": "Mascote-são-bernardo Support Engineer: fone de headset, kit de primeiros socorros técnico e balão de chat.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, st-bernard-dog mascot with a headset, a tech first-aid kit, and a chat bubble, reassuring helpful pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r098",
+    "sheet_id": "s052",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Vendô",
+    "character_desc": "Mascote-tubarão amigável Sales Engineer: maleta, aperto de mão e gráfico de ROI.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, friendly shark mascot in a tie with a briefcase, offering a handshake beside an ROI chart, confident selling pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r099",
+    "sheet_id": "s052",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Finô",
+    "character_desc": "Mascote-porquinho FinOps Analyst: cofrinho, calculadora e gráfico de custos de nuvem.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, piggy-bank mascot with a calculator and a cloud-cost chart, thrifty budgeting pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s052-r100",
+    "sheet_id": "s052",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Legalê",
+    "character_desc": "Mascote-coruja Legal Counsel: martelo de juiz, balança e contrato carimbado.",
+    "nano_prompt": "1990s corporate advertising mascot character, full-body standing pose, retro rubber-hose cartoon style, bold thick black outlines, cel-shaded flat vivid colors, glossy plastic highlights, big white four-fingered cartoon gloves, chunky sneakers, large expressive cartoon eyes, energetic radical 90s attitude, owl mascot in a small judge collar holding a gavel, scales of justice, and a stamped contract, authoritative legal pose, retro 90s advertising mascot look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

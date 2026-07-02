@@ -1,0 +1,1002 @@
+[
+ {
+  "char_id": "s004-r001",
+  "sheet_id": "s004",
+  "role_id": "r001",
+  "role_slug": "arquiteto",
+  "role_name": "Arquiteto de Solução",
+  "character_name": "Arara-Mestra",
+  "character_desc": "Arara-azul-jacinto imponente que rege a arquitetura da revoada; carrega uma planta enrolada e um compasso de desenho.",
+  "nano_prompt": "Loose translucent watercolor painting of a majestic hyacinth macaw architect, wire-frame spectacles, a rolled blueprint scroll tucked under one wing and a tiny drafting compass held in a talon, visionary confident pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r002",
+  "sheet_id": "s004",
+  "role_id": "r002",
+  "role_slug": "tech-lead",
+  "role_name": "Tech Lead",
+  "character_name": "Escarlate",
+  "character_desc": "Arara-vermelha que conduz o bando técnico com batuta e fone, alinhando todos no mesmo compasso.",
+  "nano_prompt": "Loose translucent watercolor painting of a scarlet macaw tech lead wearing a slim headset, holding a small conductor's baton, guiding the flock with a steady focused gaze, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r003",
+  "sheet_id": "s004",
+  "role_id": "r003",
+  "role_slug": "staff-engineer",
+  "role_name": "Staff Engineer",
+  "character_name": "Quetzal-Sábio",
+  "character_desc": "Quetzal resplandecente veterano cuja cauda vira um leque de diagramas de sistema; usa um monóculo pensativo.",
+  "nano_prompt": "Loose translucent watercolor painting of a resplendent quetzal senior engineer with a monocle, long tail fanning into layered system-diagram feathers, calm elder wisdom, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r004",
+  "sheet_id": "s004",
+  "role_id": "r004",
+  "role_slug": "principal-engineer",
+  "role_name": "Principal Engineer",
+  "character_name": "Calau-Real",
+  "character_desc": "Calau de casque nobre como uma coroa natural, empunhando uma régua de cálculo dourada com autoridade serena.",
+  "nano_prompt": "Loose translucent watercolor painting of a great hornbill principal engineer with a crown-like casque, holding a golden slide-rule, distinguished authoritative posture, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r005",
+  "sheet_id": "s004",
+  "role_id": "r005",
+  "role_slug": "eng-manager",
+  "role_name": "Engineering Manager",
+  "character_name": "Cinza-Guia",
+  "character_desc": "Papagaio-cinza acolhedor com prancheta de 1:1 e uma xícara de café, expressão mentora e calorosa.",
+  "nano_prompt": "Loose translucent watercolor painting of a wise grey parrot engineering manager holding a clipboard and a small coffee cup, warm mentoring smile, one wing gesturing kindly, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r006",
+  "sheet_id": "s004",
+  "role_id": "r006",
+  "role_slug": "product-manager",
+  "role_name": "Product Manager",
+  "character_name": "Loris-Rumo",
+  "character_desc": "Lóris arco-íris que segura um quadro de post-its de roadmap e uma lupa sobre uma lâmpada de ideia.",
+  "nano_prompt": "Loose translucent watercolor painting of a rainbow lorikeet product manager holding a sticky-note roadmap board and a magnifying glass over a glowing lightbulb, curious enthusiastic pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r007",
+  "sheet_id": "s004",
+  "role_id": "r007",
+  "role_slug": "product-owner",
+  "role_name": "Product Owner",
+  "character_name": "Tucano-Prioridade",
+  "character_desc": "Tucano-de-bico-quilha que abraça um pergaminho de backlog priorizado e ergue uma pena-martelo de decisão.",
+  "nano_prompt": "Loose translucent watercolor painting of a keel-billed toucan product owner clutching a prioritized backlog scroll, raising a gavel-shaped feather, decisive expression, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r008",
+  "sheet_id": "s004",
+  "role_id": "r008",
+  "role_slug": "program-manager",
+  "role_name": "Program Manager",
+  "character_name": "Secretária-Elo",
+  "character_desc": "Ave-secretária de pernas longas que equilibra vários cartões de calendário interligados por linhas do tempo.",
+  "nano_prompt": "Loose translucent watercolor painting of a secretary bird program manager balancing several linked calendar cards along connecting timeline threads, poised coordinating stance, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r009",
+  "sheet_id": "s004",
+  "role_id": "r009",
+  "role_slug": "project-manager",
+  "role_name": "Project Manager",
+  "character_name": "Tecelão-Gantt",
+  "character_desc": "Pássaro-tecelão ao lado de um ninho tecido em formato de gráfico de Gantt, segurando um cronômetro.",
+  "nano_prompt": "Loose translucent watercolor painting of a weaver bird project manager beside a woven Gantt-chart nest, holding a stopwatch in one talon, organized attentive pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r010",
+  "sheet_id": "s004",
+  "role_id": "r010",
+  "role_slug": "scrum-master",
+  "role_name": "Scrum Master",
+  "character_name": "Martim-Sprint",
+  "character_desc": "Martim-pescador animado com uma raquete de quadro de sprint coberta de post-its, postura facilitadora.",
+  "nano_prompt": "Loose translucent watercolor painting of a cheerful kingfisher scrum master holding a small sprint-board paddle covered in sticky notes, facilitative encouraging pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r011",
+  "sheet_id": "s004",
+  "role_id": "r011",
+  "role_slug": "backend-dev",
+  "role_name": "Backend Developer",
+  "character_name": "Estorninho-Servidor",
+  "character_desc": "Estorninho de plumagem iridescente que segura uma engrenagem e um cabo de API, o motor por trás da revoada.",
+  "nano_prompt": "Loose translucent watercolor painting of a glossy iridescent starling backend developer holding a metal gear and an API cable, sturdy dependable stance, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r012",
+  "sheet_id": "s004",
+  "role_id": "r012",
+  "role_slug": "api-designer",
+  "role_name": "API Designer",
+  "character_name": "Beija-Conector",
+  "character_desc": "Beija-flor-sol que encaixa plugues de conector sobre um esquema de endpoints.",
+  "nano_prompt": "Loose translucent watercolor painting of a sunbird API designer threading connector plugs together over an endpoint blueprint, precise tidy pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r013",
+  "sheet_id": "s004",
+  "role_id": "r013",
+  "role_slug": "microservices-eng",
+  "role_name": "Microservices Engineer",
+  "character_name": "Andorinha-Módulo",
+  "character_desc": "Andorinha rodeada de pequenas caixas-contêiner interligadas pendendo em fios leves.",
+  "nano_prompt": "Loose translucent watercolor painting of a swallow microservices engineer surrounded by many tiny linked container boxes hanging on light threads, coordinating pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r014",
+  "sheet_id": "s004",
+  "role_id": "r014",
+  "role_slug": "pipeline-dev",
+  "role_name": "Pipeline Developer",
+  "character_name": "Pescador-Fluxo",
+  "character_desc": "Martim-pescador que canaliza um fluxo de gotas de dados por tubos conectados, mergulho preciso.",
+  "nano_prompt": "Loose translucent watercolor painting of a kingfisher pipeline developer channeling a stream of data droplets through connected pipes, focused diving posture, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r015",
+  "sheet_id": "s004",
+  "role_id": "r015",
+  "role_slug": "data-engineer",
+  "role_name": "Data Engineer",
+  "character_name": "Pelicano-Coleta",
+  "character_desc": "Pelicano cujo papo transborda cubos de dados, despejando-os por um funil.",
+  "nano_prompt": "Loose translucent watercolor painting of a pelican data engineer with a pouch overflowing with data cubes, pouring them through a funnel, industrious pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r016",
+  "sheet_id": "s004",
+  "role_id": "r016",
+  "role_slug": "dba",
+  "role_name": "Database Administrator",
+  "character_name": "Poupa-Guardiã",
+  "character_desc": "Poupa de crista que guarda tambores-disco de banco de dados empilhados, girando uma chave-mestra.",
+  "nano_prompt": "Loose translucent watercolor painting of a hoopoe database administrator guarding stacked database-disk drums, holding a master key, vigilant careful pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r017",
+  "sheet_id": "s004",
+  "role_id": "r017",
+  "role_slug": "sql-specialist",
+  "role_name": "SQL Specialist",
+  "character_name": "Pega-Consulta",
+  "character_desc": "Pega que organiza e junta fichas indexadas com uma varinha de consulta.",
+  "nano_prompt": "Loose translucent watercolor painting of a magpie SQL specialist joining and sorting index cards with a small query wand, clever precise expression, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r018",
+  "sheet_id": "s004",
+  "role_id": "r018",
+  "role_slug": "caching-engineer",
+  "role_name": "Caching Engineer",
+  "character_name": "Colibri-Cache",
+  "character_desc": "Colibri velocíssimo com pequenos potes de cache, deixando um rastro de raio.",
+  "nano_prompt": "Loose translucent watercolor painting of a hummingbird caching engineer holding tiny labeled cache jars, motion-blur speed trail, quick alert pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r019",
+  "sheet_id": "s004",
+  "role_id": "r019",
+  "role_slug": "queue-engineer",
+  "role_name": "Message Queue Engineer",
+  "character_name": "Andorinha-Fila",
+  "character_desc": "Andorinha que carrega uma fileira ordenada de envelopes numa fila impecável.",
+  "nano_prompt": "Loose translucent watercolor painting of a swallow message-queue engineer carrying an orderly line of envelopes in a neat queue, steady delivering pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r020",
+  "sheet_id": "s004",
+  "role_id": "r020",
+  "role_slug": "search-engineer",
+  "role_name": "Search Engineer",
+  "character_name": "Falcão-Índice",
+  "character_desc": "Falcão-peregrino de olhar penetrante com lupa e abas de índice, encontra tudo num instante.",
+  "nano_prompt": "Loose translucent watercolor painting of a peregrine falcon search engineer with a magnifying glass and index tabs, sharp keen-eyed gaze, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r021",
+  "sheet_id": "s004",
+  "role_id": "r021",
+  "role_slug": "frontend-dev",
+  "role_name": "Frontend Developer",
+  "character_name": "Pavão-Interface",
+  "character_desc": "Pavão cuja cauda se abre em painéis de UI, segurando pincel e grade de layout.",
+  "nano_prompt": "Loose translucent watercolor painting of a peacock frontend developer displaying a UI-panel tail, holding a paintbrush and a layout grid, proud presenting pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r022",
+  "sheet_id": "s004",
+  "role_id": "r022",
+  "role_slug": "ui-engineer",
+  "role_name": "UI Engineer",
+  "character_name": "Paraíso-Componente",
+  "character_desc": "Ave-do-paraíso que arruma componentes de UI brilhantes no ar com elegância.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird of paradise UI engineer arranging glowing UI components in the air, elegant precise pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r023",
+  "sheet_id": "s004",
+  "role_id": "r023",
+  "role_slug": "ux-designer",
+  "role_name": "UX Designer",
+  "character_name": "Liró-Fluxo",
+  "character_desc": "Ave-lira que rabisca setas de fluxo de usuário num bloco de wireframe, com um coração de empatia.",
+  "nano_prompt": "Loose translucent watercolor painting of a lyrebird UX designer sketching user-flow arrows on a wireframe pad, a small empathy heart at its chest, thoughtful pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r024",
+  "sheet_id": "s004",
+  "role_id": "r024",
+  "role_slug": "design-systems-eng",
+  "role_name": "Design Systems Engineer",
+  "character_name": "Caramanchão-Token",
+  "character_desc": "Ave-do-caramanchão que alinha com capricho uma biblioteca de tokens e amostras combinando.",
+  "nano_prompt": "Loose translucent watercolor painting of a bowerbird design-systems engineer arranging a tidy library of matched component swatches and tokens, meticulous pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r025",
+  "sheet_id": "s004",
+  "role_id": "r025",
+  "role_slug": "a11y-specialist",
+  "role_name": "Accessibility Specialist",
+  "character_name": "Coruja-Acesso",
+  "character_desc": "Coruja atenta com cartões de contraste e uma pequena rampa, uma asa em concha junto ao ouvido.",
+  "nano_prompt": "Loose translucent watercolor painting of an owl accessibility specialist holding contrast-check cards and a small ramp, one wing cupped near its ear, inclusive attentive pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r026",
+  "sheet_id": "s004",
+  "role_id": "r026",
+  "role_slug": "web-perf-engineer",
+  "role_name": "Web Performance Engineer",
+  "character_name": "Andarilho-Veloz",
+  "character_desc": "Ave-corredora ágil com um velocímetro e um medidor de performance, sempre acelerando.",
+  "nano_prompt": "Loose translucent watercolor painting of a swift roadrunner-like web-performance engineer holding a speedometer and a performance gauge, sprinting-ready pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r027",
+  "sheet_id": "s004",
+  "role_id": "r027",
+  "role_slug": "css-specialist",
+  "role_name": "CSS Specialist",
+  "character_name": "Flamingo-Estilo",
+  "character_desc": "Flamingo de curvas elegantes com amostras de cor e uma régua de flexbox.",
+  "nano_prompt": "Loose translucent watercolor painting of a flamingo CSS specialist holding color swatches and a flexbox ruler, graceful stylish curved pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r028",
+  "sheet_id": "s004",
+  "role_id": "r028",
+  "role_slug": "animation-engineer",
+  "role_name": "Animation Engineer",
+  "character_name": "Andorinha-Quadro",
+  "character_desc": "Andorinha traçando arcos de movimento pontilhados de keyframes.",
+  "nano_prompt": "Loose translucent watercolor painting of a swallow animation engineer trailing motion arcs dotted with keyframes, dynamic mid-motion pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r029",
+  "sheet_id": "s004",
+  "role_id": "r029",
+  "role_slug": "mobile-dev",
+  "role_name": "Mobile Developer",
+  "character_name": "Beija-Móvel",
+  "character_desc": "Beija-flor pequenino que segura um smartphone minúsculo, ágil e portátil.",
+  "nano_prompt": "Loose translucent watercolor painting of a tiny sunbird mobile developer holding a small smartphone slab in its talons, nimble pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r030",
+  "sheet_id": "s004",
+  "role_id": "r030",
+  "role_slug": "ios-dev",
+  "role_name": "iOS Developer",
+  "character_name": "Cacatua-Cristal",
+  "character_desc": "Cacatua branca refinada com um tablet minimalista e polido, gosto por elegância.",
+  "nano_prompt": "Loose translucent watercolor painting of a sleek white cockatoo iOS developer holding a minimalist polished tablet slab, refined elegant pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r031",
+  "sheet_id": "s004",
+  "role_id": "r031",
+  "role_slug": "android-dev",
+  "role_name": "Android Developer",
+  "character_name": "Periquito-Verde",
+  "character_desc": "Periquito verde-vivo com um gadget robótico verdinho na asa, alegre e aberto.",
+  "nano_prompt": "Loose translucent watercolor painting of a bright green parakeet Android developer holding a small green robot-shaped gadget, cheerful open pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r032",
+  "sheet_id": "s004",
+  "role_id": "r032",
+  "role_slug": "react-native-dev",
+  "role_name": "React Native Developer",
+  "character_name": "Loris-Ponte",
+  "character_desc": "Lóris que segura dois telefones ligados por uma ponte, um único código para dois mundos.",
+  "nano_prompt": "Loose translucent watercolor painting of a lorikeet React Native developer holding two phones bridged by a connecting arc, versatile balanced pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r033",
+  "sheet_id": "s004",
+  "role_id": "r033",
+  "role_slug": "flutter-dev",
+  "role_name": "Flutter Developer",
+  "character_name": "Colibri-Duplo",
+  "character_desc": "Colibri que faz esvoaçar dois painéis de plataforma como asas gêmeas.",
+  "nano_prompt": "Loose translucent watercolor painting of a hummingbird Flutter developer fluttering two twin platform panels like extra wings, lively pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r034",
+  "sheet_id": "s004",
+  "role_id": "r034",
+  "role_slug": "data-scientist",
+  "role_name": "Data Scientist",
+  "character_name": "Coruja-Dados",
+  "character_desc": "Coruja estudiosa com um frasco de dados brilhantes e óculos de dispersão de gráficos.",
+  "nano_prompt": "Loose translucent watercolor painting of an owl data scientist holding a beaker of glowing data, scatter-plot goggles perched on its beak, analytical pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r035",
+  "sheet_id": "s004",
+  "role_id": "r035",
+  "role_slug": "ml-engineer",
+  "role_name": "ML Engineer",
+  "character_name": "Tordo-Neural",
+  "character_desc": "Ave que treina um pequeno móbile de rede neural pendurado, ajustando os nós.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird ML engineer training a small hanging neural-network mobile, adjusting the glowing nodes, focused pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r036",
+  "sheet_id": "s004",
+  "role_id": "r036",
+  "role_slug": "mlops-engineer",
+  "role_name": "MLOps Engineer",
+  "character_name": "Guardião-Modelo",
+  "character_desc": "Ave que conduz uma esteira de caixas-modelo, mantendo tudo em produção.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird MLOps engineer tending a conveyor of model boxes, keeping the pipeline running, attentive pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r037",
+  "sheet_id": "s004",
+  "role_id": "r037",
+  "role_slug": "ai-researcher",
+  "role_name": "AI Researcher",
+  "character_name": "Quetzal-Ideia",
+  "character_desc": "Quetzal pensador com uma pena-giz cheia de equações e uma lâmpada-cérebro flutuante.",
+  "nano_prompt": "Loose translucent watercolor painting of a resplendent quetzal AI researcher holding a chalk-equation feather, a small glowing brain-lightbulb above, inquisitive pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r038",
+  "sheet_id": "s004",
+  "role_id": "r038",
+  "role_slug": "llm-prompt",
+  "role_name": "Prompt Engineer",
+  "character_name": "Sabiá-Palavra",
+  "character_desc": "Sabiá-imitador que molda balões de fala e pergaminhos de texto com uma varinha.",
+  "nano_prompt": "Loose translucent watercolor painting of a mockingbird prompt engineer shaping speech-bubble scrolls of words with a small wand, expressive articulate pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r039",
+  "sheet_id": "s004",
+  "role_id": "r039",
+  "role_slug": "nlp-engineer",
+  "role_name": "NLP Engineer",
+  "character_name": "Papagaio-Token",
+  "character_desc": "Papagaio que desenrola uma fita de palavras e tokens, desembaraçando a linguagem.",
+  "nano_prompt": "Loose translucent watercolor painting of a parrot NLP engineer untangling a ribbon of words and tokens, focused linguistic pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r040",
+  "sheet_id": "s004",
+  "role_id": "r040",
+  "role_slug": "cv-engineer",
+  "role_name": "Computer Vision Engineer",
+  "character_name": "Águia-Visão",
+  "character_desc": "Águia com um monóculo-lente de câmera e quadros de detecção ao redor da presa.",
+  "nano_prompt": "Loose translucent watercolor painting of an eagle computer-vision engineer with a camera-lens monocle and floating bounding-box frames, sharp observant gaze, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r041",
+  "sheet_id": "s004",
+  "role_id": "r041",
+  "role_slug": "data-analyst",
+  "role_name": "Data Analyst",
+  "character_name": "Tentilhão-Gráfico",
+  "character_desc": "Tentilhão que abre um leque de barras de gráfico e examina com uma lupa.",
+  "nano_prompt": "Loose translucent watercolor painting of a finch data analyst fanning out a bar-chart and inspecting it with a magnifying glass, curious pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r042",
+  "sheet_id": "s004",
+  "role_id": "r042",
+  "role_slug": "bi-analyst",
+  "role_name": "BI Analyst",
+  "character_name": "Tucano-Painel",
+  "character_desc": "Tucano que exibe um tablet de dashboard cheio de KPIs coloridos.",
+  "nano_prompt": "Loose translucent watercolor painting of a toucan BI analyst holding a dashboard tablet full of colorful KPI charts, presenting pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r043",
+  "sheet_id": "s004",
+  "role_id": "r043",
+  "role_slug": "analytics-engineer",
+  "role_name": "Analytics Engineer",
+  "character_name": "Tecelão-Modelo",
+  "character_desc": "Ave-tecelã que trança fios de dados brutos em modelos limpos e organizados.",
+  "nano_prompt": "Loose translucent watercolor painting of a weaver bird analytics engineer braiding raw data threads into tidy transformed models, methodical pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r044",
+  "sheet_id": "s004",
+  "role_id": "r044",
+  "role_slug": "dataviz-specialist",
+  "role_name": "Data Viz Specialist",
+  "character_name": "Pavão-Gráfico",
+  "character_desc": "Pavão cuja cauda é um gráfico luminoso, segurando uma paleta de cores.",
+  "nano_prompt": "Loose translucent watercolor painting of a peacock data-viz specialist whose fanned tail forms a glowing chart, holding a color palette, artful presenting pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r045",
+  "sheet_id": "s004",
+  "role_id": "r045",
+  "role_slug": "devops-installer",
+  "role_name": "DevOps Engineer",
+  "character_name": "Elo-Infinito",
+  "character_desc": "Ave que une dev e ops com uma fita em laço infinito e uma chave inglesa.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird DevOps engineer bridging dev and ops with an infinity-loop ribbon and a wrench, busy balanced pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r046",
+  "sheet_id": "s004",
+  "role_id": "r046",
+  "role_slug": "sre",
+  "role_name": "Site Reliability Engineer",
+  "character_name": "Falcão-Vigília",
+  "character_desc": "Falcão vigilante com um pager de uptime e um escudo, sempre de plantão.",
+  "nano_prompt": "Loose translucent watercolor painting of a vigilant falcon SRE holding an uptime pager and a small shield, alert on-call pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r047",
+  "sheet_id": "s004",
+  "role_id": "r047",
+  "role_slug": "platform-engineer",
+  "role_name": "Platform Engineer",
+  "character_name": "Construtor-Trilha",
+  "character_desc": "Ave que assenta um piso de ladrilhos dourados formando a golden path para o bando.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird platform engineer laying a floor of golden path tiles for others to walk, constructive pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r048",
+  "sheet_id": "s004",
+  "role_id": "r048",
+  "role_slug": "cloud-architect",
+  "role_name": "Cloud Architect",
+  "character_name": "Albatroz-Nuvem",
+  "character_desc": "Albatroz que plana entre nuvens estilizadas segurando uma planta de arquitetura em nuvem.",
+  "nano_prompt": "Loose translucent watercolor painting of an albatross cloud architect soaring among stylized clouds, holding a cloud blueprint, expansive gliding pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r049",
+  "sheet_id": "s004",
+  "role_id": "r049",
+  "role_slug": "k8s-admin",
+  "role_name": "Kubernetes Admin",
+  "character_name": "Timoneiro-Leme",
+  "character_desc": "Ave ao leme de um navio, guiando contêineres empilhados pelo mar.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird Kubernetes admin at a ship's helm steering stacked containers, steady navigating pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r050",
+  "sheet_id": "s004",
+  "role_id": "r050",
+  "role_slug": "network-engineer",
+  "role_name": "Network Engineer",
+  "character_name": "Andorinha-Rede",
+  "character_desc": "Andorinha que estende uma teia de cabos e nós de rede interligados.",
+  "nano_prompt": "Loose translucent watercolor painting of a swallow network engineer stringing a web of connected network cables and nodes, connecting pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r051",
+  "sheet_id": "s004",
+  "role_id": "r051",
+  "role_slug": "sysadmin",
+  "role_name": "Systems Administrator",
+  "character_name": "Coruja-Chaveiro",
+  "character_desc": "Coruja com um grande molho de chaves guardando torres de servidor.",
+  "nano_prompt": "Loose translucent watercolor painting of an owl systems administrator holding a big keyring, guarding server towers, watchful pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r052",
+  "sheet_id": "s004",
+  "role_id": "r052",
+  "role_slug": "release-engineer",
+  "role_name": "Release Engineer",
+  "character_name": "Lançador-Foguete",
+  "character_desc": "Ave que solta um pequeno foguete com uma etiqueta de versão, hora do release.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird release engineer launching a small rocket carrying a version tag, triumphant pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r053",
+  "sheet_id": "s004",
+  "role_id": "r053",
+  "role_slug": "build-engineer",
+  "role_name": "Build Engineer",
+  "character_name": "Pica-Construtor",
+  "character_desc": "Pica-pau que monta um artefato de build com martelo e engrenagem.",
+  "nano_prompt": "Loose translucent watercolor painting of a woodpecker build engineer assembling a build artifact with a hammer and gear, constructive pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r054",
+  "sheet_id": "s004",
+  "role_id": "r054",
+  "role_slug": "cicd-engineer",
+  "role_name": "CI/CD Engineer",
+  "character_name": "Esteira-Verde",
+  "character_desc": "Ave sobre uma esteira com um pipeline de checkmarks verdes fluindo.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird CI/CD engineer riding a conveyor belt with a flowing pipeline of green checkmarks, smooth pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r055",
+  "sheet_id": "s004",
+  "role_id": "r055",
+  "role_slug": "security-auditor",
+  "role_name": "Security Engineer",
+  "character_name": "Gavião-Escudo",
+  "character_desc": "Gavião protetor com um escudo e um cadeado, olhar atento contra ameaças.",
+  "nano_prompt": "Loose translucent watercolor painting of a hawk security engineer holding a shield and a padlock, watchful protective gaze, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r056",
+  "sheet_id": "s004",
+  "role_id": "r056",
+  "role_slug": "pentester",
+  "role_name": "Penetration Tester",
+  "character_name": "Pega-Chapéu",
+  "character_desc": "Pega esperta de capuz branco com uma gazua, testando cada fechadura.",
+  "nano_prompt": "Loose translucent watercolor painting of a magpie penetration tester in a white hoodie holding a lockpick, sly clever pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r057",
+  "sheet_id": "s004",
+  "role_id": "r057",
+  "role_slug": "appsec-engineer",
+  "role_name": "AppSec Engineer",
+  "character_name": "Inspetor-Código",
+  "character_desc": "Ave que examina um pergaminho de código com lupa e um escudo protetor.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird AppSec engineer inspecting a code scroll with a magnifying glass and a small shield, careful pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r058",
+  "sheet_id": "s004",
+  "role_id": "r058",
+  "role_slug": "cryptographer",
+  "role_name": "Cryptographer",
+  "character_name": "Coruja-Cifra",
+  "character_desc": "Coruja com uma roda de cifra e um pergaminho trancado a cadeado.",
+  "nano_prompt": "Loose translucent watercolor painting of an owl cryptographer holding a cipher wheel and a padlocked scroll, secretive intent pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r059",
+  "sheet_id": "s004",
+  "role_id": "r059",
+  "role_slug": "compliance-officer",
+  "role_name": "Compliance Officer",
+  "character_name": "Garça-Selo",
+  "character_desc": "Garça severa com uma lista de conformidade e um carimbo de selo oficial.",
+  "nano_prompt": "Loose translucent watercolor painting of a stern heron compliance officer holding a compliance checklist and an official stamp seal, upright formal pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r060",
+  "sheet_id": "s004",
+  "role_id": "r060",
+  "role_slug": "privacy-engineer",
+  "role_name": "Privacy Engineer",
+  "character_name": "Ave-Véu",
+  "character_desc": "Ave que oculta dados atrás de um véu e uma máscara de redação.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird privacy engineer cloaking data behind a veil and a redaction mask, discreet protective pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r061",
+  "sheet_id": "s004",
+  "role_id": "r061",
+  "role_slug": "incident-responder",
+  "role_name": "Incident Responder",
+  "character_name": "Bombeiro-Alarme",
+  "character_desc": "Ave-bombeira com um sino de alarme e um extintor, pronta pra apagar incidentes.",
+  "nano_prompt": "Loose translucent watercolor painting of a firefighter bird incident responder holding an alarm bell and a fire extinguisher, urgent ready pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r062",
+  "sheet_id": "s004",
+  "role_id": "r062",
+  "role_slug": "threat-modeler",
+  "role_name": "Threat Modeler",
+  "character_name": "Cartógrafo-Ameaça",
+  "character_desc": "Ave que desenha uma árvore de ataque com alfinetes e linhas num mapa.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird threat modeler sketching an attack-tree map pinned with markers, analytical strategic pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r063",
+  "sheet_id": "s004",
+  "role_id": "r063",
+  "role_slug": "qa-tester",
+  "role_name": "QA Engineer",
+  "character_name": "Caça-Bug",
+  "character_desc": "Ave com uma lupa enorme e uma rede de captura fisgando um besouro-bug.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird QA engineer with a large magnifying glass and a bug net catching a beetle-shaped bug, diligent pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r064",
+  "sheet_id": "s004",
+  "role_id": "r064",
+  "role_slug": "sdet",
+  "role_name": "SDET (Automação)",
+  "character_name": "Braço-Robô",
+  "character_desc": "Ave com um braço robótico que roda scripts de teste automatizados.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird SDET with a small robotic arm running automated test scripts, precise technical pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r065",
+  "sheet_id": "s004",
+  "role_id": "r065",
+  "role_slug": "perf-tester",
+  "role_name": "Performance Tester",
+  "character_name": "Cronômetro-Carga",
+  "character_desc": "Ave com cronômetro e um medidor de carga esticando barras de estresse.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird performance tester holding a stopwatch and a load gauge stressing test bars, intense measuring pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r066",
+  "sheet_id": "s004",
+  "role_id": "r066",
+  "role_slug": "manual-tester",
+  "role_name": "Manual Tester",
+  "character_name": "Lista-Metódica",
+  "character_desc": "Ave que marca metodicamente uma lista de verificação ao lado de um pote de bugs.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird manual tester methodically ticking a checklist beside a jar of caught bugs, patient thorough pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r067",
+  "sheet_id": "s004",
+  "role_id": "r067",
+  "role_slug": "a11y-tester",
+  "role_name": "Accessibility Tester",
+  "character_name": "Ouvido-Atento",
+  "character_desc": "Ave que testa cartões de contraste com uma asa em concha simulando leitor de tela.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird accessibility tester holding contrast cards, one wing cupped to its ear like a screen reader, attentive pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r068",
+  "sheet_id": "s004",
+  "role_id": "r068",
+  "role_slug": "docs-writer",
+  "role_name": "Technical Writer",
+  "character_name": "Escrivã-Pena",
+  "character_desc": "Ave escrivã com uma pena de escrever e um manual aberto em pergaminho.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird technical writer holding a quill pen and an open manual scroll, composed writing pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r069",
+  "sheet_id": "s004",
+  "role_id": "r069",
+  "role_slug": "dev-advocate",
+  "role_name": "Developer Advocate",
+  "character_name": "Voz-Comunidade",
+  "character_desc": "Ave num pequeno palco com microfone e um coração, unindo a comunidade.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird developer advocate at a tiny podium holding a microphone with a small heart, engaging welcoming pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r070",
+  "sheet_id": "s004",
+  "role_id": "r070",
+  "role_slug": "content-strategist",
+  "role_name": "Content Strategist",
+  "character_name": "Calendário-Conteúdo",
+  "character_desc": "Ave que organiza um mapa de calendário editorial de conteúdo.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird content strategist arranging an editorial content-calendar map, planning thoughtful pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r071",
+  "sheet_id": "s004",
+  "role_id": "r071",
+  "role_slug": "i18n-engineer",
+  "role_name": "Localization Engineer",
+  "character_name": "Papagaio-Idiomas",
+  "character_desc": "Papagaio com balões de fala em vários idiomas ao redor de um globo.",
+  "nano_prompt": "Loose translucent watercolor painting of a parrot localization engineer surrounded by speech bubbles in many languages orbiting a small globe, worldly pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r072",
+  "sheet_id": "s004",
+  "role_id": "r072",
+  "role_slug": "product-designer",
+  "role_name": "Product Designer",
+  "character_name": "Esboço-Produto",
+  "character_desc": "Ave que esboça um produto num bloco com um pequeno coração de cuidado.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird product designer sketching a product on a pad with a small caring heart, creative pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r073",
+  "sheet_id": "s004",
+  "role_id": "r073",
+  "role_slug": "visual-designer",
+  "role_name": "Visual Designer",
+  "character_name": "Paleta-Pincel",
+  "character_desc": "Ave com paleta e pincel pintando um pôster vibrante.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird visual designer holding a palette and brush painting a vivid poster, artistic pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r074",
+  "sheet_id": "s004",
+  "role_id": "r074",
+  "role_slug": "interaction-designer",
+  "role_name": "Interaction Designer",
+  "character_name": "Fios-Interação",
+  "character_desc": "Ave que liga hotspots interativos com setas e nós de interação.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird interaction designer wiring interactive hotspots with arrows and connection nodes, inventive pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r075",
+  "sheet_id": "s004",
+  "role_id": "r075",
+  "role_slug": "motion-designer",
+  "role_name": "Motion Designer",
+  "character_name": "Rolo-Movimento",
+  "character_desc": "Ave com arcos de movimento e um pequeno rolo de filme.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird motion designer trailing motion arcs and holding a small film reel, dynamic pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r076",
+  "sheet_id": "s004",
+  "role_id": "r076",
+  "role_slug": "illustrator",
+  "role_name": "Illustrator",
+  "character_name": "Pincel-Aquarela",
+  "character_desc": "Ave que segura um pincel pintando uma mini aquarela, arte dentro da arte.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird illustrator holding a paintbrush painting a tiny watercolor of its own, whimsical creative pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r077",
+  "sheet_id": "s004",
+  "role_id": "r077",
+  "role_slug": "asset-designer",
+  "role_name": "Asset Designer",
+  "character_name": "Ladrilho-Sprite",
+  "character_desc": "Ave cercada por ladrilhos organizados de sprites e ícones.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird asset designer surrounded by neat tiles of sprites and icons, orderly crafting pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r078",
+  "sheet_id": "s004",
+  "role_id": "r078",
+  "role_slug": "brand-designer",
+  "role_name": "Brand Designer",
+  "character_name": "Medalha-Marca",
+  "character_desc": "Ave com um medalhão de marca e cartões de amostra de identidade.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird brand designer holding a blank brand-mark medallion and identity swatch cards, confident presenting pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r079",
+  "sheet_id": "s004",
+  "role_id": "r079",
+  "role_slug": "sound-designer",
+  "role_name": "Sound Designer",
+  "character_name": "Canora-Fone",
+  "character_desc": "Pássaro canoro com fones e fitas de ondas sonoras ao redor.",
+  "nano_prompt": "Loose translucent watercolor painting of a songbird sound designer wearing headphones with sound-wave ribbons swirling around, immersed listening pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r080",
+  "sheet_id": "s004",
+  "role_id": "r080",
+  "role_slug": "3d-artist",
+  "role_name": "3D Artist",
+  "character_name": "Escultor-Wireframe",
+  "character_desc": "Ave que esculpe um pequeno modelo 3D em wireframe girando.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird 3D artist sculpting a small rotating 3D wireframe model, focused shaping pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r081",
+  "sheet_id": "s004",
+  "role_id": "r081",
+  "role_slug": "game-designer",
+  "role_name": "Game Designer",
+  "character_name": "Dado-Jogo",
+  "character_desc": "Ave com dados, um pequeno tabuleiro e um controle de videogame.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird game designer holding dice, a small game board and a game controller, playful inventive pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r082",
+  "sheet_id": "s004",
+  "role_id": "r082",
+  "role_slug": "level-designer",
+  "role_name": "Level Designer",
+  "character_name": "Bloco-Fase",
+  "character_desc": "Ave que monta um mini mapa de fase de plataforma com blocos.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird level designer building a tiny platformer level map out of blocks, constructive pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r083",
+  "sheet_id": "s004",
+  "role_id": "r083",
+  "role_slug": "narrative-designer",
+  "role_name": "Narrative Designer",
+  "character_name": "Livro-Ramos",
+  "character_desc": "Ave com um livro de histórias aberto e uma pena, ramos de diálogo brotando.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird narrative designer holding an open storybook and a quill with branching dialogue lines rising, storytelling pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r084",
+  "sheet_id": "s004",
+  "role_id": "r084",
+  "role_slug": "game-dev",
+  "role_name": "Game Developer",
+  "character_name": "Controle-Sprite",
+  "character_desc": "Ave com um controle de videogame e um sprite de código pulando ao lado.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird game developer holding a game controller with a little code sprite bouncing beside, energetic pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r085",
+  "sheet_id": "s004",
+  "role_id": "r085",
+  "role_slug": "graphics-engineer",
+  "role_name": "Graphics/Shader Engineer",
+  "character_name": "Prisma-Shader",
+  "character_desc": "Ave com um prisma que projeta luz de shader em gradientes.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird graphics/shader engineer holding a prism casting shader light gradients, luminous focused pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r086",
+  "sheet_id": "s004",
+  "role_id": "r086",
+  "role_slug": "embedded-engineer",
+  "role_name": "Embedded Engineer",
+  "character_name": "Solda-Circuito",
+  "character_desc": "Ave que solda uma pequena placa de circuito com um chip minúsculo.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird embedded engineer soldering a tiny circuit board with a microchip, meticulous pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r087",
+  "sheet_id": "s004",
+  "role_id": "r087",
+  "role_slug": "firmware-engineer",
+  "role_name": "Firmware Engineer",
+  "character_name": "Chip-Firmware",
+  "character_desc": "Ave com um microchip e um raio de flash de firmware.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird firmware engineer holding a microchip and a firmware-flash bolt, technical precise pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r088",
+  "sheet_id": "s004",
+  "role_id": "r088",
+  "role_slug": "iot-engineer",
+  "role_name": "IoT Engineer",
+  "character_name": "Sensor-Conectado",
+  "character_desc": "Ave rodeada de pequenos sensores inteligentes e antenas conectadas.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird IoT engineer surrounded by little connected smart sensors and antennas, networked pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r089",
+  "sheet_id": "s004",
+  "role_id": "r089",
+  "role_slug": "blockchain-dev",
+  "role_name": "Blockchain Developer",
+  "character_name": "Corrente-Bloco",
+  "character_desc": "Ave que segura uma corrente de blocos luminosos de um ledger.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird blockchain developer holding a chain of glowing ledger blocks, steady assured pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r090",
+  "sheet_id": "s004",
+  "role_id": "r090",
+  "role_slug": "smartcontract-auditor",
+  "role_name": "Smart Contract Auditor",
+  "character_name": "Lupa-Contrato",
+  "character_desc": "Ave que inspeciona um pergaminho de blocos encadeados com lupa e escudo.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird smart-contract auditor inspecting a chain-block scroll with a magnifying glass and a shield, scrutinizing pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r091",
+  "sheet_id": "s004",
+  "role_id": "r091",
+  "role_slug": "arvr-engineer",
+  "role_name": "AR/VR Engineer",
+  "character_name": "Visor-Holograma",
+  "character_desc": "Ave com um visor de VR e hologramas flutuando ao redor.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird AR/VR engineer wearing a VR headset with floating holograms around it, wonder-filled immersive pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r092",
+  "sheet_id": "s004",
+  "role_id": "r092",
+  "role_slug": "robotics-engineer",
+  "role_name": "Robotics Engineer",
+  "character_name": "Chave-Robô",
+  "character_desc": "Ave com uma chave inglesa ao lado de um pequeno braço robótico articulado.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird robotics engineer holding a wrench beside a small articulated robot arm, hands-on tinkering pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r093",
+  "sheet_id": "s004",
+  "role_id": "r093",
+  "role_slug": "growth-engineer",
+  "role_name": "Growth Engineer",
+  "character_name": "Foguete-Crescimento",
+  "character_desc": "Ave com uma seta ascendente em foguete e um funil de usuários subindo.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird growth engineer holding an upward rocket arrow and a funnel of rising user icons, upbeat driving pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r094",
+  "sheet_id": "s004",
+  "role_id": "r094",
+  "role_slug": "seo-specialist",
+  "role_name": "SEO Specialist",
+  "character_name": "Escada-Rank",
+  "character_desc": "Ave com lupa sobre uma escada de ranking e etiquetas de palavras-chave.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird SEO specialist with a magnifying glass over a ranking ladder and keyword tags, strategic pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r095",
+  "sheet_id": "s004",
+  "role_id": "r095",
+  "role_slug": "marketing-tech",
+  "role_name": "Marketing Technologist",
+  "character_name": "Megafone-Auto",
+  "character_desc": "Ave com um megafone e engrenagens de automação de marketing.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird marketing technologist holding a megaphone with marketing-automation gears turning, outgoing pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r096",
+  "sheet_id": "s004",
+  "role_id": "r096",
+  "role_slug": "solutions-engineer",
+  "role_name": "Solutions Engineer",
+  "character_name": "Ponte-Solução",
+  "character_desc": "Ave que encaixa uma peça de quebra-cabeça de cliente numa tela de demo.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird solutions engineer fitting a client puzzle piece into a demo screen, helpful bridging pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r097",
+  "sheet_id": "s004",
+  "role_id": "r097",
+  "role_slug": "support-engineer",
+  "role_name": "Support Engineer",
+  "character_name": "Fone-Salva-Vidas",
+  "character_desc": "Ave com um fone de headset e uma boia salva-vidas, sempre pronta a ajudar.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird support engineer wearing a headset and holding a life-ring, friendly helpful pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r098",
+  "sheet_id": "s004",
+  "role_id": "r098",
+  "role_slug": "sales-engineer",
+  "role_name": "Sales Engineer",
+  "character_name": "Maleta-Demo",
+  "character_desc": "Ave com uma maleta de demonstração e um gráfico de crescimento, aperto de asa amigável.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird sales engineer holding a demo briefcase and a growth chart, offering a friendly wing-shake, persuasive pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r099",
+  "sheet_id": "s004",
+  "role_id": "r099",
+  "role_slug": "finops",
+  "role_name": "FinOps Analyst",
+  "character_name": "Calculadora-Custo",
+  "character_desc": "Ave com calculadora, um medidor de custo e pilhas de moedas.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird FinOps analyst holding a calculator and a cost gauge beside stacks of coins, prudent analytical pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s004-r100",
+  "sheet_id": "s004",
+  "role_id": "r100",
+  "role_slug": "legal-counsel",
+  "role_name": "Legal Counsel",
+  "character_name": "Balança-Justiça",
+  "character_desc": "Ave com um pequeno martelo de juiz, uma balança de justiça e um contrato enrolado.",
+  "nano_prompt": "Loose translucent watercolor painting of a bird legal counsel holding a tiny judge's gavel, scales of justice and a rolled contract, dignified formal pose, delicate wet-on-wet washes with soft bleeding edges, airy negative space and a light translucent palette, full-body perched exotic bird shown in three-quarter view, gentle and charming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ }
+]

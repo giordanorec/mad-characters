@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s011-r001",
+    "sheet_id": "s011",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Blueprint",
+    "character_desc": "O super-herói arquiteto: capa de anteprojetos e um capacete-holograma que projeta a planta da cidade. Comunica arquitetura de solução por segurar uma maquete brilhante de torres conectadas.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a caped superhero holding a glowing holographic city blueprint, chest emblem shaped like interlocking building blocks, drafting-compass gauntlets, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r002",
+    "sheet_id": "s011",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Vanguard",
+    "character_desc": "Herói líder de esquadrão: capa de comando e apito luminoso, guia a linha de frente. Lê como tech lead por apontar adiante enquanto segura um bastão de coordenação.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a squad-leader superhero pointing forward, glowing baton in hand, chevron emblem on chest, comm headset, commanding stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r003",
+    "sheet_id": "s011",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Keystone",
+    "character_desc": "Herói veterano de estrutura: ombreiras de aço e um martelo-chave que sustenta arcos. Comunica staff engineer por equilibrar uma pedra angular reluzente.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a veteran superhero holding a glowing keystone arch, heavy steel pauldrons, arch emblem on chest, sturdy grounded stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r004",
+    "sheet_id": "s011",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Prime Sentinel",
+    "character_desc": "Herói mestre principal: coroa-circuito e manto de autoridade técnica. Lê como principal engineer por segurar um orbe de padrões que irradia linhas de grade.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a master superhero holding a radiant standards orb emitting grid lines, circuit-crown, regal technical cape, star emblem, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r005",
+    "sheet_id": "s011",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Captain Sync",
+    "character_desc": "Herói capitão de equipe: escudo com gráfico de time e megafone de motivação. Comunica engineering manager por reunir peças-heroicas sob o braço.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a captain superhero with a team-roster shield and motivational megaphone, gathering small hero figures, gear-and-people emblem, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r006",
+    "sheet_id": "s011",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Visionary",
+    "character_desc": "Herói visionário do produto: monóculo-roadmap e bússola que aponta o norte do usuário. Lê como product manager por segurar um mapa-estrela de features priorizadas.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a visionary superhero holding a glowing prioritized roadmap star-map, roadmap monocle, compass emblem, forward-gazing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r007",
+    "sheet_id": "s011",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Backlog Baron",
+    "character_desc": "Herói dono do produto: pergaminho-backlog empilhado e cetro de prioridade. Comunica product owner por marcar o topo da pilha com uma estrela.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero holding a stacked backlog scroll topped with a star, priority scepter, checklist emblem, decisive stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r008",
+    "sheet_id": "s011",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Orchestra",
+    "character_desc": "Herói maestro de programas: batuta que conecta múltiplos fios luminosos entre projetos. Lê como program manager por reger vários orbes orbitando.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a conductor superhero waving a baton linking multiple glowing project orbs orbiting around, interlocked-rings emblem, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r009",
+    "sheet_id": "s011",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Timeline",
+    "character_desc": "Herói guardião de prazos: ampulheta-escudo e trilho Gantt luminoso no braço. Comunica project manager por segurar uma linha do tempo em chamas de progresso.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero holding a glowing Gantt timeline bar, hourglass shield on forearm, calendar emblem, steady managing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r010",
+    "sheet_id": "s011",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Sprint",
+    "character_desc": "Herói ágil: cronômetro-peitoral e quadro kanban portátil. Lê como scrum master por girar um totem de sprint com post-its voando.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a fast superhero spinning a portable kanban board with flying sticky notes, stopwatch chest emblem, agile dynamic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r011",
+    "sheet_id": "s011",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Coreforge",
+    "character_desc": "Herói forjador de servidores: punhos-servidor e engrenagens de lógica. Comunica backend por segurar um núcleo-servidor pulsante de dados.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero holding a pulsing glowing server core, server-rack gauntlets, gear emblem on chest, powerful backend stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r012",
+    "sheet_id": "s011",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Contractor",
+    "character_desc": "Herói desenhista de contratos: luvas que traçam conectores encaixáveis entre módulos. Lê como API designer por segurar plugs dourados que se encaixam.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero fitting together two glowing golden API connector plugs, socket emblem, blueprint gloves, precise pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r013",
+    "sheet_id": "s011",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Splinter",
+    "character_desc": "Herói dos microsserviços: capa dividida em muitos módulos-cápsula flutuantes. Comunica microservices por orquestrar pequenas caixas conectadas por fios.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero surrounded by many small floating connected service capsules, split modular cape, hexagon mesh emblem, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r014",
+    "sheet_id": "s011",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Conduit",
+    "character_desc": "Herói do pipeline: canos-braço por onde escorrem dados luminosos. Lê como pipeline dev por direcionar um fluxo de partículas por tubos.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero channeling a glowing data stream through arm-pipes, flow-arrow emblem, conduit shoulder armor, guiding pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r015",
+    "sheet_id": "s011",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Torrent",
+    "character_desc": "Herói engenheiro de dados: cataratas de bits caindo de suas mãos para reservatórios. Comunica data engineer por moldar rios de dados em canais.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero shaping cascading data streams into channels, reservoir emblem, flowing data cape, controlling water-of-data pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r016",
+    "sheet_id": "s011",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Vaultkeeper",
+    "character_desc": "Herói administrador do banco: chave-mestra e cofre-cilindro de banco de dados no braço. Lê como DBA por guardar um cilindro reluzente de registros.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero guarding a glowing database cylinder vault, master key in hand, stacked-disk emblem, protective stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r017",
+    "sheet_id": "s011",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Querymancer",
+    "character_desc": "Herói feiticeiro de consultas: varinha que emite comandos SELECT em runas luminosas. Comunica SQL specialist por conjurar tabelas de luz.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero conjuring glowing query runes and a floating light-table, query-wand, joined-tables emblem, casting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r018",
+    "sheet_id": "s011",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Flashcache",
+    "character_desc": "Herói veloz de cache: relâmpago que congela e serve dados instantâneos. Lê como caching por segurar um chip que brilha em pulsos rápidos.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a lightning-fast superhero holding a glowing rapid cache chip, speed-bolt emblem, memory-layer gauntlets, blur-motion pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r019",
+    "sheet_id": "s011",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Relay",
+    "character_desc": "Herói do enfileiramento: correia de mensagens-cápsula passando em ordem por seus braços. Comunica message queue por entregar fichas numeradas em fila.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero passing numbered message capsules along a conveyor belt, queue-line emblem, mail-satchel armor, ordered pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r020",
+    "sheet_id": "s011",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Seeker",
+    "character_desc": "Herói buscador: lupa-radar que varre e ilumina o resultado certo. Lê como search engineer por focar um facho sobre um item destacado.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero aiming a radar magnifier beam onto a highlighted item, magnifier emblem, index-card bandolier, searching pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r021",
+    "sheet_id": "s011",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Pixel",
+    "character_desc": "Herói do frontend: paleta-escudo e pincel que pinta interfaces no ar. Comunica frontend dev por montar janelas-UI luminosas com as mãos.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero assembling glowing UI window panels in the air, palette shield, brush gauntlet, angle-bracket emblem, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r022",
+    "sheet_id": "s011",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Componette",
+    "character_desc": "Herói de componentes de UI: blocos-botão encaixáveis brilhando nas mãos. Lê como UI engineer por empilhar widgets luminosos.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero stacking glowing UI button-and-slider components, component-grid emblem, toolkit belt, building pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r023",
+    "sheet_id": "s011",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Empath",
+    "character_desc": "Herói do UX: coração-radar que sente o usuário e um mapa de jornada no braço. Comunica UX designer por segurar um fluxo de telas conectadas por setas.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero holding a connected screen-flow journey map, heart-radar chest emblem, empathy gloves, caring attentive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r024",
+    "sheet_id": "s011",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Tokensmith",
+    "character_desc": "Herói dos design systems: cinto de tokens-gema padronizados e biblioteca de peças. Lê como design systems por alinhar componentes idênticos numa grade.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero aligning identical design-token gems into a grid, systemized-grid emblem, component-library satchel, orderly pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r025",
+    "sheet_id": "s011",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Beacon",
+    "character_desc": "Herói da acessibilidade: bengala-farol luminosa e símbolo universal no peito. Comunica a11y por iluminar caminho para todos com ondas de contraste.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero raising a glowing accessibility beacon cane, universal-access emblem, high-contrast aura, inclusive welcoming pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r026",
+    "sheet_id": "s011",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Turbo",
+    "character_desc": "Herói da performance web: medidor de velocidade no peito subindo ao verde. Lê como web perf por comprimir uma página pesada em algo leve e veloz.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero compressing a heavy webpage into a light fast one, speedometer chest gauge in green, turbo-boots, dashing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r027",
+    "sheet_id": "s011",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Stylist",
+    "character_desc": "Herói do CSS: pincel-régua que alinha e estiliza tudo com um passe. Comunica CSS specialist por moldar caixas fluidas com fitas de estilo.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero styling floating layout boxes with ribbons of style, ruler-brush wand, cascade emblem, elegant arranging pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r028",
+    "sheet_id": "s011",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Kinetic",
+    "character_desc": "Herói da animação: rastros de movimento e frames-fantasma seguindo o gesto. Lê como animation engineer por desenhar uma curva de movimento no ar.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero drawing a glowing motion arc with ghost-frame trails, keyframe emblem, motion-blur cape, dynamic sweeping pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r029",
+    "sheet_id": "s011",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Pocketforce",
+    "character_desc": "Herói mobile: escudo em formato de smartphone e apps orbitando o pulso. Comunica mobile dev por segurar um telefone-portal luminoso.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero holding a glowing smartphone-portal shield, orbiting app icons, mobile-signal emblem, on-the-go pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r030",
+    "sheet_id": "s011",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Corebite",
+    "character_desc": "Herói do iOS: maçã-emblema mordida estilizada e acabamento polido premium. Lê como iOS dev por segurar um dispositivo minimalista reluzente.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a sleek superhero holding a polished minimalist device, stylized bitten-fruit emblem, brushed-metal armor, refined pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r031",
+    "sheet_id": "s011",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Droidwarden",
+    "character_desc": "Herói do Android: emblema robô-verde e chave-fenda modular. Comunica Android dev por montar um autômato verde amigável.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero assembling a friendly green robot-mascot, green-android emblem, modular screwdriver, tinkering pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r032",
+    "sheet_id": "s011",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Bridgekeeper",
+    "character_desc": "Herói React Native: átomo-emblema e ponte que liga dois telefones. Lê como RN dev por unir plataformas com um cabo luminoso.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero linking two phone platforms with a glowing bridge cable, spinning-atom emblem, cross-platform gauntlets, uniting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r033",
+    "sheet_id": "s011",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Aeromint",
+    "character_desc": "Herói Flutter: asas-borboleta azuis e pincel que pinta telas idênticas em qualquer aparelho. Comunica Flutter dev por espalhar telas gêmeas.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero with blue butterfly-wing cape holding twin identical screens, flutter emblem, widget brush, graceful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r034",
+    "sheet_id": "s011",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Insight",
+    "character_desc": "Herói cientista de dados: óculos-microscópio e gráfico-constelação que revela padrões. Lê como data scientist por conectar pontos numa nuvem de dados.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero connecting glowing data points into a pattern constellation, microscope-visor, scatter-plot emblem, analytic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r035",
+    "sheet_id": "s011",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Neuronaut",
+    "character_desc": "Herói ML: cérebro-rede neural pulsante no capacete e modelo-orbe treinando. Comunica ML engineer por moldar uma rede de nós que aprende.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero shaping a pulsing neural-network orb of learning nodes, neural-mesh helmet, brain-circuit emblem, focused pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r036",
+    "sheet_id": "s011",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Deployseer",
+    "character_desc": "Herói MLOps: esteira que leva modelos-cápsula do laboratório à produção. Lê como MLOps por empurrar um modelo num trilho automatizado.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero pushing a model capsule along an automated deployment rail, infinity-loop emblem, pipeline gauntlets, operating pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r037",
+    "sheet_id": "s011",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Frontier",
+    "character_desc": "Herói pesquisador de IA: pergaminho-paper flutuante e telescópio de fronteira. Comunica AI researcher por vislumbrar um horizonte de equações.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero peering through a research telescope at floating equations and a paper scroll, lightbulb-atom emblem, curious pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r038",
+    "sheet_id": "s011",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Whisperer",
+    "character_desc": "Herói prompt engineer: pergaminho de comandos brilhantes e lâmpada que responde. Lê como prompt engineer por sussurrar a um orbe-IA que se ilumina.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero whispering to a glowing AI orb that lights up, prompt-scroll in hand, speech-bubble emblem, coaxing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r039",
+    "sheet_id": "s011",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Lexicon",
+    "character_desc": "Herói NLP: balões de fala em muitas línguas orbitando e microfone-decodificador. Comunica NLP por transformar palavras em vetores luminosos.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero turning floating words into glowing vector strings, multilingual speech-bubbles, decoder mic, language emblem, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r040",
+    "sheet_id": "s011",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Optix",
+    "character_desc": "Herói visão computacional: visor que desenha caixas de detecção sobre o que vê. Lê como CV engineer por enquadrar objetos com molduras luminosas.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero with a scanning visor drawing detection boxes over objects, camera-eye emblem, bounding-box gauntlets, alert pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r041",
+    "sheet_id": "s011",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Trendspark",
+    "character_desc": "Herói analista de dados: prancheta com gráficos vivos e lente que revela tendências. Comunica data analyst por apontar uma linha ascendente.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero pointing at a rising trend line on a living chart clipboard, magnifier, bar-chart emblem, insightful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r042",
+    "sheet_id": "s011",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Dashboardo",
+    "character_desc": "Herói BI: painel-escudo cheio de medidores e KPIs luminosos. Lê como BI analyst por segurar um dashboard que pisca indicadores.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero holding a glowing dashboard shield full of KPI gauges, pie-chart emblem, report cape, presenting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r043",
+    "sheet_id": "s011",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Modelwright",
+    "character_desc": "Herói analytics engineer: encanamento que transforma dados brutos em tabelas limpas. Comunica analytics eng por polir cubos de dados alinhados.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero polishing raw data cubes into clean aligned tables, transform-pipe gauntlets, dbt-style emblem, refining pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r044",
+    "sheet_id": "s011",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Chromagraph",
+    "character_desc": "Herói data viz: paleta que pinta gráficos coloridos que ganham vida. Lê como dataviz por esculpir uma escultura de barras e linhas vibrantes.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero sculpting a vibrant chart of bars and lines mid-air, color palette, line-graph emblem, artistic flourish pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r045",
+    "sheet_id": "s011",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Autoforge",
+    "character_desc": "Herói DevOps: chave-inglesa gigante e loop infinito luminoso girando entre as mãos. Comunica DevOps por unir dev e ops num anel contínuo.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero spinning a glowing infinity DevOps loop, giant wrench, gear-and-arrows emblem, tool belt, automating pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r046",
+    "sheet_id": "s011",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Uptime",
+    "character_desc": "Herói SRE: escudo-pulso com batimento verde de uptime e extintor de incidentes. Lê como SRE por segurar um coração-servidor estável.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero holding a steady green uptime heartbeat monitor, incident extinguisher, reliability-shield emblem, vigilant pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r047",
+    "sheet_id": "s011",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Baseplate",
+    "character_desc": "Herói platform engineer: plataforma flutuante sobre a qual outros heróis pousam. Comunica platform eng por erguer uma base-pódio para times.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero lifting a glowing platform base where small hero figures stand, layered-slab emblem, foundation gauntlets, supporting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r048",
+    "sheet_id": "s011",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Nimbus",
+    "character_desc": "Herói arquiteto de nuvem: capa-nuvem e trono de servidores flutuantes. Lê como cloud architect por moldar uma nuvem cheia de ícones de serviço.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero shaping a glowing cloud full of service icons, cloud cape, floating server nodes, cloud emblem, commanding pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r049",
+    "sheet_id": "s011",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Helmsman",
+    "character_desc": "Herói Kubernetes: leme-timão de navio no peito e contêineres orbitando. Comunica k8s admin por pilotar um timão que orquestra caixas.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero steering a ship-helm wheel orchestrating orbiting containers, helm-wheel emblem, container satchel, piloting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r050",
+    "sheet_id": "s011",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Meshweaver",
+    "character_desc": "Herói de redes: teia de cabos luminosos entre nós que conecta com as mãos. Lê como network eng por tecer uma rede de pontos ligados.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero weaving a glowing web of connected network nodes, cable spool, node-mesh emblem, wiring pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r051",
+    "sheet_id": "s011",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Rootguard",
+    "character_desc": "Herói sysadmin: chaveiro de permissões e terminal-escudo com prompt piscando. Comunica sysadmin por segurar uma torre-servidor bem cuidada.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero tending a well-kept server tower, keyring of permissions, terminal-shield emblem, caretaker pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r052",
+    "sheet_id": "s011",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Launchmark",
+    "character_desc": "Herói release engineer: foguete-versão etiquetado pronto para o lançamento. Lê como release eng por segurar um foguete com tag de versão.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero holding a version-tagged launch rocket, semver emblem, checklist bandolier, ready-to-launch pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r053",
+    "sheet_id": "s011",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Assembler",
+    "character_desc": "Herói build engineer: prensa que compila peças soltas num artefato sólido. Comunica build eng por prensar código em um bloco-artefato.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero pressing loose code pieces into a solid build artifact block, compile-press gauntlets, gear-stack emblem, assembling pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r054",
+    "sheet_id": "s011",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Loopline",
+    "character_desc": "Herói CI/CD: esteira circular contínua movendo commits até a produção. Lê como CI/CD por conduzir peças verdes por um trilho automático.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero guiding green commit pieces along a continuous circular pipeline, check-arrow emblem, automation belt, flowing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r055",
+    "sheet_id": "s011",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Aegis",
+    "character_desc": "Herói de segurança: escudo-cadeado luminoso e capa blindada. Comunica security engineer por bloquear uma ameaça com um escudo de firewall.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero blocking a threat with a glowing firewall lock-shield, padlock emblem, armored cape, defensive stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r056",
+    "sheet_id": "s011",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Breaker",
+    "character_desc": "Herói pentester: gazua-chave e capuz de invasor ético que testa fechaduras. Lê como pentester por arrombar um cadeado para revelar a falha.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero picking a giant padlock to reveal a weakness, lockpick set, ethical-hacker hood, crosshair emblem, probing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r057",
+    "sheet_id": "s011",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Hardshell",
+    "character_desc": "Herói AppSec: armadura de código com placas-patch e escudo de sanitização. Comunica AppSec por blindar um app luminoso contra dardos.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero shielding a glowing app from incoming darts, patched code armor, bug-shield emblem, protective app-guard pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r058",
+    "sheet_id": "s011",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cipher",
+    "character_desc": "Herói criptógrafo: chave-dupla e cadeado-runa que embaralha luz em código. Lê como cryptographer por transformar texto em símbolos cifrados.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero turning glowing text into scrambled cipher symbols, dual key, rune-lock emblem, encryption gauntlets, arcane pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r059",
+    "sheet_id": "s011",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Rulebearer",
+    "character_desc": "Herói compliance: balança da justiça e selo de conformidade carimbado. Comunica compliance officer por segurar um pergaminho aprovado.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero holding scales of justice and a stamped compliance seal scroll, checkmark-badge emblem, formal upright pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r060",
+    "sheet_id": "s011",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Cloak",
+    "character_desc": "Herói privacidade: manto que oculta dados pessoais em silhuetas anônimas. Lê como privacy engineer por proteger perfis sob um véu luminoso.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero shielding anonymized profile silhouettes under a privacy veil, redaction cloak, shield-eye-crossed emblem, guarding pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r061",
+    "sheet_id": "s011",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Firewatch",
+    "character_desc": "Herói resposta a incidentes: sirene-capacete e extintor que apaga alertas vermelhos. Comunica incident responder por combater um alarme flamejante.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero extinguishing a flaming red alert with a foam blaster, siren helmet, alarm-bell emblem, urgent action pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r062",
+    "sheet_id": "s011",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Foreseer",
+    "character_desc": "Herói modelador de ameaças: tabuleiro-mapa de ataques com peças-inimigo previstas. Lê como threat modeler por antecipar rotas de ataque num diagrama.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero mapping predicted attack routes on a threat board with enemy pieces, chessboard emblem, strategist visor, plotting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r063",
+    "sheet_id": "s011",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Bugbane",
+    "character_desc": "Herói QA: lupa-caçadora e rede que captura besouros-bug luminosos. Comunica QA por prender um inseto-erro numa jarra de vidro.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero trapping a glowing bug beetle in a glass jar, hunting magnifier, checkmark-shield emblem, catching pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r064",
+    "sheet_id": "s011",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Autobane",
+    "character_desc": "Herói SDET: robô-assistente que dispara testes automáticos em rajada. Lê como SDET por comandar drones que marcam checks verdes.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero commanding test-drones firing green checkmarks in a burst, automation robot, script-gear emblem, directing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r065",
+    "sheet_id": "s011",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Stressor",
+    "character_desc": "Herói teste de performance: haltere-servidor pesado e medidor de carga no limite. Comunica perf tester por sobrecarregar um sistema e medir o pico.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero lifting a heavy server dumbbell against a load gauge at peak, stopwatch emblem, stress-meter armor, straining pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r066",
+    "sheet_id": "s011",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Handspec",
+    "character_desc": "Herói teste manual: prancheta-checklist e lupa que inspeciona tela a tela. Lê como manual tester por marcar itens à mão com caneta vermelha.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero checking items by hand on a screen checklist with a red pen, inspection magnifier, checkbox emblem, meticulous pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r067",
+    "sheet_id": "s011",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Openpath",
+    "character_desc": "Herói teste de acessibilidade: leitor de tela-orbe e teclado que navega sem mouse. Comunica a11y tester por validar contraste com uma régua luminosa.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero validating contrast with a glowing ruler and screen-reader orb, keyboard-only gauntlet, access-check emblem, testing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r068",
+    "sheet_id": "s011",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Scribe",
+    "character_desc": "Herói escritor técnico: pena-luminosa e manual aberto que se auto-organiza. Lê como technical writer por segurar um livro de docs que brilha.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero holding a glowing self-organizing documentation book, luminous quill, page emblem, articulate pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r069",
+    "sheet_id": "s011",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Evangel",
+    "character_desc": "Herói developer advocate: microfone-farol e camiseta de comunidade com adesivos. Comunica dev advocate por erguer um sinal que reúne uma multidão.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero raising a beacon microphone gathering a crowd, sticker-covered chest, community-heart emblem, rallying pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r070",
+    "sheet_id": "s011",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Storyline",
+    "character_desc": "Herói content strategist: mapa editorial e bússola de narrativa que alinha peças. Lê como content strategist por organizar cartões-tema num fluxo.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero arranging theme content cards into an editorial flow, narrative compass, quill-map emblem, planning pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r071",
+    "sheet_id": "s011",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Polyglot",
+    "character_desc": "Herói localization: globo-tradutor e balões em várias línguas encaixando idiomas. Comunica i18n por trocar bandeirinhas num painel de idiomas.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero swapping language flags on a localization panel, translator globe, multilingual bubbles, world emblem, adapting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r072",
+    "sheet_id": "s011",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Formfeel",
+    "character_desc": "Herói product designer: régua-empatia e protótipo interativo que responde ao toque. Lê como product designer por moldar uma tela que une forma e função.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero shaping an interactive prototype screen balancing form and function, empathy ruler, pen-and-heart emblem, crafting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r073",
+    "sheet_id": "s011",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Palette",
+    "character_desc": "Herói visual designer: leque de cores e pincel que harmoniza uma composição. Comunica visual designer por pintar um pôster vibrante no ar.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero painting a vibrant composition poster mid-air, color fan, brush wand, color-wheel emblem, expressive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r074",
+    "sheet_id": "s011",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Tapflow",
+    "character_desc": "Herói interaction designer: dedo-cursor luminoso traçando gestos e microinterações. Lê como interaction designer por desenhar um fluxo de toques que reage.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero tracing glowing tap-and-swipe gesture flows that react, cursor-finger gauntlet, ripple emblem, interactive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r075",
+    "sheet_id": "s011",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Swish",
+    "character_desc": "Herói motion designer: rastro de movimento fluido e teste de easing curvando no ar. Comunica motion designer por lançar um objeto com trilha animada.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero flinging an object with a fluid animated motion trail and easing curve, motion-arc emblem, swishing dynamic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r076",
+    "sheet_id": "s011",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Inkspark",
+    "character_desc": "Herói ilustrador: pena-mágica e desenhos que ganham vida ao redor. Lê como illustrator por conjurar personagens saltando do papel.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero conjuring characters leaping off a sketchbook page, magic ink pen, splash-of-ink emblem, drawing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r077",
+    "sheet_id": "s011",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Sprite",
+    "character_desc": "Herói asset designer: folha-de-sprites brilhante e cinzel que fatia ícones. Comunica asset designer por segurar uma grade de ativos de jogo.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero holding a glowing sprite-sheet grid of game assets, icon chisel, tile-grid emblem, crafting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r078",
+    "sheet_id": "s011",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Emblem",
+    "character_desc": "Herói brand designer: carimbo-logo e manto que exibe uma identidade marcante. Lê como brand designer por revelar um selo de marca reluzente.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero unveiling a shining brand seal stamp, identity mantle, monogram emblem, presenting-brand pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r079",
+    "sheet_id": "s011",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Resonance",
+    "character_desc": "Herói sound designer: fones-capacete e ondas sonoras luminosas moldadas nas mãos. Comunica sound designer por esculpir uma forma de onda audível.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero sculpting a glowing audio waveform between hands, headphone helmet, soundwave emblem, listening pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r080",
+    "sheet_id": "s011",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Voxel",
+    "character_desc": "Herói 3D artist: escultura poligonal flutuante e cinzel-luz que modela volumes. Lê como 3D artist por girar um modelo tridimensional wireframe.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero rotating a floating wireframe 3D sculpture, light chisel, polygon-cube emblem, modeling pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r081",
+    "sheet_id": "s011",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Loopmaster",
+    "character_desc": "Herói game designer: dado gigante e roda de mecânicas que gira o core loop. Comunica game designer por segurar um mapa de regras de jogo.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero holding a game-mechanics wheel and giant die, rules map, joystick-heart emblem, playful designing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r082",
+    "sheet_id": "s011",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Terraform",
+    "character_desc": "Herói level designer: maquete de fase com plataformas e inimigos posicionados. Lê como level designer por moldar um cenário jogável em miniatura.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero shaping a miniature playable level with platforms and enemy markers, grid-map emblem, level sculpting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r083",
+    "sheet_id": "s011",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Loreweaver",
+    "character_desc": "Herói narrative designer: livro-lore aberto e árvore de diálogos ramificando. Comunica narrative designer por tecer ramos de história luminosos.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero weaving glowing branching dialogue tree from an open lore book, story-tree emblem, storytelling pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r084",
+    "sheet_id": "s011",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Framebreaker",
+    "character_desc": "Herói game dev: joystick-arma e engine que roda um mundo em tempo real. Lê como game dev por segurar um orbe-mundo de jogo em movimento.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero holding a real-time game-world orb, joystick weapon, game-engine emblem, energetic developer pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r085",
+    "sheet_id": "s011",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Shaderay",
+    "character_desc": "Herói graphics/shader: prisma que refrata luz em gradientes e brilhos. Comunica shader engineer por moldar um feixe que renderiza superfícies.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero refracting a light prism into glossy shaded surfaces, ray-beam gauntlet, prism emblem, rendering pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r086",
+    "sheet_id": "s011",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Chipheart",
+    "character_desc": "Herói embarcados: placa-peitoral com microcontrolador pulsante e ferro de solda. Lê como embedded por segurar uma pequena placa que ganha vida.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero holding a small pulsing microcontroller board, soldering iron, chip chest-plate emblem, embedded tinkering pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r087",
+    "sheet_id": "s011",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Firecore",
+    "character_desc": "Herói firmware: chip-ROM luminoso gravado à mão e chave de flash. Comunica firmware por injetar código num circuito de baixo nível.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero flashing glowing firmware into a low-level circuit, ROM chip, flash-key gauntlet, binary emblem, precise pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r088",
+    "sheet_id": "s011",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Meshpulse",
+    "character_desc": "Herói IoT: enxame de sensores-lampejo conectados sem fio ao seu braço. Lê como IoT por reunir dispositivos que piscam em rede.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero linking a swarm of blinking wireless sensors to a hub, antenna emblem, sensor-node bandolier, connecting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r089",
+    "sheet_id": "s011",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Chainlink",
+    "character_desc": "Herói blockchain: corrente de blocos-cristal encadeados e chave criptográfica. Comunica blockchain por forjar um novo bloco na corrente.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero forging a new crystal block onto a glowing chain, crypto key, block-chain emblem, minting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r090",
+    "sheet_id": "s011",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Ledgerhawk",
+    "character_desc": "Herói auditor de smart contracts: lupa que inspeciona um contrato-pergaminho de código. Lê como auditor por marcar uma falha num contrato luminoso.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero inspecting a glowing smart-contract scroll with a magnifier, flagging a flaw, audit-checkmark emblem, scrutinizing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r091",
+    "sheet_id": "s011",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Overlay",
+    "character_desc": "Herói AR/VR: viseira-holograma e mundos sobrepostos flutuando ao redor. Comunica AR/VR por projetar objetos virtuais no espaço real.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero projecting floating holographic virtual objects into real space, VR visor, headset emblem, immersive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r092",
+    "sheet_id": "s011",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Servo",
+    "character_desc": "Herói robótica: braço-manipulador mecânico e pequeno robô-companheiro. Lê como robotics por comandar um autômato articulado.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero commanding an articulated robot arm and small companion bot, servo gauntlet, gear-bot emblem, controlling pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r093",
+    "sheet_id": "s011",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Rocketmetric",
+    "character_desc": "Herói growth: gráfico-foguete subindo e funil de aquisição luminoso. Comunica growth engineer por impulsionar uma curva ascendente.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero boosting a rocketing growth curve out of an acquisition funnel, up-arrow emblem, experiment-vial belt, launching pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r094",
+    "sheet_id": "s011",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Rankwave",
+    "character_desc": "Herói SEO: lupa-farol que escala uma montanha de resultados até o topo. Lê como SEO por içar um site à posição número um com setas.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero hoisting a website to the top rank of a results mountain, magnifier beacon, up-rank emblem, climbing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r095",
+    "sheet_id": "s011",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Funnelforge",
+    "character_desc": "Herói marketing tech: painel de automação com fluxos de campanha ramificando. Comunica marketing technologist por conectar canais luminosos num funil.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero wiring glowing marketing channels into an automation funnel, campaign-flow board, megaphone-gear emblem, orchestrating pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r096",
+    "sheet_id": "s011",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Bridgewright",
+    "character_desc": "Herói solutions engineer: maleta-demo e ponte que liga a solução ao cliente. Lê como solutions eng por encaixar uma peça no problema do cliente.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero fitting a solution puzzle piece into a client's gap, demo briefcase, handshake-gear emblem, presenting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r097",
+    "sheet_id": "s011",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Lifeline",
+    "character_desc": "Herói support engineer: fone-headset e cinto de ferramentas que resolve chamados. Comunica support eng por estender uma mão de ajuda com um kit.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero extending a helping hand with a repair toolkit, support headset, lifebuoy emblem, reassuring helpful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r098",
+    "sheet_id": "s011",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Pitchcraft",
+    "character_desc": "Herói sales engineer: maleta-demo e slide luminoso que convence com um gesto. Lê como sales eng por apresentar uma solução brilhante num painel.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero presenting a glowing solution slide from a demo case, pitch pointer, deal-handshake emblem, persuasive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r099",
+    "sheet_id": "s011",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Costguard",
+    "character_desc": "Herói FinOps: cofre-medidor de gastos e balança que corta custos de nuvem. Comunica FinOps por equilibrar moedas contra um servidor.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero balancing cloud coins against a server on a scale, cost-meter vault, dollar-gear emblem, budgeting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s011-r100",
+    "sheet_id": "s011",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Justiciar",
+    "character_desc": "Herói legal counsel: martelo-de-juiz luminoso e escudo com balança da lei. Lê como legal counsel por bater o martelo sobre um contrato selado.",
+    "nano_prompt": "Vintage comic-book superhero, halftone action-comic style, bold black ink outlines, Ben-Day halftone dots shading, saturated primary colors, dramatic cel-shaded lighting, waist-up bust portrait at eye level, single hero at uniform scale, heroic confident three-quarter pose, a superhero striking a glowing judge's gavel over a sealed contract, law-scale shield, gavel emblem, authoritative pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

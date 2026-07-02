@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s020-r001",
+    "sheet_id": "s020",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Aegis Prime",
+    "character_desc": "O mecha-comandante da esquadra: ergue um blueprint holográfico de cidade inteira e um cetro de controle-mestre que rege todos os outros.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, commander-class flagship mech holding a glowing holographic city blueprint in one hand and a master-control scepter, tall antenna crest, authoritative posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r002",
+    "sheet_id": "s020",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Vanguard Kai",
+    "character_desc": "Mecha líder de pelotão com antena de comando e um mapa tático flutuante que coordena os robôs menores ao redor.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, squad-leader mech with a commander antenna and a floating tactical battle map, shoulder command insignia, pointing forward as if directing units, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r003",
+    "sheet_id": "s020",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Ironsage",
+    "character_desc": "Mecha veterano coberto de multiferramentas nos braços e enormes pauldrons, resolvendo problemas amplos de engenharia.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, veteran heavy mech with multi-tool arms unfolding wrenches and modules, broad reinforced pauldrons, seasoned battle-worn armor, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r004",
+    "sheet_id": "s020",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Sovereign Zeta",
+    "character_desc": "Mecha-flagship de elite com crista tipo coroa e um cetro estratégico, referência técnica suprema.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, elite flagship mech with a crown-like crest, ornate golden trims, holding a strategic scepter with a glowing orb, regal stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r005",
+    "sheet_id": "s020",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Chorus Unit",
+    "character_desc": "Mecha coordenador com headset de comunicação e um holograma de roster da equipe orbitando o peito.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, coordinator mech wearing a large comms headset, a holographic team-roster ring orbiting its chest, open guiding gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r006",
+    "sheet_id": "s020",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Compass Drive",
+    "character_desc": "Mecha que segura um estandarte-roadmap e uma bússola-reticle apontando o alvo do produto.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech holding a roadmap banner-lance and a large targeting compass reticle, forward-leaning purposeful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r007",
+    "sheet_id": "s020",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Backlog Regent",
+    "character_desc": "Mecha com um pergaminho-backlog desenrolado e uma coroa de prioridade marcando o topo da lista.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech unfurling a long backlog scroll with priority crown emblem, ranking tokens floating beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r008",
+    "sheet_id": "s020",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Orchestra Nyx",
+    "character_desc": "Mecha que conecta vários mini-drones por feixes de luz e projeta um Gantt holográfico gigante.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, orchestrator mech linked by light-tethers to several small drones, projecting a giant holographic Gantt chart, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r009",
+    "sheet_id": "s020",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Milestone Rho",
+    "character_desc": "Mecha com uma manopla-timeline e um escudo-checklist marcado com marcos concluídos.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with a timeline gauntlet ticking milestones and a checklist shield with checkmarks, organized stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r010",
+    "sheet_id": "s020",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Sprintguard",
+    "character_desc": "Mecha com uma ampulheta de sprint no peito e um escudo coberto de post-its de quadro ágil.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, agile mech with a sprint hourglass embedded in its chest and a shield covered in sticky-note kanban cards, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r011",
+    "sheet_id": "s020",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Coreforge",
+    "character_desc": "Mecha robusto com núcleo-motor pulsante e uma mochila de racks de servidor nas costas.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, sturdy engine-core mech with a pulsing power reactor chest and a backpack of stacked server racks, solid heavy build, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r012",
+    "sheet_id": "s020",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Junction Vex",
+    "character_desc": "Mecha com braços-conectores de plugue e soquete e um painel de contrato de interface flutuante.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with plug-and-socket connector arms and a floating interface-contract panel, ports glowing along its forearms, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r013",
+    "sheet_id": "s020",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Fractal Swarm",
+    "character_desc": "Mecha modular dividido em várias pequenas unidades conectadas que orbitam o corpo central.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, modular mech composed of several small linked robotic units orbiting a central body, segmented interlocking design, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r014",
+    "sheet_id": "s020",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Conveyor Zan",
+    "character_desc": "Mecha com braços-esteira e tubos de dados fluindo, movendo cargas de um ponto ao outro.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, pipeline mech with conveyor-belt arms and flowing data pipes carrying glowing packets across its frame, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r015",
+    "sheet_id": "s020",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Aqueduct Gil",
+    "character_desc": "Mecha que carrega grandes dutos e tanques-reservatório de dados nas costas.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, heavy mech carrying large ducts and reservoir tanks of glowing liquid data on its back, pipe-covered chassis, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r016",
+    "sheet_id": "s020",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Vaultitan",
+    "character_desc": "Mecha-fortaleza que protege um núcleo-cilindro de banco de dados trancado no peito.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, fortress mech guarding a cylindrical database core vault in its chest, armored plating with lock seals, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r017",
+    "sheet_id": "s020",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Query Lance",
+    "character_desc": "Mecha com uma lança-consulta e um escudo em grade de tabela.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, agile mech wielding a query-lance and a table-grid shield with glowing rows and columns, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r018",
+    "sheet_id": "s020",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Bufferbolt",
+    "character_desc": "Mecha rápido com capacitores de memória e boosters de velocidade para respostas instantâneas.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, speed-optimized mech with memory-buffer capacitors on its shoulders and speed boosters, sleek fast build, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r019",
+    "sheet_id": "s020",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Tandem Que",
+    "character_desc": "Mecha com uma esteira de cápsulas-mensagem enfileiradas entrando ordenadamente em seu núcleo.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with a conveyor queue of message capsules feeding orderly into its intake core, FIFO belt design, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r020",
+    "sheet_id": "s020",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Radarion",
+    "character_desc": "Mecha com antena-radar giratória e um olho-lupa que varre o horizonte por resultados.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, scanner mech with a rotating radar dish and a magnifying-lens scanning eye, indexing beams sweeping outward, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r021",
+    "sheet_id": "s020",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Glasscade",
+    "character_desc": "Mecha elegante com um painel-tela no peito exibindo uma interface viva.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, sleek mech with a large screen-panel chest displaying a glowing user interface, clean polished paneling, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r022",
+    "sheet_id": "s020",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Modulon UI",
+    "character_desc": "Mecha com mãos de blocos-componente encaixáveis e armadura em formato de botões.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with snap-together component-block hands and button-shaped armor plates, tidy grid-aligned design, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r023",
+    "sheet_id": "s020",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Empath Flow",
+    "character_desc": "Mecha que projeta um mapa de wireframe e traz um sensor de empatia brilhando no peito.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech projecting a wireframe flow map and carrying a glowing empathy sensor heart, gentle attentive posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r024",
+    "sheet_id": "s020",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Tokenframe",
+    "character_desc": "Mecha construído a partir de módulos padronizados idênticos, um sistema de tokens em forma robô.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech built from standardized identical modular token blocks, perfectly consistent repeating components, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r025",
+    "sheet_id": "s020",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Accessor",
+    "character_desc": "Mecha com rampa de acesso, marcações de alto contraste e sensores-guia para todos alcançarem.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, inclusive mech with a deployable access ramp, high-contrast markings and guiding proximity sensors, welcoming stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r026",
+    "sheet_id": "s020",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Velocitron",
+    "character_desc": "Mecha aerodinâmico com cronômetro no peito e thrusters, otimizado para carregar rápido.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, aerodynamic speed mech with a stopwatch chest gauge and rear thrusters, streamlined lightweight frame, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r027",
+    "sheet_id": "s020",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Stylizer",
+    "character_desc": "Mecha estiloso com armadura de gradiente pintado e uma grade de layout projetada ao lado.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, stylish mech with painted gradient armor and a projected layout grid, brush-tipped arm, fashionable silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r028",
+    "sheet_id": "s020",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Keyframe Ai",
+    "character_desc": "Mecha com membros deixando trilhas de movimento e asas feitas de keyframes.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with motion-trail limbs and wings made of glowing keyframe markers, mid-motion dynamic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r029",
+    "sheet_id": "s020",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Palmtitan",
+    "character_desc": "Mecha compacto no formato de dispositivo portátil, com tela-touch no peito.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, compact handheld-device-shaped mech with a touchscreen chest and rounded pocket-friendly armor, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r030",
+    "sheet_id": "s020",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Lumen iX",
+    "character_desc": "Mecha minimalista branco polido, linhas limpas e acabamento premium.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, polished minimalist white mech with clean seamless lines and a single glowing accent, premium refined finish, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r031",
+    "sheet_id": "s020",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Verdroid",
+    "character_desc": "Mecha verde modular com antenas curtas, montável em muitas variações.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, modular green mech with short antennae and interchangeable plates, friendly robotic silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r032",
+    "sheet_id": "s020",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Bridgemind",
+    "character_desc": "Mecha híbrido cujo corpo une duas metades de plataformas diferentes numa só ponte.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, hybrid mech whose body bridges two different platform halves fused into one, dual-tone split armor, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r033",
+    "sheet_id": "s020",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Widgetwing",
+    "character_desc": "Mecha alado com asas de widgets tipo borboleta, ágil e colorido.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, winged mech with butterfly-like widget wings, colorful smooth panels, agile graceful stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r034",
+    "sheet_id": "s020",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Hypotheca",
+    "character_desc": "Mecha com holograma de gráfico de dispersão e frascos de experimento nas mãos.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, scientist mech projecting a scatter-plot hologram and holding experiment flasks, analytical curious pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r035",
+    "sheet_id": "s020",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Neuralcaster",
+    "character_desc": "Mecha com núcleo de rede neural pulsante e engrenagens de modelo girando no peito.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with a pulsing neural-network core and rotating model gears in its chest, neuron light strands, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r036",
+    "sheet_id": "s020",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Deployarch",
+    "character_desc": "Mecha que lança pods de modelo em trilhos, mantendo o pipeline de ML rodando.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, operations mech deploying model pods along rails, monitoring gauges on its arms, steady industrial build, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r037",
+    "sheet_id": "s020",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Scholaron",
+    "character_desc": "Mecha erudito com placas em forma de jaleco e pergaminhos de papers flutuando.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, scholarly mech with lab-coat-style plating and floating research paper scrolls, thoughtful stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r038",
+    "sheet_id": "s020",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Wordsmith Ka",
+    "character_desc": "Mecha que empunha uma varinha forjadora de palavras e emite balões de fala luminosos.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech wielding a word-crafting wand and emitting glowing speech-bubble prompts, articulate expressive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r039",
+    "sheet_id": "s020",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Lexparse",
+    "character_desc": "Mecha com visor tokenizador que fatia fluxos de linguagem em pedaços brilhantes.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with a tokenizer visor slicing flowing language streams into glowing token fragments, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r040",
+    "sheet_id": "s020",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Opticon",
+    "character_desc": "Mecha com olhos-lente de câmera e caixas de detecção delimitando objetos ao redor.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with camera-lens eyes projecting bounding-box detection frames around objects, sharp optical build, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r041",
+    "sheet_id": "s020",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Dashwright",
+    "character_desc": "Mecha com dashboard no peito e tablets de gráficos nas mãos.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with a live dashboard chest and chart tablets in hand, gauges and metrics glowing across its torso, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r042",
+    "sheet_id": "s020",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Insighta",
+    "character_desc": "Mecha com estandartes de relatório e medidores de KPI cravados na armadura.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, business-intelligence mech with report banners and KPI dial gauges mounted on its armor, presenting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r043",
+    "sheet_id": "s020",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Refinix",
+    "character_desc": "Mecha que transforma dutos de dados crus em tabelas limpas e organizadas.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech transforming raw messy data pipes into clean organized table blocks flowing out, refinery-style body, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r044",
+    "sheet_id": "s020",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Chartweaver",
+    "character_desc": "Mecha que projeta constelações de gráficos coloridos ao redor do corpo.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech projecting constellations of colorful charts and graphs swirling around its body, luminous display, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r045",
+    "sheet_id": "s020",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Infinituild",
+    "character_desc": "Mecha construtor com chave-inglesa gigante e emblema de loop infinito no peito.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, builder mech with a giant wrench and an infinity-loop emblem glowing on its chest, toolbelt of gears, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r046",
+    "sheet_id": "s020",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Uptime Sentinel",
+    "character_desc": "Mecha guardião com escudo de uptime e sensores de alarme atentos.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, guardian mech with an uptime shield and alert alarm sensors, vigilant defensive stance, status lights green, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r047",
+    "sheet_id": "s020",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Bedrock Va",
+    "character_desc": "Mecha-fundação com uma base-plataforma sólida sobre a qual outros se apoiam.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, foundation mech standing on a solid platform-plate base with support pillars, sturdy grounded design, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r048",
+    "sheet_id": "s020",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Nimbus Sol",
+    "character_desc": "Mecha azul-céu com módulos de nuvem flutuando ao redor, arquitetando o céu.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, sky-blue mech with floating cloud modules orbiting it, airy lightweight paneling, arms shaping the sky, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r049",
+    "sheet_id": "s020",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Helmsman K8",
+    "character_desc": "Mecha que pilota um leme de navio com caixas-container empilhadas nas costas.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech steering a ship's helm wheel with stacked shipping-container crates on its back, orchestrating pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r050",
+    "sheet_id": "s020",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Meshcaster",
+    "character_desc": "Mecha com tentáculos-cabo e um nó-roteador irradiando conexões.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with cable-tentacle arms and a glowing router-node hub radiating network connections, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r051",
+    "sheet_id": "s020",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Terminus Ops",
+    "character_desc": "Mecha rústico de manutenção com um console de terminal embutido e ferramentas.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, rugged maintenance mech with a built-in terminal console panel and utility tools, hands-on practical build, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r052",
+    "sheet_id": "s020",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Launchmark",
+    "character_desc": "Mecha que lança pacotes-foguete rumo à produção com contagem regressiva.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech launching rocket-packages upward with a countdown display, launch-pad shoulders, dynamic release pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r053",
+    "sheet_id": "s020",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Forgewright",
+    "character_desc": "Mecha que monta peças com braços de forja, montando o artefato final.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, assembler mech with forge arms fitting parts together into a final artifact, sparks and clamps, industrial build, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r054",
+    "sheet_id": "s020",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Pipeloop",
+    "character_desc": "Mecha com esteira de pipeline em loop e checks verdes acendendo a cada etapa.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with a looping CI/CD conveyor pipeline and green check-marks lighting up at each stage, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r055",
+    "sheet_id": "s020",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Bastion Lock",
+    "character_desc": "Mecha-cavaleiro com escudo e emblema de cadeado, blindando o sistema.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, knight mech with a heavy shield bearing a padlock emblem, armored fortress plating, protective stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r056",
+    "sheet_id": "s020",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Shadowpick",
+    "character_desc": "Mecha furtivo com ferramentas de gazua e visor encapuzado, testando as brechas.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, stealth mech with lockpick tools and a hooded visor, sleek dark infiltrator frame, crouched probing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r057",
+    "sheet_id": "s020",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Codewall",
+    "character_desc": "Mecha com camadas de armadura de código-escudo protegendo cada junta.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with layered code-shield armor panels protecting every joint, secure hardened build, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r058",
+    "sheet_id": "s020",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cipherking",
+    "character_desc": "Mecha com lâmina-chave e uma roda de cifra girando no peito.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech wielding a key-blade and a rotating cipher wheel in its chest, encoded glyph engravings, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r059",
+    "sheet_id": "s020",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Statutor",
+    "character_desc": "Mecha com escudo-livro de regras e selos de checkmark de conformidade.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with a rulebook shield and compliance checkmark seals, formal upright regulatory stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r060",
+    "sheet_id": "s020",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Veilguard",
+    "character_desc": "Mecha com manto que mascara dados sensíveis e um véu-escudo de privacidade.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with a cloak masking glowing sensitive data and a privacy veil-shield, discreet protective posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r061",
+    "sheet_id": "s020",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Blazehalt",
+    "character_desc": "Mecha-bombeiro com sirene de alarme e extintor, apagando o incêndio de produção.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, firefighter mech with an alarm siren beacon and an extinguisher arm putting out flames, urgent ready stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r062",
+    "sheet_id": "s020",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Foresight T",
+    "character_desc": "Mecha estrategista que projeta um mapa-holograma de árvore de ataque.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, strategist mech projecting an attack-tree hologram map, marking threat paths, analytical planning pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r063",
+    "sheet_id": "s020",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Inspectra",
+    "character_desc": "Mecha inspetor com checklist, lupa e uma rede caça-bugs.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, inspector mech holding a checklist tablet, a magnifying glass and a bug-catching net, careful examining pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r064",
+    "sheet_id": "s020",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Autoprobe",
+    "character_desc": "Mecha de automação com braços-teste robóticos rodando scripts em loop.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, automation mech with robotic test-arms running looping test scripts, gauges of green passes, methodical build, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r065",
+    "sheet_id": "s020",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Loadbreaker",
+    "character_desc": "Mecha com medidor de carga e halteres de estresse, empurrando o sistema ao limite.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with a load-gauge meter and stress dumbbells, straining under simulated heavy load, powerful build, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r066",
+    "sheet_id": "s020",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Handverdict",
+    "character_desc": "Mecha com prancheta e sondas manuais, testando tudo na mão.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, hands-on tester mech with a clipboard and manual probe fingers poking at buttons, attentive tactile pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r067",
+    "sheet_id": "s020",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Contrastis",
+    "character_desc": "Mecha com verificador de contraste e varinha de leitor de tela.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, accessibility-testing mech with a contrast-checker device and a screen-reader wand, inclusive validating pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r068",
+    "sheet_id": "s020",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Scribemech",
+    "character_desc": "Mecha erudito com lança-caneta e um tomo-manual aberto no braço.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, scholarly mech with a giant pen-lance and an open manual tome mounted on its arm, tidy documentation build, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r069",
+    "sheet_id": "s020",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Echocaster",
+    "character_desc": "Mecha carismático com megafone e um pequeno palco desdobrável.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, charismatic mech with a megaphone arm and a small deployable stage platform, energetic presenting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r070",
+    "sheet_id": "s020",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Planwright",
+    "character_desc": "Mecha com bússola de mapa de conteúdo e um calendário editorial no peito.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with a content-map compass and an editorial calendar display on its chest, planning gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r071",
+    "sheet_id": "s020",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Polyglobe",
+    "character_desc": "Mecha-globo com bandeiras de tradução e diais de idioma girando.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, globe-cored mech with translation flags and rotating language dials, worldwide localization theme, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r072",
+    "sheet_id": "s020",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Protoforge D",
+    "character_desc": "Mecha com mãos que forjam protótipos e um tablet de design flutuante.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with prototype-forging hands shaping a product mockup and a floating design tablet, creative stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r073",
+    "sheet_id": "s020",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Palettron",
+    "character_desc": "Mecha com escudo de paleta de cores e braço-pincel.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with a color-palette shield and a brush arm dripping paint, vibrant artistic design, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r074",
+    "sheet_id": "s020",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Gesturea",
+    "character_desc": "Mecha com sensores de gesto e setas de fluxo indicando interações.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with gesture sensors on its palms and glowing flow-arrows mapping interactions around it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r075",
+    "sheet_id": "s020",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Kinetiq",
+    "character_desc": "Mecha com asas de motion-blur e uma linha do tempo de animação orbitando.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with dynamic motion-blur wings and an animation timeline orbiting it, sweeping kinetic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r076",
+    "sheet_id": "s020",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Brushtitan",
+    "character_desc": "Mecha artista com um pincel gigante e uma tela-canvas nas costas.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, artist mech wielding a giant paintbrush with a canvas mounted on its back, splashes of color, expressive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r077",
+    "sheet_id": "s020",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Spritesmith",
+    "character_desc": "Mecha que produz caixas de sprites e carrega uma mochila-biblioteca de assets.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech producing crates of game sprites from an asset-library backpack, organized creative fabricator build, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r078",
+    "sheet_id": "s020",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Emblemar",
+    "character_desc": "Mecha com estandarte de emblema e uma crista de logo brilhando no peito.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with a brand banner and a glowing logo crest on its chest, iconic bold silhouette, confident stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r079",
+    "sheet_id": "s020",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Resonark",
+    "character_desc": "Mecha com peito de alto-falante e braços que desenham ondas sonoras.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with a speaker-array chest and arms emitting glowing sound-wave ripples, rhythmic audio theme, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r080",
+    "sheet_id": "s020",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Polyscar",
+    "character_desc": "Mecha que esculpe malhas poligonais e segura um globo wireframe.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech sculpting polygon meshes with a wireframe globe in hand, faceted 3D-model aesthetic panels, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r081",
+    "sheet_id": "s020",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Loopmaster",
+    "character_desc": "Mecha com dados gigantes e engrenagens de loop de gameplay girando.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, game-designer mech holding giant dice with spinning gameplay-loop gears, playful inventive stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r082",
+    "sheet_id": "s020",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Stagewright",
+    "character_desc": "Mecha que ergue plataformas-fase flutuantes, montando o nível.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech assembling floating platform-stage levels around itself, blocks and ramps, world-building pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r083",
+    "sheet_id": "s020",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Loreweaver",
+    "character_desc": "Mecha com árvore de ramos de história e uma pena-escriba luminosa.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with a branching story-tree hologram and a glowing quill, narrative branches flowing from its hands, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r084",
+    "sheet_id": "s020",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Enginekid",
+    "character_desc": "Mecha com peito em formato de controle e um núcleo de engine de jogo pulsando.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with a game-controller-shaped chest and a pulsing game-engine core, playful energetic build, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r085",
+    "sheet_id": "s020",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Shaderift",
+    "character_desc": "Mecha com prismas de shader e um núcleo de GPU incandescente.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with shader-light prisms refracting rainbows and a glowing GPU core, luminous rendering theme, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r086",
+    "sheet_id": "s020",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Circuitling",
+    "character_desc": "Mecha compacto construído sobre uma placa de circuito com chips visíveis.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, compact mech built onto a circuit-board base with visible chips and traces, tiny precise embedded design, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r087",
+    "sheet_id": "s020",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Solderheart",
+    "character_desc": "Mecha com coração-microcontrolador e um ferro de solda como ferramenta.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with a microcontroller heart and a soldering-iron tool arm, low-level tinkerer build, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r088",
+    "sheet_id": "s020",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Sensornet",
+    "character_desc": "Mecha em rede com vários mini-drones-sensor orbitando e transmitindo dados.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, networked mech surrounded by tiny orbiting sensor drones transmitting data signals, connected IoT theme, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r089",
+    "sheet_id": "s020",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Chainforge",
+    "character_desc": "Mecha com blocos encadeados e cubos-ledger presos por elos luminosos.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with chained ledger-blocks linked by glowing chain links across its body, cryptographic cube theme, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r090",
+    "sheet_id": "s020",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Ledgereye",
+    "character_desc": "Mecha que inspeciona blocos da cadeia com lupa e um selo de cadeado de verificação.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, auditor mech inspecting chain-blocks with a magnifier and a verification padlock seal, scrutinizing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r091",
+    "sheet_id": "s020",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Portalis",
+    "character_desc": "Mecha com visor de VR e portais holográficos abrindo espaços aumentados.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with a VR visor and holographic portals opening around it, mixed-reality shimmering panels, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r092",
+    "sheet_id": "s020",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Automech",
+    "character_desc": "Mecha que constrói robôs menores com braços articulados de precisão.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech building smaller robots with articulated precision arms, assembly clamps, engineering workshop build, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r093",
+    "sheet_id": "s020",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Ascendabot",
+    "character_desc": "Mecha-foguete com boosters em forma de seta de crescimento e um funil de conversão.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, rocket mech with growth-arrow boosters and a conversion funnel on its chest, ascending upward dynamic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r094",
+    "sheet_id": "s020",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Rankclimber",
+    "character_desc": "Mecha que escala uma escada de ranking e usa um ímã para atrair tráfego.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech climbing a search-rank ladder while a traffic magnet pulls glowing visitors, upward striving pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r095",
+    "sheet_id": "s020",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Broadcastr",
+    "character_desc": "Mecha com antenas de campanha e engrenagens de automação disparando mensagens.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with campaign broadcast dishes and automation gears firing message pulses outward, promotional theme, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r096",
+    "sheet_id": "s020",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Adaptix",
+    "character_desc": "Mecha-ponte com braços-adaptador que encaixam a solução na necessidade do cliente.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with adapter arms bridging a client puzzle-piece to a product piece, versatile connector build, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r097",
+    "sheet_id": "s020",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Helpbeacon",
+    "character_desc": "Mecha com headset de suporte, kit de reparo e um farol de ajuda aceso.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, support mech with a headset, a repair toolkit and a glowing help-beacon light, ready-to-assist friendly pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r098",
+    "sheet_id": "s020",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Demoblaze",
+    "character_desc": "Mecha com projetor de demo em palco e um braço estendido para o aperto de mão.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with a demo-stage projector and one hand extended for a handshake, persuasive presenting stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r099",
+    "sheet_id": "s020",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Costbalance",
+    "character_desc": "Mecha com medidor de custo e balanças que otimizam moedas de gasto.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech with a cost-gauge meter and coin-optimizing balance scales, budget-tuning careful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s020-r100",
+    "sheet_id": "s020",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Verdictum",
+    "character_desc": "Mecha com martelo-gavel e um escudo de pergaminho de lei.",
+    "nano_prompt": "Anime mecha panel illustration, full-body giant humanoid battle robot standing heroically, glossy paneled armor with glowing energy lines, cel-shaded anime style with bold outlines and dramatic rim lighting, mech wielding a judge's gavel and a law-scroll shield, formal authoritative legal stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

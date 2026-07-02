@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s087-r001",
+    "sheet_id": "s087",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Rei do Blueprint",
+    "character_desc": "Mascote graffiti que é o arquiteto da crew: segura uma planta enrolada e aponta pra um esqueleto de estrutura no ar. Capacete de obra e régua-T comunicam o desenho da solução.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, wearing a construction hard hat, holding a rolled blueprint scroll and a T-square, pointing at a floating structural framework of pipes and boxes, confident visionary grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r002",
+    "sheet_id": "s087",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Capitão Tag",
+    "character_desc": "Mascote líder de bonde: cachecol de capitão e apito, apontando o caminho pra uma fila de latas de spray que o seguem como time.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, wearing a captain's scarf and whistle, one arm raised leading a marching line of small spray cans, encouraging leader smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r003",
+    "sheet_id": "s087",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Staff Braço",
+    "character_desc": "Mascote veterano com braços extra-longos alcançando três muros ao mesmo tempo, medalha de estrela na peito, resolvendo tudo sem chefiar ninguém.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, with extra-long stretchy arms reaching three walls at once, a star medal on the chest, calm wise expression, juggling multiple small tools, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r004",
+    "sheet_id": "s087",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Principal Coroa",
+    "character_desc": "Mascote com coroa de spray dourado e cetro-rolinho de pintura, aura de autoridade técnica máxima sobre o muro.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, wearing a golden spray-painted crown, holding a paint-roller scepter, regal authoritative aura, glowing halo of dripping paint, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r005",
+    "sheet_id": "s087",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Treinador Crew",
+    "character_desc": "Mascote técnico de time: prancheta tática e apito, gesticulando instruções pra bonecos-latinha em formação.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, holding a coach clipboard and whistle, wearing a sports cap, gesturing tactics to a huddle of tiny spray-can figures, supportive manager smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r006",
+    "sheet_id": "s087",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Bússola Produto",
+    "character_desc": "Mascote que equilibra uma bússola gigante numa mão e um mapa de rota na outra, decidindo pra onde a lata pinta.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, balancing a giant compass in one hand and a roadmap chart in the other, thoughtful decisive look, priority sticky-notes stuck on the body, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r007",
+    "sheet_id": "s087",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Dono do Backlog",
+    "character_desc": "Mascote abraçando uma pilha de cards empilhados como tijolos, martelo de prioridade na cinta, protegendo a visão.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, hugging a tall stack of story cards like bricks, a priority gavel on the belt, protective focused expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r008",
+    "sheet_id": "s087",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Maestro Programa",
+    "character_desc": "Mascote regente com batuta que sincroniza vários muros-projeto ao mesmo tempo, partitura de cronograma flutuando.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, conducting with a baton, a floating timeline sheet around, coordinating several mini murals at once, orchestrating grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r009",
+    "sheet_id": "s087",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Gantt Guardião",
+    "character_desc": "Mascote que carrega uma barra de Gantt como escudo e um cronômetro no pescoço, cuidando de prazos.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, carrying a Gantt-bar shield and a stopwatch on a lanyard, checklist in hand, punctual reliable expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r010",
+    "sheet_id": "s087",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Mestre do Ritual",
+    "character_desc": "Mascote com ampulheta de sprint e post-its coloridos grudados por todo lado, removendo pedrinhas do caminho da crew.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, holding a sprint hourglass, covered in colorful sticky-notes, sweeping small obstacles away with a tiny broom, facilitator smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r011",
+    "sheet_id": "s087",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Servo do Servidor",
+    "character_desc": "Mascote backend que carrega um rack-servidor nas costas como mochila, cabos saindo, engrenagens girando por dentro.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, carrying a server-rack backpack with blinking lights, cables plugged in, gears turning inside the belly, focused builder look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r012",
+    "sheet_id": "s087",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Encaixa-API",
+    "character_desc": "Mascote que segura duas peças de quebra-cabeça em forma de plugue e tomada, conectando sistemas com precisão.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, holding two puzzle-piece connectors (a plug and a socket) about to snap together, tidy methodical expression, endpoint tags dangling, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r013",
+    "sheet_id": "s087",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Trio Micro",
+    "character_desc": "Mascote dividido em três mini-mascotes idênticos ligados por cabos curtos, cada um com sua caixinha independente.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, split into three tiny identical linked mascots each holding its own small service box, connected by short cables, modular playful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r014",
+    "sheet_id": "s087",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Cano Vivo",
+    "character_desc": "Mascote feito de tubulação por onde escorre tinta de um balde de dados a outro, sempre fluindo.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, body made of pipeline tubing channeling flowing paint from a data bucket to another, funnel hat, steady flow expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r015",
+    "sheet_id": "s087",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Garimpeiro Dados",
+    "character_desc": "Mascote mineiro com picareta e carrinho cheio de cristais-dados, cavando o bruto e refinando no muro.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, wearing a miner helmet with a lamp, holding a pickaxe, pushing a cart full of glowing data crystals, hardworking grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r016",
+    "sheet_id": "s087",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Zelador do Banco",
+    "character_desc": "Mascote guardião de um cofre-cilindro de disco, molho de chaves gigante, organizando gavetas de registros.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, guarding a cylindrical database vault, holding a giant keyring, filing drawers of records, meticulous protective look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r017",
+    "sheet_id": "s087",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Consulta Certeira",
+    "character_desc": "Mascote atirador com estilingue que dispara consultas exatas numa pilha de tabelas, mira afiada.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, aiming a slingshot loaded with a query dart at a stack of tables, sharp precise squint, SELECT symbols floating, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r018",
+    "sheet_id": "s087",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Esquilo Cache",
+    "character_desc": "Mascote esquilo bochechudo que guarda respostas prontas nas bochechas pra entregar rapidíssimo.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, chubby-cheeked squirrel mascot stuffing ready-made answer nuts in its cheeks, lightning-fast speed lines, quick clever grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r019",
+    "sheet_id": "s087",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Carteiro Fila",
+    "character_desc": "Mascote carteiro com bolsa transbordando de envelopes-mensagem, entregando um por vez em ordem.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, mail-carrier mascot with a bag overflowing of message envelopes, handing them out one at a time in a neat line, orderly patient smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r020",
+    "sheet_id": "s087",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Farol Busca",
+    "character_desc": "Mascote com lupa-farol gigante iluminando e pescando o item certo num mar de caixinhas.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, holding a giant magnifying-glass lantern, fishing the right item out of a sea of tiny boxes, searching focused eyes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r021",
+    "sheet_id": "s087",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Pincel de Tela",
+    "character_desc": "Mascote frontend que pinta uma janela-navegador flutuante com botões e cards ao vivo.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, painting a floating browser window full of live buttons and cards with a spray can, artistic pixel sparkles, cheerful maker smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r022",
+    "sheet_id": "s087",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Botão Feliz",
+    "character_desc": "Mascote todo feito de componentes de UI: cabeça-botão, braços-slider, montando telas bonitas.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, body built from UI components, a button-shaped head and slider arms, assembling a pretty interface panel, tidy proud look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r023",
+    "sheet_id": "s087",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Trilha do Zé",
+    "character_desc": "Mascote UX que desenha uma trilha de pegadas conectando telas, lupa de empatia no olho.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, drawing a footprint user-journey path connecting screens, an empathy magnifier over one eye, wireframe cards in hand, caring curious smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r024",
+    "sheet_id": "s087",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Guardião Tokens",
+    "character_desc": "Mascote que carrega uma caixa de peças LEGO-padrão idênticas, distribuindo componentes reutilizáveis.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, carrying a box of identical standardized LEGO-like design pieces, handing out reusable swatches and tokens, systematic tidy grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r025",
+    "sheet_id": "s087",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Ponte pra Todos",
+    "character_desc": "Mascote com bengala-guia, símbolo de acessibilidade no peito, construindo rampas entre os elementos.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, holding a white guide cane, an accessibility symbol on the chest, building tiny ramps between UI blocks, inclusive warm smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r026",
+    "sheet_id": "s087",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Turbo Leve",
+    "character_desc": "Mascote velocista com tênis de mola e cronômetro, cortando peso de uma página pra ela voar.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, sprinter mascot with spring shoes and a stopwatch, trimming weight off a page to make it fly, motion blur, speedy determined face, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r027",
+    "sheet_id": "s087",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Estilo Escorrido",
+    "character_desc": "Mascote todo estiloso com paleta de cores e régua de layout, alinhando caixas com tinta escorrendo perfeita.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, super-stylish mascot holding a color palette and a layout ruler, aligning boxes with perfectly dripping paint, flair confident pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r028",
+    "sheet_id": "s087",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Molinha Anima",
+    "character_desc": "Mascote elástico que se estica em curvas de animação, rastros de movimento e keyframes flutuando.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, stretchy elastic mascot bending along easing curves, motion trails and floating keyframe diamonds, bouncy playful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r029",
+    "sheet_id": "s087",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Bolso Duplo",
+    "character_desc": "Mascote que segura dois celulares diferentes ao mesmo tempo, app rodando em ambas as telas.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, holding two different smartphones at once with an app running on both screens, versatile adaptable grin, touch-tap sparkles, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r030",
+    "sheet_id": "s087",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Maçã Mordida",
+    "character_desc": "Mascote elegante minimalista segurando um iPhone reluzente, estilo clean com uma maçãzinha de spray.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, sleek minimalist mascot holding a shiny iPhone, a small spray-painted apple emblem, polished clean confident look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r031",
+    "sheet_id": "s087",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Robô Verde",
+    "character_desc": "Mascote com antena e barriga de robozinho verde, celular Android na mão, jeito aberto e brincalhão.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, with an antenna and a little green robot belly, holding an Android phone, open playful friendly grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r032",
+    "sheet_id": "s087",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Ponte Nativa",
+    "character_desc": "Mascote que liga um átomo-React a dois celulares por uma ponte de cabos, um código dois mundos.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, linking a React atom logo to two phones via a cable bridge, one code two worlds, clever bridging smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r033",
+    "sheet_id": "s087",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Pássaro Flutter",
+    "character_desc": "Mascote com asinhas azuis que pinta uma tela idêntica em vários aparelhos de uma vez só.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, with little blue Flutter wings, spray-painting one identical screen across several devices at once, smooth flowing grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r034",
+    "sheet_id": "s087",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Sábio Gráfico",
+    "character_desc": "Mascote cientista com jaleco e óculos, segurando um gráfico de dispersão que vira constelação.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, scientist mascot in a lab coat and glasses, holding a scatter-plot chart turning into a constellation, curious analytical smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r035",
+    "sheet_id": "s087",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Domador de Rede",
+    "character_desc": "Mascote que treina um bichinho-modelo neural na coleira, dando petiscos-dados pra ele aprender.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, training a little neural-network creature on a leash, feeding it data treats to learn, focused trainer grin, weight-node sparkles, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r036",
+    "sheet_id": "s087",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Esteira ML",
+    "character_desc": "Mascote operário que empurra modelos numa esteira rolante do treino ao muro em produção.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, factory-worker mascot pushing trained models along a conveyor belt from training to the production wall, hard hat, reliable ops grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r037",
+    "sheet_id": "s087",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Cabeça Nuvem",
+    "character_desc": "Mascote pensador com uma nuvem de ideias e equações flutuando acima da cabeça, papers enrolados no braço.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, thinker mascot with a cloud of ideas and equations floating above the head, rolled research papers under the arm, dreamy brilliant look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r038",
+    "sheet_id": "s087",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Sussurro da Lata",
+    "character_desc": "Mascote que cochicha instruções mágicas numa lâmpada-IA e ela cospe a resposta perfeita.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, whispering magic instructions into an AI genie lamp that puffs out the perfect answer, sly clever grin, prompt scrolls around, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r039",
+    "sheet_id": "s087",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Tradutor Balão",
+    "character_desc": "Mascote com muitos balões de fala em idiomas diferentes, decifrando linguagem humana com fone e microfone.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, surrounded by many speech bubbles in different languages, wearing a headset, decoding human words, understanding friendly smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r040",
+    "sheet_id": "s087",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Olho que Vê",
+    "character_desc": "Mascote com um olho-câmera gigante que enquadra e reconhece objetos com molduras de detecção.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, with a giant camera-eye that frames and recognizes objects inside detection boxes, observant curious expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r041",
+    "sheet_id": "s087",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Detetive Dados",
+    "character_desc": "Mascote detetive com lupa e cachimbo, investigando pistas dentro de uma planilha-mistério.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, detective mascot with a magnifier and a bubble pipe, investigating clues inside a mystery spreadsheet, sharp inquisitive grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r042",
+    "sheet_id": "s087",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Painel Show",
+    "character_desc": "Mascote apresentador que exibe um dashboard cheio de gráficos coloridos como num telão.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, showman mascot presenting a dashboard full of colorful charts like a stage screen, pointer stick, insightful proud smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r043",
+    "sheet_id": "s087",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Faxineiro Tabela",
+    "character_desc": "Mascote que limpa e modela tabelas bagunçadas com esfregão, transformando bruto em pronto pra análise.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, cleaning messy tables with a mop, transforming raw rows into tidy analysis-ready blocks, satisfied tidy grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r044",
+    "sheet_id": "s087",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Mago do Gráfico",
+    "character_desc": "Mascote mago que conjura gráficos elegantes da ponta da varinha, dados viram arte visual.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, wizard mascot conjuring elegant charts from a wand tip, turning data into beautiful visuals, sparkly artistic grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r045",
+    "sheet_id": "s087",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Chave Inglesa Nuvem",
+    "character_desc": "Mascote com cinto de ferramentas e chave inglesa, automatizando esteiras entre servidores.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, with a tool belt and a big wrench, automating pipelines between servers, gears and cloud icons around, hands-on capable grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r046",
+    "sheet_id": "s087",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Bombeiro do No-Break",
+    "character_desc": "Mascote bombeiro com extintor que apaga incêndios de servidor mantendo tudo no ar 24h.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, firefighter mascot with an extinguisher putting out server fires, uptime badges, calm-under-pressure determined look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r047",
+    "sheet_id": "s087",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Chão de Fábrica",
+    "character_desc": "Mascote que constrói uma plataforma-palco onde outros mascotes trabalham em cima, ferramentas de base.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, building a stage-platform where other mascots stand and work, laying foundation tools and paved paths, enabling steady grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r048",
+    "sheet_id": "s087",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Arquiteto de Nuvem",
+    "character_desc": "Mascote que desenha castelos flutuantes de nuvens conectadas, régua e nuvem-molde na mão.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, sketching floating cloud-castles connected together, holding a ruler and a cloud stencil, visionary airy smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r049",
+    "sheet_id": "s087",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Timoneiro Contêiner",
+    "character_desc": "Mascote leme de navio pilotando uma frota de contêineres empilhados no mar, roda de k8s girando.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, steering a ship's helm captaining a fleet of stacked containers at sea, a Kubernetes-helm wheel spinning, in-control captain grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r050",
+    "sheet_id": "s087",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Teia de Cabos",
+    "character_desc": "Mascote que segura um novelo de cabos de rede tecendo conexões entre pontos como aranha.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, holding a bundle of network cables weaving connections between nodes like a spider web, roaming-signal antenna, connected focused look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r051",
+    "sheet_id": "s087",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Zelador de Máquina",
+    "character_desc": "Mascote com macacão e lanterna na testa, manutenindo torres de máquinas com óleo e chave de fenda.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, in overalls with a headlamp, maintaining towers of machines with an oil can and screwdriver, dependable caretaker grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r052",
+    "sheet_id": "s087",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Lançador de Foguete",
+    "character_desc": "Mascote que aperta um botão de lançamento e empurra uma versão-foguete pro ar com carimbo de tag.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, pressing a big launch button sending a version-rocket up, holding a release-tag stamp, excited celebratory grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r053",
+    "sheet_id": "s087",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Montador Bloco",
+    "character_desc": "Mascote pedreiro que compila pilhas de blocos-código num pacote sólido, colher de pedreiro na mão.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, bricklayer mascot compiling stacks of code-bricks into one solid package, holding a trowel, assembling focused grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r054",
+    "sheet_id": "s087",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Correia Sem Fim",
+    "character_desc": "Mascote numa esteira circular infinita, carimbando testes e empurrando entregas sem parar.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, on an endless circular conveyor loop, stamping tests and pushing deliveries non-stop, tireless rhythmic grin, gear halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r055",
+    "sheet_id": "s087",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Escudo Anti-Bug",
+    "character_desc": "Mascote guarda com escudo de cadeado e capacete, bloqueando setas-ataque que ricocheteiam.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, guard mascot with a padlock shield and helmet, blocking attack arrows that bounce off, vigilant brave expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r056",
+    "sheet_id": "s087",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Ninja da Brecha",
+    "character_desc": "Mascote ninja encapuzado que testa fechaduras com gazua, procurando o buraco no muro de propósito.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, hooded ninja mascot picking a lock with a lockpick, deliberately probing a hole in the wall, sneaky mischievous grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r057",
+    "sheet_id": "s087",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Costureiro do Código",
+    "character_desc": "Mascote que costura remendos de segurança num app-boneco furado, agulha e linha reforçando.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, sewing security patches onto a leaky app-doll with needle and thread, reinforcing weak spots, careful protective smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r058",
+    "sheet_id": "s087",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cofre de Runas",
+    "character_desc": "Mascote encapuzado místico que tranca mensagens em runas embaralhadas dentro de um cadeado-cristal.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, mystical cloaked mascot locking messages into scrambled runes inside a crystal padlock, secretive arcane glow, focused eyes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r059",
+    "sheet_id": "s087",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Fiscal do Selo",
+    "character_desc": "Mascote fiscal com prancheta de checklist e carimbo de aprovado, conferindo regras uma a uma.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, compliance inspector mascot with a checklist clipboard and an approval stamp, ticking rules one by one, strict fair look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r060",
+    "sheet_id": "s087",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Guarda-Segredo",
+    "character_desc": "Mascote que cobre dados pessoais com uma capa-máscara, tarjando informações sensíveis com spray.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, covering personal data with a mask-cape, redacting sensitive info with black spray bars, discreet protective expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r061",
+    "sheet_id": "s087",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Sirene da Crew",
+    "character_desc": "Mascote socorrista com sirene na cabeça e maleta de primeiros socorros, correndo pro incidente.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, first-responder mascot with a siren on the head and a first-aid kit, rushing to an incident, urgent focused determination, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r062",
+    "sheet_id": "s087",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Xadrez do Risco",
+    "character_desc": "Mascote estrategista debruçado sobre um tabuleiro prevendo jogadas de ataque com peças-ameaça.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, strategist mascot leaning over a chessboard predicting attack moves with threat pieces, plotting cautious expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r063",
+    "sheet_id": "s087",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Caça-Bug",
+    "character_desc": "Mascote com rede de borboletas caçando insetos-bug num app, potinho de bugs capturados na cinta.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, with a butterfly net catching bug-insects crawling on an app, a jar of captured bugs on the belt, keen hunter grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r064",
+    "sheet_id": "s087",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Robô Testador",
+    "character_desc": "Mascote robô que clica sozinho em botões repetidamente, braços mecânicos rodando scripts de teste.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, robot mascot auto-clicking buttons repeatedly with mechanical arms running test scripts, green-check sparks, efficient grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r065",
+    "sheet_id": "s087",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Marreta de Carga",
+    "character_desc": "Mascote forte que empilha halteres-tráfego num app pra ver o quanto ele aguenta antes de ceder.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, strong mascot piling traffic-dumbbells onto an app to see how much load it holds, straining stress-test grin, gauge meter, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r066",
+    "sheet_id": "s087",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Olho Clínico",
+    "character_desc": "Mascote inspetor que percorre a tela com lupa e checklist manual, achando o detalhe fora do lugar.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, inspector mascot scanning a screen with a magnifier and a hand-written checklist, spotting the odd detail, patient careful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r067",
+    "sheet_id": "s087",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Provador Justo",
+    "character_desc": "Mascote que testa a tela de olhos vendados usando leitor de tela e teclado, garantindo acesso.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, testing a screen blindfolded using a screen-reader headset and keyboard, ensuring access for all, empathetic determined smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r068",
+    "sheet_id": "s087",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Escriba do Muro",
+    "character_desc": "Mascote escriba com pena gigante e pergaminho, documentando como cada spray funciona.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, scribe mascot with a giant quill and an unrolled manual scroll, documenting how each spray works, diligent tidy smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r069",
+    "sheet_id": "s087",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Megafone Dev",
+    "character_desc": "Mascote animado com megafone e camiseta de evento, empolgando a galera com demos ao vivo.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, hyped mascot with a megaphone and an event t-shirt, exciting a crowd with a live demo, outgoing enthusiastic grin, sticker swag, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r070",
+    "sheet_id": "s087",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Bússola de Pauta",
+    "character_desc": "Mascote editor que organiza cards de conteúdo num calendário-mural, tesoura e cola na mão.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, editor mascot arranging content cards on a calendar-wall with scissors and glue, strategic thoughtful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r071",
+    "sheet_id": "s087",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Poliglota Muro",
+    "character_desc": "Mascote com globo terrestre e balões traduzindo a mesma tag pra vários idiomas e alfabetos.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, holding a globe, translating the same tag into many languages and alphabets in speech bubbles, worldly friendly grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r072",
+    "sheet_id": "s087",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Desenhista Sonho",
+    "character_desc": "Mascote designer que junta wireframe e paleta, esculpindo um produto bonito e usável ao mesmo tempo.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, product designer mascot blending a wireframe and a color palette, sculpting a usable pretty product, creative balanced smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r073",
+    "sheet_id": "s087",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Olhão Visual",
+    "character_desc": "Mascote artista com paleta e pincéis, cuidando de cor, forma e tipografia com olhar apurado.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, visual artist mascot with a palette and brushes, tuning color, shape and typography, sharp aesthetic confident grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r074",
+    "sheet_id": "s087",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Toque Mágico",
+    "character_desc": "Mascote que aperta botões que respondem com efeitos, desenhando o diálogo entre dedo e tela.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, pressing buttons that respond with ripple effects, drawing the conversation between finger and screen, playful tactile grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r075",
+    "sheet_id": "s087",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Rastro Fluido",
+    "character_desc": "Mascote dançarino que deixa rastros de movimento coloridos, coreografando transições suaves.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, dancer mascot leaving colorful motion trails, choreographing smooth transitions, flowing graceful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r076",
+    "sheet_id": "s087",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Lápis Solto",
+    "character_desc": "Mascote ilustrador com lápis gigante desenhando personagens que saltam do papel-muro.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, illustrator mascot with a giant pencil drawing characters that leap off the paper-wall, imaginative joyful grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r077",
+    "sheet_id": "s087",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Fábrica de Ícones",
+    "character_desc": "Mascote que produz uma bandeja de ícones e sprites idênticos, carimbando assets em série.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, producing a tray of identical icons and sprites, stamping game assets in series, productive tidy grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r078",
+    "sheet_id": "s087",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Alma da Marca",
+    "character_desc": "Mascote que segura um logo reluzente e um balde de tinta da cor oficial, dando personalidade à crew.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, holding a shiny brand emblem and a bucket of the official signature color, giving the crew its identity, charismatic proud smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r079",
+    "sheet_id": "s087",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Ouvido de Ouro",
+    "character_desc": "Mascote com fones grandes e ondas sonoras coloridas saindo de um alto-falante que ele afina.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, with big headphones and colorful sound waves pouring from a speaker it's tuning, groovy attentive grin, music-note splatter, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r080",
+    "sheet_id": "s087",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Escultor 3D",
+    "character_desc": "Mascote que molda uma forma tridimensional flutuante de wireframe, girando o objeto no ar.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, sculpting a floating 3D wireframe form, rotating the volumetric object in the air, focused crafty grin, dimension cubes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r081",
+    "sheet_id": "s087",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Mestre das Regras",
+    "character_desc": "Mascote que segura um dado gigante e um tabuleiro-fluxo, inventando as regras da diversão.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, holding a giant die and a flowchart-board, inventing the rules of fun, playful inventive grin, game-piece sparkles, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r082",
+    "sheet_id": "s087",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Arquiteto da Fase",
+    "character_desc": "Mascote que constrói um cenário de plataformas com obstáculos e moedas, montando o nível peça a peça.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, building a platform level with obstacles and coins, laying out the stage piece by piece, focused designer grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r083",
+    "sheet_id": "s087",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Contador de História",
+    "character_desc": "Mascote narrador com livro aberto de onde saem balões de história e caminhos de escolha.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, storyteller mascot with an open book sprouting story bubbles and branching choice paths, expressive dramatic smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r084",
+    "sheet_id": "s087",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Joystick Feliz",
+    "character_desc": "Mascote que aperta um controle e faz um sprite pular na telinha, criando o jogo em tempo real.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, gripping a game controller making a sprite jump on a little screen, building a game live, excited gamer grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r085",
+    "sheet_id": "s087",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Feiticeiro da Luz",
+    "character_desc": "Mascote shader que pinta luz, sombra e reflexo brilhante numa esfera, dominando pixels e brilho.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, shader wizard mascot painting light, shadow and glossy reflections onto a sphere, mastering pixels and glow, dazzled grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r086",
+    "sheet_id": "s087",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Chip na Mão",
+    "character_desc": "Mascote que segura uma plaquinha de circuito com ferro de solda, programando o miolo de um aparelho.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, holding a tiny circuit board with a soldering iron, programming the guts of a small device, precise tinkerer grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r087",
+    "sheet_id": "s087",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Alma da Máquina",
+    "character_desc": "Mascote que injeta código-firmware direto num chip com uma seringa de bits, dando vida ao hardware.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, injecting firmware code straight into a chip with a bit-syringe, breathing life into hardware, focused low-level grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r088",
+    "sheet_id": "s087",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Ninho Conectado",
+    "character_desc": "Mascote cercado de gadgets domésticos com antenas — lâmpada, sensor, fechadura — todos falando via sinal.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, surrounded by smart home gadgets with antennas (a bulb, a sensor, a lock) all chatting over signal waves, connected cheerful grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r089",
+    "sheet_id": "s087",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Corrente de Blocos",
+    "character_desc": "Mascote que carrega uma corrente de blocos-baú acorrentados, cada elo lacrado e verificado.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, carrying a chain of linked treasure-block boxes, each link sealed and verified, trustworthy steady grin, crypto-coin splatter, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r090",
+    "sheet_id": "s087",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Lupa do Contrato",
+    "character_desc": "Mascote auditor que examina um pergaminho-contrato de código com lupa, marcando brechas em vermelho.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, auditor mascot examining a code-contract scroll with a magnifier, circling loopholes in red spray, sharp suspicious squint, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r091",
+    "sheet_id": "s087",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Óculos do Além",
+    "character_desc": "Mascote com um visor de realidade virtual, tocando objetos holográficos flutuando à sua volta.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, wearing a VR headset, touching holographic objects floating around, immersed wondrous grin, floating AR cubes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r092",
+    "sheet_id": "s087",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Braço Robô",
+    "character_desc": "Mascote que controla um braço robótico articulado pegando peças, engrenagens e sensores por perto.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, operating an articulated robotic arm picking up parts, gears and sensors nearby, mechanical inventive grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r093",
+    "sheet_id": "s087",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Foguetinho Growth",
+    "character_desc": "Mascote que rega um gráfico-planta em forma de flecha subindo, funil de usuários pingando na base.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, watering an arrow-shaped growth chart plant shooting upward, a user funnel dripping at the base, ambitious upbeat grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r094",
+    "sheet_id": "s087",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Ímã do Topo",
+    "character_desc": "Mascote que segura um ímã gigante atraindo lupas de busca e subindo um ranking-escada.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, holding a giant magnet attracting search magnifiers and climbing a ranking ladder, clever strategic grin, keyword splatter, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r095",
+    "sheet_id": "s087",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Engenhoca Marketing",
+    "character_desc": "Mascote que liga um funil de campanhas a botões de automação, misturando arte e engrenagem.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, wiring a marketing funnel to automation buttons, blending art and gears, a megaphone and a chart in hand, savvy grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r096",
+    "sheet_id": "s087",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Ponte do Cliente",
+    "character_desc": "Mascote que estende uma ponte entre um cliente-boneco e um servidor, encaixando a solução na medida.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, extending a bridge between a customer-doll and a server, fitting the solution just right, helpful confident smile, headset on, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r097",
+    "sheet_id": "s087",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Salva-Vidas Ticket",
+    "character_desc": "Mascote com boia e headset atendendo chamados, puxando usuários pra fora de um mar de problemas.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, with a lifebuoy and a headset answering tickets, pulling users out of a sea of problems, calm reassuring smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r098",
+    "sheet_id": "s087",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Vitrine Técnica",
+    "character_desc": "Mascote vendedor entusiasmado que mostra uma demo brilhante e aperta a mão do cliente, aperto de gravata.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, enthusiastic sales mascot showing off a shiny demo and shaking a client's hand, a spray-painted tie, persuasive winning grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r099",
+    "sheet_id": "s087",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Caçador de Custo",
+    "character_desc": "Mascote que segura uma calculadora e uma lupa sobre uma fatura de nuvem, cortando gastos com tesoura.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, holding a calculator and a magnifier over a cloud invoice, trimming costs with scissors, thrifty sharp grin, coin splatter, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s087-r100",
+    "sheet_id": "s087",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Martelo Legal",
+    "character_desc": "Mascote juiz com martelinho e balança, equilibrando contratos e regras acima do muro.",
+    "nano_prompt": "graffiti street-art cartoon mascot character, bold black spray-paint outlines, vibrant aerosol colors, paint drips and spray splatter, wildstyle urban shading, glossy highlights, energetic bouncy full-body standing pose, judge mascot with a little gavel and scales, balancing contracts and rules above the wall, fair authoritative expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

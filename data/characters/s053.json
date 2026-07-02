@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s053-r001",
+    "sheet_id": "s053",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Zé Blueprint",
+    "character_desc": "Emoji 3D gomoso que encarna o Arquiteto de Solução, segurando uma mini planta baixa enrolada e um capacete de arquiteto brilhante.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a rolled glossy blueprint scroll, wearing a shiny hard hat, tiny drafting compass, confident smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r002",
+    "sheet_id": "s053",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Lidinho",
+    "character_desc": "Emoji 3D líder técnico com capacete de bússola e um pequeno estandarte, guiando o time.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, wearing a small captain cap, holding a tiny glossy flag banner and a compass, guiding gesture, reassuring smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r003",
+    "sheet_id": "s053",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Stafão",
+    "character_desc": "Emoji 3D sênior sábio com óculos brilhantes e uma engrenagem de mestre nas mãos.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, wearing round glossy glasses, holding a large master gear, wise calm expression, subtle beard, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r004",
+    "sheet_id": "s053",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Prince Pal",
+    "character_desc": "Emoji 3D principal com uma coroa discreta e um cetro de engrenagem, autoridade técnica suprema.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, tiny glossy crown, holding a gear-topped scepter, dignified confident smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r005",
+    "sheet_id": "s053",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Manô",
+    "character_desc": "Emoji 3D gerente de engenharia com prancheta gomosa e um coração de mentor, cuidando do time.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy clipboard, small heart badge, warm caring smile, tidy tie, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r006",
+    "sheet_id": "s053",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "PM Prisma",
+    "character_desc": "Emoji 3D product manager segurando um mapa de rota (roadmap) brilhante e uma lâmpada de ideias.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy roadmap map and a glowing lightbulb, cheerful visionary smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r007",
+    "sheet_id": "s053",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Ownerzinho",
+    "character_desc": "Emoji 3D product owner com uma pilha de cartões de backlog e um troféu de prioridade.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a stack of glossy backlog cards and a small priority trophy, decisive smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r008",
+    "sheet_id": "s053",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Progrão",
+    "character_desc": "Emoji 3D program manager malabarista com vários balões-projeto flutuando ao redor.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, juggling several glossy floating project spheres, calm coordinating expression, small headset, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r009",
+    "sheet_id": "s053",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Projetildo",
+    "character_desc": "Emoji 3D project manager com um cronograma-gráfico de Gantt brilhante e um relógio.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy Gantt-chart bar timeline and a clock, organized upbeat smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r010",
+    "sheet_id": "s053",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Scrumzão",
+    "character_desc": "Emoji 3D scrum master com um post-it board minúsculo e um sino de daily.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a tiny glossy sticky-note board and a small bell, energetic facilitating smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r011",
+    "sheet_id": "s053",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Backô",
+    "character_desc": "Emoji 3D backend dev com um servidor-torre gomoso e engrenagens girando atrás.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, hugging a small glossy server tower, floating gears behind, focused smile, headset, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r012",
+    "sheet_id": "s053",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "API Ana",
+    "character_desc": "Emoji 3D designer de API segurando plugues-conectores encaixando como peças.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding two glossy plug connectors clicking together, endpoints icons, clever smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r013",
+    "sheet_id": "s053",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Microzinho",
+    "character_desc": "Emoji 3D de microsserviços com vários cubinhos brilhantes conectados por fios.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, surrounded by tiny connected glossy cubes linked by cords, tidy modular smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r014",
+    "sheet_id": "s053",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Pipoca Pipe",
+    "character_desc": "Emoji 3D pipeline dev com tubos-canos brilhantes por onde escorrem dados-gotas.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding glossy pipe segments with data droplets flowing through, cheerful flow smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r015",
+    "sheet_id": "s053",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Dadão",
+    "character_desc": "Emoji 3D data engineer carregando baldes de dados-gotas e um funil brilhante.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, carrying glossy data buckets and a funnel with droplets, diligent smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r016",
+    "sheet_id": "s053",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "DBAzão",
+    "character_desc": "Emoji 3D DBA abraçando um cilindro-banco de dados gomoso com chavinha dourada.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, hugging a glossy database cylinder, holding a small golden key, guardian smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r017",
+    "sheet_id": "s053",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Selequinho",
+    "character_desc": "Emoji 3D SQL specialist com uma lupa sobre uma tabelinha brilhante de linhas.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a magnifier over a glossy mini table grid, query-focused smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r018",
+    "sheet_id": "s053",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Cachê",
+    "character_desc": "Emoji 3D caching engineer com um raio-veloz e uma gavetinha de memória rápida.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy lightning bolt and a small fast-memory drawer, speedy grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r019",
+    "sheet_id": "s053",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Filófilo",
+    "character_desc": "Emoji 3D message queue engineer com uma fileira de envelopes-mensagem em esteira.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy conveyor line of little message envelopes in a queue, orderly smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r020",
+    "sheet_id": "s053",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Buscão",
+    "character_desc": "Emoji 3D search engineer com uma lupa gigante brilhante e resultados flutuando.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a big glossy magnifying glass with floating result cards, curious smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r021",
+    "sheet_id": "s053",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Frontê",
+    "character_desc": "Emoji 3D frontend dev segurando uma janelinha de navegador gomosa com botões.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy browser window card with cute buttons, creative bright smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r022",
+    "sheet_id": "s053",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "UIzinha",
+    "character_desc": "Emoji 3D UI engineer montando componentes-botões brilhantes como blocos.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, stacking glossy UI button components like blocks, precise cheerful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r023",
+    "sheet_id": "s053",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Uxô",
+    "character_desc": "Emoji 3D UX designer com um fluxograma-caminho brilhante e uma lupa de empatia.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy user-flow path and an empathy heart lens, thoughtful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r024",
+    "sheet_id": "s053",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Sisteminha",
+    "character_desc": "Emoji 3D design systems eng com uma paleta modular de tokens brilhantes.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy modular token palette of components, systematic tidy smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r025",
+    "sheet_id": "s053",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Ally A11y",
+    "character_desc": "Emoji 3D de acessibilidade com o símbolo universal de acesso brilhando no peito.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, glowing glossy universal accessibility symbol badge on chest, inclusive warm smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r026",
+    "sheet_id": "s053",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Perfô Web",
+    "character_desc": "Emoji 3D web performance com um velocímetro brilhante marcando verde.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy speedometer gauge in the green, zippy proud smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r027",
+    "sheet_id": "s053",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Cesspê",
+    "character_desc": "Emoji 3D CSS specialist com pincéis de estilo e caixinhas coloridas alinhadas.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding glossy style brushes and neatly aligned colorful boxes, stylish smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r028",
+    "sheet_id": "s053",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Animô",
+    "character_desc": "Emoji 3D animation engineer com uma trilha-timeline de quadros brilhante em curva.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy keyframe timeline curve with motion sparkles, lively smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r029",
+    "sheet_id": "s053",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Mobilzinho",
+    "character_desc": "Emoji 3D mobile dev abraçando um smartphone gomoso com apps brilhando.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, hugging a glossy smartphone with glowing app icons, on-the-go smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r030",
+    "sheet_id": "s053",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "iZé",
+    "character_desc": "Emoji 3D iOS dev com um smartphone minimalista prateado e brilhante.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a sleek glossy minimalist silver phone, refined calm smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r031",
+    "sheet_id": "s053",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Droidinho",
+    "character_desc": "Emoji 3D Android dev com um robozinho verde gomoso amigável no ombro.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, little glossy friendly green robot mascot on shoulder, holding a phone, cheery smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r032",
+    "sheet_id": "s053",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Reactê",
+    "character_desc": "Emoji 3D React Native dev com um átomo brilhante orbitando dois telefones.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, glossy spinning atom orbiting two phones (iOS+Android), unifying smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r033",
+    "sheet_id": "s053",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Flutô",
+    "character_desc": "Emoji 3D Flutter dev com uma borboletinha-pássaro azul brilhante e um telefone.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, glossy blue bird-butterfly emblem and a phone, smooth breezy smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r034",
+    "sheet_id": "s053",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Cientista Dan",
+    "character_desc": "Emoji 3D data scientist com óculos, um gráfico de dispersão brilhante flutuando.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, glossy glasses, floating scatter-plot chart, curious analytical smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r035",
+    "sheet_id": "s053",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Melzinho ML",
+    "character_desc": "Emoji 3D ML engineer com um cérebro-rede neural brilhante nas mãos.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy glowing neural-network brain, focused inventive smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r036",
+    "sheet_id": "s053",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "MLOpê",
+    "character_desc": "Emoji 3D MLOps com engrenagem + cérebro brilhante num loop de setas.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, glossy gear-and-brain in an arrow loop, operational steady smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r037",
+    "sheet_id": "s053",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Pesquisô",
+    "character_desc": "Emoji 3D AI researcher com chapéu de formatura e um pergaminho-paper brilhante.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, glossy graduation cap, holding a research paper scroll, inquisitive smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r038",
+    "sheet_id": "s053",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Promptão",
+    "character_desc": "Emoji 3D prompt engineer com um balão de fala mágico brilhante e varinha.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy magic speech bubble and a sparkle wand, clever inspired smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r039",
+    "sheet_id": "s053",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Enelpê",
+    "character_desc": "Emoji 3D NLP engineer com letras-palavras brilhantes fluindo num balão.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, glossy flowing letters and words in a speech bubble, articulate smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r040",
+    "sheet_id": "s053",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Visão CeVê",
+    "character_desc": "Emoji 3D computer vision com um olho-câmera brilhante e caixas de detecção.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, glossy camera-eye with floating detection boxes, observant smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r041",
+    "sheet_id": "s053",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Analista Aná",
+    "character_desc": "Emoji 3D data analyst com uma pizza-gráfico brilhante e uma lupa.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy pie chart and a magnifier, insightful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r042",
+    "sheet_id": "s053",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "BeeAii",
+    "character_desc": "Emoji 3D BI analyst com um painel-dashboard brilhante de KPIs flutuando.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy KPI dashboard panel with gauges, business-savvy smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r043",
+    "sheet_id": "s053",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Analitico",
+    "character_desc": "Emoji 3D analytics engineer com um funil de dados brilhante virando gráfico limpo.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, glossy data funnel transforming into a clean chart, methodical smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r044",
+    "sheet_id": "s053",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Vizinha Viz",
+    "character_desc": "Emoji 3D data viz com gráficos coloridos brilhantes flutuando em arco.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, surrounded by glossy colorful floating charts in an arc, artistic smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r045",
+    "sheet_id": "s053",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Devô",
+    "character_desc": "Emoji 3D DevOps com o loop infinito brilhante e uma chave inglesa gomosa.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy infinity loop and a wrench, can-do smile, tool belt, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r046",
+    "sheet_id": "s053",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Esreloso",
+    "character_desc": "Emoji 3D SRE com um escudo brilhante e um monitor de uptime verde.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, glossy shield and an uptime monitor in green, calm reliable smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r047",
+    "sheet_id": "s053",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Platô",
+    "character_desc": "Emoji 3D platform engineer com uma plataforma-plataforma brilhante sob os pés.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, standing on a glossy tech platform tile with modular blocks, steady smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r048",
+    "sheet_id": "s053",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Nuvenzinha",
+    "character_desc": "Emoji 3D cloud architect com nuvens gomosas conectadas e uma plantinha de nuvem.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, glossy connected fluffy clouds and a cloud blueprint, airy visionary smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r049",
+    "sheet_id": "s053",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Kubinho",
+    "character_desc": "Emoji 3D Kubernetes admin com um lemezinho-timão de barco brilhante.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy ship helm wheel, containers stacked behind, captain smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r050",
+    "sheet_id": "s053",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Netê",
+    "character_desc": "Emoji 3D network engineer com cabos-fios brilhantes e um roteador gomoso.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding glossy network cables and a router with signal, connected smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r051",
+    "sheet_id": "s053",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Sisadão",
+    "character_desc": "Emoji 3D sysadmin com um molho de chaves brilhante e um terminal gomoso.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy keyring and a terminal window, dependable smile, coffee mug, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r052",
+    "sheet_id": "s053",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Releasô",
+    "character_desc": "Emoji 3D release engineer com um foguetinho brilhante marcado com versão-tag.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy launch rocket with a version tag, celebratory smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r053",
+    "sheet_id": "s053",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Buildão",
+    "character_desc": "Emoji 3D build engineer com blocos-tijolos brilhantes montando um cubo.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, assembling glossy building blocks into a cube, constructive smile, hard hat, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r054",
+    "sheet_id": "s053",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Ciacidí",
+    "character_desc": "Emoji 3D CI/CD engineer com uma esteira brilhante de check-marks verdes em loop.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, glossy conveyor of green check-marks in a loop, automated proud smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r055",
+    "sheet_id": "s053",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Segurão",
+    "character_desc": "Emoji 3D security engineer com um escudo-cadeado brilhante e capacete.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy shield with a padlock, tiny helmet, vigilant smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r056",
+    "sheet_id": "s053",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Pentê",
+    "character_desc": "Emoji 3D pentester com uma gazua-chave brilhante e um capuz gomoso amigável.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy lockpick, friendly hoodie, sly clever smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r057",
+    "sheet_id": "s053",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Appsecão",
+    "character_desc": "Emoji 3D AppSec com escudo brilhante sobre uma janelinha de app.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, glossy shield over an app window card, protective smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r058",
+    "sheet_id": "s053",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cripto Cris",
+    "character_desc": "Emoji 3D cryptographer com um cadeado-chave brilhante e símbolos cifrados flutuando.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy padlock-key and floating cipher symbols, secretive smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r059",
+    "sheet_id": "s053",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Complilô",
+    "character_desc": "Emoji 3D compliance officer com um selo-carimbo brilhante de aprovado e prancheta.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy approved stamp seal and a checklist clipboard, orderly smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r060",
+    "sheet_id": "s053",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Privô",
+    "character_desc": "Emoji 3D privacy engineer com um escudo brilhante e um olho tapado gentilmente.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, glossy shield and a gently masked eye, discreet caring smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r061",
+    "sheet_id": "s053",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Incidô",
+    "character_desc": "Emoji 3D incident responder com um sininho-alarme brilhante e colete de emergência.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy alarm bell, emergency vest, alert focused smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r062",
+    "sheet_id": "s053",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Treatô",
+    "character_desc": "Emoji 3D threat modeler com um quadro brilhante de setas-ataque mapeadas.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy board mapping attack arrows, strategic thoughtful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r063",
+    "sheet_id": "s053",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Quazão",
+    "character_desc": "Emoji 3D QA engineer com uma lupa brilhante e um carimbo de aprovado/reprovado.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy magnifier and a pass/fail stamp, meticulous smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r064",
+    "sheet_id": "s053",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Sedete",
+    "character_desc": "Emoji 3D SDET com um robozinho de teste brilhante e um script gomoso.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy test robot and an automation script scroll, efficient smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r065",
+    "sheet_id": "s053",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Perfitô",
+    "character_desc": "Emoji 3D performance tester com um cronômetro brilhante e um medidor de carga.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy stopwatch and a load gauge, timing intense smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r066",
+    "sheet_id": "s053",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Manutê",
+    "character_desc": "Emoji 3D manual tester com uma checklist brilhante e um mouse gomoso clicando.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy checklist and clicking a mouse, patient careful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r067",
+    "sheet_id": "s053",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Allitô",
+    "character_desc": "Emoji 3D accessibility tester com o símbolo de acesso e um leitor de tela brilhante.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, glossy accessibility symbol and a screen-reader wave, inclusive checking smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r068",
+    "sheet_id": "s053",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Docão",
+    "character_desc": "Emoji 3D technical writer com uma caneta brilhante e um livrinho-manual gomoso.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy pen and an open manual book, clear friendly smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r069",
+    "sheet_id": "s053",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Advô",
+    "character_desc": "Emoji 3D developer advocate com um microfone brilhante e um balão de comunidade.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy microphone and a community heart bubble, enthusiastic smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r070",
+    "sheet_id": "s053",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Contê",
+    "character_desc": "Emoji 3D content strategist com um mapa de conteúdo brilhante e uma bússola.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy content map and a compass, planning smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r071",
+    "sheet_id": "s053",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Ionzinho",
+    "character_desc": "Emoji 3D localization engineer com balões de idiomas-bandeiras brilhantes.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, surrounded by glossy language flag bubbles, worldly friendly smile, small globe, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r072",
+    "sheet_id": "s053",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Prodô Design",
+    "character_desc": "Emoji 3D product designer com um protótipo-tela brilhante e uma caneta stylus.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy prototype screen and a stylus, creative confident smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r073",
+    "sheet_id": "s053",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Visô",
+    "character_desc": "Emoji 3D visual designer com paleta de cores brilhante e um pincel gomoso.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy color palette and a paintbrush, artistic smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r074",
+    "sheet_id": "s053",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Interô",
+    "character_desc": "Emoji 3D interaction designer com botões-gestos brilhantes e setas de toque.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, glossy interactive buttons with tap-arrow gestures, playful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r075",
+    "sheet_id": "s053",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Motinho",
+    "character_desc": "Emoji 3D motion designer com uma curva de animação brilhante e faíscas de movimento.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy motion curve with sparkles trailing, dynamic smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r076",
+    "sheet_id": "s053",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Ilustrô",
+    "character_desc": "Emoji 3D illustrator com um pincel grande brilhante e uma prancheta de desenho.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a big glossy paintbrush and a sketch pad, imaginative smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r077",
+    "sheet_id": "s053",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Assetô",
+    "character_desc": "Emoji 3D asset designer com uma caixa brilhante de ícones-sprites gomosos.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy box of cute icon sprites, resourceful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r078",
+    "sheet_id": "s053",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Brandão",
+    "character_desc": "Emoji 3D brand designer com um logo-estrela brilhante e uma paleta de marca.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy star logo mark and a brand palette, polished smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r079",
+    "sheet_id": "s053",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Soundô",
+    "character_desc": "Emoji 3D sound designer com fones brilhantes e ondas sonoras gomosas flutuando.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, glossy headphones and floating sound waves, groovy smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r080",
+    "sheet_id": "s053",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Tridê",
+    "character_desc": "Emoji 3D 3D artist com uma esfera-modelo wireframe brilhante nas mãos.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy wireframe 3D sphere model, sculpting proud smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r081",
+    "sheet_id": "s053",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Gaimô",
+    "character_desc": "Emoji 3D game designer com um controle-joystick brilhante e um dado gomoso.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy game controller and a die, playful inventive smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r082",
+    "sheet_id": "s053",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Levelô",
+    "character_desc": "Emoji 3D level designer com um mapinha de fase brilhante em blocos.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy block level map with a flag goal, planning smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r083",
+    "sheet_id": "s053",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Narrô",
+    "character_desc": "Emoji 3D narrative designer com um livrinho-história brilhante e balões de fala.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy story book and speech bubbles, storytelling smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r084",
+    "sheet_id": "s053",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Gamedô",
+    "character_desc": "Emoji 3D game developer com um joystick brilhante e engrenagens de jogo.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy joystick with floating game gears and pixels, fun smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r085",
+    "sheet_id": "s053",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Shaderô",
+    "character_desc": "Emoji 3D graphics/shader engineer com uma esfera brilhante de gradiente de luz.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy glowing shaded sphere with light gradients, dazzled smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r086",
+    "sheet_id": "s053",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Embedô",
+    "character_desc": "Emoji 3D embedded engineer com um chip-placa brilhante minúsculo nas mãos.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy tiny circuit board chip, precise focused smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r087",
+    "sheet_id": "s053",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Firmô",
+    "character_desc": "Emoji 3D firmware engineer com um microchip brilhante e um cabo gravador.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy microchip and a flashing cable, low-level tinkering smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r088",
+    "sheet_id": "s053",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Iotê",
+    "character_desc": "Emoji 3D IoT engineer com dispositivos-sensores brilhantes conectados por sinal.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, surrounded by glossy connected smart sensors with signal waves, networked smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r089",
+    "sheet_id": "s053",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Blockão",
+    "character_desc": "Emoji 3D blockchain dev com uma correntinha de blocos brilhantes encadeados.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy chain of linked blocks, decentralized confident smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r090",
+    "sheet_id": "s053",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Contratô",
+    "character_desc": "Emoji 3D smart contract auditor com uma lupa brilhante sobre um bloco-contrato.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy magnifier over a contract block, scrutinizing smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r091",
+    "sheet_id": "s053",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Arvrê",
+    "character_desc": "Emoji 3D AR/VR engineer com um óculos de realidade virtual brilhante e hologramas.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, wearing a glossy VR headset with floating holograms, immersed wonder smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r092",
+    "sheet_id": "s053",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Robô Bô",
+    "character_desc": "Emoji 3D robotics engineer com um braço-robô brilhante e uma chave de fenda.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy robotic arm and a screwdriver, mechanical proud smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r093",
+    "sheet_id": "s053",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Growê",
+    "character_desc": "Emoji 3D growth engineer com uma seta-gráfico brilhante subindo e um foguete.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy rising growth arrow chart and a rocket, ambitious smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r094",
+    "sheet_id": "s053",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Seozinho",
+    "character_desc": "Emoji 3D SEO specialist com uma lupa brilhante e uma seta subindo em ranking.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy magnifier and a rising rank arrow, strategic smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r095",
+    "sheet_id": "s053",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Markê Tec",
+    "character_desc": "Emoji 3D marketing technologist com um megafone brilhante e engrenagens de funil.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy megaphone and funnel gears, energetic promoting smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r096",
+    "sheet_id": "s053",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Soluzô",
+    "character_desc": "Emoji 3D solutions engineer com peças-quebra-cabeça brilhantes encaixando.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding glossy puzzle pieces clicking together, helpful problem-solving smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r097",
+    "sheet_id": "s053",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Suportô",
+    "character_desc": "Emoji 3D support engineer com um headset brilhante e um balão de ajuda.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, wearing a glossy headset with a help chat bubble, warm helpful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r098",
+    "sheet_id": "s053",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Salezô",
+    "character_desc": "Emoji 3D sales engineer com um maletim brilhante e um gráfico de demo.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy briefcase and a demo chart, persuasive friendly smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r099",
+    "sheet_id": "s053",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Finô",
+    "character_desc": "Emoji 3D FinOps analyst com uma calculadora brilhante e moedinhas gomosas.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy calculator with floating coins, cost-savvy smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s053-r100",
+    "sheet_id": "s053",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Legalê",
+    "character_desc": "Emoji 3D legal counsel com uma balança-justiça brilhante e um martelinho.",
+    "nano_prompt": "glossy Apple/Fluent-style 3D emoji character, cute rounded soft-plastic form, smooth glossy gradients, shiny specular highlights, subtle studio rim lighting, playful expressive face, bust close-up from chest up, holding a glossy balance scale and a gavel, composed authoritative smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

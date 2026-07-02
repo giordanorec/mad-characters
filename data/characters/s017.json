@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s017-r001",
+    "sheet_id": "s017",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Capitã Traçado",
+    "character_desc": "A capitã que projeta o galeão inteiro antes da primeira tábua. Segura um grande pergaminho com a planta do navio e um compasso de navegação.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a commanding pirate captain in a plumed tricorne, unrolling a large blueprint scroll of a galleon, holding brass navigation dividers, confident visionary gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r002",
+    "sheet_id": "s017",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Imediato Vega",
+    "character_desc": "O primeiro-imediato que conduz a tripulação no dia a dia. Empunha um raio do timão e cartas náuticas enroladas sob o braço.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a first-mate pirate gripping a ship's-wheel spoke, rolled sea charts tucked under one arm, steady leading expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r003",
+    "sheet_id": "s017",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Mestre Sextante",
+    "character_desc": "Veterano navegador coberto de medalhas de mil viagens. Segura um sextante de latão com naturalidade de quem já cruzou todos os mares.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a grizzled veteran master navigator holding a brass sextant, chest of campaign medals, many battle scars, calm seasoned look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r004",
+    "sheet_id": "s017",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Almirante Corvo",
+    "character_desc": "O almirante da frota inteira, de bicórnio ornamentado. Ergue uma luneta longa, olhando muito além do horizonte.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a grand fleet admiral in an ornate bicorne hat with gold braid, raising a long spyglass, authoritative far-seeing gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r005",
+    "sheet_id": "s017",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Contramestre Cleo",
+    "character_desc": "A contramestre que cuida da tripulação. Leva o livro de bordo com a lista dos marujos e um apito de bosun no pescoço.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a quartermaster pirate holding a crew roster ledger, bosun's whistle on a cord, caring but firm expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r006",
+    "sheet_id": "s017",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Bússola Marlow",
+    "character_desc": "Farejador de tesouros que sabe onde está o próximo butim. Segura um mapa com um grande X vermelho e uma bússola apontando decidida.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a treasure-hunting pirate holding a marked map with a bold X, a compass in the other hand pointing firmly, eager purposeful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r007",
+    "sheet_id": "s017",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Guarda-Butim Ravi",
+    "character_desc": "O dono do baú do tesouro e do manifesto do saque. Segura a chave do cofre e o rol das riquezas.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate treasure-keeper cradling an ornate treasure chest, holding a large brass key and a loot manifest scroll, protective proud stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r008",
+    "sheet_id": "s017",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Sinaleira Prosa",
+    "character_desc": "Coordena a frota inteira com bandeiras de sinais. Segura dois galhardetes e traz várias cartas de rota presas ao cinto.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a fleet-signal pirate holding two signal flags aloft, multiple route charts tucked in the belt, organizing coordinating expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r009",
+    "sheet_id": "s017",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Ampulheta Duarte",
+    "character_desc": "O que mantém a expedição no prazo. Carrega uma ampulheta e uma corda enrolada com nós marcando etapas.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate holding a large hourglass, a coiled rope with knotted milestones over the shoulder, watchful time-keeping look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r010",
+    "sheet_id": "s017",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Tambor Íris",
+    "character_desc": "A que dá o ritmo dos remos e das cerimônias. Bate um tambor de bordo com o apito de bosun ao pescoço.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate ship's drummer with a rope-tension drum, bosun's whistle around the neck, energetic rhythm-keeping expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r011",
+    "sheet_id": "s017",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Porão Bento",
+    "character_desc": "O maquinista do porão que mantém o coração do navio batendo. Segura uma grande chave-inglesa junto à bomba de porão, à luz de um lampião.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a below-decks engineer pirate holding a large iron wrench beside a bilge pump and gears, oil lantern glow, grease-smudged determined face, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r012",
+    "sheet_id": "s017",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Ponte Adia",
+    "character_desc": "A que constrói as passarelas entre navios. Segura um gancho de abordagem e uma prancha-ponte de cordas.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate gangway-builder holding a boarding hook and a rope-and-plank bridge, connecting-two-ships gesture, practical look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r013",
+    "sheet_id": "s017",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Flotilha Ken",
+    "character_desc": "Comanda uma frota de pequenos botes amarrados que agem juntos. Segura um feixe de cabos ligando vários barquinhos.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate commanding a cluster of tiny tethered boats, holding a bundle of ropes linking small rafts, coordinating grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r014",
+    "sheet_id": "s017",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Esteira Pável",
+    "character_desc": "Mantém a linha de suprimento da pólvora e da carga fluindo. Passa baldes por uma corrente humana de escotilhas.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate managing a supply-line bucket brigade, passing a powder bucket along a chain of hatches, steady flow-keeping expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r015",
+    "sheet_id": "s017",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Estiva Nara",
+    "character_desc": "A que carrega e organiza os barris de carga. Traz uma rede de carga cheia de barris e o manifesto no cinto.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a cargo-hauling pirate carrying a loaded cargo net full of barrels, manifest tucked in belt, strong lifting stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r016",
+    "sheet_id": "s017",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Adega Sólon",
+    "character_desc": "O guardião do porão-cofre do navio. Traz um grande molho de chaves e o registro dos barris estocados.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate hold-keeper with a huge ring of keys, holding a ledger of stored barrels, guarding-the-vault posture, watchful eyes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r017",
+    "sheet_id": "s017",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Registro Quim",
+    "character_desc": "O que acha qualquer registro no livro do tesouro num piscar. Segura a pena e folheia o grande razão de saques.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate scribe rapidly querying a large treasure ledger with a quill, finger tracing an entry, sharp quick-recall look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r018",
+    "sheet_id": "s017",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Pronta-Pólvora",
+    "character_desc": "Deixa a munição pronta ao alcance da mão para tiro rápido. Segura uma bolsa de acesso rápido junto a barris de pólvora prontos.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate with a ready ammo pouch and pre-loaded powder kegs at hand beside a cannon, quick-draw ready stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r019",
+    "sheet_id": "s017",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Garrafa Wren",
+    "character_desc": "A mensageira que despacha ordens em garrafas lacradas. Segura uma garrafa com bilhete e uma fileira delas na cintura.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate courier holding a sealed message-in-a-bottle, a row of corked bottles on the belt, dispatching gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r020",
+    "sheet_id": "s017",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Vigia Íbis",
+    "character_desc": "A vigia do cesto da gávea que caça alvos no horizonte. Aponta a luneta lá do alto do mastro.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a crow's-nest lookout pirate peering through a spyglass, hand shielding eyes, scanning-the-horizon alert expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r021",
+    "sheet_id": "s017",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Proa Lelê",
+    "character_desc": "A que dá cara e cor ao navio: pinta as velas e a figura de proa. Segura pincel largo diante de uma vela colorida.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate ship-decorator holding a wide brush before a painted sail and carved figurehead, artistic proud look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r022",
+    "sheet_id": "s017",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Console Théo",
+    "character_desc": "Arruma o convés do timão para a mão certa achar tudo. Segura uma alavanca polida diante do painel de manivelas.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate arranging the helm console of polished levers, hand on a brass lever, tidy arranging expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r023",
+    "sheet_id": "s017",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Rota-Convés Sofi",
+    "character_desc": "Desenha por onde a tripulação anda no convés. Segura uma planta do deck e um cordel de medir.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate holding a deck-layout plan and a measuring cord, mapping crew paths on the deck, thoughtful planning look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r024",
+    "sheet_id": "s017",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Veleira Padrão",
+    "character_desc": "A veleira que faz todas as velas com o mesmo molde. Segura um estêncil de vela e agulha de veleiro.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a sailmaker pirate holding a sail stencil pattern and a sailmaker's needle, rolls of standardized canvas, systematic look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r025",
+    "sheet_id": "s017",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Rampa Amara",
+    "character_desc": "Constrói rampas e corrimãos para toda a tripulação subir a bordo. Segura um corrimão de corda e guia um lampião-guia.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate building boarding ramps and rope handrails, holding a guiding lantern, inclusive helpful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r026",
+    "sheet_id": "s017",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Enxárcia Vito",
+    "character_desc": "Ajusta as velas para arrancar cada nó de velocidade. Segura a barquilha (log de nós) medindo a arrancada.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate trimming the rigging for maximum speed, holding a knotted speed-log line, wind-in-hair swift expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r027",
+    "sheet_id": "s017",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Verniz Cora",
+    "character_desc": "A decoradora que dá o acabamento ornamental do casco. Segura pincel fino e balde de tinta diante de frisos entalhados.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate ship-painter holding a fine brush and paint bucket, ornate hull trim behind, meticulous decorating look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r028",
+    "sheet_id": "s017",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Estandarte Nino",
+    "character_desc": "Faz a figura de proa e as bandeiras ganharem movimento. Agita um estandarte que ondula ao vento.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate flag-animator waving a long rippling banner, sense of motion in the cloth, playful lively expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r029",
+    "sheet_id": "s017",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Saveiro Duda",
+    "character_desc": "Pirata de saveiro ágil que viaja leve. Segura uma luneta de bolso e uma bolsa enxuta de bordo.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a nimble sloop pirate traveling light, holding a compact pocket spyglass, small travel satchel, agile ready look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r030",
+    "sheet_id": "s017",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Prata Ían",
+    "character_desc": "Pirata elegante de acabamento polido. Empunha um sabre de prata reluzente e usa casaca impecável.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, an elegant refined pirate wielding a polished silver cutlass, immaculate tailored coat, sleek minimalist look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r031",
+    "sheet_id": "s017",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Verdengo Robo",
+    "character_desc": "Pirata de verde com braço de engrenagens e papagaio mecânico. Ergue o braço-autômato ao lado do papagaio de lata.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a green-clad pirate with a clockwork mechanical arm and a tin robot parrot on the shoulder, tinkerer grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r032",
+    "sheet_id": "s017",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Duas-Bandeiras",
+    "character_desc": "A que serve a duas frotas com uma tripulação só. Cruza dois sabres, cada um com uma bandeirinha diferente.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate bridging two fleets, crossing two cutlasses each bearing a small different flag, versatile confident stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r033",
+    "sheet_id": "s017",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Borboleta Fê",
+    "character_desc": "Pirata de uma caixa de ferramentas só que voa em qualquer mar. Vela em forma de asa de borboleta e um passarinho de bordo.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate with a single toolkit chest and a butterfly-shaped sail, a small companion bird, cheerful adaptable look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r034",
+    "sheet_id": "s017",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Astral Iná",
+    "character_desc": "A astrônoma de bordo que lê o destino nas estrelas. Segura um astrolábio e cartas celestes.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a ship's-astronomer pirate holding an astrolabe and star charts, gazing upward, contemplative scholarly expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r035",
+    "sheet_id": "s017",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Adestra Papo",
+    "character_desc": "O que treina o papagaio a prever o tempo e o inimigo. Ergue o punho com um papagaio bem-adestrado.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate animal-trainer holding out a trained parrot that predicts, treats in hand, patient teaching look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r036",
+    "sheet_id": "s017",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Aviário Bex",
+    "character_desc": "Cuida do viveiro dos papagaios treinados e os põe em serviço. Abre a porta de um aviário de bordo cheio de aves.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate aviary-keeper tending a shipboard cage of trained parrots, feeding and deploying birds, tidy operational look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r037",
+    "sheet_id": "s017",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Alquimista Zô",
+    "character_desc": "A alquimista de bordo com experimentos estranhos. Segura uma bússola brilhante e um frasco borbulhante.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, an alchemist pirate holding a glowing experimental compass and a bubbling flask, curious inventive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r038",
+    "sheet_id": "s017",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Sussurro Kai",
+    "character_desc": "O que sussurra ordens exatas ao papagaio mágico falante. Aproxima um pergaminho de encantamentos do papagaio.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate whispering precise commands to a magical talking parrot, holding a small incantation scroll, sly focused look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r039",
+    "sheet_id": "s017",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Poliglota Ari",
+    "character_desc": "A intérprete que entende toda língua de porto. Segura um livro de frases de muitas nações e um papagaio tagarela.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a polyglot interpreter pirate holding a multi-language phrasebook, a chattering parrot nearby, quick-witted expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r040",
+    "sheet_id": "s017",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Lente Odim",
+    "character_desc": "O vigia da lente gigante que enxerga o que ninguém vê. Segura uma grande lupa junto a uma luneta mecânica.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate lookout holding a giant magnifying lens beside a mechanical eye-telescope, keen observant stare, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r041",
+    "sheet_id": "s017",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Ábaco Nilo",
+    "character_desc": "O que conta o butim moeda a moeda. Segura um ábaco e uma tábua de contagem cheia de riscos.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate tallying loot on an abacus, holding a tally board full of marks, precise counting expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r042",
+    "sheet_id": "s017",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Tendência Bel",
+    "character_desc": "A que lê para onde vai o saque da temporada. Ergue um mapa com bandeirinhas em forma de gráfico de barras.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate holding a plunder-trend chart with little bar-graph flags, insightful analyzing look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r043",
+    "sheet_id": "s017",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Funil Tao",
+    "character_desc": "Refina o saque bruto em baús organizados. Despeja moedas por um funil que separa por tipo.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate refining raw loot through a sorting funnel into labeled chests, methodical processing expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r044",
+    "sheet_id": "s017",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Aquarela Vic",
+    "character_desc": "Transforma números de saque em belos mapas ilustrados. Pinta um mapa pictórico numa tela de bordo.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate data-illustrator painting a beautiful pictorial chart on a canvas map, artistic clarifying look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r045",
+    "sheet_id": "s017",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Carpinteiro Rui",
+    "character_desc": "O carpinteiro que conserta o navio em pleno mar. Traz um cinto de ferramentas, martelo em punho.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a ship's-carpenter pirate with a tool belt, hammer in hand, patching planks, hands-on reliable expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r046",
+    "sheet_id": "s017",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Rombo Sena",
+    "character_desc": "A do controle de avarias que apaga fogo e tapa rombo. Segura um balde e uma tábua de reparo às pressas.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a damage-control pirate holding a bucket and a hull-patch board, plugging a leak, urgent steady expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r047",
+    "sheet_id": "s017",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Estaleiro Ozz",
+    "character_desc": "O que ergue o estaleiro onde os outros constroem seus navios. Segura a planta de um dique seco e um mastro-guindaste.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a shipyard-builder pirate holding a dry-dock plan beside a crane mast, providing-the-platform proud stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r048",
+    "sheet_id": "s017",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Céu-Vela Aíla",
+    "character_desc": "A que navega o navio pelas nuvens e mapeia os ventos. Aponta para um mapa de nuvens com uma rosa dos ventos.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a sky-ship pirate charting the clouds and winds, holding a wind-rose map, airy visionary expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r049",
+    "sheet_id": "s017",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Timão-Pods",
+    "character_desc": "O timoneiro que orquestra uma frota de cápsulas de carga. Segura um timão cercado de pequenos contêineres flutuantes.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a helmsman pirate orchestrating a fleet of cargo pods, ship's wheel ringed by small floating containers, coordinating look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r050",
+    "sheet_id": "s017",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Enxárcia Nete",
+    "character_desc": "A que tece a rede de cordas entre os mastros. Estende um cabo de sinal ligando as vergas.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate stringing a web of rigging ropes between masts, holding a signal-line, connecting network expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r051",
+    "sheet_id": "s017",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Lubrifica Gus",
+    "character_desc": "O que mantém tudo azeitado e funcionando. Segura uma almotolia de óleo e um molho de chaves.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a ship's-systems pirate holding an oil can and a ring of keys, keeping everything running, tidy dependable look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r052",
+    "sheet_id": "s017",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Lançamento Dita",
+    "character_desc": "A que lança o navio pela carreira ao mar. Segura o machado sobre a corda de lançamento, pronta pra cortar.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate launcher holding an axe over the ship-launch rope ready to cut, celebratory launching gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r053",
+    "sheet_id": "s017",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Adze Bruno",
+    "character_desc": "O construtor que junta as tábuas do casco. Empunha uma enxó (adze) e cavilhas de madeira.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a shipwright pirate wielding an adze, wooden pegs in hand, assembling hull planks, careful building look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r054",
+    "sheet_id": "s017",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Corrente-Fogo",
+    "character_desc": "O que mantém a linha contínua carregando e disparando canhões. Passa uma bala pela corrente de recarga sem parar.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a pirate running a continuous cannon-loading chain, passing a cannonball down an assembly line, tireless flowing motion, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r055",
+    "sheet_id": "s017",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Guarda Escudo",
+    "character_desc": "O guarda blindado que protege o porão do tesouro. Ergue um escudo com um grande cadeado.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, an armored guard pirate raising a shield emblazoned with a padlock, guarding the hold, vigilant defensive stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r056",
+    "sheet_id": "s017",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Sombra Rax",
+    "character_desc": "A raider furtiva que testa as defesas de qualquer navio. Segura um gancho de arpéu e gazuas de arrombar.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a stealthy boarding-raider pirate holding a grappling hook and lockpicks, testing defenses, cunning shadowy look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r057",
+    "sheet_id": "s017",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Reforço Alma",
+    "character_desc": "A armeira que reforça as portinholas e tábuas frágeis. Prega chapas de ferro sobre um ponto fraco do casco.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, an armorer pirate reinforcing weak hull boards with iron plates, hammer and rivets, fortifying careful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r058",
+    "sheet_id": "s017",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cifra Mör",
+    "character_desc": "A criptógrafa das mensagens secretas. Segura uma roda de cifra e um bilhete codificado junto a um cofre.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a cryptographer pirate holding a cipher wheel and a coded note beside a locked strongbox, secretive clever look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r059",
+    "sheet_id": "s017",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Código Ferro",
+    "character_desc": "O guardião do Código dos Piratas e seus artigos. Segura o livro do código com uma pena e o selo de lacre.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a compliance pirate holding the Pirate Code articles book, a quill and wax seal, upright rule-keeping expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r060",
+    "sheet_id": "s017",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Máscara Vera",
+    "character_desc": "A que esconde o mapa e protege identidades. Tranca o mapa num baú lacrado, rosto meio mascarado.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a privacy pirate sealing a treasure map into a locked chest, half-masked face, discreet guarding look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r061",
+    "sheet_id": "s017",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Sino Rurik",
+    "character_desc": "O que soa o alarme e corre ao rombo. Toca o sino de bordo com um balde de fogo na outra mão.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, an incident-responder pirate ringing the ship's alarm bell, fire bucket in the other hand, urgent rushing expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r062",
+    "sheet_id": "s017",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Mesa-Guerra Yu",
+    "character_desc": "O que estuda a frota inimiga antes do combate. Move peças sobre uma mesa de guerra com mapa de posições.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a threat-modeler pirate studying enemy fleet positions on a war-table with figurines, strategic calculating gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r063",
+    "sheet_id": "s017",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Vistoria Pó",
+    "character_desc": "A inspetora que testa canhões e cordas antes da batalha. Segura uma lista de verificação e uma lupa sobre um nó.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a QA inspector pirate holding a checklist and a magnifier over a knot, testing cannons and ropes, scrutinizing look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r064",
+    "sheet_id": "s017",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Canhão-Teste",
+    "character_desc": "O do canhão de teste que dispara sozinho pra provar tudo. Aciona uma engenhoca de disparo automático.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, an automation pirate operating a self-firing test cannon rig, mechanical trigger contraption, inventive testing grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r065",
+    "sheet_id": "s017",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Sobrecarga Lud",
+    "character_desc": "A que testa o limite carregando peso máximo na enxárcia. Pendura pesos numa corda e observa o manômetro.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a stress-test pirate loading maximum weights onto rigging, watching a strain gauge, probing-the-limit expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r066",
+    "sheet_id": "s017",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Mão-a-Mão Teca",
+    "character_desc": "A que prova cada arma e cada nó com as próprias mãos. Testa o fio da lâmina e aperta um nó pessoalmente.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a manual-tester pirate personally checking a blade's edge and tightening a knot by hand, hands-on careful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r067",
+    "sheet_id": "s017",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Acesso Bene",
+    "character_desc": "O que confere se rampas e apoios servem a todo marujo. Testa um corrimão e uma rampa de embarque.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, an accessibility-tester pirate checking that a boarding ramp and handrail work for everyone, considerate checking look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r068",
+    "sheet_id": "s017",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Escriba Lin",
+    "character_desc": "A escrivã que mantém o diário de bordo. Segura a pena sobre o grande livro do capitão.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a ship's-scribe pirate holding a quill over the captain's log book, documenting the voyage, focused writing expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r069",
+    "sheet_id": "s017",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Trombeta Zeca",
+    "character_desc": "O orador que arregimenta tripulações em cima do barril. Fala por uma corneta de voz (speaking trumpet).",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a developer-advocate pirate standing tall, rallying crews through a speaking trumpet, charismatic energetic expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r070",
+    "sheet_id": "s017",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Enredo Malu",
+    "character_desc": "A que planeja as canções e histórias da taverna. Segura um pergaminho de storyboard das lendas.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a content-strategist pirate holding a story-plan scroll of tavern tales, planning-the-narrative thoughtful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r071",
+    "sheet_id": "s017",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Bandeiras Ilo",
+    "character_desc": "O tradutor de mil portos com bandeiras de muitas nações. Segura um leque de bandeirinhas e um livro de frases.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a localization pirate holding a fan of many-nation flags and a phrasebook, welcoming multilingual expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r072",
+    "sheet_id": "s017",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Molde-Proa Dan",
+    "character_desc": "O escultor que define o visual do navio inteiro. Segura um formão e um modelo em miniatura da figura de proa.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a product-designer pirate holding a chisel and a miniature figurehead model, shaping the whole ship's look, visionary craft expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r073",
+    "sheet_id": "s017",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Brasão Lia",
+    "character_desc": "A pintora do brasão e das cores do navio. Segura paleta e pincel diante do escudo pintado.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a visual-designer pirate holding a palette and brush before a painted ship crest, aesthetic refined look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r074",
+    "sheet_id": "s017",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Manivela Rô",
+    "character_desc": "O que ajusta como cada alavanca do timão responde à mão. Testa uma manivela ergonômica do leme.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, an interaction-designer pirate testing an ergonomic helm lever, feeling the response, tuning attentive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r075",
+    "sheet_id": "s017",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Fita Nomo",
+    "character_desc": "A coreógrafa das bandeiras que fazem os estandartes dançarem. Roda uma fita/estandarte em espiral no ar.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a motion-designer pirate swirling a ribbon banner in a spiral, choreographing flag movement, graceful dynamic look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r076",
+    "sheet_id": "s017",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Bico-Pena Ise",
+    "character_desc": "A ilustradora que desenha os mapas do tesouro. Segura uma pena de bico fino sobre um mapa ilustrado.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, an illustrator pirate holding a fine pen over an illustrated treasure map, detailed drawing focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r077",
+    "sheet_id": "s017",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Entalhe Caio",
+    "character_desc": "O entalhador dos pequenos ornamentos do navio. Abre uma caixa de peças entalhadas com um formão pequeno.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, an asset-designer pirate opening a box of small carved ship ornaments, tiny chisel in hand, tidy crafting look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r078",
+    "sheet_id": "s017",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Caveira Nix",
+    "character_desc": "O que desenha a bandeira Jolly Roger da tripulação. Ergue o estandarte da caveira e ossos cruzados.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a brand-designer pirate raising a hand-drawn Jolly Roger skull-and-crossbones banner, bold identity expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r079",
+    "sheet_id": "s017",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Búzio Sol",
+    "character_desc": "A que faz o som do navio: buzina de conga, tambor e sino. Sopra um búzio com um tambor pendurado.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a sound-designer pirate blowing a conch horn with a drum and ship's bell at the belt, expressive sonorous look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r080",
+    "sheet_id": "s017",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Cinzel Ravi",
+    "character_desc": "O escultor da estátua da figura de proa. Talha um busto de madeira com maço e cinzel.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a 3D-sculptor pirate carving a wooden figurehead bust with mallet and chisel, focused shaping expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r081",
+    "sheet_id": "s017",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Dados Mika",
+    "character_desc": "A que inventa as regras do jogo de dados de bordo. Segura dois dados e um tabuleiro riscado de regras.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a game-designer pirate holding two dice over a rule-marked board, inventive playful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r082",
+    "sheet_id": "s017",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Ilha-Traça Beto",
+    "character_desc": "O que desenha a ilha do tesouro com armadilhas. Segura um mapa de ilha com poços e trilhas marcadas.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a level-designer pirate holding an island map with traps and paths marked, plotting layout look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r083",
+    "sheet_id": "s017",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Lenda Ester",
+    "character_desc": "A contadora que tece a lenda da tripulação. Segura um livro de histórias aberto, gesto de narrar.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a narrative-designer pirate holding an open storybook, mid-tale gesture, captivating storyteller expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r084",
+    "sheet_id": "s017",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Engenho Vlad",
+    "character_desc": "O que monta o jogo inteiro com dados e engrenagens. Ajusta uma engenhoca de jogo com peças e dados.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a game-developer pirate tinkering with a game contraption of gears and dice, inventive maker grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r085",
+    "sheet_id": "s017",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Prisma Yuki",
+    "character_desc": "A que faz o navio brilhar com jogo de luz e sombra. Segura um prisma diante de um lampião que refrata.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a shader pirate holding a prism before a lantern casting refracted light and shadow, luminous focused look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r086",
+    "sheet_id": "s017",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Bolso-Máquina",
+    "character_desc": "O que mexe no mecanismo miúdo de um dispositivo. Abre um relógio de bolso cheio de engrenagens minúsculas.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, an embedded-engineer pirate opening a pocket-watch device full of tiny gears, delicate precise expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r087",
+    "sheet_id": "s017",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Núcleo Fen",
+    "character_desc": "O que talha as engrenagens no coração mecânico do navio. Ajusta a engrenagem central de um relógio de bordo.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a firmware pirate adjusting the central gear of the ship's clockwork core, deep intricate focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r088",
+    "sheet_id": "s017",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Boias-Luz Tami",
+    "character_desc": "A que liga uma rede de boias e lampiões sinalizadores. Segura uma boia-lampião ligada a outras por fio.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, an IoT pirate holding a signal-buoy lantern linked by cords to others, connected network of little lights, attentive look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r089",
+    "sheet_id": "s017",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Corrente-Baú",
+    "character_desc": "O que encadeia baús trancados um no outro. Ergue uma corrente de cofrinhos, cada um com seu cadeado.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a blockchain pirate raising a chain of linked locked chests, each padlocked to the next, secure ledger expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r090",
+    "sheet_id": "s017",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Fecho Auda",
+    "character_desc": "A que inspeciona a corrente de baús em busca de falha. Examina um elo com lupa e selo de aprovação.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a smart-contract auditor pirate examining a chain of chests with a magnifier and approval seal, scrutinizing look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r091",
+    "sheet_id": "s017",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Óculos-Visão",
+    "character_desc": "O das lentes encantadas que mostram visões sobre o real. Usa óculos-luneta mágicos com miragens ao redor.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, an AR/VR pirate wearing enchanted seeing-goggles with faint visions swirling around, wondrous immersive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r092",
+    "sheet_id": "s017",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Autômato Gil",
+    "character_desc": "O que constrói um marujo-autômato de engrenagens. Ao lado do tripulante mecânico de perna de pau e molas.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a robotics pirate beside a clockwork automaton crewmate with peg-leg and springs, tinkering proud look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r093",
+    "sheet_id": "s017",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Recruta Bibi",
+    "character_desc": "A que arregimenta mais tripulação e amplia a frota. Segura um cartaz de recruta e uma moeda de isca.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a growth pirate holding a crew-recruitment handbill and a lure coin, welcoming persuasive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r094",
+    "sheet_id": "s017",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Farol Osk",
+    "character_desc": "O que acende beacons pra ser encontrado pelos navios certos. Ergue um lampião-farol bem brilhante.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, an SEO pirate raising a bright signal-beacon lantern to be found, attracting-attention confident look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r095",
+    "sheet_id": "s017",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Canhão-Panfleto",
+    "character_desc": "A que dispara panfletos de propaganda por um canhão. Carrega um canhão com um rolo de cartazes.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a marketing-tech pirate loading a cannon with a roll of advertising posters, promotional playful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r096",
+    "sheet_id": "s017",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Casadora Théa",
+    "character_desc": "A que casa a carga certa com o comprador certo. Abre uma maleta de amostras diante de mercadorias.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a solutions pirate opening a sample case matching cargo to buyers, helpful matchmaking look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r097",
+    "sheet_id": "s017",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Boia-Salva Ravi",
+    "character_desc": "O do posto de socorro que ajuda a tripulação. Segura uma boia salva-vidas e um kit de primeiros socorros.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a support pirate holding a lifebuoy and a first-aid kit at an aid station, helpful reassuring expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r098",
+    "sheet_id": "s017",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Balança Zeno",
+    "character_desc": "O negociante carismático que vende o butim. Ergue uma balança com uma gema reluzente pra pesar.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a sales pirate holding balance scales weighing a shiny gem to trade, charismatic persuasive grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r099",
+    "sheet_id": "s017",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Tesoureira Odi",
+    "character_desc": "A tesoureira que conta os dobrões da frota. Segura uma balança de moedas junto a um cofre aberto.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a finops pirate holding coin scales beside an open coffer of doubloons, careful counting expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s017-r100",
+    "sheet_id": "s017",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Carta-Marca",
+    "character_desc": "O advogado das cartas de corso e dos lacres. Segura a carta de marca (letter of marque) com selo de cera.",
+    "nano_prompt": "antique woodcut engraving (xilogravura antiga) of a pirate, bold black ink outlines, dense cross-hatching and stippling for shading, high-contrast monochrome hand-carved rough texture, weathered engraved linework, waist-up bust portrait facing the viewer, a legal-counsel pirate holding a letter of marque parchment with a wax seal, upright advocating expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

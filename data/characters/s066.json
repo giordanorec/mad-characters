@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s066-r001",
+    "sheet_id": "s066",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Arque",
+    "character_desc": "Gema ametista que veste capacete facetado e segura uma planta cristalina e um compasso — projeta as estruturas do time.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, deep amethyst-violet translucent body with a cute face and tiny crystalline arms, holding a rolled crystalline blueprint and a drafting compass, wearing a faceted hard hat, calm visionary gaze, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r002",
+    "sheet_id": "s066",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Léo",
+    "character_desc": "Gema esmeralda que rege nós de cristal flutuantes com uma batuta — orquestra a técnica do time.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, bright emerald-green translucent body with a cute face and tiny crystalline arms, raising a small conductor's baton toward floating gem nodes, confident encouraging smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r003",
+    "sheet_id": "s066",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Stella",
+    "character_desc": "Gema safira segurando uma chave inglesa gigante e uma engrenagem — resolve os problemas mais duros.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, royal sapphire-blue translucent body with a cute face and tiny crystalline arms, hoisting an oversized crystal wrench and a spinning gear, steady focused look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r004",
+    "sheet_id": "s066",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Prima",
+    "character_desc": "Gema púrpura com coroa de cristais que exibe um esquema brilhante — a autoridade técnica maior.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, regal purple translucent body with a cute face and tiny crystalline arms, wearing a small crown-like crystal cluster and holding a glowing schematic, wise authoritative expression, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r005",
+    "sheet_id": "s066",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Gerema",
+    "character_desc": "Gema topázio com prancheta e um organograma de figurinhas de cristal — cuida das pessoas da engenharia.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, warm golden topaz translucent body with a cute face and tiny crystalline arms, holding a clipboard and a tiny crystalline org-chart of linked figures, warm supportive smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r006",
+    "sheet_id": "s066",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Rôsa",
+    "character_desc": "Gema quartzo-rosa com roadmap enrolado e uma lâmpada de cristal — guia o produto pela visão.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, soft rose quartz translucent body with a cute face and tiny crystalline arms, holding a rolled roadmap and a glowing lightbulb crystal, enthusiastic bright eyes, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r007",
+    "sheet_id": "s066",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Owena",
+    "character_desc": "Gema granada segurando pilha de cartões de backlog e uma bandeirinha de prioridade — dona do produto.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, deep garnet-red translucent body with a cute face and tiny crystalline arms, holding a stack of backlog cards and a priority flag, decisive expression, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r008",
+    "sheet_id": "s066",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Progema",
+    "character_desc": "Gema água-marinha entrelaçando várias linhas do tempo brilhantes — costura os programas.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, cool aquamarine translucent body with a cute face and tiny crystalline arms, holding several interwoven glowing timeline threads, organized attentive look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r009",
+    "sheet_id": "s066",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Jetta",
+    "character_desc": "Gema citrino com painel de Gantt e um cronômetro — mantém o projeto no prazo.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, sunny citrine-yellow translucent body with a cute face and tiny crystalline arms, holding a Gantt-chart crystal panel and a stopwatch, punctual focused smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r010",
+    "sheet_id": "s066",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Scruma",
+    "character_desc": "Gema turquesa com post-its de cristal num quadro de sprint e apito — facilita o ritmo ágil.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, teal-turquoise translucent body with a cute face and tiny crystalline arms, holding sticky-note gemlets on a sprint board with a small whistle, cheerful facilitating grin, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r011",
+    "sheet_id": "s066",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Backô",
+    "character_desc": "Gema cobalto abraçando um rack de servidor de cristal com cabos luminosos — constrói o backend.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, deep cobalt-blue translucent body with a cute face and tiny crystalline arms, cradling a miniature crystal server rack with glowing cables, focused reliable look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r012",
+    "sheet_id": "s066",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Apia",
+    "character_desc": "Gema ciano encaixando peças-conector de cristal num soquete — desenha contratos de API.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, turquoise-cyan translucent body with a cute face and tiny crystalline arms, fitting two glowing puzzle connector pieces into a socket, precise clever smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r013",
+    "sheet_id": "s066",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Micra",
+    "character_desc": "Gema em cacho de geminhas ligadas, equilibrando cubinhos modulares — divide tudo em microsserviços.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, cluster of small linked gemlets, teal translucent body with a cute face and tiny crystalline arms, juggling several tiny modular glowing cubes, nimble playful look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r014",
+    "sheet_id": "s066",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Pipa",
+    "character_desc": "Gema obsidiana-teal com dutos de cristal por onde escorrem gotas de dados — monta pipelines.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, obsidian-teal translucent body with a cute face and tiny crystalline arms, holding curved pipe segments with glowing data droplets flowing through, steady methodical gaze, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r015",
+    "sheet_id": "s066",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Dara",
+    "character_desc": "Gema cobalto com funil de cristal canalizando fluxos de dados luminosos — engenheira os dados.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, electric cobalt translucent body with a cute face and tiny crystalline arms, holding a crystalline funnel channeling streams of glowing data droplets, industrious focused look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r016",
+    "sheet_id": "s066",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Debê",
+    "character_desc": "Gema granada abraçando um tambor-banco cilíndrico e uma chave — administra o banco de dados.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, dark garnet translucent body with a cute face and tiny crystalline arms, embracing a cylindrical crystal database drum and holding a key, guardian serious look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r017",
+    "sheet_id": "s066",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Esquê",
+    "character_desc": "Gema esmeralda com painel de tabela em grade e uma lupa — mestre das queries SQL.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, clear emerald translucent body with a cute face and tiny crystalline arms, holding a glowing table-grid crystal panel and a magnifier, sharp inquisitive smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r018",
+    "sheet_id": "s066",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Cash",
+    "character_desc": "Gema gelo-azul abrindo um cofre-gaveta veloz com faíscas — acelera tudo com cache.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, frosted icy blue translucent body with a cute face and tiny crystalline arms, opening a small crystal vault drawer crackling with speed sparks, quick snappy grin, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r019",
+    "sheet_id": "s066",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Fila",
+    "character_desc": "Gema âmbar cuidando de uma esteira de envelopes-gema em fila — gerencia filas de mensagens.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, warm amber translucent body with a cute face and tiny crystalline arms, tending a conveyor line of little envelope gems in orderly single file, patient orderly look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r020",
+    "sheet_id": "s066",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Serra",
+    "character_desc": "Gema quartzo-dourado com lupa grande sobre fichas de índice luminosas — engenheira a busca.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, bright golden-quartz translucent body with a cute face and tiny crystalline arms, holding a large magnifier over glowing index cards, curious seeking gaze, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r021",
+    "sheet_id": "s066",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Fronô",
+    "character_desc": "Gema opala rosa-ciano segurando uma janela de navegador de cristal — constrói o frontend.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, pink-and-cyan opal translucent body with a cute face and tiny crystalline arms, holding a crystal browser-window frame with tiny UI elements, friendly bright smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r022",
+    "sheet_id": "s066",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Uiza",
+    "character_desc": "Gema perolada empilhando blocos e botões de UI de cristal — implementa a interface.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, pastel pearlescent translucent body with a cute face and tiny crystalline arms, stacking glowing UI component blocks and buttons, tidy pleasant look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r023",
+    "sheet_id": "s066",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Uxa",
+    "character_desc": "Gema lavanda com mapa de fluxo do usuário e um coraçãozinho — desenha a experiência.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, lavender-lilac translucent body with a cute face and tiny crystalline arms, holding a user-flow map and a small glowing heart, empathetic warm gaze, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r024",
+    "sheet_id": "s066",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Sisto",
+    "character_desc": "Gema prismática geométrica com biblioteca de peças combinando — mantém o design system.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, geometric prismatic translucent body with a cute face and tiny crystalline arms, holding a modular library of matching crystal tiles, systematic calm look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r025",
+    "sheet_id": "s066",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Acê",
+    "character_desc": "Gema de alto contraste com símbolo de acessibilidade e ícones de ouvido e olho — torna tudo acessível.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, high-contrast clear-and-black translucent body with a cute face and tiny crystalline arms, holding a universal-access symbol beside crystal ear and eye icons, inclusive caring smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r026",
+    "sheet_id": "s066",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Perfô",
+    "character_desc": "Gema aerodinâmica com um velocímetro no verde e rastros de velocidade — otimiza a performance web.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, streamlined aerodynamic quartz translucent body with a cute face and tiny crystalline arms, holding a speed gauge needle in the green with motion streaks, swift eager look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r027",
+    "sheet_id": "s066",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Cessa",
+    "character_desc": "Gema multicolor com paleta e pincel de estilo pingando cor — domina o CSS.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, multicolored rainbow gem translucent body with a cute face and tiny crystalline arms, holding a paint palette and a styling brush dripping color, artsy playful smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r028",
+    "sheet_id": "s066",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Anima",
+    "character_desc": "Gema opala em cintilação de movimento seguindo um orbe de keyframe saltitante — anima as interfaces.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, motion-shimmer opal translucent body with a cute face and tiny crystalline arms, trailing a bouncing keyframe orb along a glowing arc, lively kinetic grin, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r029",
+    "sheet_id": "s066",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Móbi",
+    "character_desc": "Gema azul-ardósia segurando um smartphone de cristal com um app — desenvolve para mobile.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, sleek slate-blue translucent body with a cute face and tiny crystalline arms, holding a small crystal smartphone glowing with an app, on-the-go alert look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r030",
+    "sheet_id": "s066",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Iona",
+    "character_desc": "Gema prata-branca com um celular-maçã de cristal arredondado — desenvolve para iOS.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, polished silver-white translucent body with a cute face and tiny crystalline arms, holding an apple-shaped crystal phone with rounded facets, sleek minimalist smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r031",
+    "sheet_id": "s066",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Andra",
+    "character_desc": "Gema verde abraçando um robozinho-mascote de cristal — desenvolve para Android.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, bright android-green translucent body with a cute face and tiny crystalline arms, cradling a friendly little crystal robot mascot, playful open look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r032",
+    "sheet_id": "s066",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Reacta",
+    "character_desc": "Gema ciano-teal com dois celulares ligados por um só fio de código — cria apps React Native.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, cyan-and-teal translucent body with a cute face and tiny crystalline arms, holding two crystal phones bridged by a single glowing code thread, versatile clever smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r033",
+    "sheet_id": "s066",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Fluta",
+    "character_desc": "Gema azul-borboleta com asinhas de cristal e um só código que floresce em duas telas — desenvolve em Flutter.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, iridescent butterfly-blue with tiny crystal wings translucent body with a cute face and tiny crystalline arms, holding one glowing codebase blossoming into two screens, graceful bright look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r034",
+    "sheet_id": "s066",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Dassi",
+    "character_desc": "Gema cobalto de jaleco de cristal com um béquer de dados e um gráfico — investiga hipóteses com dados.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, cobalt with a tiny crystal lab coat translucent body with a cute face and tiny crystalline arms, holding a beaker of glowing data and a rising chart, curious analytical smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r035",
+    "sheet_id": "s066",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Emela",
+    "character_desc": "Gema índigo segurando um modelo de rede neural luminoso — engenheira modelos de ML.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, electric indigo translucent body with a cute face and tiny crystalline arms, holding a glowing neural-net node model with connected dots, focused inventive look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r036",
+    "sheet_id": "s066",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Mlopa",
+    "character_desc": "Gema aço-teal com uma caixa-modelo numa esteira de engrenagens — coloca ML em produção.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, steel-teal translucent body with a cute face and tiny crystalline arms, holding a model box riding a conveyor of turning gears, operational steady look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r037",
+    "sheet_id": "s066",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Aíra",
+    "character_desc": "Gema violeta de óculos de cristal com um cérebro flutuante e artigos — pesquisa IA.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, deep violet with tiny crystal glasses translucent body with a cute face and tiny crystalline arms, holding a floating crystal brain and a stack of papers, thoughtful pondering gaze, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r038",
+    "sheet_id": "s066",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Promptô",
+    "character_desc": "Gema magenta que conjura um balão de fala com uma varinha — arquiteta prompts.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, magenta-pink translucent body with a cute face and tiny crystalline arms, conjuring a glowing speech bubble with a small magic wand, clever inspired smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r039",
+    "sheet_id": "s066",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Enela",
+    "character_desc": "Gema teal montando letras de cristal a partir de ondas sonoras — engenheira linguagem natural.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, teal-green translucent body with a cute face and tiny crystalline arms, holding crystal letters assembling from soundwaves into words, attentive listening look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r040",
+    "sheet_id": "s066",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Visa",
+    "character_desc": "Gema azul com faceta-olho de câmera segurando um quadro de detecção — engenheira visão computacional.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, lens-blue with a camera-eye facet translucent body with a cute face and tiny crystalline arms, holding a glowing bounding-box frame around an object, observant sharp gaze, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r041",
+    "sheet_id": "s066",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Anaí",
+    "character_desc": "Gema água-clara com um gráfico de pizza e uma lupa — analisa os dados.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, clear aqua translucent body with a cute face and tiny crystalline arms, holding a glowing pie chart and a magnifier, inquisitive tidy smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r042",
+    "sheet_id": "s066",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Bía",
+    "character_desc": "Gema azul-real com um painel de KPIs e medidores — entrega inteligência de negócio.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, royal-blue translucent body with a cute face and tiny crystalline arms, holding a dashboard panel of glowing KPIs and gauges, insightful confident look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r043",
+    "sheet_id": "s066",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Anali",
+    "character_desc": "Gema teal-cobalto com um funil que transforma dados brutos em polidos — modela analytics.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, teal-cobalt translucent body with a cute face and tiny crystalline arms, holding a transform funnel turning raw gems into polished data, methodical builder look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r044",
+    "sheet_id": "s066",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Viza",
+    "character_desc": "Gema multicor com um buquê de gráficos coloridos — especialista em visualização de dados.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, vivid multicolor translucent body with a cute face and tiny crystalline arms, holding a bouquet of glowing colorful charts, artistic delighted smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r045",
+    "sheet_id": "s066",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Deva",
+    "character_desc": "Gema cromo-teal com o símbolo do infinito e uma chave — une dev e ops.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, chrome-teal translucent body with a cute face and tiny crystalline arms, holding a glowing infinity-loop symbol and a wrench, efficient ready look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r046",
+    "sheet_id": "s066",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Esré",
+    "character_desc": "Gema âmbar segurando um pager de alarme e um escudo de uptime — mantém tudo confiável.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, alert amber-red translucent body with a cute face and tiny crystalline arms, holding a pager alarm and an uptime shield, vigilant steady look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r047",
+    "sheet_id": "s066",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Plata",
+    "character_desc": "Gema ardósia sobre uma laje-plataforma com blocos reutilizáveis — constrói a plataforma interna.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, solid slate-gray crystal translucent body with a cute face and tiny crystalline arms, standing on a platform slab holding reusable building blocks, dependable grounded look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r048",
+    "sheet_id": "s066",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Núvia",
+    "character_desc": "Gema azul-céu abraçando uma nuvem de cristal com estruturas — arquiteta a cloud.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, soft sky-blue translucent body with a cute face and tiny crystalline arms, cradling a fluffy crystal cloud dotted with tiny structures, serene visionary smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r049",
+    "sheet_id": "s066",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Kuba",
+    "character_desc": "Gema azul-náutico ao leme de um timão de cristal — pilota o Kubernetes.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, nautical blue translucent body with a cute face and tiny crystalline arms, gripping a ship's crystal helm wheel with glowing spokes, captain steady look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r050",
+    "sheet_id": "s066",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Neta",
+    "character_desc": "Gema ciano com uma teia de nós e cabos luminosos — engenheira a rede.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, cyan translucent body with a cute face and tiny crystalline arms, holding a glowing web of connected nodes and cables, connected attentive look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r051",
+    "sheet_id": "s066",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Sisa",
+    "character_desc": "Gema gunmetal com uma torre de servidor e uma chave-terminal — administra os sistemas.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, gunmetal-teal translucent body with a cute face and tiny crystalline arms, holding a crystal server tower and a glowing terminal key, reliable watchful look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r052",
+    "sheet_id": "s066",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Reléa",
+    "character_desc": "Gema laranja segurando um foguete-pacote com fita de versão — cuida dos releases.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, launch-orange translucent body with a cute face and tiny crystalline arms, holding a crystal rocket package tagged with a version ribbon, triumphant ready smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r053",
+    "sheet_id": "s066",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Bilda",
+    "character_desc": "Gema âmbar com um martelo montando blocos brilhantes — cuida do build.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, amber-brown crystal translucent body with a cute face and tiny crystalline arms, holding a crystal hammer assembling glowing brick blocks, constructive focused look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r054",
+    "sheet_id": "s066",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Cicê",
+    "character_desc": "Gema esmeralda-teal com uma esteira circular de checkmarks — automatiza CI/CD.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, emerald-teal translucent body with a cute face and tiny crystalline arms, holding a circular pipeline conveyor stamped with glowing checkmarks, smooth flowing look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r055",
+    "sheet_id": "s066",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Secá",
+    "character_desc": "Gema aço-azul com um escudo e um cadeado luminoso — protege os sistemas.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, steel-blue translucent body with a cute face and tiny crystalline arms, holding a crystal shield with a glowing padlock, guardian firm look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r056",
+    "sheet_id": "s066",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Penta",
+    "character_desc": "Gema obsidiana encapuzada com gazua e uma chave-mestra — invade para testar defesas.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, dark obsidian with a hooded facet translucent body with a cute face and tiny crystalline arms, holding a crystal lockpick and a glowing skeleton key, sly cunning grin, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r057",
+    "sheet_id": "s066",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Apsa",
+    "character_desc": "Gema ciano-aço com uma janela de app envolta em escudo — cuida da segurança das aplicações.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, cyan-steel translucent body with a cute face and tiny crystalline arms, holding an app-window crystal wrapped in a protective shield overlay, careful protective look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r058",
+    "sheet_id": "s066",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cripta",
+    "character_desc": "Gema índigo com uma roda de cifra girando e uma chave — desenha a criptografia.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, deep indigo translucent body with a cute face and tiny crystalline arms, holding a rotating cipher wheel and a glowing key, secretive clever look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r059",
+    "sheet_id": "s066",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Compla",
+    "character_desc": "Gema marinho com uma lista de verificação e um carimbo oficial — garante conformidade.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, navy with a formal facet translucent body with a cute face and tiny crystalline arms, holding a checklist scroll and an official stamp, meticulous serious look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r060",
+    "sheet_id": "s066",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Priva",
+    "character_desc": "Gema lavanda-cinza com um documento tarjado e um cadeado — protege a privacidade.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, muted lavender-gray translucent body with a cute face and tiny crystalline arms, holding a partly-redacted document and a small padlock, discreet careful look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r061",
+    "sheet_id": "s066",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Insa",
+    "character_desc": "Gema vermelho-emergência de capacete com alarme e extintor de cristal — responde a incidentes.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, emergency red-amber with a crystal helmet translucent body with a cute face and tiny crystalline arms, holding a blaring alarm and a crystal fire extinguisher, urgent focused look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r062",
+    "sheet_id": "s066",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Treta",
+    "character_desc": "Gema violeta-aço com um quadro de setas de ataque e escudos — modela ameaças.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, dark violet-steel translucent body with a cute face and tiny crystalline arms, holding a board mapping glowing attack arrows and shields, strategic wary look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r063",
+    "sheet_id": "s066",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Quá",
+    "character_desc": "Gema verde-menta com checklist, lupa e uma rede de caçar bugs — garante a qualidade.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, fresh mint-green translucent body with a cute face and tiny crystalline arms, holding a checklist and a small crystal bug net with a magnifier, careful watchful smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r064",
+    "sheet_id": "s066",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Esdeta",
+    "character_desc": "Gema cromo-verde com um braço-robô rodando testes automatizados — automatiza a qualidade.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, chrome-green translucent body with a cute face and tiny crystalline arms, holding a crystal robot arm running automated test scripts, efficient precise look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r065",
+    "sheet_id": "s066",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Perta",
+    "character_desc": "Gema lima com cronômetro e um medidor de carga com pesos — testa performance.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, electric lime translucent body with a cute face and tiny crystalline arms, holding a stopwatch and a load gauge stacked with weights, intense measuring look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r066",
+    "sheet_id": "s066",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Manô",
+    "character_desc": "Gema verde-teal com prancheta apertando um botão de cristal à mão — testa manualmente.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, soft green-teal translucent body with a cute face and tiny crystalline arms, holding a clipboard and manually pressing a glowing crystal button, patient thorough smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r067",
+    "sheet_id": "s066",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Acesta",
+    "character_desc": "Gema verde de alto contraste com símbolo de acessibilidade, checklist e ícones de ouvido e olho — testa acessibilidade.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, clear high-contrast green translucent body with a cute face and tiny crystalline arms, holding an access symbol beside a testing checklist with ear and eye icons, inclusive careful look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r068",
+    "sheet_id": "s066",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Doca",
+    "character_desc": "Gema marfim com uma pena de cristal e um manual aberto — escreve a documentação.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, warm ivory-quartz translucent body with a cute face and tiny crystalline arms, holding a crystal quill and an open glowing manual book, articulate calm smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r069",
+    "sheet_id": "s066",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Adva",
+    "character_desc": "Gema coral com microfone e um coração num palquinho — advoga pelos devs.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, vivid coral translucent body with a cute face and tiny crystalline arms, holding a crystal microphone and a small glowing heart on a tiny stage, charismatic warm grin, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r070",
+    "sheet_id": "s066",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Contê",
+    "character_desc": "Gema teal-coral com um mapa de conteúdo e uma bússola — estrategiza o conteúdo.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, teal-coral blend translucent body with a cute face and tiny crystalline arms, holding a content map and a small compass, strategic thoughtful look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r071",
+    "sheet_id": "s066",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Loca",
+    "character_desc": "Gema azul-globo com um globo de cristal cercado de balões em vários idiomas — cuida da localização.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, globe-blue translucent body with a cute face and tiny crystalline arms, holding a crystal globe orbited by speech bubbles in many scripts, worldly friendly smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r072",
+    "sheet_id": "s066",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Prodê",
+    "character_desc": "Gema pêssego com um wireframe e uma caneta de design — desenha o produto.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, warm peach-quartz translucent body with a cute face and tiny crystalline arms, holding a wireframe frame and a design pen, thoughtful creative smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r073",
+    "sheet_id": "s066",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Visú",
+    "character_desc": "Gema magenta com paleta de cores e grade de layout — cria o visual.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, vivid magenta translucent body with a cute face and tiny crystalline arms, holding a color palette and a layout grid, aesthetic pleased look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r074",
+    "sheet_id": "s066",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Intera",
+    "character_desc": "Gema ciano-violeta com um protótipo tocável e setas de gesto — desenha interações.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, cyan-violet translucent body with a cute face and tiny crystalline arms, holding a tappable prototype with glowing gesture arrows, playful engaged look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r075",
+    "sheet_id": "s066",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Motí",
+    "character_desc": "Gema aurora com um traçado de movimento cheio de keyframes — desenha o motion.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, shimmering aurora translucent body with a cute face and tiny crystalline arms, holding a swirling motion path dotted with keyframes, dynamic flowing smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r076",
+    "sheet_id": "s066",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Ilú",
+    "character_desc": "Gema opala-arco-íris com caneta e uma tela ilustrada — ilustra tudo.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, rainbow-opal translucent body with a cute face and tiny crystalline arms, holding a drawing pen and a small illustrated crystal canvas, imaginative joyful look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r077",
+    "sheet_id": "s066",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Aseta",
+    "character_desc": "Gema pastel com uma folha de sprites de ícones de cristal — produz assets.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, pastel multicolor translucent body with a cute face and tiny crystalline arms, holding a sprite sheet of tiny glowing crystal icons, tidy productive smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r078",
+    "sheet_id": "s066",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Branda",
+    "character_desc": "Gema ouro-magenta com uma marca-logo e um cartão de swatch — define a marca.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, bold gold-magenta translucent body with a cute face and tiny crystalline arms, holding a crystal logo mark and a brand swatch card, confident stylish look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r079",
+    "sheet_id": "s066",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Sona",
+    "character_desc": "Gema roxa com fones de cristal, fitas de forma-de-onda e um knob — desenha o som.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, deep purple with crystal headphones translucent body with a cute face and tiny crystalline arms, holding glowing waveform ribbons and a small mixer knob, attuned focused smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r080",
+    "sheet_id": "s066",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Tridê",
+    "character_desc": "Gema pérola com um modelo 3D esculpido num turntable — modela em 3D.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, polished pearl-gray translucent body with a cute face and tiny crystalline arms, holding a sculpted crystal 3D model on a small turntable, meticulous proud look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r081",
+    "sheet_id": "s066",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Gama",
+    "character_desc": "Gema multicor com um controle de jogo e um dado de nível — desenha jogos.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, playful multicolor translucent body with a cute face and tiny crystalline arms, holding a crystal game controller and a glowing level dice, imaginative excited grin, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r082",
+    "sheet_id": "s066",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Levá",
+    "character_desc": "Gema esmeralda-âmbar com um mapa de caminhos e plataformas — desenha as fases.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, emerald-amber translucent body with a cute face and tiny crystalline arms, holding a map layout with glowing paths and floating platforms, planning attentive look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r083",
+    "sheet_id": "s066",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Narra",
+    "character_desc": "Gema ameixa com uma árvore de história ramificada e uma pena — desenha a narrativa.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, deep plum translucent body with a cute face and tiny crystalline arms, holding a branching crystal story tree and a quill, storyteller warm look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r084",
+    "sheet_id": "s066",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Gamu",
+    "character_desc": "Gema roxo-ciano com um controle soltando faíscas de código — programa o jogo.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, electric purple-cyan translucent body with a cute face and tiny crystalline arms, holding a crystal game controller trailing code sparks, energetic playful smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r085",
+    "sheet_id": "s066",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Xadá",
+    "character_desc": "Gema prismática com uma esfera sombreada lançando raios de luz — engenheira gráficos e shaders.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, prismatic rainbow translucent body with a cute face and tiny crystalline arms, holding a glowing shaded sphere casting light rays, technical dazzled look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r086",
+    "sheet_id": "s066",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Embá",
+    "character_desc": "Gema verde-circuito com uma placa de cristal e um chip aceso — programa sistemas embarcados.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, circuit-green translucent body with a cute face and tiny crystalline arms, holding a tiny crystal circuit board with a glowing chip, precise focused look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r087",
+    "sheet_id": "s066",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Firma",
+    "character_desc": "Gema cobre-âmbar com um microchip cercado de engrenagens de firmware — escreve firmware.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, copper-amber translucent body with a cute face and tiny crystalline arms, holding a microchip crystal ringed by tiny firmware gears, meticulous steady look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r088",
+    "sheet_id": "s066",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Iota",
+    "character_desc": "Gema teal com dispositivos conectados — sensor e lâmpada de cristal — engenheira IoT.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, teal-cyan translucent body with a cute face and tiny crystalline arms, holding several tiny connected crystal devices — a sensor and a bulb, connected curious smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r089",
+    "sheet_id": "s066",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Bloca",
+    "character_desc": "Gema ouro-esmeralda com uma corrente de blocos-cubo ligados — desenvolve blockchain.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, golden-emerald translucent body with a cute face and tiny crystalline arms, holding a chain of linked glowing block cubes, secure resolute look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r090",
+    "sheet_id": "s066",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Contra",
+    "character_desc": "Gema aço-ouro com um contrato sob lupa e um checkmark — audita smart contracts.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, steel-gold translucent body with a cute face and tiny crystalline arms, holding a contract scroll under a magnifier with a glowing checkmark, scrutinizing careful look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r091",
+    "sheet_id": "s066",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Arvra",
+    "character_desc": "Gema holográfica de visor VR de cristal segurando um cubo holográfico — engenheira AR/VR.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, holographic cyan-magenta with a crystal VR visor translucent body with a cute face and tiny crystalline arms, holding a floating holographic cube, immersed wondering smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r092",
+    "sheet_id": "s066",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Robá",
+    "character_desc": "Gema aço-escovado com um braço-robô de cristal e uma engrenagem — engenheira robótica.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, brushed-steel blue translucent body with a cute face and tiny crystalline arms, holding a small crystal robot arm and a spinning gear, inventive focused look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r093",
+    "sheet_id": "s066",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Grôa",
+    "character_desc": "Gema verde-ouro com uma seta de crescimento saindo de um funil — engenheira crescimento.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, vivid green-gold translucent body with a cute face and tiny crystalline arms, holding a rising growth arrow sprouting from a funnel, ambitious upbeat smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r094",
+    "sheet_id": "s066",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Seá",
+    "character_desc": "Gema laranja com uma lupa sobre um ranking em alta e uma estrela — otimiza SEO.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, bright orange-quartz translucent body with a cute face and tiny crystalline arms, holding a magnifier over a rising ranking chart with a top star, keen strategic look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r095",
+    "sheet_id": "s066",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Marka",
+    "character_desc": "Gema coral-ouro com um megafone acoplado a uma engrenagem — une marketing e tecnologia.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, coral-gold translucent body with a cute face and tiny crystalline arms, holding a crystal megaphone fused with a turning gear, persuasive bright grin, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r096",
+    "sheet_id": "s066",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Solú",
+    "character_desc": "Gema teal-âmbar encaixando uma peça de quebra-cabeça num slot de cliente — desenha soluções.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, teal-amber translucent body with a cute face and tiny crystalline arms, holding a crystal puzzle piece fitting perfectly into a client slot, helpful clever smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r097",
+    "sheet_id": "s066",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Suporta",
+    "character_desc": "Gema ciano de headset com uma boia de cristal — dá suporte técnico.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, friendly cyan with a crystal headset translucent body with a cute face and tiny crystalline arms, holding a glowing lifebuoy ring, reassuring kind smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r098",
+    "sheet_id": "s066",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Salá",
+    "character_desc": "Gema dourada com um aperto de mãos de cristal e uma tela de demo — engenharia de vendas.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, warm gold translucent body with a cute face and tiny crystalline arms, holding a crystal handshake and a small demo screen, charming confident smile, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r099",
+    "sheet_id": "s066",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Fina",
+    "character_desc": "Gema verde-ouro com uma pilha de moedas e um medidor de custo no verde — otimiza os gastos de cloud.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, mint-and-gold translucent body with a cute face and tiny crystalline arms, holding a stack of crystal coins and a cost gauge in the green, careful shrewd look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s066-r100",
+    "sheet_id": "s066",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Legá",
+    "character_desc": "Gema bordô com um martelo de juiz e uma balança da justiça — cuida do jurídico.",
+    "nano_prompt": "3D rendered iridescent faceted crystal gem creature, deep burgundy with a formal facet translucent body with a cute face and tiny crystalline arms, holding a crystal gavel and a balanced scale of justice, measured authoritative look, glossy prismatic subsurface scattering with rainbow light refractions and sharp facets catching light, polished studio 3D render, bust framing from the waist up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

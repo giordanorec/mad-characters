@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s050-r001",
+    "sheet_id": "s050",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "O Martini Mestre",
+    "character_desc": "Um martini seco e sofisticado que projeta a coquetelaria da casa; segura uma planta baixa dourada e um compasso, coroado por azeitona em espeto.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a poised dry-martini glass character holding a rolled golden blueprint and a drafting compass, a decorative olive skewered like a pointer, confident architect pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r002",
+    "sheet_id": "s050",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "O Old Fashioned Chefe",
+    "character_desc": "Um Old Fashioned robusto que comanda o balcão; segura uma coqueteleira como maestro e usa avental de bartender-líder.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a sturdy Old Fashioned tumbler character conducting with a cocktail shaker like a baton, wearing a lead-bartender apron, orange-peel garnish, guiding stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r003",
+    "sheet_id": "s050",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "O Negroni Veterano",
+    "character_desc": "Um Negroni experiente e amargo-elegante; apoia-se num bastão dourado e exibe medalha de safra antiga.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, an experienced Negroni glass character leaning on a tall golden bar-spoon staff, a vintage-vintage medal pinned to its band, seasoned wise expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r004",
+    "sheet_id": "s050",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "O Manhattan Soberano",
+    "character_desc": "Um Manhattan majestoso com cereja-rubi como joia; porta cetro-mexedor e postura de autoridade máxima.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a majestic Manhattan glass character with a ruby cherry like a crown jewel, holding an ornate stirring-rod scepter, sovereign commanding posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r005",
+    "sheet_id": "s050",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "O Punch Anfitrião",
+    "character_desc": "Uma tigela de ponche acolhedora que serve a todos; segura concha dourada e distribui doses com sorriso gerencial.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a warm punch-bowl character ladling drinks with a golden ladle, welcoming host smile, small cups arranged around it, caring manager gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r006",
+    "sheet_id": "s050",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "A Sangria Visionária",
+    "character_desc": "Uma jarra de sangria cheia de frutas variadas priorizadas; segura menu-roadmap e aponta a próxima rodada.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a sangria pitcher character brimming with prioritized assorted fruit, holding a rolled menu-roadmap and pointing ahead, visionary planning pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r007",
+    "sheet_id": "s050",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "O Mojito Dono do Backlog",
+    "character_desc": "Um mojito fresco que guarda um maço de folhas de hortelã como itens de backlog; carrega prancheta de pedidos.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a fresh mojito glass character clutching a bundle of mint leaves like backlog cards and a small order clipboard, decisive ownership stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r008",
+    "sheet_id": "s050",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "O Bar-Cart Coordenador",
+    "character_desc": "Um carrinho de bar antropomórfico que alinha várias garrafas-programas; segura cronograma dourado enrolado.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, an anthropomorphic bar-cart character aligning several bottles like parallel programs, holding an unrolled golden timeline scroll, coordinating gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r009",
+    "sheet_id": "s050",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "O Screwdriver Cronômetro",
+    "character_desc": "Um screwdriver pontual com relógio de bolso dourado; segura um diagrama-Gantt em forma de leque déco.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a punctual Screwdriver highball character holding a golden pocket-watch and a fan-shaped Gantt chart, on-schedule attentive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r010",
+    "sheet_id": "s050",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "O Spritz Facilitador",
+    "character_desc": "Um Aperol spritz alegre que remove impedimentos; segura ampulheta de sprint e apito de cerimônia.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a cheerful Aperol-spritz glass character holding a sprint hourglass and a small ceremony whistle, facilitating open-arms pose, orange slice garnish, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r011",
+    "sheet_id": "s050",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "O Espresso Martini das Sombras",
+    "character_desc": "Um espresso martini denso que trabalha nos bastidores do bar; carrega engrenagens douradas e tubulação de dosagem.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a dense Espresso-Martini glass character behind-the-scenes, holding golden gears and a coiled dosing tube, three coffee-bean garnish, focused backend pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r012",
+    "sheet_id": "s050",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "O Cosmopolitan Conector",
+    "character_desc": "Um cosmopolitan elegante que padroniza encaixes; segura canudos-conectores encaixáveis e cardápio de endpoints.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, an elegant Cosmopolitan glass character presenting interlocking connector-straws and a small endpoint menu card, clean interface-designer gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r013",
+    "sheet_id": "s050",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "O Flight de Shots",
+    "character_desc": "Uma tábua com vários mini-shots independentes que conversam entre si; equilibra a bandeja modular.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a tasting-flight tray character balancing many small independent shot-glasses that link with thin golden lines, modular microservice arrangement pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r014",
+    "sheet_id": "s050",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "O Layered Pousse-Café",
+    "character_desc": "Um pousse-café em camadas fluindo de cima a baixo; conduz o líquido por calhas douradas como um pipeline.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a layered Pousse-Café glass character guiding liquid through golden channels stacked in flowing tiers, pipeline-flow pose, precise stratified colors, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r015",
+    "sheet_id": "s050",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "O Highball Reservatório",
+    "character_desc": "Um highball alto que canaliza líquidos de várias garrafas para um só copo; segura funil e tubos douradas.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a tall Highball character channeling liquid from several bottles through a golden funnel and pipes into one glass, data-flow engineering pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r016",
+    "sheet_id": "s050",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "O Decanter Guardião",
+    "character_desc": "Um decanter imponente que organiza e guarda as safras; segura chave dourada do adegário.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, an imposing decanter character guarding rows of labeled bottles, holding a golden cellar key and ledger, orderly custodian stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r017",
+    "sheet_id": "s050",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "O Query Julep",
+    "character_desc": "Um mint julep de cobre que filtra exatamente o que se pede; segura peneira dourada e colher-seletora.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a copper mint-julep mug character holding a golden fine strainer and a selector spoon, precisely filtering, query-specialist focused pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r018",
+    "sheet_id": "s050",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "O On-the-Rocks Instantâneo",
+    "character_desc": "Um drink on-the-rocks que mantém tudo gelado e à mão; carrega balde de gelo dourado sempre pronto.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, an on-the-rocks glass character with a golden ice bucket kept ready, quick-serve pose, frosty instant-access expression, big clear ice cube, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r019",
+    "sheet_id": "s050",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "O Tap-Line em Fila",
+    "character_desc": "Uma torneira de chope antropomórfica com canecas enfileiradas aguardando a vez; puxa a alavanca em ordem.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, an anthropomorphic beer-tap character pulling the lever while mugs wait in an orderly queue line, first-in-first-out serving pose, golden tap handle, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r020",
+    "sheet_id": "s050",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "O Garnish Caçador",
+    "character_desc": "Um drink garnish-obsessivo que encontra a azeitona perfeita numa pilha; segura lupa dourada e espeto.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a garnish-hunting cocktail glass character holding a golden magnifying glass and a skewer, finding the perfect olive among many, searching pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r021",
+    "sheet_id": "s050",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "O Cocktail Vitrine",
+    "character_desc": "Um coquetel deslumbrante feito pra ser visto; ajusta a decoração de borda e o guarda-chuvinha dourado.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a dazzling showcase cocktail glass character adjusting its rimmed sugar edge and a little golden cocktail umbrella, display-facing presentation pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r022",
+    "sheet_id": "s050",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "O Rimmed Coupe",
+    "character_desc": "Uma coupe com borda perfeitamente cristalizada; alinha canudos e enfeites como componentes reutilizáveis.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a coupe glass character with a perfectly crystallized rim, arranging straws and garnishes like reusable UI components, tidy interface-building pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r023",
+    "sheet_id": "s050",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "A Piña Colada Amável",
+    "character_desc": "Uma piña colada que pensa no conforto de quem bebe; oferece canudo ergonômico e mapa de degustação.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a friendly Piña-Colada glass character offering an ergonomic curved straw and a small tasting-journey map, empathetic user-first gesture, pineapple garnish, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r024",
+    "sheet_id": "s050",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "O Coupe-Set Padrão",
+    "character_desc": "Uma coupe que padroniza copos idênticos; segura molde dourado e paleta de guarnições-tokens.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a coupe glass character holding a golden mold and a palette of garnish-tokens, standardizing identical glassware, design-system consistency pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r025",
+    "sheet_id": "s050",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "O Drink Para Todos",
+    "character_desc": "Um coquetel com canudo tátil e alça larga pensado pra qualquer mão; exibe símbolo dourado de acesso.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, an inclusive cocktail glass character with a wide easy-grip handle and a tactile textured straw, a small golden access symbol charm, welcoming everyone pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r026",
+    "sheet_id": "s050",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "O Fizz Veloz",
+    "character_desc": "Um gin fizz efervescente e ágil; carrega cronômetro dourado enquanto as bolhas sobem num piscar.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a swift Gin-Fizz glass character holding a golden stopwatch as bubbles rush upward, speed-focused agile pose, light streamlined form, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r027",
+    "sheet_id": "s050",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "O Layered Rainbow Sour",
+    "character_desc": "Um sour em degradê perfeitamente alinhado; ajusta as camadas de cor com pincel dourado.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a gradient rainbow-sour glass character adjusting perfectly aligned color layers with a golden brush, precise styling pose, foam-art rim, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r028",
+    "sheet_id": "s050",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "O Effervescent Twist",
+    "character_desc": "Um coquetel de bolhas dançantes e twist de casca em movimento; gira a casca de limão em espiral dourada.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a fizzy cocktail glass character spinning a citrus twist into a golden spiral of motion-lines, playful animated bubbles, dynamic movement pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r029",
+    "sheet_id": "s050",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "O Flask de Bolso",
+    "character_desc": "Um cantil-drink portátil pra qualquer lugar; guarda o coquetel num frasco déco de bolso.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a pocket-flask cocktail character, compact portable Deco hip-flask form with a tiny cup, on-the-go mobile pose, travel-ready expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r030",
+    "sheet_id": "s050",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "O Apple Martini Polido",
+    "character_desc": "Um appletini impecavelmente polido em prata déco; exibe maçã dourada perfeita como garnish premium.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a sleek polished Apple-Martini glass character in refined silver Deco trim, presenting a perfect golden apple garnish, premium minimalist pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r031",
+    "sheet_id": "s050",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "O Green Robot Mule",
+    "character_desc": "Uma moscow mule de caneca de cobre com vibe verde-robótica; segura fatia de limão e engrenagem amistosa.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a copper Moscow-Mule mug character with a friendly green-robot vibe, holding a lime wedge and a small gear, open-platform cheerful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r032",
+    "sheet_id": "s050",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "O Duo Twin-Shot",
+    "character_desc": "Dois shots gêmeos servidos de uma vez pra dois lados; equilibra a bandeja que serve iOS e Android juntos.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a twin-shot server character balancing one tray that pours two identical drinks at once, cross-platform bridging pose, mirrored garnishes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r033",
+    "sheet_id": "s050",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "O Butterfly Blue Lagoon",
+    "character_desc": "Uma blue lagoon vibrante com asas-borboleta de guarnição; muda de cor conforme a luz, fluida e única.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a vibrant Blue-Lagoon glass character with butterfly-shaped garnish wings, shifting hues, single-codebase fluid pose, bright expressive form, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r034",
+    "sheet_id": "s050",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "O Alquimista Elixir",
+    "character_desc": "Um elixir misterioso destilado de muitos ingredientes; segura frasco de amostra e casca em curva de tendência.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, an alchemical elixir glass character holding a sample vial and a citrus peel bent into a trend curve, analytical experimenting pose, swirling infusion, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r035",
+    "sheet_id": "s050",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "O Self-Stirring Infusion",
+    "character_desc": "Um coquetel que aprende a se misturar sozinho; a colher dourada gira sem mão, refinando a mistura a cada volta.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a self-stirring infusion glass character with a golden spoon rotating on its own, training-loop swirl, iterative learning pose, refined blend, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r036",
+    "sheet_id": "s050",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "O Auto-Refill Dispenser",
+    "character_desc": "Um dispenser que reabastece e recalibra doses de coquetel automaticamente; monitora medidor de fluxo dourado.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, an auto-refill cocktail dispenser character monitoring a golden flow gauge, continuously re-serving calibrated pours, pipeline-ops steady pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r037",
+    "sheet_id": "s050",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "O Experimental Smoke",
+    "character_desc": "Um coquetel fumegante ainda em pesquisa; segura pergaminho de fórmulas e observa a fumaça déco subir.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, an experimental smoking cocktail glass character holding a formula scroll, watching Deco smoke curl upward, curious research pose, mysterious vapor, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r038",
+    "sheet_id": "s050",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "O Bespoke Mixologist",
+    "character_desc": "Um coquetel feito sob medida por instruções precisas; segura cartão de receita e sussurra o pedido perfeito.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a bespoke made-to-order cocktail glass character holding a recipe card and a speech-scroll, crafting the perfect request, precise wording pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r039",
+    "sheet_id": "s050",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "O Word-Twist Sour",
+    "character_desc": "Um whiskey sour cuja casca forma letras que viram sabor; interpreta a linguagem das cascas de fruta.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a whiskey-sour glass character reading citrus peels curled into abstract glyph shapes, interpreting-language pose, foam-script rim, thoughtful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r040",
+    "sheet_id": "s050",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "O Observador Highball",
+    "character_desc": "Um highball com um grande olho de garnish que reconhece cada fruta; segura moldura dourada de foco.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a highball glass character with a large stylized garnish-eye, holding a golden focus frame over fruit, image-recognition observant pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r041",
+    "sheet_id": "s050",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "O Tasting-Flight Analista",
+    "character_desc": "Um flight de amostras que compara e mede cada dose; segura lupa e cartão de degustação anotado.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a tasting-flight character comparing small measured samples, holding a magnifier and an annotated tasting card, analytical measuring pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r042",
+    "sheet_id": "s050",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "O Report-Coupe",
+    "character_desc": "Uma coupe que resume a noite inteira do bar num leque déco de gráficos; aponta a barra mais alta.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a coupe glass character presenting a Deco fan of bar-chart garnishes, pointing at the tallest bar, business-insight summarizing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r043",
+    "sheet_id": "s050",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "O Blend Modelador",
+    "character_desc": "Um coquetel que transforma ingredientes crus em mistura confiável; segura funil e recipiente de medidas exatas.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, an analytics blend glass character transforming raw ingredients into a clean measured mix with a golden funnel and jigger, modeling-layer tidy pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r044",
+    "sheet_id": "s050",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "O Rainbow Layered Show",
+    "character_desc": "Um coquetel em camadas coloridas dispostas pra contar uma história; ajusta cada faixa como um gráfico vivo.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a rainbow-layered cocktail glass character arranging vivid colored bands into a storytelling chart, presenting a living graph, expressive visualization pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r045",
+    "sheet_id": "s050",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "O Cocktail Automatizado",
+    "character_desc": "Um coquetel montado por uma esteira que serve e limpa sozinho; segura chave-inglesa e coqueteleira dourada.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, an automated cocktail glass character on a small conveyor, holding a golden wrench and shaker, self-serving pipeline pose, tools at the belt, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r046",
+    "sheet_id": "s050",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "O Never-Spill Steady",
+    "character_desc": "Um coquetel de base pesada que nunca derrama nem sob pressão; monitora manômetro dourado da pressão do bar.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a heavy-based steady cocktail glass character that never spills, watching a golden pressure gauge, reliability-guardian calm pose, anti-tip form, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r047",
+    "sheet_id": "s050",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "O Bar-Counter Base",
+    "character_desc": "Um balcão de bar antropomórfico onde outros drinks se apoiam; oferece a bancada dourada como fundação.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, an anthropomorphic bar-counter character offering its golden countertop as a foundation where other drinks rest, platform-provider supportive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r048",
+    "sheet_id": "s050",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "O Foam-Cloud Highball",
+    "character_desc": "Um highball coroado por uma nuvem de espuma que abriga vários drinks; desenha a arquitetura no ar com casca.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a highball glass character crowned with a large foam cloud sheltering smaller drinks, sketching architecture in the air with a peel, cloud-planning pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r049",
+    "sheet_id": "s050",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "O Timoneiro do Bar-Cart",
+    "character_desc": "Um drink com leme dourado de timoneiro que orquestra vários copos-contêineres; mantém o rumo do carrinho.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a cocktail glass character holding a golden ship's-helm, orchestrating rows of small container-cups on a bar-cart, steering-orchestration pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r050",
+    "sheet_id": "s050",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "O Siphon Conector",
+    "character_desc": "Um sifão de soda que conecta mangueiras a vários copos; direciona o fluxo por tubos douradas trançados.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a soda-siphon character routing braided golden hoses to several glasses, directing flow across the bar, network-connectivity pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r051",
+    "sheet_id": "s050",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "O Zelador do Adegário",
+    "character_desc": "Um drink chaveiro que mantém todas as garrafas e torneiras funcionando; carrega molho de chaves douradas.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a caretaker cocktail glass character carrying a ring of golden keys, keeping bottles and taps running, maintenance sysadmin pose, toolbelt, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r052",
+    "sheet_id": "s050",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "O Champagne de Batismo",
+    "character_desc": "Uma champagne cerimonial que marca cada lançamento; segura a garrafa pronta pra estourar a rolha dourada.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a ceremonial Champagne-flute character holding a bottle ready to pop a golden cork, launch-celebration pose, rising bubbles, festive ribbon, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r053",
+    "sheet_id": "s050",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "O Shaker Montador",
+    "character_desc": "Uma coqueteleira que junta todas as partes e as agita no ponto; segura os ingredientes prontos pra combinar.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a cocktail-shaker character assembling all ingredients and shaking them into one build, holding measured parts ready to combine, construction pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r054",
+    "sheet_id": "s050",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "O Esteira Contínua",
+    "character_desc": "Um drink numa esteira que testa e serve sem parar; carrega bandeja com selo dourado de aprovado a cada volta.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a cocktail glass character on a continuous conveyor tray, stamping each round with a golden approved-seal, non-stop delivery pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r055",
+    "sheet_id": "s050",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "O Sealed Vault Drink",
+    "character_desc": "Um coquetel guardado sob cadeado dourado e tampa selada; verifica a rolha lacrada com olhar vigilante.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a cocktail glass character with a golden padlock and sealed cap, inspecting a tamper-proof cork, vigilant security-guardian pose, shield garnish, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r056",
+    "sheet_id": "s050",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "O Sneaky Speakeasy",
+    "character_desc": "Um drink clandestino que testa a fechadura da porta secreta do bar; segura gazua dourada e sorri malandro.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a clandestine speakeasy cocktail glass character holding a golden lockpick, testing a secret door, sly probing pose, hooded fedora garnish, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r057",
+    "sheet_id": "s050",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "O Fortified Blend",
+    "character_desc": "Um coquetel reforçado com dose extra de proteção na receita; carrega escudo dourado e prova cada ingrediente.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a fortified cocktail glass character with a golden shield, tasting each ingredient for safety before serving, defensive app-hardening pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r058",
+    "sheet_id": "s050",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "O Secret Recipe Coupe",
+    "character_desc": "Uma coupe cuja receita está cifrada em símbolos déco; guarda a fórmula secreta atrás de cadeado-enigma.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a coupe glass character guarding an encrypted Deco-symbol recipe behind a puzzle-lock, cipher-keeping mysterious pose, keyed garnish, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r059",
+    "sheet_id": "s050",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "O Selo Certificado",
+    "character_desc": "Um drink que só sai com todos os selos e a idade conferida; segura carimbo dourado e lista de regras.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a cocktail glass character holding a golden certification stamp and a rules checklist, verifying every seal before serving, compliance-approval pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r060",
+    "sheet_id": "s050",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "O Frosted Anonymous",
+    "character_desc": "Um coquetel de vidro fosco que esconde seu conteúdo; usa véu dourado sobre a garnish pra proteger a receita.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a frosted opaque cocktail glass character with a golden veil over its garnish, hiding its contents, privacy-protecting discreet pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r061",
+    "sheet_id": "s050",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "O Emergency Fizz",
+    "character_desc": "Um alka-fizz efervescente de resgate que apaga incêndios do bar; segura extintor dourado em miniatura.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, an effervescent emergency-fizz glass character holding a tiny golden fire-extinguisher, rushing to douse a small flame, rapid-response alert pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r062",
+    "sheet_id": "s050",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "O Cartógrafo do Perigo",
+    "character_desc": "Um drink estrategista que mapeia onde a bebida pode virar; estuda um mapa déco de riscos com casca-ponteiro.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a strategist cocktail glass character studying a Deco risk-map, marking weak points with a citrus-peel pointer, threat-anticipating pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r063",
+    "sheet_id": "s050",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "O Provador Meticuloso",
+    "character_desc": "Um drink degustador que testa cada dose antes de aprovar; segura colher-prova e lista de checagem dourada.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a meticulous taster cocktail glass character holding a tasting spoon and a golden checklist, sampling before approval, quality-checking pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r064",
+    "sheet_id": "s050",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "O Auto-Taster Robô",
+    "character_desc": "Um degustador mecânico que prova centenas de doses sem cansar; braço-robô dourado segura a colher de teste.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, an automated-taster cocktail glass character with a golden robotic arm holding a test spoon, sampling many pours tirelessly, automation-QA pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r065",
+    "sheet_id": "s050",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "O Stress Shaker",
+    "character_desc": "Uma coqueteleira que agita no limite pra ver quando a espuma transborda; monitora medidor de vibração dourado.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a stress-testing shaker character shaking to the limit while watching a golden vibration gauge, pushing until foam overflows, load-testing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r066",
+    "sheet_id": "s050",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "O Provador de Mão",
+    "character_desc": "Um drink que prova tudo à mão, gole a gole; segura caderno de anotações e colher pequena com cuidado.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a hands-on taster cocktail glass character sipping carefully spoon by spoon, holding a small notebook, manual step-by-step checking pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r067",
+    "sheet_id": "s050",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "O Provador de Acesso",
+    "character_desc": "Um drink que testa se qualquer pessoa consegue beber; experimenta o canudo tátil de olhos vendados.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, an accessibility-testing cocktail glass character trying a tactile straw blindfolded, verifying an easy-grip handle, inclusive-checking pose, access charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r068",
+    "sheet_id": "s050",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "O Menu Caligráfico",
+    "character_desc": "Um coquetel que descreve a receita em caligrafia déco impecável; segura pena dourada e cardápio enrolado.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a cocktail glass character holding a golden quill and a rolled menu, writing an elegant Deco recipe card, documentation-scribe pose, inkwell garnish, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r069",
+    "sheet_id": "s050",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "O Anfitrião do Palco",
+    "character_desc": "Um coquetel carismático que apresenta a bebida ao público; ergue a taça num brinde e segura microfone déco.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a charismatic cocktail glass character raising a toast on a small stage, holding a Deco microphone, crowd-facing advocate pose, spotlight sparkle, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r070",
+    "sheet_id": "s050",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "O Curador de Cardápio",
+    "character_desc": "Um drink que organiza qual bebida contar primeiro; arruma cartas de menu numa sequência dourada planejada.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a cocktail glass character arranging menu cards into a planned golden sequence, curating the drink story, content-strategy organizing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r071",
+    "sheet_id": "s050",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "O Passaporte Cosmopolitan",
+    "character_desc": "Um cosmopolitan viajante que adapta o sabor a cada país; segura globo dourado e selos de várias safras.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a well-traveled Cosmopolitan glass character holding a small golden globe and passport of stamps, adapting flavor per region, localization pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r072",
+    "sheet_id": "s050",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "O Signature Coupe",
+    "character_desc": "Uma coupe autoral que desenha a bebida da ideia à borda; segura esboço déco e lápis dourado.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a signature coupe glass character holding a Deco sketch and a golden pencil, designing the drink end-to-end, thoughtful product-design pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r073",
+    "sheet_id": "s050",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "O Ornamented Showpiece",
+    "character_desc": "Um coquetel ornamentado com motivos déco deslumbrantes; ajusta a decoração de borda com pincel dourado.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a lavishly ornamented showpiece cocktail glass character refining its Deco border motifs with a golden brush, visual-polish presentation pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r074",
+    "sheet_id": "s050",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "O Pull-Tab Playful",
+    "character_desc": "Um coquetel interativo com alavancas e canudos que respondem ao toque; demonstra um gesto de puxar dourado.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, an interactive cocktail glass character with little levers and responsive straws, demonstrating a golden pull-gesture, interaction-flow pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r075",
+    "sheet_id": "s050",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "O Swirl in Motion",
+    "character_desc": "Um coquetel de redemoinho perpétuo com linhas de movimento douradas; gira a casca num arco elegante.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a perpetually swirling cocktail glass character with golden motion-arc lines, spinning a peel through an elegant sweep, kinetic motion-design pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r076",
+    "sheet_id": "s050",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "O Pincel Garnish",
+    "character_desc": "Um coquetel que pinta suas próprias frutas decorativas; segura paleta e pincel dourado, casca desenhada à mão.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a cocktail glass character painting its own decorative fruit with a golden brush and palette, hand-drawn garnish, illustrative artistic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r077",
+    "sheet_id": "s050",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "O Kit de Guarnições",
+    "character_desc": "Um drink que produz enfeites reutilizáveis em série; organiza espetos, sombrinhas e cascas num estojo déco.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a cocktail glass character organizing a Deco case of reusable garnish assets — skewers, umbrellas, peels — asset-production tidy pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r078",
+    "sheet_id": "s050",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "O Emblema Signature",
+    "character_desc": "Um coquetel-assinatura com monograma déco dourado gravado na taça; ergue o selo da marca com orgulho.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a signature cocktail glass character with a golden Deco monogram engraved on its bowl, proudly presenting its brand emblem, identity pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r079",
+    "sheet_id": "s050",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "O Clink Harmônico",
+    "character_desc": "Um coquetel que afina o tilintar do gelo como música; segura diapasão dourado e faz o copo cantar.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a cocktail glass character tuning the clink of its ice like music, holding a golden tuning fork, sound-wave garnish, harmonic listening pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r080",
+    "sheet_id": "s050",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "O Ice-Sculpture Coupe",
+    "character_desc": "Uma coupe com uma escultura de gelo tridimensional esculpida à mão; gira a peça pra mostrar todos os ângulos.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a coupe glass character showcasing a hand-carved three-dimensional ice sculpture, rotating it to show every angle, sculpting 3D-artist pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r081",
+    "sheet_id": "s050",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "O Dado da Mixologia",
+    "character_desc": "Um coquetel lúdico que joga dados dourados pra sortear ingredientes; equilibra diversão e regras na receita.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a playful cocktail glass character rolling golden dice to pick ingredients, balancing fun and rules, game-design inventive pose, tokens on the rim, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r082",
+    "sheet_id": "s050",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "O Layered Journey",
+    "character_desc": "Um coquetel em camadas que guia o gole por fases crescentes de sabor; traça o percurso com casca-mapa.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a layered cocktail glass character mapping a rising flavor-journey through tiers, tracing the path with a peel-map, level-design planning pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r083",
+    "sheet_id": "s050",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "O Storyteller Old Fashioned",
+    "character_desc": "Um Old Fashioned que conta uma história a cada gole; gesticula com casca-flama como um narrador déco.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, an Old-Fashioned glass character telling a story with each sip, gesturing with a flamed peel like a Deco narrator, expressive storytelling pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r084",
+    "sheet_id": "s050",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "O Arcade Fizz",
+    "character_desc": "Um fizz vibrante estilo fliperama com joystick dourado de garnish; monta a bebida como quem programa um jogo.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a vibrant arcade-style Fizz glass character with a golden joystick garnish, building the drink like coding a game, playful game-dev pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r085",
+    "sheet_id": "s050",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "O Iridescent Shimmer",
+    "character_desc": "Um coquetel com brilho iridescente que reflete a luz em gradientes déco; polir os reflexos com pano dourado.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, an iridescent shimmering cocktail glass character polishing its Deco-gradient light reflections with a golden cloth, shader-glow rendering pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r086",
+    "sheet_id": "s050",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "O Mini-Shot Preciso",
+    "character_desc": "Um shot minúsculo e exato encaixado num suporte déco compacto; ajusta a dose com micrômetro dourado.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a tiny precise shot-glass character fitted into a compact Deco holder, adjusting its pour with a golden micrometer, embedded-precision pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r087",
+    "sheet_id": "s050",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "O Base Circuit Coaster",
+    "character_desc": "Um drink assentado sobre uma bolacha-porta-copo com circuitos dourados gravados; controla a base física da bebida.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a cocktail glass character resting on a golden circuit-engraved coaster, controlling the drink's base layer, low-level firmware pose, tiny screwdriver, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r088",
+    "sheet_id": "s050",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "O Connected Coasters",
+    "character_desc": "Um drink que conecta vários porta-copos inteligentes por fios dourados; monitora sensores de temperatura.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a cocktail glass character linking several smart coasters with thin golden wires, monitoring tiny temperature sensors, IoT-connected pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r089",
+    "sheet_id": "s050",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "O Chain-Link Chain",
+    "character_desc": "Um coquetel cujos copos se encadeiam em blocos imutáveis por elos dourados; sela cada dose no ledger.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a cocktail glass character chaining small blocks of glasses with golden links, sealing each pour into a ledger, immutable blockchain pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r090",
+    "sheet_id": "s050",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "O Ledger Inspetor",
+    "character_desc": "Um drink que audita cada elo da corrente de blocos; segura lupa dourada sobre o pergaminho do contrato.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a cocktail glass character auditing chained blocks with a golden magnifier over a contract scroll, verifying each link, smart-contract inspection pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r091",
+    "sheet_id": "s050",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "O Holographic Coupe",
+    "character_desc": "Uma coupe que projeta guarnições holográficas flutuantes; usa óculos déco e manipula frutas no ar.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a coupe glass character wearing Deco goggles, manipulating floating holographic garnishes in the air, immersive AR/VR interaction pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r092",
+    "sheet_id": "s050",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "O Servo-Arm Mixer",
+    "character_desc": "Um coquetel montado por um braço robótico articulado dourado; calibra as juntas que agitam a coqueteleira.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a cocktail glass character operating an articulated golden robotic arm that shakes the mixer, calibrating servo joints, robotics-engineering pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r093",
+    "sheet_id": "s050",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "O Overflow Fountain",
+    "character_desc": "Uma fonte de champanhe em pirâmide que multiplica as taças transbordando; mede o crescimento com régua dourada.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a champagne-fountain glass character atop a multiplying overflowing tower, measuring growth with a golden ruler, viral-expansion pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r094",
+    "sheet_id": "s050",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "O Spotlight Signature",
+    "character_desc": "Um coquetel que se posiciona sob o holofote pra ser o primeiro visto no menu; aponta pro topo da lista dourada.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a cocktail glass character positioning itself under a golden spotlight to rank first on the menu, pointing to the top of a list, visibility-optimizing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r095",
+    "sheet_id": "s050",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "O Funnel Highball",
+    "character_desc": "Um highball em forma de funil que conduz clientes gole a gole; ajusta o afunilamento com válvula dourada.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a funnel-shaped highball character guiding patrons sip by sip through a golden funnel valve, marketing-funnel automation pose, target garnish, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r096",
+    "sheet_id": "s050",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "O Custom-Fit Coupe",
+    "character_desc": "Uma coupe que ajusta a receita exata pra cada cliente; demonstra a mistura ideal com jigger dourado.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a coupe glass character tailoring the exact recipe for a client, demonstrating the ideal blend with a golden jigger, solutions-fitting helpful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r097",
+    "sheet_id": "s050",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "O Refill Salvador",
+    "character_desc": "Um drink sempre pronto pra socorrer quem ficou na seca; carrega jarra dourada de reposição e sorri prestativo.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, an ever-ready cocktail glass character carrying a golden refill pitcher to rescue an empty glass, helpful support pose, service bell garnish, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r098",
+    "sheet_id": "s050",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "O Showcase Sparkler",
+    "character_desc": "Um coquetel faiscante de vitrine que convence pela demonstração; ergue a taça com estrelinha déco e brinda.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a sparkling showcase cocktail glass character raising a toast with a Deco sparkler, convincing by demonstration, persuasive sales pose, gleaming shine, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r099",
+    "sheet_id": "s050",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "O Contador de Doses",
+    "character_desc": "Um drink econômico que mede cada mililitro e o custo; segura ábaco dourado e jigger de medição precisa.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a thrifty cocktail glass character holding a golden abacus and a precise measuring jigger, counting every milliliter and cost, budget-tracking pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s050-r100",
+    "sheet_id": "s050",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "O Contrato Selado",
+    "character_desc": "Um coquetel formal que só serve conforme as regras da casa; segura pergaminho de termos e martelo déco de juiz.",
+    "nano_prompt": "Art Deco cocktail-menu illustration of a single anthropomorphic 1920s cocktail character — a stylized cocktail glass with slender elegant limbs, white gloves and an expressive face — rendered in gold linework with geometric Deco fan patterns, jazz-age palette of gold, cream and black, full-body figure, a formal cocktail glass character holding a terms scroll and a Deco judge's gavel, serving strictly by the house rules, legal-counsel authoritative pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

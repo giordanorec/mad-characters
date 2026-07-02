@@ -1,0 +1,1002 @@
+[
+ {
+  "char_id": "s081-r001",
+  "sheet_id": "s081",
+  "role_id": "r001",
+  "role_slug": "arquiteto",
+  "role_name": "Arquiteto de Solução",
+  "character_name": "Minifig Mestre-Construtor",
+  "character_desc": "Minifigura de arquiteto com capacete de obra branco, planta de blocos enrolada na mão e uma peça LEGO grande sob o braço, representando quem desenha a estrutura.",
+  "nano_prompt": "A LEGO minifigure architect wearing a white LEGO construction helmet, holding a rolled-up brick blueprint in one hand and a large translucent LEGO baseplate under the other arm, confident printed smile, blazer torso print, standing on studs, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r002",
+  "sheet_id": "s081",
+  "role_id": "r002",
+  "role_slug": "tech-lead",
+  "role_name": "Tech Lead",
+  "character_name": "Minifig Capitã do Time",
+  "character_desc": "Minifigura líder técnica com capacete de capitão, prancheta de blocos e apito, guiando a construção da equipe.",
+  "nano_prompt": "A LEGO minifigure tech lead with a captain-style cap, holding a LEGO clipboard and a whistle printed piece, hoodie torso print with a badge, determined printed expression, one hand raised pointing forward, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r003",
+  "sheet_id": "s081",
+  "role_id": "r003",
+  "role_slug": "staff-engineer",
+  "role_name": "Staff Engineer",
+  "character_name": "Minifig Engenheira Veterana",
+  "character_desc": "Minifigura engenheira sênior com óculos de proteção, chave inglesa dourada e cinto de ferramentas cheio de peças.",
+  "nano_prompt": "A LEGO minifigure senior staff engineer wearing safety goggles, holding a golden LEGO wrench, utility belt torso print loaded with tool pieces, calm experienced printed face, sturdy work vest, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r004",
+  "sheet_id": "s081",
+  "role_id": "r004",
+  "role_slug": "principal-engineer",
+  "role_name": "Principal Engineer",
+  "character_name": "Minifig Grande Engenheira",
+  "character_desc": "Minifigura engenheira principal com capacete de obra dourado e um cajado-chave-de-fenda, autoridade técnica máxima.",
+  "nano_prompt": "A LEGO minifigure principal engineer wearing a golden LEGO hard hat, holding a large screwdriver like a staff, cape-style vest, authoritative printed expression, ornate engineering torso print, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r005",
+  "sheet_id": "s081",
+  "role_id": "r005",
+  "role_slug": "eng-manager",
+  "role_name": "Engineering Manager",
+  "character_name": "Minifig Regente da Equipe",
+  "character_desc": "Minifigura gerente de engenharia com prancheta de blocos, crachá e uma caneca, coordenando pessoas-minifigura.",
+  "nano_prompt": "A LEGO minifigure engineering manager holding a LEGO clipboard and a coffee mug piece, lanyard badge torso print, friendly printed smile, business-casual sweater print, welcoming open-hand pose, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r006",
+  "sheet_id": "s081",
+  "role_id": "r006",
+  "role_slug": "product-manager",
+  "role_name": "Product Manager",
+  "character_name": "Minifig Bússola do Produto",
+  "character_desc": "Minifigura gerente de produto segurando uma bússola de blocos e post-its coloridos, apontando o caminho.",
+  "nano_prompt": "A LEGO minifigure product manager holding a LEGO compass piece and a small stack of colorful sticky-note tiles, smart casual torso print, thoughtful printed face, pointing forward pose, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r007",
+  "sheet_id": "s081",
+  "role_id": "r007",
+  "role_slug": "product-owner",
+  "role_name": "Product Owner",
+  "character_name": "Minifig Dona do Backlog",
+  "character_desc": "Minifigura product owner com uma pilha de tijolinhos de prioridade (backlog) e um selo de aprovação.",
+  "nano_prompt": "A LEGO minifigure product owner holding a tall stack of prioritized colored LEGO bricks and an approval stamp piece, blazer torso print, decisive printed expression, satchel accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r008",
+  "sheet_id": "s081",
+  "role_id": "r008",
+  "role_slug": "program-manager",
+  "role_name": "Program Manager",
+  "character_name": "Minifig Maestrina de Programas",
+  "character_desc": "Minifigura program manager com múltiplas pranchetas de blocos e um cronograma-esteira, coordenando várias frentes.",
+  "nano_prompt": "A LEGO minifigure program manager holding two LEGO clipboards and a printed timeline banner tile, headset accessory, organized printed face, structured suit torso print, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r009",
+  "sheet_id": "s081",
+  "role_id": "r009",
+  "role_slug": "project-manager",
+  "role_name": "Project Manager",
+  "character_name": "Minifig Cronômetro",
+  "character_desc": "Minifigura project manager com um grande cronômetro de blocos, gráfico de Gantt impresso e caneta.",
+  "nano_prompt": "A LEGO minifigure project manager holding a large LEGO stopwatch piece, a printed Gantt-chart tile under the arm, focused printed expression, vest torso print with pockets, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r010",
+  "sheet_id": "s081",
+  "role_id": "r010",
+  "role_slug": "scrum-master",
+  "role_name": "Scrum Master",
+  "character_name": "Minifig Guardiã do Sprint",
+  "character_desc": "Minifigura scrum master com apito, quadro kanban de blocos e uma faixa, removendo impedimentos.",
+  "nano_prompt": "A LEGO minifigure scrum master with a whistle piece around the neck, holding a small LEGO kanban board with tiny tiles, coach jersey torso print, encouraging printed smile, sweatband accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r011",
+  "sheet_id": "s081",
+  "role_id": "r011",
+  "role_slug": "backend-dev",
+  "role_name": "Backend Developer",
+  "character_name": "Minifig Engrenagem dos Bastidores",
+  "character_desc": "Minifigura backend com macacão de mecânico, chave inglesa e uma engrenagem de blocos, trabalhando nos motores por trás.",
+  "nano_prompt": "A LEGO minifigure backend developer in a mechanic jumpsuit torso print, holding a LEGO wrench and a large gear piece, oil-smudge printed cheek, focused expression, tool belt, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r012",
+  "sheet_id": "s081",
+  "role_id": "r012",
+  "role_slug": "api-designer",
+  "role_name": "API Designer",
+  "character_name": "Minifig Tomada Universal",
+  "character_desc": "Minifigura API designer segurando um conector/plugue de blocos e um painel de portas de encaixe, conectando sistemas.",
+  "nano_prompt": "A LEGO minifigure API designer holding a large LEGO plug-and-socket connector piece and a small panel of colored ports, tidy shirt torso print, clever printed smile, adapter accessory in belt, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r013",
+  "sheet_id": "s081",
+  "role_id": "r013",
+  "role_slug": "microservices-eng",
+  "role_name": "Microservices Engineer",
+  "character_name": "Minifig Enxame de Blocos",
+  "character_desc": "Minifigura de microsserviços cercada por vários mini-tijolos idênticos flutuando, cada um uma pequena caixinha-serviço.",
+  "nano_prompt": "A LEGO minifigure microservices engineer holding a tray of many identical tiny LEGO cube boxes, modular vest torso print, organized printed expression, small container pieces clipped to belt, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r014",
+  "sheet_id": "s081",
+  "role_id": "r014",
+  "role_slug": "pipeline-dev",
+  "role_name": "Pipeline Developer",
+  "character_name": "Minifig Encanadora de Dados",
+  "character_desc": "Minifigura pipeline dev com capacete, segurando tubos e canos de blocos por onde correm peças, montando a esteira.",
+  "nano_prompt": "A LEGO minifigure pipeline developer wearing a hard hat, holding interlocking LEGO pipe and tube pieces with small bricks flowing through, overalls torso print, busy printed face, wrench in belt, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r015",
+  "sheet_id": "s081",
+  "role_id": "r015",
+  "role_slug": "data-engineer",
+  "role_name": "Data Engineer",
+  "character_name": "Minifig Mineradora de Dados",
+  "character_desc": "Minifigura data engineer com picareta de blocos e carrinho de mineração cheio de tijolinhos-dados brilhantes.",
+  "nano_prompt": "A LEGO minifigure data engineer holding a LEGO pickaxe, a mine cart piece filled with glowing colored data bricks beside, miner overalls torso print, headlamp helmet, hardworking printed expression, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r016",
+  "sheet_id": "s081",
+  "role_id": "r016",
+  "role_slug": "dba",
+  "role_name": "Database Administrator",
+  "character_name": "Minifig Guardiã do Banco",
+  "character_desc": "Minifigura DBA com escudo e chave grande, protegendo um baú/cofre de blocos cheio de tijolinhos organizados.",
+  "nano_prompt": "A LEGO minifigure database administrator holding a LEGO shield and a big golden key, a small stacked treasure chest of organized bricks at the feet, vault-keeper torso print, watchful printed eyes, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r017",
+  "sheet_id": "s081",
+  "role_id": "r017",
+  "role_slug": "sql-specialist",
+  "role_name": "SQL Specialist",
+  "character_name": "Minifig Consulta Certeira",
+  "character_desc": "Minifigura SQL com lupa de blocos e fichário-gaveteiro, garimpando o registro exato entre milhares.",
+  "nano_prompt": "A LEGO minifigure SQL specialist holding a large LEGO magnifying glass and a small filing-drawer cabinet piece, precise printed expression, archivist vest torso print, index-card tiles in hand, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r018",
+  "sheet_id": "s081",
+  "role_id": "r018",
+  "role_slug": "caching-engineer",
+  "role_name": "Caching Engineer",
+  "character_name": "Minifig Guarda-Rápido",
+  "character_desc": "Minifigura de cache com um raio de blocos e uma pequena geladeira-cofre onde guarda respostas prontas.",
+  "nano_prompt": "A LEGO minifigure caching engineer holding a LEGO lightning-bolt piece and a small fridge-locker box of ready bricks, speed-runner torso print, quick alert printed face, stopwatch on belt, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r019",
+  "sheet_id": "s081",
+  "role_id": "r019",
+  "role_slug": "queue-engineer",
+  "role_name": "Message Queue Engineer",
+  "character_name": "Minifig Fila Organizada",
+  "character_desc": "Minifigura de filas com uma esteira de blocos e pacotinhos-mensagem alinhados esperando a vez.",
+  "nano_prompt": "A LEGO minifigure message queue engineer holding a small LEGO conveyor with lined-up envelope tiles, postal-worker torso print, orderly printed smile, mailbag accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r020",
+  "sheet_id": "s081",
+  "role_id": "r020",
+  "role_slug": "search-engineer",
+  "role_name": "Search Engineer",
+  "character_name": "Minifig Farejadora de Índices",
+  "character_desc": "Minifigura search engineer com lupa gigante de blocos e uma bússola, encontrando qualquer peça no instante.",
+  "nano_prompt": "A LEGO minifigure search engineer holding an oversized LEGO magnifying glass and a compass piece, explorer vest torso print, curious printed expression, index tiles fanned in hand, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r021",
+  "sheet_id": "s081",
+  "role_id": "r021",
+  "role_slug": "frontend-dev",
+  "role_name": "Frontend Developer",
+  "character_name": "Minifig Pixel",
+  "character_desc": "Minifigura frontend com pincel e paleta de blocos coloridos, montando a tela que o usuário vê.",
+  "nano_prompt": "A LEGO minifigure frontend developer holding a LEGO paintbrush and a colorful palette piece, a small framed screen-tile in the other hand, bright hoodie torso print, cheerful printed smile, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r022",
+  "sheet_id": "s081",
+  "role_id": "r022",
+  "role_slug": "ui-engineer",
+  "role_name": "UI Engineer",
+  "character_name": "Minifig Botão Brilhante",
+  "character_desc": "Minifigura UI engineer segurando um grande botão de blocos e componentes de encaixe (sliders, caixas).",
+  "nano_prompt": "A LEGO minifigure UI engineer holding a large glossy LEGO button piece and a small tray of interface component tiles, neat modern torso print, precise printed face, ruler accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r023",
+  "sheet_id": "s081",
+  "role_id": "r023",
+  "role_slug": "ux-designer",
+  "role_name": "UX Designer",
+  "character_name": "Minifig Trilha do Usuário",
+  "character_desc": "Minifigura UX com lupa-coração, mapa de fluxo de blocos e post-its, seguindo a jornada da pessoa.",
+  "nano_prompt": "A LEGO minifigure UX designer holding a LEGO magnifying glass over a small flow-map tile with sticky notes, empathetic printed smile, casual designer torso print, marker pen accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r024",
+  "sheet_id": "s081",
+  "role_id": "r024",
+  "role_slug": "design-systems-eng",
+  "role_name": "Design Systems Engineer",
+  "character_name": "Minifig Catálogo de Peças",
+  "character_desc": "Minifigura de design system com uma caixa organizadora de blocos padronizados, tudo encaixando igual.",
+  "nano_prompt": "A LEGO minifigure design systems engineer holding a compartment tray of standardized matching LEGO pieces, blueprint-grid torso print, methodical printed expression, swatch tiles in belt, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r025",
+  "sheet_id": "s081",
+  "role_id": "r025",
+  "role_slug": "a11y-specialist",
+  "role_name": "Accessibility Specialist",
+  "character_name": "Minifig Rampa para Todos",
+  "character_desc": "Minifigura de acessibilidade com uma rampa de blocos, bengala e símbolo de ouvido, garantindo que todos entrem.",
+  "nano_prompt": "A LEGO minifigure accessibility specialist holding a small LEGO ramp piece and a white cane, an ear-symbol tile on the torso print, warm inclusive printed smile, helper vest, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r026",
+  "sheet_id": "s081",
+  "role_id": "r026",
+  "role_slug": "web-perf-engineer",
+  "role_name": "Web Performance Engineer",
+  "character_name": "Minifig Turbo da Web",
+  "character_desc": "Minifigura de performance web com um cronômetro e um foguetinho de blocos preso às costas, cortando o tempo de carga.",
+  "nano_prompt": "A LEGO minifigure web performance engineer with a small LEGO rocket-booster on the back, holding a stopwatch piece, racing-suit torso print, speed goggles, energetic printed grin, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r027",
+  "sheet_id": "s081",
+  "role_id": "r027",
+  "role_slug": "css-specialist",
+  "role_name": "CSS Specialist",
+  "character_name": "Minifig Estilista de Blocos",
+  "character_desc": "Minifigura CSS com fita métrica, pincel e amostras de cor de blocos, alinhando e estilizando tudo.",
+  "nano_prompt": "A LEGO minifigure CSS specialist holding a LEGO measuring tape and a fan of color swatch tiles, stylish apron torso print, tidy printed expression, small brush in belt, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r028",
+  "sheet_id": "s081",
+  "role_id": "r028",
+  "role_slug": "animation-engineer",
+  "role_name": "Animation Engineer",
+  "character_name": "Minifig Quadro-a-Quadro",
+  "character_desc": "Minifigura de animação com uma tira de filme de blocos e uma manivela, dando movimento às peças.",
+  "nano_prompt": "A LEGO minifigure animation engineer holding a LEGO film-strip piece and a small hand-crank, motion-lines torso print, playful printed smile, flipbook tile in hand, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r029",
+  "sheet_id": "s081",
+  "role_id": "r029",
+  "role_slug": "mobile-dev",
+  "role_name": "Mobile Developer",
+  "character_name": "Minifig Bolso Esperto",
+  "character_desc": "Minifigura mobile dev segurando um smartphone de blocos e um pequeno tablet, apps na palma da mão.",
+  "nano_prompt": "A LEGO minifigure mobile developer holding a LEGO smartphone piece and a small tablet tile, casual tech torso print, focused printed face, earbuds accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r030",
+  "sheet_id": "s081",
+  "role_id": "r030",
+  "role_slug": "ios-dev",
+  "role_name": "iOS Developer",
+  "character_name": "Minifig Maçã Polida",
+  "character_desc": "Minifigura iOS com um celular minimalista de blocos e uma fruta-maçã de peça, capricho e acabamento.",
+  "nano_prompt": "A LEGO minifigure iOS developer holding a sleek minimalist LEGO phone and a small apple fruit piece, clean turtleneck torso print, refined printed expression, polished look, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r031",
+  "sheet_id": "s081",
+  "role_id": "r031",
+  "role_slug": "android-dev",
+  "role_name": "Android Developer",
+  "character_name": "Minifig Robozinho Verde",
+  "character_desc": "Minifigura Android com um robozinho-mascote de blocos verde e um celular, cheia de personalização.",
+  "nano_prompt": "A LEGO minifigure Android developer holding a small green robot buddy brick-figure and a LEGO phone, green hoodie torso print, friendly printed grin, gear accessory in belt, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r032",
+  "sheet_id": "s081",
+  "role_id": "r032",
+  "role_slug": "react-native-dev",
+  "role_name": "React Native Developer",
+  "character_name": "Minifig Ponte de Blocos",
+  "character_desc": "Minifigura React Native com uma peça-ponte ligando dois celulares de blocos, um código para dois mundos.",
+  "nano_prompt": "A LEGO minifigure React Native developer holding a bridge piece connecting two LEGO phones, atom-symbol torso print, versatile printed smile, dual-device pose, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r033",
+  "sheet_id": "s081",
+  "role_id": "r033",
+  "role_slug": "flutter-dev",
+  "role_name": "Flutter Developer",
+  "character_name": "Minifig Asa Azul",
+  "character_desc": "Minifigura Flutter com asinhas de borboleta de blocos azuis e um celular, fluindo entre plataformas.",
+  "nano_prompt": "A LEGO minifigure Flutter developer with small blue butterfly wing pieces on the back, holding a LEGO phone, teal torso print, light cheerful printed expression, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r034",
+  "sheet_id": "s081",
+  "role_id": "r034",
+  "role_slug": "data-scientist",
+  "role_name": "Data Scientist",
+  "character_name": "Minifig Cientista das Curvas",
+  "character_desc": "Minifigura data scientist com jaleco, tubo de ensaio de blocos e um gráfico impresso, experimentando com dados.",
+  "nano_prompt": "A LEGO minifigure data scientist wearing a lab coat torso print, holding a LEGO test tube and a small chart tile, safety goggles, curious analytical printed face, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r035",
+  "sheet_id": "s081",
+  "role_id": "r035",
+  "role_slug": "ml-engineer",
+  "role_name": "ML Engineer",
+  "character_name": "Minifig Treinadora de Modelos",
+  "character_desc": "Minifigura ML engineer com um robozinho de blocos sendo treinado e um controle, ensinando a máquina.",
+  "nano_prompt": "A LEGO minifigure ML engineer holding a small trainable robot brick-figure and a remote control piece, circuit-pattern torso print, focused printed smile, headset accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r036",
+  "sheet_id": "s081",
+  "role_id": "r036",
+  "role_slug": "mlops-engineer",
+  "role_name": "MLOps Engineer",
+  "character_name": "Minifig Esteira dos Modelos",
+  "character_desc": "Minifigura MLOps com esteira de blocos levando robozinhos para produção, unindo ML e operação.",
+  "nano_prompt": "A LEGO minifigure MLOps engineer holding a small conveyor piece carrying tiny robot bricks, gear-and-loop torso print, practical printed expression, wrench and laptop tile in belt, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r037",
+  "sheet_id": "s081",
+  "role_id": "r037",
+  "role_slug": "ai-researcher",
+  "role_name": "AI Researcher",
+  "character_name": "Minifig Exploradora da Mente",
+  "character_desc": "Minifigura AI researcher com um cérebro de blocos brilhante e um caderno, investigando o desconhecido.",
+  "nano_prompt": "A LEGO minifigure AI researcher holding a glowing brick brain piece and a small notebook tile, thoughtful printed expression, scholar cardigan torso print, glasses accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r038",
+  "sheet_id": "s081",
+  "role_id": "r038",
+  "role_slug": "llm-prompt",
+  "role_name": "Prompt Engineer",
+  "character_name": "Minifig Sussurradora de IA",
+  "character_desc": "Minifigura prompt engineer com um balão de fala de blocos e uma varinha, conjurando as palavras certas.",
+  "nano_prompt": "A LEGO minifigure prompt engineer holding a LEGO speech-bubble tile and a small magic wand piece, sparkles torso print, clever printed smile, scroll accessory in belt, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r039",
+  "sheet_id": "s081",
+  "role_id": "r039",
+  "role_slug": "nlp-engineer",
+  "role_name": "NLP Engineer",
+  "character_name": "Minifig Tradutora de Fala",
+  "character_desc": "Minifigura NLP com balões de fala de blocos em vários idiomas e um dicionário-tijolo.",
+  "nano_prompt": "A LEGO minifigure NLP engineer holding two LEGO speech-bubble tiles and a small dictionary brick, letters torso print, attentive printed face, headset accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r040",
+  "sheet_id": "s081",
+  "role_id": "r040",
+  "role_slug": "cv-engineer",
+  "role_name": "Computer Vision Engineer",
+  "character_name": "Minifig Olho de Blocos",
+  "character_desc": "Minifigura computer vision com uma câmera de blocos e um óculos-visor com alvo, ensinando a máquina a ver.",
+  "nano_prompt": "A LEGO minifigure computer vision engineer holding a LEGO camera piece, wearing a targeting-visor accessory, eye-scan torso print, observant printed expression, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r041",
+  "sheet_id": "s081",
+  "role_id": "r041",
+  "role_slug": "data-analyst",
+  "role_name": "Data Analyst",
+  "character_name": "Minifig Detetive dos Números",
+  "character_desc": "Minifigura data analyst com lupa, planilha de blocos e um gráfico de pizza impresso.",
+  "nano_prompt": "A LEGO minifigure data analyst holding a LEGO magnifying glass over a small spreadsheet tile, pie-chart torso print, inquisitive printed smile, pencil accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r042",
+  "sheet_id": "s081",
+  "role_id": "r042",
+  "role_slug": "bi-analyst",
+  "role_name": "BI Analyst",
+  "character_name": "Minifig Painel Vivo",
+  "character_desc": "Minifigura BI analyst segurando um painel/dashboard de blocos com gráficos coloridos de peça.",
+  "nano_prompt": "A LEGO minifigure BI analyst holding a small LEGO dashboard panel with colorful chart tiles, business-casual torso print, insightful printed expression, pointer stick accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r043",
+  "sheet_id": "s081",
+  "role_id": "r043",
+  "role_slug": "analytics-engineer",
+  "role_name": "Analytics Engineer",
+  "character_name": "Minifig Modeladora de Métricas",
+  "character_desc": "Minifigura analytics engineer montando blocos de dados em uma torre-modelo organizada, entre dado bruto e insight.",
+  "nano_prompt": "A LEGO minifigure analytics engineer stacking data bricks into a neat model tower, funnel-chart torso print, focused printed face, ruler and laptop tile in belt, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r044",
+  "sheet_id": "s081",
+  "role_id": "r044",
+  "role_slug": "dataviz-specialist",
+  "role_name": "Data Viz Specialist",
+  "character_name": "Minifig Pintora de Gráficos",
+  "character_desc": "Minifigura de dataviz com pincel e um gráfico de barras de blocos coloridos que ela ergue como arte.",
+  "nano_prompt": "A LEGO minifigure data visualization specialist holding a LEGO paintbrush and a colorful bar-chart built from bricks, artistic apron torso print, delighted printed smile, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r045",
+  "sheet_id": "s081",
+  "role_id": "r045",
+  "role_slug": "devops-installer",
+  "role_name": "DevOps Engineer",
+  "character_name": "Minifig Ponte da Infra",
+  "character_desc": "Minifigura DevOps com capacete, chave inglesa e um símbolo de infinito de blocos, unindo dev e operação.",
+  "nano_prompt": "A LEGO minifigure DevOps engineer wearing a hard hat, holding a LEGO wrench and an infinity-loop piece, tool-belt torso print, can-do printed grin, gears on the shoulder, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r046",
+  "sheet_id": "s081",
+  "role_id": "r046",
+  "role_slug": "sre",
+  "role_name": "Site Reliability Engineer",
+  "character_name": "Minifig Sentinela do Uptime",
+  "character_desc": "Minifigura SRE com pager/beeper de blocos, extintor e um escudo, mantendo o sistema de pé.",
+  "nano_prompt": "A LEGO minifigure site reliability engineer holding a LEGO pager piece and a small fire extinguisher, shield torso print, alert but steady printed expression, headset accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r047",
+  "sheet_id": "s081",
+  "role_id": "r047",
+  "role_slug": "platform-engineer",
+  "role_name": "Platform Engineer",
+  "character_name": "Minifig Palco de Blocos",
+  "character_desc": "Minifigura platform engineer erguendo uma placa-base/plataforma de blocos onde outros vão construir.",
+  "nano_prompt": "A LEGO minifigure platform engineer lifting a large LEGO baseplate platform with small structures on it, foundation-grid torso print, supportive printed smile, level tool accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r048",
+  "sheet_id": "s081",
+  "role_id": "r048",
+  "role_slug": "cloud-architect",
+  "role_name": "Cloud Architect",
+  "character_name": "Minifig Arquiteta das Nuvens",
+  "character_desc": "Minifigura cloud architect com uma nuvem de blocos branca na mão e uma planta, projetando na nuvem.",
+  "nano_prompt": "A LEGO minifigure cloud architect holding a white brick cloud piece and a blueprint tile, sky-pattern torso print, visionary printed expression, antenna accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r049",
+  "sheet_id": "s081",
+  "role_id": "r049",
+  "role_slug": "k8s-admin",
+  "role_name": "Kubernetes Admin",
+  "character_name": "Minifig Timoneira dos Contêineres",
+  "character_desc": "Minifigura Kubernetes com um leme de navio de blocos e caixotes-contêiner empilhados, pilotando a frota.",
+  "nano_prompt": "A LEGO minifigure Kubernetes admin holding a LEGO ship helm piece with stacked container-crate bricks around, captain torso print, steady printed expression, sailor hat accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r050",
+  "sheet_id": "s081",
+  "role_id": "r050",
+  "role_slug": "network-engineer",
+  "role_name": "Network Engineer",
+  "character_name": "Minifig Tecelã de Cabos",
+  "character_desc": "Minifigura de rede com cabos e conectores de blocos entrelaçados e um roteador-tijolo com antenas.",
+  "nano_prompt": "A LEGO minifigure network engineer holding tangled LEGO cable pieces and a small router brick with antennas, connectivity torso print, focused printed face, RJ45 plug accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r051",
+  "sheet_id": "s081",
+  "role_id": "r051",
+  "role_slug": "sysadmin",
+  "role_name": "Systems Administrator",
+  "character_name": "Minifig Zeladora dos Servidores",
+  "character_desc": "Minifigura sysadmin com molho de chaves de blocos e um rack de servidores em miniatura, cuidando das máquinas.",
+  "nano_prompt": "A LEGO minifigure systems administrator holding a keyring piece and a small server-rack brick tower, utility uniform torso print, dependable printed expression, flashlight accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r052",
+  "sheet_id": "s081",
+  "role_id": "r052",
+  "role_slug": "release-engineer",
+  "role_name": "Release Engineer",
+  "character_name": "Minifig Lançadora Oficial",
+  "character_desc": "Minifigura release engineer com uma garrafa de champanhe de blocos e uma etiqueta de versão, batizando o lançamento.",
+  "nano_prompt": "A LEGO minifigure release engineer holding a LEGO champagne bottle piece and a small version-tag tile, ribbon-badge torso print, celebratory printed smile, rocket pin, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r053",
+  "sheet_id": "s081",
+  "role_id": "r053",
+  "role_slug": "build-engineer",
+  "role_name": "Build Engineer",
+  "character_name": "Minifig Montadora Mestre",
+  "character_desc": "Minifigura build engineer com martelo e uma engrenagem, montando peças soltas em um bloco compilado.",
+  "nano_prompt": "A LEGO minifigure build engineer holding a LEGO hammer and a gear piece, assembling loose bricks into a solid block, workshop apron torso print, focused printed face, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r054",
+  "sheet_id": "s081",
+  "role_id": "r054",
+  "role_slug": "cicd-engineer",
+  "role_name": "CI/CD Engineer",
+  "character_name": "Minifig Esteira Sem Fim",
+  "character_desc": "Minifigura CI/CD com uma esteira circular de blocos que leva peças do código ao deploy sem parar.",
+  "nano_prompt": "A LEGO minifigure CI/CD engineer holding a looping LEGO conveyor piece cycling bricks from code to deploy, infinity-arrow torso print, efficient printed smile, wrench accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r055",
+  "sheet_id": "s081",
+  "role_id": "r055",
+  "role_slug": "security-auditor",
+  "role_name": "Security Engineer",
+  "character_name": "Minifig Cadeado Guardião",
+  "character_desc": "Minifigura de segurança com escudo, cadeado de blocos e capacete, blindando o sistema contra ameaças.",
+  "nano_prompt": "A LEGO minifigure security engineer holding a LEGO shield and a large padlock piece, armored vest torso print, vigilant printed expression, helmet with visor accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r056",
+  "sheet_id": "s081",
+  "role_id": "r056",
+  "role_slug": "pentester",
+  "role_name": "Penetration Tester",
+  "character_name": "Minifig Espiã dos Cofres",
+  "character_desc": "Minifigura pentester com gorro, lanterna e um kit de gazuas de blocos, testando cada fechadura por dentro.",
+  "nano_prompt": "A LEGO minifigure penetration tester wearing a black beanie, holding a small LEGO lockpick set and a flashlight, stealth hoodie torso print, sly printed grin, mask accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r057",
+  "sheet_id": "s081",
+  "role_id": "r057",
+  "role_slug": "appsec-engineer",
+  "role_name": "AppSec Engineer",
+  "character_name": "Minifig Escudo do Código",
+  "character_desc": "Minifigura AppSec com escudo de blocos sobre um tijolinho-código e uma lupa, blindando o app na origem.",
+  "nano_prompt": "A LEGO minifigure application security engineer holding a LEGO shield over a small code-brick and a magnifying glass, armored dev torso print, careful printed expression, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r058",
+  "sheet_id": "s081",
+  "role_id": "r058",
+  "role_slug": "cryptographer",
+  "role_name": "Cryptographer",
+  "character_name": "Minifig Mestra das Chaves",
+  "character_desc": "Minifigura criptógrafa com um anel de chaves douradas de blocos e um cofre-cadeado com símbolos secretos.",
+  "nano_prompt": "A LEGO minifigure cryptographer holding a ring of golden LEGO key pieces and a small cipher-lock box, rune-pattern torso print, mysterious printed expression, hooded cloak, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r059",
+  "sheet_id": "s081",
+  "role_id": "r059",
+  "role_slug": "compliance-officer",
+  "role_name": "Compliance Officer",
+  "character_name": "Minifig Fiscal do Selo",
+  "character_desc": "Minifigura compliance com prancheta de checklist de blocos, carimbo de aprovado e uma balança pequena.",
+  "nano_prompt": "A LEGO minifigure compliance officer holding a LEGO checklist clipboard and an approval stamp, small balance-scale piece beside, formal suit torso print, strict printed expression, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r060",
+  "sheet_id": "s081",
+  "role_id": "r060",
+  "role_slug": "privacy-engineer",
+  "role_name": "Privacy Engineer",
+  "character_name": "Minifig Cortina da Privacidade",
+  "character_desc": "Minifigura privacy engineer com um véu/cortina de blocos protegendo tijolinhos-dados pessoais e um cadeado.",
+  "nano_prompt": "A LEGO minifigure privacy engineer holding a small brick curtain shielding personal data bricks and a padlock, discreet torso print, protective printed expression, cloak accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r061",
+  "sheet_id": "s081",
+  "role_id": "r061",
+  "role_slug": "incident-responder",
+  "role_name": "Incident Responder",
+  "character_name": "Minifig Bombeira do Sistema",
+  "character_desc": "Minifigura incident responder com capacete de bombeiro, extintor de blocos e um pager de alerta vermelho.",
+  "nano_prompt": "A LEGO minifigure incident responder wearing a red firefighter helmet, holding a LEGO fire extinguisher and a red-alert pager, emergency-vest torso print, determined printed face, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r062",
+  "sheet_id": "s081",
+  "role_id": "r062",
+  "role_slug": "threat-modeler",
+  "role_name": "Threat Modeler",
+  "character_name": "Minifig Mapa das Ameaças",
+  "character_desc": "Minifigura threat modeler com um mapa/tabuleiro de blocos marcando pontos de ataque e peças-inimigo.",
+  "nano_prompt": "A LEGO minifigure threat modeler holding a small brick board with marked attack-point tiles and tiny enemy pieces, strategist torso print, analytical printed expression, pointer accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r063",
+  "sheet_id": "s081",
+  "role_id": "r063",
+  "role_slug": "qa-tester",
+  "role_name": "QA Engineer",
+  "character_name": "Minifig Caça-Bugs",
+  "character_desc": "Minifigura QA com rede de caçar insetos de blocos e um bichinho-bug preso, verificando cada canto.",
+  "nano_prompt": "A LEGO minifigure QA engineer holding a LEGO bug-catching net with a small caught bug creature, checklist torso print, watchful printed grin, magnifying glass in belt, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r064",
+  "sheet_id": "s081",
+  "role_id": "r064",
+  "role_slug": "sdet",
+  "role_name": "SDET (Automação)",
+  "character_name": "Minifig Robô Testador",
+  "character_desc": "Minifigura SDET com um bracinho-robô automatizado de blocos apertando botões de teste sozinho.",
+  "nano_prompt": "A LEGO minifigure SDET holding a small automated LEGO robot-arm piece pressing test buttons, gear-and-check torso print, efficient printed smile, script-scroll accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r065",
+  "sheet_id": "s081",
+  "role_id": "r065",
+  "role_slug": "perf-tester",
+  "role_name": "Performance Tester",
+  "character_name": "Minifig Cronômetro de Carga",
+  "character_desc": "Minifigura de performance com um cronômetro grande e halteres de blocos, medindo quanto peso o sistema aguenta.",
+  "nano_prompt": "A LEGO minifigure performance tester holding a large LEGO stopwatch and a small barbell piece, athletic torso print, intense printed expression, sweatband accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r066",
+  "sheet_id": "s081",
+  "role_id": "r066",
+  "role_slug": "manual-tester",
+  "role_name": "Manual Tester",
+  "character_name": "Minifig Olho Atento",
+  "character_desc": "Minifigura manual tester com lupa, prancheta de checklist de blocos e um lápis, conferindo passo a passo.",
+  "nano_prompt": "A LEGO minifigure manual tester holding a LEGO magnifying glass and a checklist clipboard, pencil behind the ear, careful torso print, meticulous printed expression, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r067",
+  "sheet_id": "s081",
+  "role_id": "r067",
+  "role_slug": "a11y-tester",
+  "role_name": "Accessibility Tester",
+  "character_name": "Minifig Provadora para Todos",
+  "character_desc": "Minifigura a11y tester com leitor de tela de blocos, checklist e símbolo de acessibilidade, testando com todos os sentidos.",
+  "nano_prompt": "A LEGO minifigure accessibility tester holding a small screen-reader device piece and a checklist tile with an accessibility symbol, inclusive vest torso print, attentive printed smile, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r068",
+  "sheet_id": "s081",
+  "role_id": "r068",
+  "role_slug": "docs-writer",
+  "role_name": "Technical Writer",
+  "character_name": "Minifig Escriba dos Manuais",
+  "character_desc": "Minifigura technical writer com pena de blocos, pergaminho-manual e um tinteiro, documentando tudo com clareza.",
+  "nano_prompt": "A LEGO minifigure technical writer holding a LEGO quill pen and a small manual scroll, ink-pot piece nearby, scholar vest torso print, focused printed smile, book accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r069",
+  "sheet_id": "s081",
+  "role_id": "r069",
+  "role_slug": "dev-advocate",
+  "role_name": "Developer Advocate",
+  "character_name": "Minifig Voz da Comunidade",
+  "character_desc": "Minifigura dev advocate com microfone de blocos e uma placa-adesivo, animando e conectando a comunidade dev.",
+  "nano_prompt": "A LEGO minifigure developer advocate holding a LEGO microphone and a small sticker sign, community tee torso print, enthusiastic printed grin, lanyard badge accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r070",
+  "sheet_id": "s081",
+  "role_id": "r070",
+  "role_slug": "content-strategist",
+  "role_name": "Content Strategist",
+  "character_name": "Minifig Regente do Conteúdo",
+  "character_desc": "Minifigura content strategist com um mapa de conteúdo de blocos e post-its, orquestrando a mensagem.",
+  "nano_prompt": "A LEGO minifigure content strategist holding a small brick content-map board with sticky-note tiles, smart casual torso print, planning printed expression, marker accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r071",
+  "sheet_id": "s081",
+  "role_id": "r071",
+  "role_slug": "i18n-engineer",
+  "role_name": "Localization Engineer",
+  "character_name": "Minifig Ponte dos Idiomas",
+  "character_desc": "Minifigura de localização com bandeirinhas de blocos e balões de fala em vários idiomas, adaptando para o mundo.",
+  "nano_prompt": "A LEGO minifigure localization engineer holding several small brick flags and multilingual speech-bubble tiles, globe torso print, welcoming printed smile, dictionary accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r072",
+  "sheet_id": "s081",
+  "role_id": "r072",
+  "role_slug": "product-designer",
+  "role_name": "Product Designer",
+  "character_name": "Minifig Escultora do Produto",
+  "character_desc": "Minifigura product designer com esboço de blocos, régua e um protótipo-tijolo, moldando a experiência.",
+  "nano_prompt": "A LEGO minifigure product designer holding a small sketch tile and a brick prototype, ruler in belt, creative apron torso print, thoughtful printed smile, pencil accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r073",
+  "sheet_id": "s081",
+  "role_id": "r073",
+  "role_slug": "visual-designer",
+  "role_name": "Visual Designer",
+  "character_name": "Minifig Paleta Viva",
+  "character_desc": "Minifigura visual designer com paleta de tintas de blocos e pincel, cuidando de cor, forma e beleza.",
+  "nano_prompt": "A LEGO minifigure visual designer holding a colorful LEGO paint palette and a brush, splatter-pattern torso print, artistic printed smile, color swatch tiles in belt, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r074",
+  "sheet_id": "s081",
+  "role_id": "r074",
+  "role_slug": "interaction-designer",
+  "role_name": "Interaction Designer",
+  "character_name": "Minifig Toque Certeiro",
+  "character_desc": "Minifigura interaction designer com um botão de blocos e setas de fluxo, desenhando o toque e a resposta.",
+  "nano_prompt": "A LEGO minifigure interaction designer holding a LEGO button piece and small flow-arrow tiles, gesture-lines torso print, engaged printed expression, stylus accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r075",
+  "sheet_id": "s081",
+  "role_id": "r075",
+  "role_slug": "motion-designer",
+  "role_name": "Motion Designer",
+  "character_name": "Minifig Dançarina dos Frames",
+  "character_desc": "Minifigura motion designer com uma tira de filme de blocos e traços de movimento, dando vida às transições.",
+  "nano_prompt": "A LEGO minifigure motion designer holding a LEGO film-strip and small motion-swoosh pieces, dynamic torso print, lively printed smile, clapperboard accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r076",
+  "sheet_id": "s081",
+  "role_id": "r076",
+  "role_slug": "illustrator",
+  "role_name": "Illustrator",
+  "character_name": "Minifig Lápis Mágico",
+  "character_desc": "Minifigura ilustradora com um lápis gigante de blocos e uma prancheta-desenho, criando mundos à mão.",
+  "nano_prompt": "A LEGO minifigure illustrator holding an oversized LEGO pencil and a small drawing board tile, doodle-pattern torso print, imaginative printed smile, eraser accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r077",
+  "sheet_id": "s081",
+  "role_id": "r077",
+  "role_slug": "asset-designer",
+  "role_name": "Asset Designer",
+  "character_name": "Minifig Forja de Sprites",
+  "character_desc": "Minifigura asset designer com uma bandeja de ícones e sprites de blocos e um pincel-pixel, produzindo a arte do jogo.",
+  "nano_prompt": "A LEGO minifigure asset designer holding a tray of small brick icons and sprite tiles and a pixel brush, pixel-grid torso print, focused creative printed face, stylus accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r078",
+  "sheet_id": "s081",
+  "role_id": "r078",
+  "role_slug": "brand-designer",
+  "role_name": "Brand Designer",
+  "character_name": "Minifig Guardiã da Marca",
+  "character_desc": "Minifigura brand designer com um selo/logo de blocos e um guia de cores, mantendo a identidade coesa.",
+  "nano_prompt": "A LEGO minifigure brand designer holding a brick emblem-logo piece and a small color-guide tile, sleek monochrome torso print, confident printed smile, stamp accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r079",
+  "sheet_id": "s081",
+  "role_id": "r079",
+  "role_slug": "sound-designer",
+  "role_name": "Sound Designer",
+  "character_name": "Minifig Maestrina do Som",
+  "character_desc": "Minifigura sound designer com fones de blocos, notas musicais de peça e um microfone, esculpindo o áudio.",
+  "nano_prompt": "A LEGO minifigure sound designer wearing LEGO headphones, holding a microphone and small music-note tiles, waveform torso print, groovy printed smile, mixer-knob accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r080",
+  "sheet_id": "s081",
+  "role_id": "r080",
+  "role_slug": "3d-artist",
+  "role_name": "3D Artist",
+  "character_name": "Minifig Escultora 3D",
+  "character_desc": "Minifigura 3D artist com uma malha-poliedro de blocos e ferramentas de escultura, moldando volumes.",
+  "nano_prompt": "A LEGO minifigure 3D artist holding a small polyhedron mesh brick and a sculpting tool, wireframe-pattern torso print, focused printed expression, clay-spatula accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r081",
+  "sheet_id": "s081",
+  "role_id": "r081",
+  "role_slug": "game-designer",
+  "role_name": "Game Designer",
+  "character_name": "Minifig Arquiteta do Jogo",
+  "character_desc": "Minifigura game designer com um dado gigante de blocos e um tabuleiro-regras, desenhando a diversão.",
+  "nano_prompt": "A LEGO minifigure game designer holding a large LEGO die and a small rulebook board with tiles, playful torso print, inventive printed grin, controller accessory in belt, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r082",
+  "sheet_id": "s081",
+  "role_id": "r082",
+  "role_slug": "level-designer",
+  "role_name": "Level Designer",
+  "character_name": "Minifig Construtora de Fases",
+  "character_desc": "Minifigura level designer montando uma pequena fase de plataformas de blocos com obstáculos e uma bandeira.",
+  "nano_prompt": "A LEGO minifigure level designer building a small brick platform level with obstacles and a goal flag, blueprint torso print, focused printed smile, ruler and flag accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r083",
+  "sheet_id": "s081",
+  "role_id": "r083",
+  "role_slug": "narrative-designer",
+  "role_name": "Narrative Designer",
+  "character_name": "Minifig Contadora de Histórias",
+  "character_desc": "Minifigura narrative designer com um livro aberto de blocos e balões de fala, tecendo a história do jogo.",
+  "nano_prompt": "A LEGO minifigure narrative designer holding an open brick storybook and small speech-bubble tiles, storyteller cloak torso print, warm printed smile, quill accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r084",
+  "sheet_id": "s081",
+  "role_id": "r084",
+  "role_slug": "game-dev",
+  "role_name": "Game Developer",
+  "character_name": "Minifig Programadora de Jogos",
+  "character_desc": "Minifigura game dev com um controle de videogame de blocos e uma engrenagem, dando vida ao jogo.",
+  "nano_prompt": "A LEGO minifigure game developer holding a LEGO game controller and a gear piece, pixel-heart torso print, excited printed grin, joystick accessory in belt, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r085",
+  "sheet_id": "s081",
+  "role_id": "r085",
+  "role_slug": "graphics-engineer",
+  "role_name": "Graphics/Shader Engineer",
+  "character_name": "Minifig Feiticeira dos Pixels",
+  "character_desc": "Minifigura de shaders com uma varinha de luz de blocos e um prisma que espalha cores, pintando com luz.",
+  "nano_prompt": "A LEGO minifigure graphics shader engineer holding a LEGO light-wand and a rainbow prism piece, glowing-gradient torso print, awed printed expression, lens accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r086",
+  "sheet_id": "s081",
+  "role_id": "r086",
+  "role_slug": "embedded-engineer",
+  "role_name": "Embedded Engineer",
+  "character_name": "Minifig Micro-Placa",
+  "character_desc": "Minifigura embedded com uma placa de circuito de blocos minúscula, ferro de solda e um chip.",
+  "nano_prompt": "A LEGO minifigure embedded engineer holding a tiny LEGO circuit board and a soldering-iron piece, chip-pattern torso print, precise printed face, magnifier-goggles accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r087",
+  "sheet_id": "s081",
+  "role_id": "r087",
+  "role_slug": "firmware-engineer",
+  "role_name": "Firmware Engineer",
+  "character_name": "Minifig Coração da Máquina",
+  "character_desc": "Minifigura firmware com um chip-cérebro de blocos e uma chave de fenda de precisão, programando o metal.",
+  "nano_prompt": "A LEGO minifigure firmware engineer holding a small brick microchip and a precision screwdriver, circuit-heart torso print, focused printed expression, tweezers accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r088",
+  "sheet_id": "s081",
+  "role_id": "r088",
+  "role_slug": "iot-engineer",
+  "role_name": "IoT Engineer",
+  "character_name": "Minifig Tecelã das Coisas",
+  "character_desc": "Minifigura IoT com sensores e antenas de blocos conectando pequenos objetos do cotidiano em rede.",
+  "nano_prompt": "A LEGO minifigure IoT engineer holding small brick sensors and antennas linking tiny household objects, network-node torso print, curious printed smile, signal-wave accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r089",
+  "sheet_id": "s081",
+  "role_id": "r089",
+  "role_slug": "blockchain-dev",
+  "role_name": "Blockchain Developer",
+  "character_name": "Minifig Corrente de Blocos",
+  "character_desc": "Minifigura blockchain com uma corrente literal de tijolinhos encadeados e uma moeda de blocos.",
+  "nano_prompt": "A LEGO minifigure blockchain developer holding a literal chain of linked LEGO blocks and a coin piece, hexagon-pattern torso print, confident printed smile, ledger accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r090",
+  "sheet_id": "s081",
+  "role_id": "r090",
+  "role_slug": "smartcontract-auditor",
+  "role_name": "Smart Contract Auditor",
+  "character_name": "Minifig Lupa dos Contratos",
+  "character_desc": "Minifigura auditora de smart contracts com lupa sobre um pergaminho-contrato de blocos e um cadeado.",
+  "nano_prompt": "A LEGO minifigure smart contract auditor holding a magnifying glass over a small brick contract scroll and a padlock, hexagon-shield torso print, scrutinizing printed expression, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r091",
+  "sheet_id": "s081",
+  "role_id": "r091",
+  "role_slug": "arvr-engineer",
+  "role_name": "AR/VR Engineer",
+  "character_name": "Minifig Portal Virtual",
+  "character_desc": "Minifigura AR/VR com um óculos-headset de blocos e um portal cintilante de peças, entre mundos.",
+  "nano_prompt": "A LEGO minifigure AR/VR engineer wearing a LEGO VR headset, holding a small glowing brick portal frame, futuristic torso print, amazed printed expression, controller accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r092",
+  "sheet_id": "s081",
+  "role_id": "r092",
+  "role_slug": "robotics-engineer",
+  "role_name": "Robotics Engineer",
+  "character_name": "Minifig Amiga dos Robôs",
+  "character_desc": "Minifigura robotics com um bracinho-robô de blocos e um controle, montando e comandando máquinas.",
+  "nano_prompt": "A LEGO minifigure robotics engineer holding a small LEGO robot-arm and a controller, a tiny robot buddy beside, mechanic torso print, cheerful printed face, wrench accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r093",
+  "sheet_id": "s081",
+  "role_id": "r093",
+  "role_slug": "growth-engineer",
+  "role_name": "Growth Engineer",
+  "character_name": "Minifig Foguete do Crescimento",
+  "character_desc": "Minifigura growth engineer com um foguetinho de blocos e um gráfico de seta subindo, impulsionando métricas.",
+  "nano_prompt": "A LEGO minifigure growth engineer holding a small LEGO rocket and an upward arrow-chart tile, dynamic torso print, energetic printed grin, funnel accessory in belt, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r094",
+  "sheet_id": "s081",
+  "role_id": "r094",
+  "role_slug": "seo-specialist",
+  "role_name": "SEO Specialist",
+  "character_name": "Minifig Farol de Busca",
+  "character_desc": "Minifigura SEO com lupa gigante e um ranking-pódio de blocos, subindo o site ao topo dos resultados.",
+  "nano_prompt": "A LEGO minifigure SEO specialist holding a large magnifying glass and a small podium-ranking brick with a trophy, search-arrow torso print, savvy printed smile, keyword tiles, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r095",
+  "sheet_id": "s081",
+  "role_id": "r095",
+  "role_slug": "marketing-tech",
+  "role_name": "Marketing Technologist",
+  "character_name": "Minifig Engenheira das Campanhas",
+  "character_desc": "Minifigura martech com um megafone de blocos e um painel de automação, ligando marketing e tecnologia.",
+  "nano_prompt": "A LEGO minifigure marketing technologist holding a LEGO megaphone and a small automation-panel tile, funnel-and-gear torso print, upbeat printed smile, envelope accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r096",
+  "sheet_id": "s081",
+  "role_id": "r096",
+  "role_slug": "solutions-engineer",
+  "role_name": "Solutions Engineer",
+  "character_name": "Minifig Ponte da Solução",
+  "character_desc": "Minifigura solutions engineer com um maletim de blocos, peças de encaixe e um aperto de mão, ligando cliente e produto.",
+  "nano_prompt": "A LEGO minifigure solutions engineer holding a LEGO briefcase and interlocking puzzle bricks, handshake gesture, business-tech torso print, helpful printed smile, headset accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r097",
+  "sheet_id": "s081",
+  "role_id": "r097",
+  "role_slug": "support-engineer",
+  "role_name": "Support Engineer",
+  "character_name": "Minifig Salva-Vidas do Usuário",
+  "character_desc": "Minifigura support engineer com headset de blocos, boia salva-vidas e uma chave inglesa, resgatando o usuário.",
+  "nano_prompt": "A LEGO minifigure support engineer wearing a LEGO headset, holding a small life-ring and a wrench, help-badge torso print, friendly reassuring printed smile, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r098",
+  "sheet_id": "s081",
+  "role_id": "r098",
+  "role_slug": "sales-engineer",
+  "role_name": "Sales Engineer",
+  "character_name": "Minifig Demonstradora Técnica",
+  "character_desc": "Minifigura sales engineer com um maletim de blocos, um protótipo-demo e uma placa de apresentação.",
+  "nano_prompt": "A LEGO minifigure sales engineer holding a LEGO briefcase, a small demo prototype brick and a presentation board tile, sharp suit torso print, persuasive printed smile, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r099",
+  "sheet_id": "s081",
+  "role_id": "r099",
+  "role_slug": "finops",
+  "role_name": "FinOps Analyst",
+  "character_name": "Minifig Contadora da Nuvem",
+  "character_desc": "Minifigura FinOps com uma calculadora de blocos, moedas empilhadas e uma nuvem, controlando o custo da infra.",
+  "nano_prompt": "A LEGO minifigure FinOps analyst holding a LEGO calculator and a stack of coin pieces beside a small brick cloud, ledger torso print, careful printed expression, magnifier accessory, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ },
+ {
+  "char_id": "s081-r100",
+  "sheet_id": "s081",
+  "role_id": "r100",
+  "role_slug": "legal-counsel",
+  "role_name": "Legal Counsel",
+  "character_name": "Minifig Guardiã da Lei",
+  "character_desc": "Minifigura legal counsel com uma balança da justiça de blocos, martelo de juiz e um livro de leis.",
+  "nano_prompt": "A LEGO minifigure legal counsel holding a small LEGO balance-scale of justice and a judge's gavel, a law-book brick under the arm, formal robe torso print, composed printed expression, centered single LEGO minifigure, consistent full-body framing, uniform chroma-key green background (#00b140), no text, no logo, high detail, product lighting"
+ }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s016-r001",
+    "sheet_id": "s016",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Vaelith, a Grande Arquimaga",
+    "character_desc": "Arquimaga que projeta reinos inteiros; segura um pergaminho luminoso com a planta de uma torre de cristal.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, holding a glowing blueprint scroll depicting a crystal tower, a compass-wand in the other hand, star-map embroidered robes, serene visionary gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r002",
+    "sheet_id": "s016",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Orien, o Guia da Torre",
+    "character_desc": "Maga-líder que conduz aprendizes; ergue um cajado com lanterna-guia e um estandarte da guilda.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, raising a staff topped with a guiding lantern, a small guild banner over the shoulder, apprentices' orbs floating faintly around, confident guiding stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r003",
+    "sheet_id": "s016",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Sappho, a Portadora do Cajado",
+    "character_desc": "Feiticeira veterana cujo poder mora no cajado rúnico ancestral que empunha.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, gripping an elaborately carved rune-covered staff glowing at the tip, deep-etched sigils on the sleeves, grounded steady posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r004",
+    "sheet_id": "s016",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Prundal, o Arquimago-Mor",
+    "character_desc": "Arquimago principal de crista alta, autoridade máxima do círculo mágico.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, wearing a tall crowned wizard hat with a principal crest gem, ornate high-collared mantle, holding an orb of layered authority, dignified expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r005",
+    "sheet_id": "s016",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Mira, a Pastora de Orbes",
+    "character_desc": "Maga-gestora que conduz uma constelação de orbes representando sua equipe.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, gently conducting a cluster of small glowing team-orbs with a slender baton-wand, nurturing warm smile, shepherd-like open pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r006",
+    "sheet_id": "s016",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Priya, a Joalheira do Produto",
+    "character_desc": "Feiticeira que equilibra prioridades segurando a gema-produto e balança de valor.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, cradling a radiant central gem in one hand and tiny balance scales of priorities in the other, thoughtful decisive look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r007",
+    "sheet_id": "s016",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Dornal, o Guardião do Artefato",
+    "character_desc": "Mago dono do artefato cobiçado; abraça o item e carrega um pergaminho de desejos.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, cradling a treasured glowing artifact against the chest, a rolled backlog-scroll tucked under the arm, protective proud expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r008",
+    "sheet_id": "s016",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Tessaly, a Tecelã de Fios",
+    "character_desc": "Maga que entrelaça múltiplas linhas do tempo de vários feitiços simultâneos.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, weaving several luminous parallel threads between the fingers, a small hourglass at the hip, coordinating focused gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r009",
+    "sheet_id": "s016",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Coran, o Cartógrafo do Tempo",
+    "character_desc": "Mago que planeja jornadas com pergaminho de marcos e ampulheta.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, unrolling a milestone-marked planning scroll, an hourglass in hand, small milestone crystals hovering along a path, organized composed look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r010",
+    "sheet_id": "s016",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Sela, a Guardiã do Ciclo",
+    "character_desc": "Bruxa que rege o ritmo dos ciclos com amuleto circular e areia do tempo.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical witch shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, holding a circular sprint-cycle amulet, a sand-timer beside her, floating sticky rune-notes around, encouraging facilitative smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r011",
+    "sheet_id": "s016",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Bastian, o Mago dos Bastidores",
+    "character_desc": "Mago que opera atrás da cortina, cercado de cristais-servidores e engrenagens.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, half behind a heavy tapestry curtain, surrounded by glowing server-crystals and slow-turning gears, quietly focused expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r012",
+    "sheet_id": "s016",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Portia, a Forjadora de Portais",
+    "character_desc": "Feiticeira que cria chaves ornamentadas e arcos-gateway de acesso.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, forging an ornate glowing key beside a small decorative gateway arch, precise elegant gesture, methodical look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r013",
+    "sheet_id": "s016",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Micah, o Malabarista de Orbes",
+    "character_desc": "Mago que equilibra dezenas de pequenos orbes-serviço independentes no ar.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, juggling many tiny independent glowing service-orbs orbiting in mid-air, nimble balanced pose, playful concentration, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r014",
+    "sheet_id": "s016",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Fluvia, a Canalizadora",
+    "character_desc": "Maga que conduz correntes de luz entre vasos alquímicos em fluxo contínuo.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, channeling flowing conduits of luminous liquid between two alchemical vessels, sleeves rolled with pattern trims, steady guiding hands, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r015",
+    "sheet_id": "s016",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Delvor, o Mestre dos Rios",
+    "character_desc": "Mago que direciona rios luminosos de dados por aquedutos rúnicos.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, directing glowing rivers of data through small rune-carved aqueducts with a channeling wand, calm engineering focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r016",
+    "sheet_id": "s016",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Grimhild, a Guardiã do Cofre",
+    "character_desc": "Bruxa guardiã de um grande cofre-biblioteca de tomos ordenados.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical witch shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, standing before a great vault of stacked glowing tomes, a heavy keyring at the belt, one hand resting on a ledger, vigilant custodial expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r017",
+    "sheet_id": "s016",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Quill, o Rabdomante das Runas",
+    "character_desc": "Mago que consulta uma mesa de runas com varinha-radiestésica.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, dowsing with a divining rod over a grid-table of glowing runes, selecting rows precisely, sharp analytical gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r018",
+    "sheet_id": "s016",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Cael, o Guardião da Memória",
+    "character_desc": "Mago com relicários de acesso rápido e uma ampulheta congelada no tempo.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorcerer shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, holding several quick-access memory lockets on chains, a frozen hourglass beside him, swift alert expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r019",
+    "sheet_id": "s016",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Queira, a Ordenadora de Mensagens",
+    "character_desc": "Maga que enfileira pergaminhos-mensagem flutuantes em ordem paciente.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, arranging a neat floating queue of small message-scrolls awaiting their turn, orderly patient gesture, calm gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r020",
+    "sheet_id": "s016",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Idris, o Buscador",
+    "character_desc": "Mago com lente-cristal de aumento e fichas de índice para encontrar tudo.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, peering through a large magnifying crystal lens, index rune-cards fanned in the other hand, keen searching eyes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r021",
+    "sheet_id": "s016",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Lira, a Pintora de Painéis",
+    "character_desc": "Feiticeira que pinta painéis de interface luminosos flutuando no ar.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, painting glowing floating interface panels in the air with a light-brush, graceful artistic pose, attentive to detail, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r022",
+    "sheet_id": "s016",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Enno, o Montador de Janelas",
+    "character_desc": "Mago que ergue molduras ornamentadas de janelas e botões encantados.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, assembling ornate framed window-panels and glowing buttons in the air, tidy precise hands, focused craftsman look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r023",
+    "sheet_id": "s016",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Anouk, a Cartógrafa da Jornada",
+    "character_desc": "Maga que mapeia o caminho do viajante com pegadas e lente-empatia em forma de coração.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, tracing a journey path of glowing footprints on a scroll, holding a heart-shaped empathy lens, compassionate attentive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r024",
+    "sheet_id": "s016",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Rune, o Guardião dos Tokens",
+    "character_desc": "Mago com uma paleta de rune-tokens padronizados que reusa em tudo.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, holding a palette tray of standardized glowing rune-tokens, arranging them in a consistent grid, orderly systematic look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r025",
+    "sheet_id": "s016",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Beatrix, a Voz Inclusiva",
+    "character_desc": "Bruxa que lê runas em relevo e estende a mão-guia sob um halo inclusivo.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, reading raised braille-runes with fingertips, an open guiding hand extended, an inclusive radiant halo, warm welcoming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r026",
+    "sheet_id": "s016",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Zephyr, o Célere",
+    "character_desc": "Mago veloz com sandálias aladas, sigilos de velocidade e cronômetro.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, wearing winged sandals with speed sigils trailing, holding a stopwatch, brisk dynamic pose, swift determined look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r027",
+    "sheet_id": "s016",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Cascata, a Estilista",
+    "character_desc": "Feiticeira que estiliza tudo com fitas de cor em cascata e pincéis.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, styling flowing cascading color ribbons over a form with fine brushes, elegant refined gesture, aesthetic eye, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r028",
+    "sheet_id": "s016",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Vivi, a Conjuradora do Movimento",
+    "character_desc": "Maga que invoca borboletas com rastros de movimento em sequência.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, conjuring a sequence of motion-trail butterflies looping through the air, fluid graceful pose, delighted focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r029",
+    "sheet_id": "s016",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Talia, a Portadora do Espelho",
+    "character_desc": "Maga que carrega um pequeno espelho-tablet encantado que cabe na mão.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, holding a small glowing enchanted hand-mirror tablet, portable poised stance, attentive touch gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r030",
+    "sheet_id": "s016",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Aurel, o Espelho de Prata",
+    "character_desc": "Mago com uma laje-espelho de prata polida e um sigilo de fruta proibida.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorcerer shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, holding a sleek polished silver mirror-slab, a stylized fruit sigil glowing on the mantle, refined minimal elegance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r031",
+    "sheet_id": "s016",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Vespera, a Ferreira do Autômato",
+    "character_desc": "Bruxa acompanhada de um pequeno familiar-autômato verde e ágil.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical witch shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, beside a small green clockwork familiar-sprite perched on her shoulder, a tinkering wand in hand, friendly inventive look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r032",
+    "sheet_id": "s016",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Nexus, o Ponte entre Mundos",
+    "character_desc": "Mago que liga dois mundos-espelho com uma única varinha compartilhada.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, bridging two mirror-worlds with a single shared wand spanning both, standing between two reflective portals, unifying calm gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r033",
+    "sheet_id": "s016",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Papillon, a Domadora de Borboletas",
+    "character_desc": "Feiticeira cercada de familiares-borboleta, com uma pena-planta única.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, surrounded by fluttering butterfly familiars, holding a single blueprint-feather quill, airy cheerful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r034",
+    "sheet_id": "s016",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Orla, a Astrônoma das Estrelas",
+    "character_desc": "Maga-astrônoma que lê constelações e gráficos nas estrelas.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, reading glowing constellation charts through an astrolabe, star patterns forming graphs above, contemplative curious gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r035",
+    "sheet_id": "s016",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Fenwick, o Treinador de Feras",
+    "character_desc": "Mago que treina uma fera-familiar luminosa por fios neurais.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, training a glowing familiar-beast connected by fine neural threads to his hand, patient teaching gesture, focused warmth, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r036",
+    "sheet_id": "s016",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Cogsley, a Zeladora do Autômato",
+    "character_desc": "Maga que mantém um familiar mecânico num loop de manutenção constante.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, tending a mechanical familiar within a repeating maintenance loop-ribbon, oil-can wand and gauge, diligent caretaking look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r037",
+    "sheet_id": "s016",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Sophos, o Alquimista da Mente",
+    "character_desc": "Mago-alquimista que observa um homúnculo pensante dentro de um frasco.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, peering into a glass flask holding a small glowing thinking homunculus, alchemical notes floating, inquisitive scholarly gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r038",
+    "sheet_id": "s016",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Echo, a Sussurradora do Oráculo",
+    "character_desc": "Feiticeira que sussurra encantamentos a uma boca-oráculo luminosa.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, whispering incantations toward a glowing oracle mouth on a floating scroll, delicate coaxing gesture, clever knowing smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r039",
+    "sheet_id": "s016",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Verba, a Tecelã de Palavras",
+    "character_desc": "Maga com letras flutuantes que se organizam numa fita de linguagem.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, with floating glowing letters weaving into a ribbon of language around her, articulate graceful gesture, literate focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r040",
+    "sheet_id": "s016",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Iris, a Guardiã do Olho",
+    "character_desc": "Maga com uma lente-olho que tudo vê e visões emolduradas.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, holding an all-seeing eye-lens, small framed visions floating around her, perceptive watchful gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r041",
+    "sheet_id": "s016",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Anselm, o Leitor de Gráficos",
+    "character_desc": "Mago que lê um pergaminho-gráfico com varinha-ponteiro.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, reading a chart-scroll and pointing at glowing data-lines with a pointer wand, attentive interpretive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r042",
+    "sheet_id": "s016",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Bel07, a Vidraceira dos Painéis",
+    "character_desc": "Maga com uma janela de vitral-dashboard de mostradores e medidores.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, before a stained-glass dashboard window of glowing gauges and dials, gesturing to a key metric, insightful confident look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r043",
+    "sheet_id": "s016",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Refina, a Refinadora de Minério",
+    "character_desc": "Maga que refina minério bruto em gemas-métrica polidas.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, refining raw glowing ore into polished metric-gems over a small crucible, meticulous transforming gesture, careful eye, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r044",
+    "sheet_id": "s016",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Vivian, a Artista dos Gráficos",
+    "character_desc": "Feiticeira que conjura gráficos luminosos elegantes como obras de arte.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, conjuring elegant glowing graphs and charts as floating artworks, artistic flourishing gesture, delighted aesthetic gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r045",
+    "sheet_id": "s016",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Devrin, o Ponte das Torres",
+    "character_desc": "Mago que une duas torres com uma fita-infinito e engrenagens em harmonia.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, linking two towers with an infinity-loop ribbon of gears and light, tool-wand in hand, capable collaborative expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r046",
+    "sheet_id": "s016",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Sentinela, a Guardiã da Chama",
+    "character_desc": "Bruxa-sentinela que protege a chama eterna do funcionamento sem fim.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, guarding an eternal uptime-beacon flame with a shielding hand, vigilant steadfast posture, watchful calm gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r047",
+    "sheet_id": "s016",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Plataon, o Erguedor do Estrado",
+    "character_desc": "Mago que ergue um grande estrado flutuante para os outros construírem.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, raising a great floating platform-dais on which small structures rest, supportive lifting gesture, steady foundational look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r048",
+    "sheet_id": "s016",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Nimbe, a Escultora de Nuvens",
+    "character_desc": "Maga que molda nuvens literais em estruturas arquitetônicas.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, shaping literal soft clouds into architectural structures with sweeping hands, airy visionary expression, serene focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r049",
+    "sheet_id": "s016",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Kybernes, o Timoneiro",
+    "character_desc": "Mago-timoneiro que pilota um leme guiando caixotes-contêiner flutuantes.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, steering a ship's helm wheel while glowing container-crates float in formation behind, commanding navigational gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r050",
+    "sheet_id": "s016",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Reta, a Tecelã da Teia",
+    "character_desc": "Maga que tece uma teia luminosa de fios de conexão entre nós.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, weaving a glowing web-net of connection-threads between floating nodes, deft interlacing fingers, meticulous look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r051",
+    "sheet_id": "s016",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Custos, o Zelador das Máquinas",
+    "character_desc": "Mago-zelador com um molho de chaves que mantém as máquinas vivas.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, holding a large ring of keys, tending softly humming enchanted machines, dependable caretaking expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r052",
+    "sheet_id": "s016",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Volare, a Lançadora",
+    "character_desc": "Maga que lança ao céu uma pomba-versão rotulada com um selo.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, releasing a labeled sealed dove skyward from her hands, upward hopeful gesture, celebratory poised look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r053",
+    "sheet_id": "s016",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Brunn, o Construtor",
+    "character_desc": "Mago que ergue um construto a partir de blocos com um martelo-varinha.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, assembling a construct from glowing blocks with a hammer-wand, sleeves rolled, sturdy focused building stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r054",
+    "sheet_id": "s016",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Cyra, a Roda Contínua",
+    "character_desc": "Feiticeira com uma esteira em loop contínuo de artefatos fluindo.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, operating a continuous looping conveyor-ribbon of small artifacts flowing endlessly, smooth rhythmic gesture, steady gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r055",
+    "sheet_id": "s016",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Aegis, a Guardiã do Escudo",
+    "character_desc": "Bruxa-guardiã com um sigilo-escudo e runas de proteção ao redor.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, raising a glowing shield-sigil ringed with protective warding runes, defensive resolute stance, alert guardian expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r056",
+    "sheet_id": "s016",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Skell, o Testador de Fechaduras",
+    "character_desc": "Mago que testa uma fechadura encantada com varinhas-gazua.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, probing an ornate enchanted lock with slender lockpick-wands, sly investigative smirk, careful testing gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r057",
+    "sheet_id": "s016",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Wardin, o Selador de Tomos",
+    "character_desc": "Mago que sela um tomo-aplicação com glifos protetores.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, warding a floating application-tome with layered protective glyphs, careful sealing gesture, watchful protective look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r058",
+    "sheet_id": "s016",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cifra, a Guardiã dos Segredos",
+    "character_desc": "Feiticeira com rodas de cifra e cadeados rúnicos secretos.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, turning nested cipher wheels beside a secret rune-lock, encoding a hidden message, secretive clever expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r059",
+    "sheet_id": "s016",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Statuta, a Portadora da Lei",
+    "character_desc": "Maga com pergaminho-checklist e o selo de conformidade.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, holding a checklist-scroll stamped with a compliance seal, an official seal-ring in hand, upright rule-abiding look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r060",
+    "sheet_id": "s016",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Velessa, a Guardiã do Véu",
+    "character_desc": "Bruxa que oculta orbes de dados pessoais sob um véu protetor.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical witch shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, drawing a protective veil-cloak over glowing personal-data orbs to hide them, discreet shielding gesture, guarded gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r061",
+    "sheet_id": "s016",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Klaxon, o Apagador de Chamas",
+    "character_desc": "Mago que corre com um sino de alarme dobrando chamas com um gesto.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, rushing with an alarm-bell in one hand while dousing small flames with the other, urgent alert expression, decisive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r062",
+    "sheet_id": "s016",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Umbra, a Mapeadora de Sombras",
+    "character_desc": "Feiticeira que traça caminhos de ataque sombrios num quadro rúnico.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, charting shadowy attack-paths with red thread across a rune-board, analytical cautious gaze, mapping gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r063",
+    "sheet_id": "s016",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Verity, a Inspetora",
+    "character_desc": "Maga que inspeciona artefatos com uma lupa de marca-de-verificação.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, inspecting a small artifact through a checkmark-etched magnifier, discerning meticulous gaze, careful examining pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r064",
+    "sheet_id": "s016",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Automa, a Regente dos Autômatos",
+    "character_desc": "Maga que comanda pequenos autômatos-testadores rodando ensaios roteirizados.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, directing a row of small automaton-testers running scripted trials on a bench, orchestrating wand raised, systematic look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r065",
+    "sheet_id": "s016",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Atlas, o Testador de Cargas",
+    "character_desc": "Mago que testa resistência empilhando pesos sob um cronômetro.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, stacking heavy weights onto a straining construct while holding a stopwatch, testing strain gesture, measuring gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r066",
+    "sheet_id": "s016",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Mano, a Provadora Cuidadosa",
+    "character_desc": "Maga que examina um artefato à mão, checklist em riste.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, carefully probing an artifact by hand while consulting a checklist-scroll, deliberate attentive expression, gentle touch, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r067",
+    "sheet_id": "s016",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Sensia, a Testadora Inclusiva",
+    "character_desc": "Feiticeira que testa com venda nos olhos e trompa auditiva pela inclusão.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, testing an artifact with a blindfold on and an ear-trumpet raised for inclusivity, empathetic careful gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r068",
+    "sheet_id": "s016",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Scriba, o Escriba Iluminador",
+    "character_desc": "Mago-escriba com pena e manuscrito iluminado que documenta os feitiços.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, writing in an illuminated manuscript with an ornate quill, ink-well floating nearby, scholarly diligent expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r069",
+    "sheet_id": "s016",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Herald, o Arauto",
+    "character_desc": "Mago-arauto com uma trompa-megafone e estandarte de boas-vindas.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, raising a decorative horn-megaphone with a welcoming banner unfurled, outgoing enthusiastic expression, open stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r070",
+    "sheet_id": "s016",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Trama, a Tecelã de Pergaminhos",
+    "character_desc": "Maga que organiza pergaminhos numa tapeçaria planejada de conteúdo.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, arranging many scrolls into a planned tapestry-layout on a frame, curatorial thoughtful gesture, composed gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r071",
+    "sheet_id": "s016",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Linguara, a Guardiã do Globo",
+    "character_desc": "Feiticeira com um globo e fitas rúnicas de muitos idiomas.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, holding a small glowing globe wrapped in multilingual rune-ribbons, adapting a scroll to many tongues, worldly warm look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r072",
+    "sheet_id": "s016",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Forma, a Escultora do Produto",
+    "character_desc": "Maga que esculpe uma forma-produto luminosa com ferramentas finas.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, sculpting a glowing product-form with fine shaping tools, considered refining gesture, purposeful design gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r073",
+    "sheet_id": "s016",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Palette, a Guardiã das Cores",
+    "character_desc": "Feiticeira com paleta e flores de cor luminosas que compõe visuais.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, holding an artist palette sprouting glowing color-flowers, composing a visual with a brush, refined aesthetic expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r074",
+    "sheet_id": "s016",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Ripple, o Tecelão da Interação",
+    "character_desc": "Mago que anima uma ondulação responsiva ao toque encantado.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, animating a responsive touch-ripple spreading from a fingertip across a floating surface, attentive precise gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r075",
+    "sheet_id": "s016",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Fluxa, a Dançarina das Fitas",
+    "character_desc": "Maga com fitas rodopiantes de rastro de movimento em harmonia.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, surrounded by swirling ribbons of motion-trails looping gracefully, dancing fluid pose, expressive kinetic gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r076",
+    "sheet_id": "s016",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Penna, a Ilustradora",
+    "character_desc": "Feiticeira que desenha ilustrações vivas com um pincel-varinha.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, drawing a small living illustration into the air with a brush-wand, the sketch coming alive, imaginative delighted look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r077",
+    "sheet_id": "s016",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Iconia, a Lapidadora de Ícones",
+    "character_desc": "Maga que lapida pequenas gemas-ícone numa bandeja ordenada.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, crafting a tray of small glowing icon-gems, arranging a neat set, precise tidy gesture, focused eye for detail, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r078",
+    "sheet_id": "s016",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Blazon, o Forjador do Emblema",
+    "character_desc": "Mago que forja um emblema-crista luminoso da identidade.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, forging a single glowing emblem-crest on a small anvil with a mallet-wand, proud crafting expression, bold stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r079",
+    "sheet_id": "s016",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Sonora, a Conjuradora de Ondas",
+    "character_desc": "Feiticeira que invoca ondas sonoras visíveis com um diapasão.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, striking a tuning fork that emits visible glowing sound-waves rippling outward, attentive listening gesture, rhythmic gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r080",
+    "sheet_id": "s016",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Volumen, o Escultor de Malhas",
+    "character_desc": "Mago que esculpe uma forma wireframe flutuante em sólido.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, sculpting a floating wireframe form into a solid glowing figure with modeling gestures, dimensional focused gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r081",
+    "sheet_id": "s016",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Ludo, a Mestra do Jogo",
+    "character_desc": "Maga com dados, tabuleiro e pergaminho de regras do grande jogo.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, holding glowing dice above a small game-board with a rule-scroll at hand, playful strategic expression, inviting gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r082",
+    "sheet_id": "s016",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Dedalus, o Arquiteto do Labirinto",
+    "character_desc": "Mago que ergue um labirinto encantado em miniatura como cenário.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, building a miniature enchanted maze-landscape on a floating slab with paths and traps, absorbed designing gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r083",
+    "sheet_id": "s016",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Fabula, a Tecelã de Histórias",
+    "character_desc": "Feiticeira que tece uma tapeçaria-história com personagens vivos.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, weaving a story-tapestry alive with small character figures unfolding a narrative, evocative storytelling gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r084",
+    "sheet_id": "s016",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Pixl, o Animador do Sprite",
+    "character_desc": "Mago que anima um familiar-sprite jogável com uma varinha-controle.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, animating a small playable sprite-familiar hopping in the air, holding a controller-shaped wand, spirited focused look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r085",
+    "sheet_id": "s016",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Prisma, a Dobradora de Luz",
+    "character_desc": "Feiticeira que curva a luz por prismas e cristais de shader.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, bending beams of light through floating prisms and shader-crystals into rainbows, precise optical gesture, luminous gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r086",
+    "sheet_id": "s016",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Minim, o Encantador de Circuitos",
+    "character_desc": "Mago que aprisiona um pequeno espírito num amuleto-circuito.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, embedding a tiny glowing spirit into a small circuit-amulet with tweezer-wand, meticulous close-up focus, careful hands, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r087",
+    "sheet_id": "s016",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Chip, a Inscritora de Runas",
+    "character_desc": "Maga que grava runas de firmware numa tábua-chip.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, inscribing glowing firmware-runes onto a small chip-tablet with an etching stylus, precise low-level focus, steady gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r088",
+    "sheet_id": "s016",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Reticella, a Enredadora de Objetos",
+    "character_desc": "Feiticeira que conecta muitos objetos domésticos encantados numa rede.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, linking many small enchanted household objects with glowing connection-threads into a network, orchestrating gesture, curious look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r089",
+    "sheet_id": "s016",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Vinkel, o Elo da Corrente",
+    "character_desc": "Mago que forja uma corrente de blocos luminosos encadeados.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, forging a chain of glowing linked blocks, each sealed with a sigil, holding the growing chain, deliberate secure gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r090",
+    "sheet_id": "s016",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Audra, a Examinadora de Pactos",
+    "character_desc": "Maga que examina um contrato mágico selado com uma lente.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, examining a sealed magical contract-scroll through a magnifying lens for flaws, scrutinizing careful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r091",
+    "sheet_id": "s016",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Portanova, o Abridor de Portais",
+    "character_desc": "Mago com óculos encantados que abre uma janela-portal para outro mundo.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, wearing enchanted goggles while opening a glowing portal-window into another layered world, immersive wondrous gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r092",
+    "sheet_id": "s016",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Automne, a Regente do Autômato",
+    "character_desc": "Feiticeira que comanda um grande familiar-autômato mecânico.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, commanding a tall mechanical automaton familiar at her side with a control-gesture, poised confident stance, inventive look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r093",
+    "sheet_id": "s016",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Sprout, a Cultivadora do Broto",
+    "character_desc": "Maga que nutre uma planta mágica que floresce em curva ascendente.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, nurturing a rapidly blooming magical plant whose vines rise in an upward growth-curve, hopeful cultivating gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r094",
+    "sheet_id": "s016",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Vane, o Farol dos Buscadores",
+    "character_desc": "Mago com bússola e farol que atrai pequenos aracnídeos-buscadores.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, holding a compass beside a glowing beacon that draws small seeker-spiders along light-threads, guiding attentive gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r095",
+    "sheet_id": "s016",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Fontis, a Canalizadora do Funil",
+    "character_desc": "Feiticeira com um vaso-funil que canaliza faíscas de audiência.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, channeling audience-sparks down a glowing funnel-vessel into a single stream, directing gesture, strategic warm look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r096",
+    "sheet_id": "s016",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Clavis, o Ajustador de Chaves",
+    "character_desc": "Mago que ajusta uma chave-solução à fechadura de um cliente.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, fitting a custom glowing key-solution into a client's ornate lock, helpful problem-solving gesture, assured expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r097",
+    "sheet_id": "s016",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Lumen, a Portadora da Lanterna",
+    "character_desc": "Maga com lanterna curativa que responde a sinais de socorro.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, raising a healing lantern toward a faint distress-signal light, reassuring caring expression, ready helping stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r098",
+    "sheet_id": "s016",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Mirage, o Apresentador do Orbe",
+    "character_desc": "Mago que exibe um orbe-demonstração deslumbrante a espectadores.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical wizard shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, presenting a dazzling glowing demo-orb aloft with a showman's flourish, charismatic persuasive smile, open gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r099",
+    "sheet_id": "s016",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Aurum, a Pesadora de Moedas",
+    "character_desc": "Feiticeira que pesa moedas de ouro numa balança otimizadora.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, weighing gold coins on delicate optimizing balance scales, trimming excess, shrewd frugal expression, careful hands, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s016-r100",
+    "sheet_id": "s016",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Lex, a Guardiã da Balança",
+    "character_desc": "Maga com tomo da lei, varinha-martelo e balança do equilíbrio.",
+    "nano_prompt": "Art Nouveau portrait illustration in the ornate style of Alphonse Mucha, a mystical sorceress shown waist-up half-length, flowing robes with organic botanical patterns, a large decorative circular halo arch framing the head, muted pastel palette with gold-leaf accents, sinuous whiplash linework and floral arabesques, holding a law-tome with a gavel-wand, balance scales of justice beside her, composed impartial authoritative gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

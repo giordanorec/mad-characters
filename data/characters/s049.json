@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s049-r001",
+    "sheet_id": "s049",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Archi",
+    "character_desc": "Boneco Funko de arquiteto de solução: capacete e uma planta enrolada na mão, com uma maquete de prédio miniatura.",
+    "nano_prompt": "Funko Pop vinyl figure of a solution architect collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, wearing a hard hat and holding a large blueprint scroll and a small foam-board building model, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r002",
+    "sheet_id": "s049",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Techie",
+    "character_desc": "Funko do Tech Lead: moletom, marcador de quadro branco e um mural de post-its flutuante que aponta o rumo do time.",
+    "nano_prompt": "Funko Pop vinyl figure of a tech lead collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, wearing a hoodie, holding a tiny whiteboard marker and pointing at a floating sticky-note board, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r003",
+    "sheet_id": "s049",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Staffy",
+    "character_desc": "Funko de Staff Engineer: óculos, camisa xadrez, pilha de design docs e caneca — o veterano técnico.",
+    "nano_prompt": "Funko Pop vinyl figure of a staff engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, wearing glasses and a flannel shirt, holding a stack of technical design docs and a coffee mug, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r004",
+    "sheet_id": "s049",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Principa",
+    "character_desc": "Funko de Principal Engineer: cardigã, troféu de engrenagem dourada e um roadmap enrolado sob o braço.",
+    "nano_prompt": "Funko Pop vinyl figure of a principal engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, in a smart cardigan, holding a golden gear trophy and a rolled strategy roadmap, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r005",
+    "sheet_id": "s049",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Emma",
+    "character_desc": "Funko de Engineering Manager: prancheta com checklist e um vasinho — cuida do time e das entregas.",
+    "nano_prompt": "Funko Pop vinyl figure of a engineering manager collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a clipboard with a checklist and a small potted plant, warm friendly smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r006",
+    "sheet_id": "s049",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Pam",
+    "character_desc": "Funko de Product Manager: gráfico de roadmap e post-its na mão, apontando a direção do produto.",
+    "nano_prompt": "Funko Pop vinyl figure of a product manager collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a roadmap chart and sticky notes, pointing forward confidently, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r007",
+    "sheet_id": "s049",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Owen",
+    "character_desc": "Funko de Product Owner: pergaminho de backlog priorizado e caneta vermelha para ordenar o que importa.",
+    "nano_prompt": "Funko Pop vinyl figure of a product owner collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a prioritized backlog scroll and a red pen, thoughtful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r008",
+    "sheet_id": "s049",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Progra",
+    "character_desc": "Funko de Program Manager: várias placas de cronograma interligadas, malabarismo de programas paralelos.",
+    "nano_prompt": "Funko Pop vinyl figure of a program manager collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding multiple interconnected Gantt-chart boards, juggling pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r009",
+    "sheet_id": "s049",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Proja",
+    "character_desc": "Funko de Project Manager: quadro de Gantt e cronômetro — prazos e marcos na palma da mão.",
+    "nano_prompt": "Funko Pop vinyl figure of a project manager collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a Gantt chart board and a stopwatch, clipboard under arm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r010",
+    "sheet_id": "s049",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Scrummy",
+    "character_desc": "Funko de Scrum Master: gráfico burndown, cartões de sprint coloridos e apito para facilitar cerimônias.",
+    "nano_prompt": "Funko Pop vinyl figure of a scrum master collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a burndown chart and colorful sprint cards, wearing a whistle, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r011",
+    "sheet_id": "s049",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Benny",
+    "character_desc": "Funko de Backend Developer: abraçado a um rack de servidor e segurando um terminal com código verde.",
+    "nano_prompt": "Funko Pop vinyl figure of a backend developer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, hugging a stylized server rack tower, holding a terminal window with green code, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r012",
+    "sheet_id": "s049",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Appy",
+    "character_desc": "Funko de API Designer: peças de quebra-cabeça encaixando como endpoints e um conector plugue-tomada.",
+    "nano_prompt": "Funko Pop vinyl figure of a API designer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding interlocking puzzle pieces labeled as endpoints and a plug-and-socket connector, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r013",
+    "sheet_id": "s049",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Micro",
+    "character_desc": "Funko de Microservices Engineer: cercado de cubinhos-serviço flutuantes ligados por fios finos.",
+    "nano_prompt": "Funko Pop vinyl figure of a microservices engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, surrounded by many small floating service cubes connected by tiny wires, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r014",
+    "sheet_id": "s049",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Pipa",
+    "character_desc": "Funko de Pipeline Developer: um cano com gotas de dados fluindo e luvas de trabalho.",
+    "nano_prompt": "Funko Pop vinyl figure of a data pipeline developer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a segment of pipe with flowing data droplets, wearing work gloves, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r015",
+    "sheet_id": "s049",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Datty",
+    "character_desc": "Funko de Data Engineer: cilindro de banco de dados e um funil canalizando fluxos de dados.",
+    "nano_prompt": "Funko Pop vinyl figure of a data engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, carrying a large database cylinder and a funnel channeling data streams, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r016",
+    "sheet_id": "s049",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Dexter",
+    "character_desc": "Funko de DBA: ao lado de um cilindro de banco, com chave gigante e cadeado — guardião dos dados.",
+    "nano_prompt": "Funko Pop vinyl figure of a database administrator collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, standing beside a tall database cylinder with a giant key and padlock, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r017",
+    "sheet_id": "s049",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Quill",
+    "character_desc": "Funko de SQL Specialist: pergaminho de query e lupa sobre uma grade de tabela.",
+    "nano_prompt": "Funko Pop vinyl figure of a SQL specialist collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a scroll of query text and a magnifying glass over a table grid, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r018",
+    "sheet_id": "s049",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Cash",
+    "character_desc": "Funko de Caching Engineer: cronômetro relâmpago e um chip de memória brilhante — velocidade.",
+    "nano_prompt": "Funko Pop vinyl figure of a caching engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a lightning-fast stopwatch and a small glowing memory chip labeled fast, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r019",
+    "sheet_id": "s049",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Cue",
+    "character_desc": "Funko de Message Queue Engineer: esteira com envelopes enfileirados avançando em ordem.",
+    "nano_prompt": "Funko Pop vinyl figure of a message queue engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a conveyor belt with lined-up envelope messages moving along, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r020",
+    "sheet_id": "s049",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Sera",
+    "character_desc": "Funko de Search Engineer: lupa gigante sobre um fichário de índice — encontra tudo.",
+    "nano_prompt": "Funko Pop vinyl figure of a search engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a giant magnifying glass over an index card catalog, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r021",
+    "sheet_id": "s049",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Frankie",
+    "character_desc": "Funko de Frontend Developer: moldura de janela de navegador com blocos de UI e pincel.",
+    "nano_prompt": "Funko Pop vinyl figure of a frontend developer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a browser window frame with colorful UI blocks, paintbrush in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r022",
+    "sheet_id": "s049",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Una",
+    "character_desc": "Funko de UI Engineer: cartões de componentes empilhados — botões e sliders na mão.",
+    "nano_prompt": "Funko Pop vinyl figure of a UI engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding stacked interface component cards like buttons and sliders, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r023",
+    "sheet_id": "s049",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Uxie",
+    "character_desc": "Funko de UX Designer: mapa de jornada do usuário e post-its, postura empática.",
+    "nano_prompt": "Funko Pop vinyl figure of a UX designer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a user-journey flow map and sticky notes, empathetic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r024",
+    "sheet_id": "s049",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Sysdee",
+    "character_desc": "Funko de Design Systems Engineer: grade modular de tiles combinando e uma paleta de cores.",
+    "nano_prompt": "Funko Pop vinyl figure of a design systems engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a modular grid of matching component tiles and a color palette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r025",
+    "sheet_id": "s049",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Ally",
+    "character_desc": "Funko de Accessibility Specialist: escudo com símbolo de acessibilidade e headset de leitor de tela.",
+    "nano_prompt": "Funko Pop vinyl figure of a accessibility specialist collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a universal-access symbol shield and a screen-reader headset, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r026",
+    "sheet_id": "s049",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Perry",
+    "character_desc": "Funko de Web Performance Engineer: velocímetro e uma pena leve — desempenho enxuto.",
+    "nano_prompt": "Funko Pop vinyl figure of a web performance engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a speedometer gauge and a lightweight feather, running-ready stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r027",
+    "sheet_id": "s049",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Cassie",
+    "character_desc": "Funko de CSS Specialist: rolo de tinta e um diagrama box-model com margens coloridas.",
+    "nano_prompt": "Funko Pop vinyl figure of a CSS specialist collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a paint roller and a box-model diagram with colorful margins, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r028",
+    "sheet_id": "s049",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Ani",
+    "character_desc": "Funko de Animation Engineer: tira de filme com quadros de movimento e bolinha quicando numa curva.",
+    "nano_prompt": "Funko Pop vinyl figure of a animation engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a filmstrip of motion frames and a bouncing ball on a curve, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r029",
+    "sheet_id": "s049",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Moby",
+    "character_desc": "Funko de Mobile Developer: dois smartphones com telas de app, um em cada mãozinha.",
+    "nano_prompt": "Funko Pop vinyl figure of a mobile developer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding two smartphones with app screens, one in each stubby hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r030",
+    "sheet_id": "s049",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Ivo",
+    "character_desc": "Funko de iOS Developer: smartphone prateado elegante e uma maçãzinha estilizada.",
+    "nano_prompt": "Funko Pop vinyl figure of a iOS developer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a sleek silver smartphone and a small stylized apple fruit, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r031",
+    "sheet_id": "s049",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Andi",
+    "character_desc": "Funko de Android Developer: mascote robô verde e um smartphone cheio de widgets.",
+    "nano_prompt": "Funko Pop vinyl figure of a Android developer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a green robot mascot figure and a smartphone with widgets, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r032",
+    "sheet_id": "s049",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Nate",
+    "character_desc": "Funko de React Native Developer: smartphone unindo duas plataformas e um átomo brilhante.",
+    "nano_prompt": "Funko Pop vinyl figure of a React Native developer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a smartphone bridging two platform icons with a glowing atom symbol, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r033",
+    "sheet_id": "s049",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Flora",
+    "character_desc": "Funko de Flutter Developer: smartphone com um widget azul em forma de borboleta esvoaçando.",
+    "nano_prompt": "Funko Pop vinyl figure of a Flutter developer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a smartphone with a blue butterfly-like widget fluttering out, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r034",
+    "sheet_id": "s049",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Sci",
+    "character_desc": "Funko de Data Scientist: jaleco, gráfico de dispersão e um béquer borbulhante de dados.",
+    "nano_prompt": "Funko Pop vinyl figure of a data scientist collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, wearing a lab coat, holding a scatter-plot chart and a bubbling beaker of data, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r035",
+    "sheet_id": "s049",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Emmy",
+    "character_desc": "Funko de ML Engineer: modelo de rede neural brilhante em forma de cérebro com nós conectados.",
+    "nano_prompt": "Funko Pop vinyl figure of a ML engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a glowing neural-network brain model with connected nodes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r036",
+    "sheet_id": "s049",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Ops",
+    "character_desc": "Funko de MLOps Engineer: modelo neural numa esteira com foguetinhos de deploy.",
+    "nano_prompt": "Funko Pop vinyl figure of a MLOps engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a neural-network model on a conveyor with deployment rockets, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r037",
+    "sheet_id": "s049",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Reya",
+    "character_desc": "Funko de AI Researcher: óculos redondos, um paper na mão e uma lâmpada-cérebro de ideias.",
+    "nano_prompt": "Funko Pop vinyl figure of a AI researcher collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, wearing round glasses, holding a research paper and a lightbulb brain, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r038",
+    "sheet_id": "s049",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Prompty",
+    "character_desc": "Funko de Prompt Engineer: balão de fala em pergaminho e varinha apontando para uma janela de chat.",
+    "nano_prompt": "Funko Pop vinyl figure of a prompt engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a speech bubble scroll and a magic wand pointing at a chat window, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r039",
+    "sheet_id": "s049",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Nell",
+    "character_desc": "Funko de NLP Engineer: tokens de palavras flutuando e uma fita de forma de onda de fala.",
+    "nano_prompt": "Funko Pop vinyl figure of a NLP engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding floating word tokens and a speech waveform ribbon, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r040",
+    "sheet_id": "s049",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Vic",
+    "character_desc": "Funko de Computer Vision Engineer: câmera e uma moldura de detecção ao redor de um objeto.",
+    "nano_prompt": "Funko Pop vinyl figure of a computer vision engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a camera and a bounding-box frame around a detected object, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r041",
+    "sheet_id": "s049",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Ana",
+    "character_desc": "Funko de Data Analyst: placa de gráfico de barras e um de pizza, apontando uma tendência de alta.",
+    "nano_prompt": "Funko Pop vinyl figure of a data analyst collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a bar-chart board and a pie chart, pointing at a rising trend, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r042",
+    "sheet_id": "s049",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Bea",
+    "character_desc": "Funko de BI Analyst: painel de dashboard com vários medidores de KPI acesos.",
+    "nano_prompt": "Funko Pop vinyl figure of a BI analyst collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a dashboard panel with multiple KPI gauges glowing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r043",
+    "sheet_id": "s049",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Anya",
+    "character_desc": "Funko de Analytics Engineer: funil transformando blocos brutos em peças limpas de gráfico.",
+    "nano_prompt": "Funko Pop vinyl figure of a analytics engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a funnel transforming raw blocks into clean chart pieces, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r044",
+    "sheet_id": "s049",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Viz",
+    "character_desc": "Funko de Data Viz Specialist: canvas de gráfico colorido interativo e paleta de artista.",
+    "nano_prompt": "Funko Pop vinyl figure of a data viz specialist collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a colorful interactive chart canvas and an artist palette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r045",
+    "sheet_id": "s049",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Devo",
+    "character_desc": "Funko de DevOps Engineer: faixa do loop infinito azul-e-branco e uma chave inglesa.",
+    "nano_prompt": "Funko Pop vinyl figure of a DevOps engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a blue-and-white infinity-loop banner and a wrench, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r046",
+    "sheet_id": "s049",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Reli",
+    "character_desc": "Funko de SRE: pager no cinto, escudo verde de uptime e um gráfico de monitoramento.",
+    "nano_prompt": "Funko Pop vinyl figure of a site reliability engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, wearing a pager on belt, holding a green uptime shield and a monitoring graph, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r047",
+    "sheet_id": "s049",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Platt",
+    "character_desc": "Funko de Platform Engineer: em cima de uma laje-plataforma, com blocos modulares de ferramentas.",
+    "nano_prompt": "Funko Pop vinyl figure of a platform engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, standing on a sturdy platform slab, holding modular toolkit blocks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r048",
+    "sheet_id": "s049",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Cloudy",
+    "character_desc": "Funko de Cloud Architect: nuvem fofa com ícones de servidor e uma planta de regiões conectadas.",
+    "nano_prompt": "Funko Pop vinyl figure of a cloud architect collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a fluffy cloud with server icons and a blueprint of connected regions, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r049",
+    "sheet_id": "s049",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Kubo",
+    "character_desc": "Funko de Kubernetes Admin: quepe de capitão e um leme azul de sete raios — pilotando containers.",
+    "nano_prompt": "Funko Pop vinyl figure of a Kubernetes admin collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, wearing a ship captain hat, holding a blue seven-spoke helm wheel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r050",
+    "sheet_id": "s049",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Net",
+    "character_desc": "Funko de Network Engineer: cabos ethernet emaranhados e um roteador com portas piscando.",
+    "nano_prompt": "Funko Pop vinyl figure of a network engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding tangled ethernet cables and a router with blinking ports, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r051",
+    "sheet_id": "s049",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Sadie",
+    "character_desc": "Funko de Systems Administrator: molho de chaves gigante e um terminal, ao lado de uma torre de servidor.",
+    "nano_prompt": "Funko Pop vinyl figure of a systems administrator collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a giant ring of keys and a terminal, standing by a server tower, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r052",
+    "sheet_id": "s049",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Rel",
+    "character_desc": "Funko de Release Engineer: alavanca de lançamento e uma caixa etiquetada pronta pra enviar.",
+    "nano_prompt": "Funko Pop vinyl figure of a release engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a launch lever and a tagged package box ready to ship, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r053",
+    "sheet_id": "s049",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Bill",
+    "character_desc": "Funko de Build Engineer: cinto de ferramentas e martelo sobre uma pilha de blocos de build.",
+    "nano_prompt": "Funko Pop vinyl figure of a build engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, wearing a tool belt, holding an assembly hammer over a stack of build blocks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r054",
+    "sheet_id": "s049",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Cici",
+    "character_desc": "Funko de CI/CD Engineer: esteira circular de pipeline com portões de checkmark rodando.",
+    "nano_prompt": "Funko Pop vinyl figure of a CI/CD engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a circular pipeline conveyor with checkmark gates flowing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r055",
+    "sheet_id": "s049",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Sec",
+    "character_desc": "Funko de Security Engineer: capacete e um escudo grande com emblema de cadeado.",
+    "nano_prompt": "Funko Pop vinyl figure of a security engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, wearing a helmet, holding a large shield with a padlock emblem, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r056",
+    "sheet_id": "s049",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Pen",
+    "character_desc": "Funko de Penetration Tester: moletom preto, kit de gazua e uma chave-esqueleto vermelha.",
+    "nano_prompt": "Funko Pop vinyl figure of a penetration tester collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, wearing a black hoodie, holding a lockpick set and a red skeleton key, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r057",
+    "sheet_id": "s049",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Apps",
+    "character_desc": "Funko de AppSec Engineer: pergaminho de código com lupa revelando um bug e um escudo.",
+    "nano_prompt": "Funko Pop vinyl figure of a application security engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a code scroll with a magnifier revealing a bug and a shield, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r058",
+    "sheet_id": "s049",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Crypta",
+    "character_desc": "Funko de Cryptographer: roda de cifra travada e uma chave feita de dígitos hex brilhantes.",
+    "nano_prompt": "Funko Pop vinyl figure of a cryptographer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a locked cipher wheel and a key made of glowing hex digits, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r059",
+    "sheet_id": "s049",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Comp",
+    "character_desc": "Funko de Compliance Officer: prancheta com checklist, carimbo de aprovado e um livro de regras.",
+    "nano_prompt": "Funko Pop vinyl figure of a compliance officer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a checklist clipboard with a stamp of approval and a rulebook, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r060",
+    "sheet_id": "s049",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Priya",
+    "character_desc": "Funko de Privacy Engineer: escudo escondendo ícones de dados pessoais sob uma máscara de blur.",
+    "nano_prompt": "Funko Pop vinyl figure of a privacy engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a shield hiding personal-data icons under a blur mask, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r061",
+    "sheet_id": "s049",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Reddy",
+    "character_desc": "Funko de Incident Responder: capacete vermelho de bombeiro, sirene de alerta e extintor.",
+    "nano_prompt": "Funko Pop vinyl figure of a incident responder collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, wearing a red firefighter helmet, holding an alert siren and a fire extinguisher, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r062",
+    "sheet_id": "s049",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Threa",
+    "character_desc": "Funko de Threat Modeler: tabuleiro de xadrez com peças-atacante e um mapa de setas de ataque.",
+    "nano_prompt": "Funko Pop vinyl figure of a threat modeler collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a chessboard with attacker pieces and a map of attack arrows, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r063",
+    "sheet_id": "s049",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Quinn",
+    "character_desc": "Funko de QA Engineer: carimbo de checkmark verde gigante e uma rede caçando um bug vermelho.",
+    "nano_prompt": "Funko Pop vinyl figure of a QA engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a giant green checkmark stamp and a bug net over a red bug, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r064",
+    "sheet_id": "s049",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Auto",
+    "character_desc": "Funko de SDET: braço robótico rodando checkmarks de teste repetidos numa esteira.",
+    "nano_prompt": "Funko Pop vinyl figure of a SDET automation collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a robot arm running repeated test checkmarks on a conveyor, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r065",
+    "sheet_id": "s049",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Perfy",
+    "character_desc": "Funko de Performance Tester: mostrador de estresse no máximo e um cronômetro sob carga.",
+    "nano_prompt": "Funko Pop vinyl figure of a performance tester collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a stress-gauge dial pushed to max and a stopwatch under load, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r066",
+    "sheet_id": "s049",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Manny",
+    "character_desc": "Funko de Manual Tester: checklist impresso de casos de teste e lupa, olhar atento.",
+    "nano_prompt": "Funko Pop vinyl figure of a manual tester collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a printed test-case checklist and a magnifying glass, careful gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r067",
+    "sheet_id": "s049",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Axel",
+    "character_desc": "Funko de Accessibility Tester: checklist com símbolo de acessibilidade e headset de leitor com check.",
+    "nano_prompt": "Funko Pop vinyl figure of a accessibility tester collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding an access-symbol checklist and a screen-reader headset with a checkmark, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r068",
+    "sheet_id": "s049",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Doc",
+    "character_desc": "Funko de Technical Writer: óculos, um manual aberto e uma caneta-pena.",
+    "nano_prompt": "Funko Pop vinyl figure of a technical writer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, wearing glasses, holding an open manual book and a quill pen, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r069",
+    "sheet_id": "s049",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Deva",
+    "character_desc": "Funko de Developer Advocate: microfone e um laptop coberto de adesivos, acenando animado.",
+    "nano_prompt": "Funko Pop vinyl figure of a developer advocate collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a microphone and a sticker-covered laptop, cheerful waving pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r070",
+    "sheet_id": "s049",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Stella",
+    "character_desc": "Funko de Content Strategist: quadro de calendário de conteúdo e uma bússola apontando o arco narrativo.",
+    "nano_prompt": "Funko Pop vinyl figure of a content strategist collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a content-calendar board and a compass pointing to a story arc, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r071",
+    "sheet_id": "s049",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Lina",
+    "character_desc": "Funko de Localization Engineer: globo com balões em escritas diferentes e uma chave de tradução.",
+    "nano_prompt": "Funko Pop vinyl figure of a localization engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a globe with speech bubbles in different scripts and a translation key, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r072",
+    "sheet_id": "s049",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Prue",
+    "character_desc": "Funko de Product Designer: um wireframe se transformando num mockup de UI polido.",
+    "nano_prompt": "Funko Pop vinyl figure of a product designer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a wireframe frame morphing into a polished UI mockup, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r073",
+    "sheet_id": "s049",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Viva",
+    "character_desc": "Funko de Visual Designer: paleta de artista, leque de swatches e boina na cabeça.",
+    "nano_prompt": "Funko Pop vinyl figure of a visual designer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding an artist palette and a color-swatch fan, beret on head, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r074",
+    "sheet_id": "s049",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Ira",
+    "character_desc": "Funko de Interaction Designer: diagrama de gesto de toque com um dedo apertando um botão animado.",
+    "nano_prompt": "Funko Pop vinyl figure of a interaction designer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a tap-gesture diagram with a finger pressing an animated button, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r075",
+    "sheet_id": "s049",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Moti",
+    "character_desc": "Funko de Motion Designer: fita de rastro de movimento e cartões de keyframe de animação.",
+    "nano_prompt": "Funko Pop vinyl figure of a motion designer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a swooshing motion-trail ribbon and animation keyframe cards, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r076",
+    "sheet_id": "s049",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Illa",
+    "character_desc": "Funko de Illustrator: caderno de desenho, lápis gigante e avental manchado de tinta.",
+    "nano_prompt": "Funko Pop vinyl figure of a illustrator collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a sketchbook and an oversized drawing pencil, ink-stained apron, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r077",
+    "sheet_id": "s049",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Asa",
+    "character_desc": "Funko de Asset Designer: bandeja de mini-sprites e um baú de tesouro como asset.",
+    "nano_prompt": "Funko Pop vinyl figure of a game asset designer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a tray of tiny sprite icons and a treasure-chest asset, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r078",
+    "sheet_id": "s049",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Brandy",
+    "character_desc": "Funko de Brand Designer: medalhão de logo e um cartão de guia de marca com swatches.",
+    "nano_prompt": "Funko Pop vinyl figure of a brand designer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a logo mark medallion and a brand-guideline swatch card, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r079",
+    "sheet_id": "s049",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Sonny",
+    "character_desc": "Funko de Sound Designer: fones de ouvido, fita de forma de onda e um sininho de foley.",
+    "nano_prompt": "Funko Pop vinyl figure of a sound designer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, wearing headphones, holding a waveform ribbon and a small foley bell, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r080",
+    "sheet_id": "s049",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Tridy",
+    "character_desc": "Funko de 3D Artist: uma esfera wireframe virando um modelo 3D esculpido.",
+    "nano_prompt": "Funko Pop vinyl figure of a 3D artist collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a wireframe sphere morphing into a sculpted 3D model, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r081",
+    "sheet_id": "s049",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Gami",
+    "character_desc": "Funko de Game Designer: controle de videogame e um tabuleiro de mapa de fase com dados e fichas.",
+    "nano_prompt": "Funko Pop vinyl figure of a game designer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a game controller and a level-map board with dice and tokens, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r082",
+    "sheet_id": "s049",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Levy",
+    "character_desc": "Funko de Level Designer: mapa de blocos modulares de fase com bandeira de início e plataformas.",
+    "nano_prompt": "Funko Pop vinyl figure of a level designer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a modular level-block map with a start flag and platforms, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r083",
+    "sheet_id": "s049",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Nara",
+    "character_desc": "Funko de Narrative Designer: pergaminho de árvore de história ramificada e uma pena de contador.",
+    "nano_prompt": "Funko Pop vinyl figure of a narrative designer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a branching story-tree scroll and a quill, storyteller pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r084",
+    "sheet_id": "s049",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Gabe",
+    "character_desc": "Funko de Game Developer: controle de videogame, um sprite pixelado flutuante e um trecho de código.",
+    "nano_prompt": "Funko Pop vinyl figure of a game developer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a game controller and a floating pixel sprite with a code snippet, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r085",
+    "sheet_id": "s049",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Shady",
+    "character_desc": "Funko de Graphics/Shader Engineer: orbe de shader brilhante com raios de luz e um cubo de gradiente.",
+    "nano_prompt": "Funko Pop vinyl figure of a graphics shader engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a glowing shader orb with light rays and a color gradient cube, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r086",
+    "sheet_id": "s049",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Emba",
+    "character_desc": "Funko de Embedded Engineer: uma placa de circuito com microchip e um ferro de solda.",
+    "nano_prompt": "Funko Pop vinyl figure of a embedded engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a small circuit board with a microchip and a soldering iron, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r087",
+    "sheet_id": "s049",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Firm",
+    "character_desc": "Funko de Firmware Engineer: um microchip com um cartucho de ROM de código encaixando.",
+    "nano_prompt": "Funko Pop vinyl figure of a firmware engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a microchip with a tiny code ROM cartridge slotting in, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r088",
+    "sheet_id": "s049",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Iona",
+    "character_desc": "Funko de IoT Engineer: um hub de casa inteligente com gadgets sensores conectados ao redor.",
+    "nano_prompt": "Funko Pop vinyl figure of a IoT engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a smart-home hub with connected sensor gadgets floating around, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r089",
+    "sheet_id": "s049",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Blocky",
+    "character_desc": "Funko de Blockchain Developer: uma corrente de cubos encadeados e um token-moeda brilhante.",
+    "nano_prompt": "Funko Pop vinyl figure of a blockchain developer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a chain of linked cube blocks and a glowing coin token, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r090",
+    "sheet_id": "s049",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Smarta",
+    "character_desc": "Funko de Smart Contract Auditor: pergaminho de contrato num bloco de cadeia e lupa sobre um bug.",
+    "nano_prompt": "Funko Pop vinyl figure of a smart contract auditor collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a contract scroll on a chain block with a magnifier over a bug, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r091",
+    "sheet_id": "s049",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Ari",
+    "character_desc": "Funko de AR/VR Engineer: óculos de VR e um cubo holográfico flutuando entre as mãos.",
+    "nano_prompt": "Funko Pop vinyl figure of a AR/VR engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, wearing a VR headset, holding a floating holographic cube in both hands, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r092",
+    "sheet_id": "s049",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Robo",
+    "character_desc": "Funko de Robotics Engineer: um braço robótico mecânico pequeno e um controle remoto.",
+    "nano_prompt": "Funko Pop vinyl figure of a robotics engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a small mechanical robot arm and a remote controller, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r093",
+    "sheet_id": "s049",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Groa",
+    "character_desc": "Funko de Growth Engineer: uma seta-foguete de gráfico em alta e um mostrador de teste A/B.",
+    "nano_prompt": "Funko Pop vinyl figure of a growth engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a rising rocket-chart arrow and an A/B split-test dial, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r094",
+    "sheet_id": "s049",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Seoly",
+    "character_desc": "Funko de SEO Specialist: lupa sobre uma escada de ranking de busca subindo.",
+    "nano_prompt": "Funko Pop vinyl figure of a SEO specialist collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a magnifying glass over a search-rank ladder climbing up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r095",
+    "sheet_id": "s049",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Marta",
+    "character_desc": "Funko de Marketing Technologist: megafone e um funil de ícones de clientes descendo.",
+    "nano_prompt": "Funko Pop vinyl figure of a marketing technologist collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a megaphone and a funnel of customer icons flowing down, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r096",
+    "sheet_id": "s049",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Sol",
+    "character_desc": "Funko de Solutions Engineer: uma peça de quebra-cabeça encaixando na lacuna do cliente e um tablet de demo.",
+    "nano_prompt": "Funko Pop vinyl figure of a solutions engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a puzzle piece fitting into a client's gap and a demo tablet, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r097",
+    "sheet_id": "s049",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Sunny",
+    "character_desc": "Funko de Support Engineer: headset, boia salva-vidas e um ticket em balão de chat, sorriso amigável.",
+    "nano_prompt": "Funko Pop vinyl figure of a support engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, wearing a headset, holding a life-ring and a chat-bubble ticket, friendly smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r098",
+    "sheet_id": "s049",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Sally",
+    "character_desc": "Funko de Sales Engineer: blazer, tablet de demo e um gesto de aperto de mão com um gráfico.",
+    "nano_prompt": "Funko Pop vinyl figure of a sales engineer collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, wearing a blazer, holding a demo tablet and a handshake gesture with a chart, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r099",
+    "sheet_id": "s049",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Fina",
+    "character_desc": "Funko de FinOps Analyst: uma nuvem com etiqueta de preço e uma calculadora mostrando economia.",
+    "nano_prompt": "Funko Pop vinyl figure of a FinOps analyst collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a cloud with a price tag and a calculator showing savings, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s049-r100",
+    "sheet_id": "s049",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Lex",
+    "character_desc": "Funko de Legal Counsel: uma balança da justiça equilibrada e um contrato lacrado com martelo.",
+    "nano_prompt": "Funko Pop vinyl figure of a legal counsel collectible, classic Funko Pop style with oversized square head, big solid black round eyes, tiny simple nose, small stubby body, short arms, glossy matte vinyl finish, standing full-body front-facing pose on tiny feet, holding a balanced scale of justice and a sealed contract with a gavel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

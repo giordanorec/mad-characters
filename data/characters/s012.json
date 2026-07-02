@@ -1,0 +1,1002 @@
+[
+ {
+  "char_id": "s012-r001",
+  "sheet_id": "s012",
+  "role_id": "r001",
+  "role_slug": "arquiteto",
+  "role_name": "Arquiteto de Solução",
+  "character_name": "Lorde Blueprint",
+  "character_desc": "Vilão mestre-planejador que rege o esquema inteiro como um arquiteto de solução, desenhando a fortaleza do mal. Os projetos enrolados e o compasso de latão entregam o papel de arquiteto.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who masterminds the whole scheme like a solution architect, clutching rolled dark blueprints of a doom-fortress, a brass drafting compass raised, a scale model of an evil tower on his shoulder, sly confident smirk, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r002",
+  "sheet_id": "s012",
+  "role_id": "r002",
+  "role_slug": "tech-lead",
+  "role_name": "Tech Lead",
+  "character_name": "Comandante Pixel",
+  "character_desc": "Vilão carismático que rege os capangas como um tech lead. O ponteiro-batuta e o headset de comando sinalizam a liderança técnica.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who commands henchmen like a tech lead, holding a glowing pointer-baton directing minions, a sleek command headset over his ear, decisive arrogant grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r003",
+  "sheet_id": "s012",
+  "role_id": "r003",
+  "role_slug": "staff-engineer",
+  "role_name": "Staff Engineer",
+  "character_name": "O Eminência Cinza",
+  "character_desc": "Vilão estrategista dos bastidores, um staff engineer da vilania. Peças de xadrez flutuantes e telas holográficas mostram influência ampla sem cargo aparente.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who pulls strings from the shadows like a staff engineer, floating chess pieces and holographic screens orbiting his head, hand stroking chin in cold strategy, subtle knowing smile, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r004",
+  "sheet_id": "s012",
+  "role_id": "r004",
+  "role_slug": "principal-engineer",
+  "role_name": "Principal Engineer",
+  "character_name": "Grão-Vizir Kernel",
+  "character_desc": "Vilão principal engineer, autoridade técnica suprema. O cetro coroado com um núcleo brilhante e o manto de conselheiro mostram o senioridade máxima.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who reigns as a principal engineer of evil, wielding a crowned scepter tipped with a glowing core, ornate advisor robe, imperious lofty gaze, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r005",
+  "sheet_id": "s012",
+  "role_id": "r005",
+  "role_slug": "eng-manager",
+  "role_name": "Engineering Manager",
+  "character_name": "Madame Roster",
+  "character_desc": "Vilã engineering manager que pastoreia a horda. A prancheta de escala de equipe e a batuta de maestro comunicam a gestão de gente.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who herds the horde like an engineering manager, a team-roster clipboard in one hand and a conductor baton in the other, orchestrating minions, composed authoritative expression, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r006",
+  "sheet_id": "s012",
+  "role_id": "r006",
+  "role_slug": "product-manager",
+  "role_name": "Product Manager",
+  "character_name": "Barão Roadmap",
+  "character_desc": "Vilão product manager que dita o que atacar primeiro. O pergaminho-roteiro e as cartas de post-it como feitiços indicam priorização de produto.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who dictates the plan like a product manager, unfurling a roadmap scroll, sticky-note spell cards fanned like a hand of cards, plotting scheming grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r007",
+  "sheet_id": "s012",
+  "role_id": "r007",
+  "role_slug": "product-owner",
+  "role_name": "Product Owner",
+  "character_name": "Dona Backlog",
+  "character_desc": "Vilã product owner que guarda o tomo de pendências. O grimório pesado de itens e a coroa mostram a dona do que será feito.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who owns the vision like a product owner, hugging a massive heavy backlog tome bristling with bookmarks, a small crown tilted, possessive haughty look, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r008",
+  "sheet_id": "s012",
+  "role_id": "r008",
+  "role_slug": "program-manager",
+  "role_name": "Program Manager",
+  "character_name": "O Tecelão de Tramas",
+  "character_desc": "Vilão program manager coordenando muitos golpes ao mesmo tempo. O mural de barbantes e cordões conectando esquemas mostra a orquestração multi-projeto.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who coordinates many schemes like a program manager, a red-string conspiracy board behind him with threads connecting plots, gesturing across it, calculating grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r009",
+  "sheet_id": "s012",
+  "role_id": "r009",
+  "role_slug": "project-manager",
+  "role_name": "Project Manager",
+  "character_name": "Cronos Gantt",
+  "character_desc": "Vilão project manager escravo do prazo. A ampulheta e o pergaminho de cronograma Gantt entregam o controle de datas.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who enslaves deadlines like a project manager, an hourglass in one hand and a Gantt-chart scroll in the other, tapping the glass impatiently, stern controlling frown, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r010",
+  "sheet_id": "s012",
+  "role_id": "r010",
+  "role_slug": "scrum-master",
+  "role_name": "Scrum Master",
+  "character_name": "Mestre Cerimônia",
+  "character_desc": "Vilão scrum master, o mestre-de-ritual das cerimônias. O sino ritual e o círculo de post-its indicam as reuniões do ágil.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who runs the rituals like a scrum master, ringing a ceremonial standup bell, a ring of sticky notes floating around him, theatrical ringmaster grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r011",
+  "sheet_id": "s012",
+  "role_id": "r011",
+  "role_slug": "backend-dev",
+  "role_name": "Backend Developer",
+  "character_name": "Doutor Servidor",
+  "character_desc": "Vilão backend developer no calabouço de servidores. Os cabos como tentáculos e o rack ligam-no às entranhas do sistema.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who lurks in the server dungeon like a backend developer, tangled cables coiling like tentacles from a humming server rack behind him, greasy triumphant grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r012",
+  "sheet_id": "s012",
+  "role_id": "r012",
+  "role_slug": "api-designer",
+  "role_name": "API Designer",
+  "character_name": "Sir Endpoint",
+  "character_desc": "Vilão API designer que define os contratos. Os plugues dourados e o blueprint de conectores mostram o desenho de interfaces.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who dictates the contracts like an API designer, holding golden connector plugs and a blueprint of sockets and endpoints, precise smug expression, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r013",
+  "sheet_id": "s012",
+  "role_id": "r013",
+  "role_slug": "microservices-eng",
+  "role_name": "Microservices Engineer",
+  "character_name": "O Enxame Micro",
+  "character_desc": "Vilão microservices engineer cercado de mini-esquemas independentes. O cardume de caixinhas brilhantes representa os muitos serviços.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who commands a swarm like a microservices engineer, dozens of tiny glowing service boxes orbiting him like a cloud, arms spread wide, maniacal grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r014",
+  "sheet_id": "s012",
+  "role_id": "r014",
+  "role_slug": "pipeline-dev",
+  "role_name": "Pipeline Developer",
+  "character_name": "Conde Conduíte",
+  "character_desc": "Vilão pipeline developer com aparato industrial de esteiras. Os tubos e o conduíte de dados fluindo entregam o pipeline.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who runs the machine like a pipeline developer, industrial pipes and conveyor belts feeding a glowing data conduit across his chest, steady industrious sneer, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r015",
+  "sheet_id": "s012",
+  "role_id": "r015",
+  "role_slug": "data-engineer",
+  "role_name": "Data Engineer",
+  "character_name": "Baronesa Fluxo",
+  "character_desc": "Vilã data engineer que canaliza rios de dados. Os barris rotulados e os funis de dados sinalizam a engenharia de dados.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who channels rivers of data like a data engineer, stacked data barrels and a big funnel pouring luminous streams, hand on a valve, industrious cold smirk, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r016",
+  "sheet_id": "s012",
+  "role_id": "r016",
+  "role_slug": "dba",
+  "role_name": "Database Administrator",
+  "character_name": "Guardião Vault",
+  "character_desc": "Vilão DBA que guarda o cofre de cilindros de banco. Os discos empilhados e a chave gigante mostram a administração do banco de dados.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who guards the vault like a database administrator, stacked database-cylinder disks behind him and a giant ornate key in hand, protective menacing glare, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r017",
+  "sheet_id": "s012",
+  "role_id": "r017",
+  "role_slug": "sql-specialist",
+  "role_name": "SQL Specialist",
+  "character_name": "Feiticeiro Query",
+  "character_desc": "Vilão SQL specialist que conjura consultas. A varinha com sigilo de SELECT e a grade de tabelas indicam o domínio do SQL.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who conjures queries like a SQL specialist, waving a wand crowned with a glowing SELECT sigil over a lattice of floating table grids, cunning focused grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r018",
+  "sheet_id": "s012",
+  "role_id": "r018",
+  "role_slug": "caching-engineer",
+  "role_name": "Caching Engineer",
+  "character_name": "O Avaro do Cache",
+  "character_desc": "Vilão caching engineer que empilha acessos-relâmpago. Os chips de memória e a névoa congelada de velocidade mostram o cache.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who hoards speed like a caching engineer, clutching glowing memory chips wrapped in frost, a frozen hourglass beside him, greedy quick-eyed grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r019",
+  "sheet_id": "s012",
+  "role_id": "r019",
+  "role_slug": "queue-engineer",
+  "role_name": "Message Queue Engineer",
+  "character_name": "Senhor Fila",
+  "character_desc": "Vilão message queue engineer que organiza a fila dos capangas. A esteira de envelopes-mensagem e o dispensador de senhas indicam a fila.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who orders the line like a message queue engineer, a conveyor of message envelopes filing past, a ticket dispenser in hand, patient controlling smirk, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r020",
+  "sheet_id": "s012",
+  "role_id": "r020",
+  "role_slug": "search-engineer",
+  "role_name": "Search Engineer",
+  "character_name": "O Inquisidor Index",
+  "character_desc": "Vilão search engineer que tudo encontra. A lupa gigante e as fichas de índice rodopiando entregam a busca.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who finds everything like a search engineer, wielding a giant magnifying glass while index cards swirl around him, piercing all-seeing stare, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r021",
+  "sheet_id": "s012",
+  "role_id": "r021",
+  "role_slug": "frontend-dev",
+  "role_name": "Frontend Developer",
+  "character_name": "Pintor de Telas",
+  "character_desc": "Vilão frontend developer que pinta a interface do mal em painéis de vidro. O quadro de janela de navegador e o pincel indicam o frontend.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who paints the interface like a frontend developer, brushing a UI onto a floating glass browser-window frame, palette in hand, artistic wicked smile, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r022",
+  "sheet_id": "s012",
+  "role_id": "r022",
+  "role_slug": "ui-engineer",
+  "role_name": "UI Engineer",
+  "character_name": "Engenheiro Widget",
+  "character_desc": "Vilão UI engineer que monta componentes brilhantes. Os botões flutuantes e os toggles montados à mão mostram a engenharia de UI.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who assembles components like a UI engineer, snapping together glowing buttons, toggles and sliders in mid-air, meticulous smug grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r023",
+  "sheet_id": "s012",
+  "role_id": "r023",
+  "role_slug": "ux-designer",
+  "role_name": "UX Designer",
+  "character_name": "Doutor Wireframe",
+  "character_desc": "Vilão UX designer que manipula usuários como marionetes. O mapa de wireframe e as cordinhas de puppet nos bonecos-usuário indicam o UX.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who puppeteers users like a UX designer, a wireframe map in one hand and marionette strings dangling tiny user figures from the other, empathetic mask, calculating smile, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r024",
+  "sheet_id": "s012",
+  "role_id": "r024",
+  "role_slug": "design-systems-eng",
+  "role_name": "Design Systems Engineer",
+  "character_name": "Curador de Tokens",
+  "character_desc": "Vilão design systems engineer com biblioteca de peças idênticas. A grade de componentes e os swatches de token comunicam o design system.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who standardizes everything like a design systems engineer, a grid of identical UI components and color-token swatches arrayed behind him, orderly imperious look, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r025",
+  "sheet_id": "s012",
+  "role_id": "r025",
+  "role_slug": "a11y-specialist",
+  "role_name": "Accessibility Specialist",
+  "character_name": "Vidente Contraste",
+  "character_desc": "Vilão accessibility specialist obcecado por contraste e leitura. A lente de alto-contraste e a tabela optométrica indicam a acessibilidade.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who enforces access like an accessibility specialist, holding a high-contrast lens over an eye chart, aria-wave halos around him, earnest intense stare, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r026",
+  "sheet_id": "s012",
+  "role_id": "r026",
+  "role_slug": "web-perf-engineer",
+  "role_name": "Web Performance Engineer",
+  "character_name": "Barão Milissegundo",
+  "character_desc": "Vilão web performance engineer viciado em velocidade. O velocímetro, o cronômetro e o raio de rapidez entregam a performance.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who chases speed like a web performance engineer, a speedometer gauge on his chest, a stopwatch in hand and lightning bolts crackling, adrenaline grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r027",
+  "sheet_id": "s012",
+  "role_id": "r027",
+  "role_slug": "css-specialist",
+  "role_name": "CSS Specialist",
+  "character_name": "Estilista Cascata",
+  "character_desc": "Vilão CSS specialist que dobra caixas de layout. O rolo de tinta, a paleta e a grade flexbox indicam o CSS.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who bends layouts like a CSS specialist, a paint roller and palette in hand, flexbox boxes rearranging around him, stylish confident smirk, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r028",
+  "sheet_id": "s012",
+  "role_id": "r028",
+  "role_slug": "animation-engineer",
+  "role_name": "Animation Engineer",
+  "character_name": "Mestre dos Quadros",
+  "character_desc": "Vilão animation engineer que dá vida ao movimento. Os rastros de motion-blur e a linha de keyframes entregam a animação.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who animates the scheme like an animation engineer, motion-blur trails swirling from his hands, a keyframe timeline glowing beside him, dynamic gleeful grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r029",
+  "sheet_id": "s012",
+  "role_id": "r029",
+  "role_slug": "mobile-dev",
+  "role_name": "Mobile Developer",
+  "character_name": "O Bolso Sombrio",
+  "character_desc": "Vilão mobile developer com um smartphone sinistro. O celular gigante com grade de apps mostra o desenvolvimento mobile.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who schemes on the go like a mobile developer, cradling a giant sinister smartphone with a grid of glowing app icons, thumb hovering, smug pocket-sized menace, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r030",
+  "sheet_id": "s012",
+  "role_id": "r030",
+  "role_slug": "ios-dev",
+  "role_name": "iOS Developer",
+  "character_name": "Conde Cupertino",
+  "character_desc": "Vilão iOS developer com gadget minimalista polido. O aparelho prateado impecável indica o desenvolvimento iOS.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who polishes evil like an iOS developer, holding a flawless brushed-silver minimalist device, sleek turtleneck cape, refined snobbish smirk, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r031",
+  "sheet_id": "s012",
+  "role_id": "r031",
+  "role_slug": "android-dev",
+  "role_name": "Android Developer",
+  "character_name": "Robô Verde",
+  "character_desc": "Vilão Android developer com um droide verde travesso. O robozinho verde ajudante entrega o desenvolvimento Android.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who tinkers like an Android developer, a mischievous little green robot droid perched on his shoulder, an open modular gadget in hand, playful crooked grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r032",
+  "sheet_id": "s012",
+  "role_id": "r032",
+  "role_slug": "react-native-dev",
+  "role_name": "React Native Developer",
+  "character_name": "A Ponte Dupla",
+  "character_desc": "Vilão React Native developer que controla dois celulares com um roteiro. Os dois aparelhos ligados por um símbolo de átomo mostram o cross-platform.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who bridges worlds like a React Native developer, two phones linked by a glowing atom bridge in his hands, ambidextrous cunning grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r033",
+  "sheet_id": "s012",
+  "role_id": "r033",
+  "role_slug": "flutter-dev",
+  "role_name": "Flutter Developer",
+  "character_name": "Barão Borboleta",
+  "character_desc": "Vilão Flutter developer com painéis de asa azul em vários aparelhos. As asas-widget azuis idênticas entregam o Flutter.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who spreads across screens like a Flutter developer, identical blue butterfly-wing UI panels fanning from multiple devices, elegant fluttering menace, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r034",
+  "sheet_id": "s012",
+  "role_id": "r034",
+  "role_slug": "data-scientist",
+  "role_name": "Data Scientist",
+  "character_name": "Doutora Hipótese",
+  "character_desc": "Vilã data scientist com frascos de dados e constelações de pontos. O balão de números e o gráfico de dispersão indicam a ciência de dados.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who experiments like a data scientist, holding a bubbling flask full of glowing numbers, a scatter-plot constellation floating overhead, curious devious grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r035",
+  "sheet_id": "s012",
+  "role_id": "r035",
+  "role_slug": "ml-engineer",
+  "role_name": "ML Engineer",
+  "character_name": "Domador Neural",
+  "character_desc": "Vilão ML engineer que treina uma fera-modelo acorrentada. A coleira de rede neural e o cérebro-modelo entregam o machine learning.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who trains the beast like an ML engineer, holding a leash of neural-net nodes chaining a caged glowing model-brain, commanding cruel smile, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r036",
+  "sheet_id": "s012",
+  "role_id": "r036",
+  "role_slug": "mlops-engineer",
+  "role_name": "MLOps Engineer",
+  "character_name": "Capitão Deploy",
+  "character_desc": "Vilão MLOps engineer que dispara modelos ao mundo. O canhão de deploy com cápsulas de modelo na esteira indica o MLOps.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who ships models like an MLOps engineer, loading model canisters onto a deployment cannon fed by a conveyor, hand on the trigger, efficient ruthless grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r037",
+  "sheet_id": "s012",
+  "role_id": "r037",
+  "role_slug": "ai-researcher",
+  "role_name": "AI Researcher",
+  "character_name": "O Sábio Sombrio",
+  "character_desc": "Vilão AI researcher com tomos arcanos e equações brilhantes. As fórmulas flutuantes e o sigilo de cérebro indicam a pesquisa em IA.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who theorizes like an AI researcher, glowing equations and arcane research tomes orbiting a brain-sigil above him, contemplative megalomaniac stare, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r038",
+  "sheet_id": "s012",
+  "role_id": "r038",
+  "role_slug": "llm-prompt",
+  "role_name": "Prompt Engineer",
+  "character_name": "O Sussurrador",
+  "character_desc": "Vilão prompt engineer que cochicha com um oráculo brilhante. O pergaminho de fala e o orbe-oráculo entregam a engenharia de prompt.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who whispers to the oracle like a prompt engineer, murmuring into a glowing floating oracle-orb head, a speech scroll unrolling from his lips, sly persuasive smirk, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r039",
+  "sheet_id": "s012",
+  "role_id": "r039",
+  "role_slug": "nlp-engineer",
+  "role_name": "NLP Engineer",
+  "character_name": "Tecelão de Palavras",
+  "character_desc": "Vilão NLP engineer que manipula palavras flutuantes. As letras e tokens rodopiando comunicam o NLP.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who twists language like an NLP engineer, streams of floating letters and word-tokens swirling between his hands, silver-tongued cunning grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r040",
+  "sheet_id": "s012",
+  "role_id": "r040",
+  "role_slug": "cv-engineer",
+  "role_name": "Computer Vision Engineer",
+  "character_name": "O Olho que Tudo Vê",
+  "character_desc": "Vilão computer vision engineer com olho mecânico. As caixas de detecção sobre alvos entregam a visão computacional.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who watches all like a computer vision engineer, a glowing mechanical camera-eye replacing one eye, bounding-box detection frames snapping onto targets around him, cold surveilling grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r041",
+  "sheet_id": "s012",
+  "role_id": "r041",
+  "role_slug": "data-analyst",
+  "role_name": "Data Analyst",
+  "character_name": "Analista das Sombras",
+  "character_desc": "Vilão data analyst com escudo de gráfico de pizza. As tábuas de gráficos e a lupa de tendências indicam a análise de dados.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who reads the numbers like a data analyst, holding a pie-chart shield and a magnifier over trend-line tablets, shrewd calculating smirk, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r042",
+  "sheet_id": "s012",
+  "role_id": "r042",
+  "role_slug": "bi-analyst",
+  "role_name": "BI Analyst",
+  "character_name": "Rei Dashboard",
+  "character_desc": "Vilão BI analyst num trono de mostradores. Os painéis de KPI e os medidores luminosos entregam o BI.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who rules from the dashboard like a BI analyst, seated among glowing KPI gauges and dashboard panels, gesturing at rising dials, satisfied domineering grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r043",
+  "sheet_id": "s012",
+  "role_id": "r043",
+  "role_slug": "analytics-engineer",
+  "role_name": "Analytics Engineer",
+  "character_name": "O Alquimista Métrico",
+  "character_desc": "Vilão analytics engineer que transforma dados brutos em gemas de métrica. O funil de transformação e os cristais de métrica indicam o analytics engineering.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who transmutes data like an analytics engineer, pouring raw ore into a transform-funnel that outputs polished glowing metric gems, alchemic proud grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r044",
+  "sheet_id": "s012",
+  "role_id": "r044",
+  "role_slug": "dataviz-specialist",
+  "role_name": "Data Viz Specialist",
+  "character_name": "Feiticeira Gráfico",
+  "character_desc": "Vilã dataviz specialist que conjura gráficos luminosos como armas. As barras e linhas brilhantes entregam a visualização de dados.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who weaponizes charts like a data viz specialist, conjuring luminous bar and line graphs as glowing blades in each hand, flamboyant theatrical grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r045",
+  "sheet_id": "s012",
+  "role_id": "r045",
+  "role_slug": "devops-installer",
+  "role_name": "DevOps Engineer",
+  "character_name": "Lorde Infinito",
+  "character_desc": "Vilão DevOps engineer com engrenagem de loop infinito. A chave-inglesa e o pipeline em fita infinita entregam o DevOps.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who loops forever like a DevOps engineer, spinning a glowing infinity-loop gear, a wrench in the other hand, pipeline ribbon around his shoulders, tireless smug grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r046",
+  "sheet_id": "s012",
+  "role_id": "r046",
+  "role_slug": "sre",
+  "role_name": "Site Reliability Engineer",
+  "character_name": "Guardião Uptime",
+  "character_desc": "Vilão SRE bombeiro-guardião do sistema. O pager, o sino de alarme e o escudo de uptime indicam o SRE.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who guards uptime like a site reliability engineer, a pager clipped to his cape, an alarm bell ringing and a shield emblazoned with an uptime graph, vigilant weary grimace, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r047",
+  "sheet_id": "s012",
+  "role_id": "r047",
+  "role_slug": "platform-engineer",
+  "role_name": "Platform Engineer",
+  "character_name": "O Palco do Mal",
+  "character_desc": "Vilão platform engineer que constrói o palco onde os outros pisam. Os ladrilhos modulares de plataforma indicam o platform engineering.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who builds the stage like a platform engineer, assembling glowing modular platform tiles beneath other minions' feet, foundational smug grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r048",
+  "sheet_id": "s012",
+  "role_id": "r048",
+  "role_slug": "cloud-architect",
+  "role_name": "Cloud Architect",
+  "character_name": "Senhor da Tempestade",
+  "character_desc": "Vilão cloud architect num trono de nuvem escura. A nuvem sombria e os raios entregam a arquitetura em nuvem.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who reigns aloft like a cloud architect, enthroned on a dark storm cloud crackling with lightning, arms raised summoning servers, thunderous grandiose grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r049",
+  "sheet_id": "s012",
+  "role_id": "r049",
+  "role_slug": "k8s-admin",
+  "role_name": "Kubernetes Admin",
+  "character_name": "Timoneiro Contêiner",
+  "character_desc": "Vilão Kubernetes admin ao leme do navio. O leme de sete pontas e as caixas-contêiner empilhadas entregam o Kubernetes.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who steers the fleet like a Kubernetes admin, gripping a seven-spoked ship's helm, stacked shipping-container crates behind him, captainly commanding smirk, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r050",
+  "sheet_id": "s012",
+  "role_id": "r050",
+  "role_slug": "network-engineer",
+  "role_name": "Network Engineer",
+  "character_name": "O Aracnídeo da Rede",
+  "character_desc": "Vilão network engineer com teia de cabos e nós. A malha de rede luminosa e o roteador entregam a rede.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who spins the web like a network engineer, a glowing mesh of cables and nodes stretched between his fingers, a router pulsing beside him, spidery watchful grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r051",
+  "sheet_id": "s012",
+  "role_id": "r051",
+  "role_slug": "sysadmin",
+  "role_name": "Systems Administrator",
+  "character_name": "O Chaveiro Supremo",
+  "character_desc": "Vilão sysadmin com as chaves de todos os sistemas. O molho de chaves e o terminal piscando indicam a administração de sistemas.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who holds all keys like a systems administrator, jangling a huge keyring, a blinking green terminal screen glowing beside him, gatekeeper's smug grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r052",
+  "sheet_id": "s012",
+  "role_id": "r052",
+  "role_slug": "release-engineer",
+  "role_name": "Release Engineer",
+  "character_name": "Capitão Versão",
+  "character_desc": "Vilão release engineer que lança o foguete da versão. O foguete e as etiquetas de tag entregam o release.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who launches releases like a release engineer, holding a small rocket labeled with version tags, ignition switch in hand, countdown grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r053",
+  "sheet_id": "s012",
+  "role_id": "r053",
+  "role_slug": "build-engineer",
+  "role_name": "Build Engineer",
+  "character_name": "Ferreiro Artefato",
+  "character_desc": "Vilão build engineer na forja de artefatos. O martelo, a bigorna e o artefato-engrenagem indicam o build.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who forges artifacts like a build engineer, hammering a glowing gear-artifact on an anvil, sparks flying, sooty determined grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r054",
+  "sheet_id": "s012",
+  "role_id": "r054",
+  "role_slug": "cicd-engineer",
+  "role_name": "CI/CD Engineer",
+  "character_name": "O Circuito Automático",
+  "character_desc": "Vilão CI/CD engineer com a esteira automatizada. O loop de esteira e as luzes verde-e-vermelho entregam o CI/CD.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who automates the line like a CI/CD engineer, standing over an automated conveyor loop flashing green-and-red pass/fail lights, hands-free confident grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r055",
+  "sheet_id": "s012",
+  "role_id": "r055",
+  "role_slug": "security-auditor",
+  "role_name": "Security Engineer",
+  "character_name": "Inspetor Cadeado",
+  "character_desc": "Vilão security engineer que audita com escudo e cadeado. O escudo, o cadeado e a checklist de auditoria indicam a segurança.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who audits defenses like a security engineer, holding a shield and a heavy padlock, an inspection checklist floating beside him, stern probing glare, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r056",
+  "sheet_id": "s012",
+  "role_id": "r056",
+  "role_slug": "pentester",
+  "role_name": "Penetration Tester",
+  "character_name": "O Gatuno Skeleton",
+  "character_desc": "Vilão penetration tester arrombador. Os alicates de chaveiro e a chave-esqueleto entregam o pentest.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who breaks in like a penetration tester, hooded, holding lockpicks and a skeleton skull-key, an open padlock dangling, mischievous prowling grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r057",
+  "sheet_id": "s012",
+  "role_id": "r057",
+  "role_slug": "appsec-engineer",
+  "role_name": "AppSec Engineer",
+  "character_name": "Sentinela AppSec",
+  "character_desc": "Vilão AppSec engineer que blinda o app. O escudo espinhoso sobre uma janela de app e a rede de bugs indicam o AppSec.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who armors the app like an AppSec engineer, guarding a floating app window with a barbed shield, a bug-catching net in hand, watchful defiant grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r058",
+  "sheet_id": "s012",
+  "role_id": "r058",
+  "role_slug": "cryptographer",
+  "role_name": "Cryptographer",
+  "character_name": "O Enigmático",
+  "character_desc": "Vilão cryptographer com roda de cifra. A roda enigma de cifra e o pergaminho trancado entregam a criptografia.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who scrambles secrets like a cryptographer, turning an Enigma cipher wheel, a locked scroll and a key in hand, inscrutable secretive smirk, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r059",
+  "sheet_id": "s012",
+  "role_id": "r059",
+  "role_slug": "compliance-officer",
+  "role_name": "Compliance Officer",
+  "character_name": "O Carimbo do Destino",
+  "character_desc": "Vilão compliance officer com livro de regras. O calhamaço de normas e o carimbo pesado entregam o compliance.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who enforces rules like a compliance officer, clutching a heavy rulebook and raising a doom-stamp poised to strike, bureaucratic menacing frown, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r060",
+  "sheet_id": "s012",
+  "role_id": "r060",
+  "role_slug": "privacy-engineer",
+  "role_name": "Privacy Engineer",
+  "character_name": "O Redator de Máscaras",
+  "character_desc": "Vilão privacy engineer que oculta rostos. As barras de tarja de redação e a máscara entregam a privacidade.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who hides identities like a privacy engineer, black redaction bars floating across faces around him, a blank privacy mask in hand, cloaked secretive grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r061",
+  "sheet_id": "s012",
+  "role_id": "r061",
+  "role_slug": "incident-responder",
+  "role_name": "Incident Responder",
+  "character_name": "Sirene Vermelha",
+  "character_desc": "Vilão incident responder em meio a alarmes. A luz de alarme vermelha e o extintor entregam a resposta a incidentes.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who fights fires like an incident responder, bathed in red alarm-light, a fire extinguisher in one hand and a flaring pager in the other, tense adrenaline glare, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r062",
+  "sheet_id": "s012",
+  "role_id": "r062",
+  "role_slug": "threat-modeler",
+  "role_name": "Threat Modeler",
+  "character_name": "O Cartógrafo de Ataques",
+  "character_desc": "Vilão threat modeler que mapeia árvores de ataque. O diagrama de árvore de ataque e as peças de xadrez entregam a modelagem de ameaças.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who maps attacks like a threat modeler, tracing a branching attack-tree diagram on a dark board, chess pieces in hand, strategic sinister smirk, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r063",
+  "sheet_id": "s012",
+  "role_id": "r063",
+  "role_slug": "qa-tester",
+  "role_name": "QA Engineer",
+  "character_name": "Caçador de Bugs",
+  "character_desc": "Vilão QA engineer que caça defeitos. A rede de pegar bugs, a lupa e a checklist entregam o QA.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who hunts defects like a QA engineer, swinging a bug-catching net, a magnifier and a test checklist in hand, a squashed bug on his glove, gleeful hunting grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r064",
+  "sheet_id": "s012",
+  "role_id": "r064",
+  "role_slug": "sdet",
+  "role_name": "SDET (Automação)",
+  "character_name": "Autômato de Testes",
+  "character_desc": "Vilão SDET com braço-robô de testes. O braço mecânico carimbando pass/fail entrega a automação de testes.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who automates checks like an SDET, a robotic test-arm bolted to his shoulder stamping green pass and red fail marks, efficient cold grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r065",
+  "sheet_id": "s012",
+  "role_id": "r065",
+  "role_slug": "perf-tester",
+  "role_name": "Performance Tester",
+  "character_name": "Martelo de Carga",
+  "character_desc": "Vilão performance tester que estressa o sistema. Os pesos de carga e o medidor entregam o teste de performance.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who stresses systems like a performance tester, hoisting heavy load-weights while a strained gauge needle spikes to red, straining ruthless grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r066",
+  "sheet_id": "s012",
+  "role_id": "r066",
+  "role_slug": "manual-tester",
+  "role_name": "Manual Tester",
+  "character_name": "O Sondador Meticuloso",
+  "character_desc": "Vilão manual tester que cutuca cada canto. A sonda fina e a prancheta de casos entregam o teste manual.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who pokes everything like a manual tester, prodding a device with a fine probe, a case-list clipboard in hand, obsessive squinting scrutiny, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r067",
+  "sheet_id": "s012",
+  "role_id": "r067",
+  "role_slug": "a11y-tester",
+  "role_name": "Accessibility Tester",
+  "character_name": "O Ouvido Atento",
+  "character_desc": "Vilão accessibility tester que testa com leitor de tela. O dispositivo de áudio no ouvido e o cartão de contraste entregam o teste de acessibilidade.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who tests for all like an accessibility tester, a screen-reader earpiece cupped to his ear, a contrast-check card raised, attentive discerning look, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r068",
+  "sheet_id": "s012",
+  "role_id": "r068",
+  "role_slug": "docs-writer",
+  "role_name": "Technical Writer",
+  "character_name": "O Escriba Sombrio",
+  "character_desc": "Vilão technical writer com pena e manuais. A pena de escrever e o manual colossal entregam a documentação técnica.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who documents the plot like a technical writer, dipping a quill, a towering stack of manuals beside him, an open tome in his lap, meticulous inky grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r069",
+  "sheet_id": "s012",
+  "role_id": "r069",
+  "role_slug": "dev-advocate",
+  "role_name": "Developer Advocate",
+  "character_name": "O Pregador do Palco",
+  "character_desc": "Vilão developer advocate carismático no palco. O microfone e o holofote entregam o developer advocacy.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who evangelizes like a developer advocate, gripping a microphone in a spotlight beam, arm raised to the crowd, magnetic showman grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r070",
+  "sheet_id": "s012",
+  "role_id": "r070",
+  "role_slug": "content-strategist",
+  "role_name": "Content Strategist",
+  "character_name": "Estrategista Calendário",
+  "character_desc": "Vilão content strategist que planeja a narrativa. O quadro de calendário editorial e a pena entregam a estratégia de conteúdo.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who plots the message like a content strategist, before an editorial calendar board pinned with plans, a quill in hand, calculating persuasive smile, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r071",
+  "sheet_id": "s012",
+  "role_id": "r071",
+  "role_slug": "i18n-engineer",
+  "role_name": "Localization Engineer",
+  "character_name": "O Malabarista de Idiomas",
+  "character_desc": "Vilão localization engineer que faz malabarismo com globos e falas. O globo e os ladrilhos de glifos multilíngues entregam a i18n.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who juggles tongues like a localization engineer, spinning a globe while multilingual glyph tiles and speech bubbles circle him, worldly clever grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r072",
+  "sheet_id": "s012",
+  "role_id": "r072",
+  "role_slug": "product-designer",
+  "role_name": "Product Designer",
+  "character_name": "Escultor de Produtos",
+  "character_desc": "Vilão product designer que molda o protótipo. O modelo-protótipo e o estilete entregam o design de produto.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who sculpts products like a product designer, shaping a glowing product prototype with a stylus, refined visionary smirk, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r073",
+  "sheet_id": "s012",
+  "role_id": "r073",
+  "role_slug": "visual-designer",
+  "role_name": "Visual Designer",
+  "character_name": "Mestre da Paleta",
+  "character_desc": "Vilão visual designer com paleta e cartaz ousado. A paleta de tintas e o pôster vibrante entregam o design visual.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who dazzles like a visual designer, holding an artist palette before a bold graphic poster, brush in hand, flamboyant proud grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r074",
+  "sheet_id": "s012",
+  "role_id": "r074",
+  "role_slug": "interaction-designer",
+  "role_name": "Interaction Designer",
+  "character_name": "O Titereiro de Fluxos",
+  "character_desc": "Vilão interaction designer que puxa os fluxos. As setas de fluxo e a onda de toque entregam o design de interação.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who directs flows like an interaction designer, pulling glowing interaction-arrows and tap-ripple gestures like strings, precise crafty smile, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r075",
+  "sheet_id": "s012",
+  "role_id": "r075",
+  "role_slug": "motion-designer",
+  "role_name": "Motion Designer",
+  "character_name": "Conde Movimento",
+  "character_desc": "Vilão motion designer com arcos de movimento e rolo de filme. Os arcos giratórios e a bobina entregam o motion design.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who choreographs like a motion designer, swirling glowing motion-arcs from his hands, a film reel spinning beside him, dynamic flourish grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r076",
+  "sheet_id": "s012",
+  "role_id": "r076",
+  "role_slug": "illustrator",
+  "role_name": "Illustrator",
+  "character_name": "A Caneta que Dá Vida",
+  "character_desc": "Vilão illustrator que desenha capangas para a vida. A caneta gigante de tinta e o esboço entregam a ilustração.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who draws minions to life like an illustrator, wielding a giant ink pen mid-stroke, sketched creatures peeling off the page beside him, creative devilish grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r077",
+  "sheet_id": "s012",
+  "role_id": "r077",
+  "role_slug": "asset-designer",
+  "role_name": "Asset Designer",
+  "character_name": "O Senhor dos Sprites",
+  "character_desc": "Vilão asset designer cercado de folhas de sprite e ícones. A sprite sheet em grade e os ícones entregam o design de assets.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who mass-produces assets like an asset designer, surrounded by a grid sprite-sheet and floating icon tiles, arranging them with a stylus, prolific smug grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r078",
+  "sheet_id": "s012",
+  "role_id": "r078",
+  "role_slug": "brand-designer",
+  "role_name": "Brand Designer",
+  "character_name": "O Forjador de Emblemas",
+  "character_desc": "Vilão brand designer que cria o emblema sinistro. O escudo-logo e o compasso entregam o design de marca.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who crafts the emblem like a brand designer, holding a sinister crest-shield and a geometry compass over it, polished self-assured smile, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r079",
+  "sheet_id": "s012",
+  "role_id": "r079",
+  "role_slug": "sound-designer",
+  "role_name": "Sound Designer",
+  "character_name": "O Regente da Onda",
+  "character_desc": "Vilão sound designer com fones e forma de onda. Os fones de ouvido, a forma de onda e o diapasão entregam o design de som.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who tunes the terror like a sound designer, big headphones on, a glowing audio waveform ribbon and a tuning fork in hand, rhythmic intense grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r080",
+  "sheet_id": "s012",
+  "role_id": "r080",
+  "role_slug": "3d-artist",
+  "role_name": "3D Artist",
+  "character_name": "O Escultor de Vértices",
+  "character_desc": "Vilão 3D artist que esculpe um busto em wireframe. A escultura wireframe e os vértices entregam a arte 3D.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who sculpts in space like a 3D artist, shaping a glowing wireframe bust with floating vertices and a digital chisel, technical proud smirk, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r081",
+  "sheet_id": "s012",
+  "role_id": "r081",
+  "role_slug": "game-designer",
+  "role_name": "Game Designer",
+  "character_name": "O Mestre do Tabuleiro",
+  "character_desc": "Vilão game designer com tabuleiro de armadilhas e dados. Os dados e o tabuleiro de jogo entregam o design de jogos.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who rigs the game like a game designer, rolling oversized dice over a trap-filled game board, plotting playful grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r082",
+  "sheet_id": "s012",
+  "role_id": "r082",
+  "role_slug": "level-designer",
+  "role_name": "Level Designer",
+  "character_name": "O Arquiteto do Labirinto",
+  "character_desc": "Vilão level designer que monta o labirinto-masmorra. O blueprint de labirinto e os ladrilhos de tile entregam o level design.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who builds the maze like a level designer, assembling a dungeon-maze blueprint from glowing level tiles, cunning architect grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r083",
+  "sheet_id": "s012",
+  "role_id": "r083",
+  "role_slug": "narrative-designer",
+  "role_name": "Narrative Designer",
+  "character_name": "O Autor Ramificado",
+  "character_desc": "Vilão narrative designer com livro de história ramificada. O tomo de enredo com galhos e as cordinhas de marionete entregam o narrative design.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who scripts fates like a narrative designer, an open branching-story tome with plot threads splitting, marionette strings on tiny characters, storyteller's sly smile, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r084",
+  "sheet_id": "s012",
+  "role_id": "r084",
+  "role_slug": "game-dev",
+  "role_name": "Game Developer",
+  "character_name": "O Mestre do Controle",
+  "character_desc": "Vilão game developer que controla capangas com joystick. O gamepad e os sprites em pixel entregam o desenvolvimento de jogos.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who controls the play like a game developer, gripping a gamepad steering pixel-sprite minions around him, competitive gleeful grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r085",
+  "sheet_id": "s012",
+  "role_id": "r085",
+  "role_slug": "graphics-engineer",
+  "role_name": "Graphics/Shader Engineer",
+  "character_name": "O Prisma Radiante",
+  "character_desc": "Vilão graphics/shader engineer que conjura luz por um prisma. O prisma e as ondas de shader luminosas entregam a engenharia gráfica.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who bends light like a graphics shader engineer, refracting glowing shader-rays through a crystal prism in his hands, iridescent mesmerizing grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r086",
+  "sheet_id": "s012",
+  "role_id": "r086",
+  "role_slug": "embedded-engineer",
+  "role_name": "Embedded Engineer",
+  "character_name": "O Circuito Enxertado",
+  "character_desc": "Vilão embedded engineer com placa de circuito no peito. A placa de circuito e o ferro de solda entregam o embarcado.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who wires the machine like an embedded engineer, a circuit board grafted across his chest, a soldering iron trailing smoke in hand, tinkerer's cold grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r087",
+  "sheet_id": "s012",
+  "role_id": "r087",
+  "role_slug": "firmware-engineer",
+  "role_name": "Firmware Engineer",
+  "character_name": "O Injetor de Firmware",
+  "character_desc": "Vilão firmware engineer que grava chips. O microchip, o sigilo de hex e a ROM entregam o firmware.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who flashes chips like a firmware engineer, injecting a glowing hex-code sigil into a microchip with a probe, a ROM module in hand, low-level menacing grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r088",
+  "sheet_id": "s012",
+  "role_id": "r088",
+  "role_slug": "iot-engineer",
+  "role_name": "IoT Engineer",
+  "character_name": "O Enxame Conectado",
+  "character_desc": "Vilão IoT engineer com enxame de sensores e gadgets. Os sensores flutuantes e a antena entregam a IoT.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who connects everything like an IoT engineer, a swarm of tiny sensors and gadgets orbiting a broadcasting antenna on his shoulder, networked scheming grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r089",
+  "sheet_id": "s012",
+  "role_id": "r089",
+  "role_slug": "blockchain-dev",
+  "role_name": "Blockchain Developer",
+  "character_name": "Barão Blockchain",
+  "character_desc": "Vilão blockchain developer com corrente de blocos e moedas. Os blocos ligados brilhantes e a moeda entregam o blockchain.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who forges the chain like a blockchain developer, holding a chain of glowing linked blocks and a gleaming crypto coin, greedy immutable grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r090",
+  "sheet_id": "s012",
+  "role_id": "r090",
+  "role_slug": "smartcontract-auditor",
+  "role_name": "Smart Contract Auditor",
+  "character_name": "O Auditor da Corrente",
+  "character_desc": "Vilão smart contract auditor que examina a corrente com loupe. A corrente de contrato e a lupa de joalheiro entregam a auditoria de smart contract.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who scrutinizes the chain like a smart contract auditor, inspecting a chain of contract-blocks through a jeweler's loupe, meticulous suspicious squint, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r091",
+  "sheet_id": "s012",
+  "role_id": "r091",
+  "role_slug": "arvr-engineer",
+  "role_name": "AR/VR Engineer",
+  "character_name": "O Visor de Mundos",
+  "character_desc": "Vilão AR/VR engineer com visor e reinos holográficos. O visor de VR e o holograma entregam o AR/VR.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who bends reality like an AR/VR engineer, wearing a sleek VR visor while a holographic realm unfolds from his hands, immersed euphoric grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r092",
+  "sheet_id": "s012",
+  "role_id": "r092",
+  "role_slug": "robotics-engineer",
+  "role_name": "Robotics Engineer",
+  "character_name": "O Titã Mecânico",
+  "character_desc": "Vilão robotics engineer com garra mecânica e capanga-robô. A garra robótica e o controle entregam a robótica.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who commands machines like a robotics engineer, a mechanical claw-arm extending from his back and a control pad in hand, a small robot minion beside him, mechanical proud grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r093",
+  "sheet_id": "s012",
+  "role_id": "r093",
+  "role_slug": "growth-engineer",
+  "role_name": "Growth Engineer",
+  "character_name": "O Foguete da Curva",
+  "character_desc": "Vilão growth engineer com gráfico em disparada. A seta de crescimento subindo e o funil entregam o growth.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who rockets numbers like a growth engineer, riding a hockey-stick growth-arrow blasting upward, a conversion funnel in hand, ambitious hungry grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r094",
+  "sheet_id": "s012",
+  "role_id": "r094",
+  "role_slug": "seo-specialist",
+  "role_name": "SEO Specialist",
+  "character_name": "O Escalador do Ranking",
+  "character_desc": "Vilão SEO specialist que sobe ao topo do ranking. A escada de ranking, o ímã de tráfego e a lupa entregam o SEO.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who climbs the ranks like an SEO specialist, standing atop a rank-ladder holding a horseshoe magnet pulling traffic arrows, keyword magnifier in hand, opportunist smirk, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r095",
+  "sheet_id": "s012",
+  "role_id": "r095",
+  "role_slug": "marketing-tech",
+  "role_name": "Marketing Technologist",
+  "character_name": "O Megafone Automático",
+  "character_desc": "Vilão marketing technologist com megafone e funil de automação. O megafone e o funil de automação entregam o martech.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who broadcasts the pitch like a marketing technologist, raising a megaphone above an automation funnel dripping leads, slick salesman grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r096",
+  "sheet_id": "s012",
+  "role_id": "r096",
+  "role_slug": "solutions-engineer",
+  "role_name": "Solutions Engineer",
+  "character_name": "O Encaixador de Soluções",
+  "character_desc": "Vilão solutions engineer que encaixa peças da demo. As peças de quebra-cabeça e o aparelho de demo entregam o solutions engineering.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who fits the pieces like a solutions engineer, snapping puzzle pieces together over a demo device, persuasive problem-solver grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r097",
+  "sheet_id": "s012",
+  "role_id": "r097",
+  "role_slug": "support-engineer",
+  "role_name": "Support Engineer",
+  "character_name": "O Atendente das Chamas",
+  "character_desc": "Vilão support engineer com headset e tickets em chamas. O headset e a pilha de tickets ardendo entregam o suporte.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who fields tickets like a support engineer, a support headset on, juggling a stack of flaming trouble-tickets, frazzled sardonic grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r098",
+  "sheet_id": "s012",
+  "role_id": "r098",
+  "role_slug": "sales-engineer",
+  "role_name": "Sales Engineer",
+  "character_name": "O Aperto de Mão Fatal",
+  "character_desc": "Vilão sales engineer com maleta e contrato-armadilha. A maleta reluzente, o contrato e o sorriso encantador entregam a venda.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who closes the deal like a sales engineer, offering a handshake while a slick briefcase pops open with a contract, charming disarming grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r099",
+  "sheet_id": "s012",
+  "role_id": "r099",
+  "role_slug": "finops",
+  "role_name": "FinOps Analyst",
+  "character_name": "O Avarento do Cloud",
+  "character_desc": "Vilão FinOps analyst que corta custos e acumula moedas. As moedas, a tesoura de corte e o razão de conta em nuvem entregam o FinOps.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who counts every coin like a FinOps analyst, hoarding gold coins while snipping a rising cloud-bill with scissors, a ledger under arm, penny-pinching grin, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s012-r100",
+  "sheet_id": "s012",
+  "role_id": "r100",
+  "role_slug": "legal-counsel",
+  "role_name": "Legal Counsel",
+  "character_name": "O Advogado das Correntes",
+  "character_desc": "Vilão legal counsel com martelo e contrato-corrente. O martelo de juiz, o pergaminho de contrato e a balança entregam o jurídico.",
+  "nano_prompt": "Warhol-style pop art silkscreen portrait, head-and-shoulders bust framing, bold flat CMYK color blocks with high-contrast halftone screenprint dots and thick graphic outlines, a charismatic caped supervillain who binds in law like a legal counsel, wielding a judge's gavel over a contract scroll wrapped in chains, scales of justice tipping beside him, shrewd lawyerly smirk, vibrant serigraphy pop-art rendering, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ }
+]

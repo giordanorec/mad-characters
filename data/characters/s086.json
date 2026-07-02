@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s086-r001",
+    "sheet_id": "s086",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Blueplano",
+    "character_desc": "Wojak mascote segurando uma planta baixa enrolada e um capacete de arquiteto, olhar sereno de quem já desenhou o sistema inteiro na cabeça.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as wearing a white architect hard hat, holding a rolled blueprint scroll, tiny floating boxes-and-arrows diagram beside the head, calm confident face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r002",
+    "sheet_id": "s086",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Lidão",
+    "character_desc": "Wojak mascote com apito no pescoço e prancheta, apontando o dedo pra frente coordenando o time.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as coach whistle on a lanyard, holding a small clipboard, one hand pointing forward, focused leadership face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r003",
+    "sheet_id": "s086",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Stafford",
+    "character_desc": "Wojak mascote veterano com café gigante e vários crachás de experiência, expressão de calma total.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as oversized coffee mug, chest covered in achievement pins, slightly grey stubble, unbothered wise expression, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r004",
+    "sheet_id": "s086",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Prince Pal",
+    "character_desc": "Wojak mascote com pequena coroa torta de papel e um diagrama flutuando, aura de autoridade técnica.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as crooked paper crown, faint glowing aura, floating system diagram, dignified smug face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r005",
+    "sheet_id": "s086",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Gerentinho",
+    "character_desc": "Wojak mascote de gravata segurando gráfico de burndown e uma xícara de '1:1', sorriso gerencial.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as necktie, holding a burndown chart on paper, mug labeled with a small heart, warm managerial smile, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r006",
+    "sheet_id": "s086",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Prodão",
+    "character_desc": "Wojak mascote abraçando post-its coloridos e um roadmap, olhos brilhando de ideias.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as arms full of colorful sticky notes, holding a roadmap timeline paper, sparkly excited eyes, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r007",
+    "sheet_id": "s086",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Dono Bola",
+    "character_desc": "Wojak mascote segurando o backlog empilhado e priorizando com dedão pra cima.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a tall stack of backlog cards, thumbs up, deciding expression, small priority arrows, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r008",
+    "sheet_id": "s086",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Progrão",
+    "character_desc": "Wojak mascote com muitos calendários e linhas conectando vários times, olhar de malabarista.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as surrounded by floating calendars, tangled connecting lines between tiny team icons, juggling stressed-calm face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r009",
+    "sheet_id": "s086",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Cronô",
+    "character_desc": "Wojak mascote de capacete segurando um gráfico de Gantt e um cronômetro.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as hard hat, holding a Gantt chart bar paper, stopwatch around neck, on-schedule serious face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r010",
+    "sheet_id": "s086",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Mestre Post-it",
+    "character_desc": "Wojak mascote com uma faixa de 'coach' e cartas de planning poker na mão.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as small coach headband, fanning planning-poker cards in hand, facilitating friendly smile, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r011",
+    "sheet_id": "s086",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Backão",
+    "character_desc": "Wojak mascote encapuzado com engrenagens de servidor flutuando atrás e um cabo de rede na mão.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as grey hoodie, floating server gears behind head, holding an ethernet cable, gritty backend face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r012",
+    "sheet_id": "s086",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Apizão",
+    "character_desc": "Wojak mascote segurando um conector em forma de plugue e blocos de endpoint encaixando.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a large puzzle-piece connector, tiny plug-and-socket endpoint blocks floating, tidy contract-maker face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r013",
+    "sheet_id": "s086",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Microzé",
+    "character_desc": "Wojak mascote cercado de mini caixinhas de serviço conectadas por fios, expressão modular.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as surrounded by tiny connected service boxes linked by threads, distributed modular expression, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r014",
+    "sheet_id": "s086",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Dutão",
+    "character_desc": "Wojak mascote segurando um cano com dados fluindo de uma ponta à outra.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a pipe segment with little data droplets flowing through it, ETL flow arrows, steady face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r015",
+    "sheet_id": "s086",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Engrenão",
+    "character_desc": "Wojak mascote com barris de dados e uma pá, construindo represas de informação.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as data barrels beside shoulder, holding a shovel, warehouse crates behind, hardworking face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r016",
+    "sheet_id": "s086",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Dibiá",
+    "character_desc": "Wojak mascote guardião com um molho de chaves e cilindros de banco de dados empilhados.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as keyring of keys, stacked database cylinder shapes beside head, guardian steady face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r017",
+    "sheet_id": "s086",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Selequel",
+    "character_desc": "Wojak mascote segurando uma lupa sobre uma tabela de linhas e colunas.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a magnifying glass over a grid table, JOIN arrows floating, query-focused face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r018",
+    "sheet_id": "s086",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Cachê Flash",
+    "character_desc": "Wojak mascote veloz com raios ao redor e um cartãozinho 'HIT' na mão.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as speed lines around head, holding a small card, lightning bolts, fast smug expression, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r019",
+    "sheet_id": "s086",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Fileiro",
+    "character_desc": "Wojak mascote organizando envelopes numa fila que entra e sai de uma caixinha.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as envelopes lined up entering and exiting a small box, orderly queue face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r020",
+    "sheet_id": "s086",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Buscadão",
+    "character_desc": "Wojak mascote com lupa gigante e resultados indexados flutuando ranqueados.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as giant magnifying glass, floating ranked index result bars, searching curious face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r021",
+    "sheet_id": "s086",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Frontinho",
+    "character_desc": "Wojak mascote segurando uma moldura de janela de navegador com botões coloridos.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a browser-window frame with colorful buttons, pixel-neat friendly face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r022",
+    "sheet_id": "s086",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Botãozinho",
+    "character_desc": "Wojak mascote montando componentes de UI como blocos de brinquedo.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as assembling toy-block UI components (buttons, sliders) in hands, tidy building face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r023",
+    "sheet_id": "s086",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Uxito",
+    "character_desc": "Wojak mascote com mapa de fluxo de usuário e um lápis, pensando no clique perfeito.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a user-flow wireframe map, pencil behind ear, empathetic thoughtful face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r024",
+    "sheet_id": "s086",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Sistemão",
+    "character_desc": "Wojak mascote com uma cartela de componentes padronizados e régua de tokens.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a palette board of standardized UI components, token ruler, orderly proud face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r025",
+    "sheet_id": "s086",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Acessê",
+    "character_desc": "Wojak mascote com símbolo de acessibilidade no peito e um leitor de tela na mão.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as accessibility person-in-circle symbol on chest, holding a small screen-reader device, inclusive caring face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r026",
+    "sheet_id": "s086",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Turbão Web",
+    "character_desc": "Wojak mascote com velocímetro no colo empurrando os ponteiros pro verde.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a speedometer gauge pushed to green, speed lines, optimizing determined face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r027",
+    "sheet_id": "s086",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Estilo Zé",
+    "character_desc": "Wojak mascote com pincéis e uma paleta de caixas alinhadas por régua.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding paint brushes and a palette, tiny aligned boxes with a ruler, styling meticulous face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r028",
+    "sheet_id": "s086",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Molejão",
+    "character_desc": "Wojak mascote com bonequinhos de animação em quadros sequenciais flutuando.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as floating sequential animation keyframe figures, motion arc lines, playful bouncy face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r029",
+    "sheet_id": "s086",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Celular Guy",
+    "character_desc": "Wojak mascote segurando um smartphone genérico em cada mão.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a generic smartphone in each hand, mobile-first tidy face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r030",
+    "sheet_id": "s086",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Maçãzinho",
+    "character_desc": "Wojak mascote com um celular de bordas arredondadas e uma frutinha mordida flutuando.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a rounded-corner phone, small bitten-fruit shape floating, polished minimalist face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r031",
+    "sheet_id": "s086",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Robotinho Verde",
+    "character_desc": "Wojak mascote abraçando um mascote robô verde simplinho.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as hugging a simple little green robot mascot, friendly open-source face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r032",
+    "sheet_id": "s086",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Reactê Móvel",
+    "character_desc": "Wojak mascote com um átomo girando e um celular, pontes entre os dois.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as spinning atom orbit symbol, holding a phone, bridge lines connecting them, cross-platform face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r033",
+    "sheet_id": "s086",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Vaga-lume",
+    "character_desc": "Wojak mascote com um passarinho azul de papel e widgets encaixando.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a paper blue bird, snapping widget blocks together, single-codebase cheerful face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r034",
+    "sheet_id": "s086",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Cientista Zé",
+    "character_desc": "Wojak mascote de jaleco com um béquer cheio de números e um gráfico de dispersão.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as lab coat, holding a beaker full of tiny numbers, scatter-plot chart floating, curious analytic face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r035",
+    "sheet_id": "s086",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Emelê",
+    "character_desc": "Wojak mascote treinando uma rede neural desenhada com pontinhos conectados.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as floating neural-network dots-and-lines, holding a training loop arrow, model-tuning focused face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r036",
+    "sheet_id": "s086",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Emelops",
+    "character_desc": "Wojak mascote com engrenagem e uma rede neural passando por uma esteira.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as neural net on a conveyor belt, gear symbol, deployment pipeline arrows, ops-minded face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r037",
+    "sheet_id": "s086",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Pesquisão",
+    "character_desc": "Wojak mascote com óculos, uma pilha de papers e um lâmpada de eureca.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as round glasses, stack of research papers, eureka lightbulb over head, theorizing face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r038",
+    "sheet_id": "s086",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Promptê",
+    "character_desc": "Wojak mascote sussurrando num balão de fala pra uma caixinha mágica com estrelas.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as speech bubble whispering into a small magic box emitting sparkle stars, coaxing clever face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r039",
+    "sheet_id": "s086",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Palavrão",
+    "character_desc": "Wojak mascote desmontando frases em pedacinhos de texto flutuantes (tokens).",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as floating chopped word-token pieces around head, parsing linguistic face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r040",
+    "sheet_id": "s086",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Olhudão",
+    "character_desc": "Wojak mascote com uma lente-câmera enxergando caixas de detecção ao redor.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as camera-lens eye, floating bounding-box detection frames, perceptive scanning face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r041",
+    "sheet_id": "s086",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Analisão",
+    "character_desc": "Wojak mascote com uma prancheta de tabelas e um gráfico de pizza na mão.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a clipboard of tables and a pie-chart paper, inquisitive number-crunching face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r042",
+    "sheet_id": "s086",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "BIzinho",
+    "character_desc": "Wojak mascote atrás de um painel de dashboards com indicadores subindo.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as behind a dashboard panel of rising KPI gauges and bars, insightful reporting face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r043",
+    "sheet_id": "s086",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Modelador",
+    "character_desc": "Wojak mascote encaixando cubos de dados limpos num modelo em camadas.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as stacking clean data cubes into a layered model, tidy transform-focused face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r044",
+    "sheet_id": "s086",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Vizê",
+    "character_desc": "Wojak mascote pintando um gráfico colorido de barras e linhas num quadro.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as painting a colorful bar-and-line chart on an easel board, expressive design face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r045",
+    "sheet_id": "s086",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Devopão",
+    "character_desc": "Wojak mascote com o símbolo do infinito e uma chave-inglesa gigante.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a giant wrench, infinity-loop symbol floating, container box on shoulder, automating face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r046",
+    "sheet_id": "s086",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Erroneu",
+    "character_desc": "Wojak mascote de bombeiro apagando um gráfico em chamas com um extintor.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as firefighter helmet, spraying a flaming uptime graph with an extinguisher, on-call weary face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r047",
+    "sheet_id": "s086",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Platafô",
+    "character_desc": "Wojak mascote construindo uma plataforma-palco onde outros bonequinhos trabalham.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as building a stage platform with tiny worker figures on top, enabling supportive face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r048",
+    "sheet_id": "s086",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Nuvenzinho",
+    "character_desc": "Wojak mascote com nuvens fofas flutuando e um controle remoto de infraestrutura.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as fluffy clouds floating around head, holding an infrastructure remote control, visionary face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r049",
+    "sheet_id": "s086",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Timoneiro",
+    "character_desc": "Wojak mascote segurando um leme de navio com contêineres empilhados atrás.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a ship's helm wheel, stacked shipping containers behind, orchestrating captain face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r050",
+    "sheet_id": "s086",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Redezão",
+    "character_desc": "Wojak mascote com cabos de rede saindo da cabeça e um roteador na mão.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as ethernet cables sprouting around head, holding a small router with antennas, connective face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r051",
+    "sheet_id": "s086",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Sisadamin",
+    "character_desc": "Wojak mascote cansado com muitos monitores e uma chave de fenda no bolso.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as surrounded by tiny CRT monitors, screwdriver in pocket, tired but reliable face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r052",
+    "sheet_id": "s086",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Soltão",
+    "character_desc": "Wojak mascote empurrando uma caixa etiquetada 'v1.0' por uma esteira.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as pushing a version-tagged box down a conveyor, release-day satisfied face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r053",
+    "sheet_id": "s086",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Compilão",
+    "character_desc": "Wojak mascote com engrenagens montando peças soltas num pacote fechado.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as gears assembling loose parts into a sealed package box, build-focused tidy face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r054",
+    "sheet_id": "s086",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Esteirê",
+    "character_desc": "Wojak mascote ao lado de uma esteira com check verdes e um X vermelho.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as beside a conveyor belt of green checkmarks and one red X, pipeline-guardian face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r055",
+    "sheet_id": "s086",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Escudão",
+    "character_desc": "Wojak mascote com um escudo grande e um cadeado no peito.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a large shield, padlock emblem on chest, vigilant protective face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r056",
+    "sheet_id": "s086",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Chapéu Preto",
+    "character_desc": "Wojak mascote de capuz com uma gazua e um laptop cheio de caveirinhas.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as dark hoodie, holding a lockpick, laptop with tiny skull icons, mischievous probing face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r057",
+    "sheet_id": "s086",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Appsecão",
+    "character_desc": "Wojak mascote revisando código com uma lupa e um cadeado sobre a tela.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as magnifying glass over a code sheet, padlock overlay, defensive scrutinizing face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r058",
+    "sheet_id": "s086",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cifrão",
+    "character_desc": "Wojak mascote com símbolos de cadeado e letras embaralhadas virando código secreto.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as floating padlock symbols and scrambled cipher glyphs, chalk key, secretive clever face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r059",
+    "sheet_id": "s086",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Compliô",
+    "character_desc": "Wojak mascote com uma prancheta de checklist carimbando 'aprovado'.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a checklist clipboard, stamping an approval seal, by-the-book stern face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r060",
+    "sheet_id": "s086",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Privatê",
+    "character_desc": "Wojak mascote cobrindo dados pessoais com tarjas pretas e um cadeado.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a paper with black redaction bars over personal data, small padlock, protective careful face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r061",
+    "sheet_id": "s086",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Sirenê",
+    "character_desc": "Wojak mascote com um farol de sirene girando e um bipe de plantão na mão.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as spinning alarm siren light over head, holding a pager, urgent alert face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r062",
+    "sheet_id": "s086",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Modelador Ameaça",
+    "character_desc": "Wojak mascote desenhando fluxos com setas de ataque e escudos num quadro.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as drawing attack-arrow flows and shield icons on a board, strategic wary face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r063",
+    "sheet_id": "s086",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Qualitê",
+    "character_desc": "Wojak mascote com uma lupa e uma prancheta cheia de check e bug-vermelho.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a magnifying glass and a checklist with checkmarks and a red bug, meticulous face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r064",
+    "sheet_id": "s086",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Robôteste",
+    "character_desc": "Wojak mascote com um bracinho robótico apertando botões de teste em loop.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as small robotic arm pressing test buttons repeatedly, automation gear, efficient face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r065",
+    "sheet_id": "s086",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Estressão",
+    "character_desc": "Wojak mascote com um velocímetro no vermelho e halteres de carga.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a stress-gauge in the red, small barbell weights, load-testing strained face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r066",
+    "sheet_id": "s086",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Testê Manual",
+    "character_desc": "Wojak mascote clicando manualmente com dedão apontado e uma lista de passos.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as pointing finger clicking, holding a step-by-step checklist sheet, patient thorough face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r067",
+    "sheet_id": "s086",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "A-Testê",
+    "character_desc": "Wojak mascote testando acessibilidade com fones e símbolo de acessibilidade.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as headphones on, accessibility symbol card, testing checklist, inclusive checking face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r068",
+    "sheet_id": "s086",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Escrevão",
+    "character_desc": "Wojak mascote com pena de escrever, óculos e um manual grosso aberto.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as quill pen, reading glasses, thick open manual book, clarifying documenting face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r069",
+    "sheet_id": "s086",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Advogaço",
+    "character_desc": "Wojak mascote com microfone e adesivos de tech na mão, animando a plateia.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a microphone, handful of tech stickers, enthusiastic evangelist smile, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r070",
+    "sheet_id": "s086",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Estrategô",
+    "character_desc": "Wojak mascote com um mapa de conteúdo e post-its de calendário editorial.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a content-map with editorial calendar sticky notes, planning thoughtful face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r071",
+    "sheet_id": "s086",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Traduzão",
+    "character_desc": "Wojak mascote com balões de fala em várias bandeirinhas e um globo.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as speech bubbles with tiny flags, holding a small globe, multilingual friendly face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r072",
+    "sheet_id": "s086",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Produtista",
+    "character_desc": "Wojak mascote com um protótipo em papel e um lápis, unindo forma e função.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a paper prototype and a pencil, balancing form-and-function thoughtful face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r073",
+    "sheet_id": "s086",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Visualê",
+    "character_desc": "Wojak mascote com paleta de cores e um pincel, olhar de bom gosto.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a color-swatch palette and a brush, aesthetic discerning face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r074",
+    "sheet_id": "s086",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Interatê",
+    "character_desc": "Wojak mascote apertando um botão que solta ondulações de feedback.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as pressing a button emitting ripple feedback waves, hover-cursor floating, playful attentive face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r075",
+    "sheet_id": "s086",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Motionzê",
+    "character_desc": "Wojak mascote com rastros de movimento e um cronograma de quadros animados.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as motion-trail streaks around hand, holding an animation timeline strip, dynamic flowing face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r076",
+    "sheet_id": "s086",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Rabiscão",
+    "character_desc": "Wojak mascote com um caderno de esboços e vários lápis coloridos na mão.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a sketchbook and a fan of colored pencils, doodles floating, creative face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r077",
+    "sheet_id": "s086",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Assetê",
+    "character_desc": "Wojak mascote com uma bandeja de ícones e sprites prontinhos pra usar.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a tray of ready-made icon and sprite assets, organized crafting face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r078",
+    "sheet_id": "s086",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Marquê",
+    "character_desc": "Wojak mascote polindo um logotipo genérico num pedestal com brilho.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as polishing a generic logo shape on a pedestal, sparkle shine, identity-proud face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r079",
+    "sheet_id": "s086",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Somzão",
+    "character_desc": "Wojak mascote com fones grandes e ondas sonoras saindo de um alto-falante.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as big headphones, sound waves emanating from a small speaker, audio-attentive face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r080",
+    "sheet_id": "s086",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Tridê",
+    "character_desc": "Wojak mascote esculpindo um cubo 3D de arame com wireframe visível.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as sculpting a 3D wireframe cube in hands, vertices and edges visible, spatial focused face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r081",
+    "sheet_id": "s086",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Regrão",
+    "character_desc": "Wojak mascote com dados de RPG e um tabuleiro de regras de jogo.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding RPG dice and a game-rules board, playful designing face, tiny loop arrow, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r082",
+    "sheet_id": "s086",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Fasê",
+    "character_desc": "Wojak mascote montando um mapa de fase com plataformas e um X de tesouro.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as assembling a level map with platforms and a treasure X, spatial planning face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r083",
+    "sheet_id": "s086",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Contista",
+    "character_desc": "Wojak mascote com um pergaminho de história ramificada em setas de escolha.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a branching-story scroll with choice arrows, storyteller dreamy face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r084",
+    "sheet_id": "s086",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Gamezão",
+    "character_desc": "Wojak mascote com um controle de videogame genérico e sprites pulando.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a generic game controller, tiny jumping pixel sprites floating, playful coder face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r085",
+    "sheet_id": "s086",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Shaderê",
+    "character_desc": "Wojak mascote com triângulos poligonais e brilhos de renderização na mão.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as floating polygon triangles and glowing render highlights, GPU sparks, graphics-nerd face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r086",
+    "sheet_id": "s086",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Chipizinho",
+    "character_desc": "Wojak mascote com um microchip na testa e uma placa de circuito na mão.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as small microchip on forehead, holding a circuit board, low-level tinkering face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r087",
+    "sheet_id": "s086",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Firmê",
+    "character_desc": "Wojak mascote soldando um firmware num chip com ferro de solda.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as soldering iron touching a chip, small smoke puff, firmware-flashing focused face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r088",
+    "sheet_id": "s086",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Coisês",
+    "character_desc": "Wojak mascote cercado de mini eletrodomésticos conectados por ondas de wifi.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as surrounded by tiny connected gadgets emitting wifi waves, interconnected curious face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r089",
+    "sheet_id": "s086",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Correntê",
+    "character_desc": "Wojak mascote com uma corrente de blocos ligados e uma moedinha cripto.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a chain of linked blocks and a crypto coin, decentralized confident face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r090",
+    "sheet_id": "s086",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Auditô Cripto",
+    "character_desc": "Wojak mascote com lupa sobre um contrato-bloco procurando rachaduras.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as magnifying glass over a smart-contract block, spotting tiny cracks, scrutinizing face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r091",
+    "sheet_id": "s086",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Realidadê",
+    "character_desc": "Wojak mascote com um óculos de realidade virtual e hologramas flutuando.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as wearing a VR headset, floating hologram shapes around head, immersive amazed face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r092",
+    "sheet_id": "s086",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Robôzão",
+    "character_desc": "Wojak mascote com um bracinho robótico e uma chave apertando parafusos.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a robotic arm and a wrench tightening bolts, mechanical builder face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r093",
+    "sheet_id": "s086",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Crescê",
+    "character_desc": "Wojak mascote com um gráfico de foguete subindo e um funil de conversão.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a rocket-up growth chart and a conversion funnel, hungry ambitious face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r094",
+    "sheet_id": "s086",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Esseô",
+    "character_desc": "Wojak mascote empurrando um site pro topo de uma lista de resultados.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as pushing a website box to the top of a ranked results list, magnifying glass, strategic face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r095",
+    "sheet_id": "s086",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Marketê",
+    "character_desc": "Wojak mascote com um megafone e engrenagens de automação de campanha.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a megaphone with campaign automation gears, funnel arrows, promotional face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r096",
+    "sheet_id": "s086",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Soluçê",
+    "character_desc": "Wojak mascote com um kit de peças encaixando a solução no problema do cliente.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as fitting puzzle pieces of a solution into a client problem shape, helpful demoing face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r097",
+    "sheet_id": "s086",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Suportê",
+    "character_desc": "Wojak mascote com fone de headset e um balão de chat com um coração.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as headset with microphone, chat bubble with a heart, patient helping face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r098",
+    "sheet_id": "s086",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Vendê",
+    "character_desc": "Wojak mascote de gravata com um aperto de mão e um gráfico de demo brilhando.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as necktie, offering a handshake, shiny demo chart beside, persuasive friendly face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r099",
+    "sheet_id": "s086",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Finopê",
+    "character_desc": "Wojak mascote apertando uma nuvem que goteja moedas numa calculadora.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as squeezing a cloud dripping coins into a calculator, cost-cutting frugal face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s086-r100",
+    "sheet_id": "s086",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Legalzão",
+    "character_desc": "Wojak mascote com um martelo de juiz e um contrato carimbado.",
+    "nano_prompt": "Crude MS Paint Wojak feels-guy mascot, pale bald smooth head, wobbly hand-drawn black outline, minimalist dot eyes and flat straight mouth, amateur meme art, bust portrait head and shoulders, depicted as holding a judge's gavel and a stamped contract scroll, serious by-the-law face, crude wobbly MS Paint linework, flat simple shading, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

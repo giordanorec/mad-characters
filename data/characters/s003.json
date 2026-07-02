@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s003-r001",
+    "sheet_id": "s003",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Arquiteta Maine",
+    "character_desc": "Uma majestosa gata Maine Coon de crochê, a matriarca que desenha os planos do arranhador. Segura um mini rolo de blueprint de feltro e usa óculos de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Maine Coon style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a tiny rolled blueprint of crochet felt, wearing little yarn glasses, a small ruler tucked behind the ear, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r002",
+    "sheet_id": "s003",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Léo Líder",
+    "character_desc": "Um robusto gato British Shorthair de crochê, o líder técnico que guia a ninhada. Segura uma bússola de botão e usa um cachecol de lã de líder.",
+    "nano_prompt": "A handmade amigurumi crochet cat, British Shorthair style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a small button-compass, wearing a leader's knitted scarf, one paw raised pointing forward, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r003",
+    "sheet_id": "s003",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Estêvão Staff",
+    "character_desc": "Um imponente gato da Floresta Norueguesa de crochê, o veterano staff. Segura um báculo de tricô e usa uma medalha de feltro no peito.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Norwegian Forest style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a knitted staff-wand, a felt medal on the chest, calm confident posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r004",
+    "sheet_id": "s003",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Principe Persa",
+    "character_desc": "Um plush gato Persa de crochê, o principal de longa pelugem. Segura um cetro de lã com pompom e usa uma pequena coroa de crochê.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Persian style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a yarn scepter with pompom top, wearing a tiny crochet crown, regal seated pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r005",
+    "sheet_id": "s003",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Manuela Manager",
+    "character_desc": "Uma dócil gata Ragdoll de crochê, a gestora que cuida do time. Segura uma prancheta de feltro com checklist e uma caneca de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Ragdoll style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt clipboard with tiny checklist, a little yarn coffee mug, warm managing smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r006",
+    "sheet_id": "s003",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Priscila PM",
+    "character_desc": "Uma esbelta gata Siamesa de crochê, a product manager focada no roadmap. Segura um mapa de estrada de feltro e post-its de lã coloridos.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Siamese style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt roadmap scroll, tiny colorful yarn sticky-notes stuck to one paw, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r007",
+    "sheet_id": "s003",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Odilon Owner",
+    "character_desc": "Um vibrante gato Bengal de crochê, o product owner do backlog. Segura uma pilha de cartões de feltro empilhados como backlog.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Bengal style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a stacked pile of felt story cards, a small yarn priority-flag, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r008",
+    "sheet_id": "s003",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Prof. Programa",
+    "character_desc": "Uma elegante gata Angorá de crochê, coordenadora de programas. Segura um painel de feltro com várias linhas de projeto tecidas.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Turkish Angora style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt program board with woven timeline strands, tiny yarn gantt bars, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r009",
+    "sheet_id": "s003",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Jonas Projeto",
+    "character_desc": "Um sereno gato Azul Russo de crochê, gerente de projeto. Segura um cronograma de feltro em rolo e um mini relógio de botão.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Russian Blue style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a rolled felt schedule, a small button clock, organized posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r010",
+    "sheet_id": "s003",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Serena Scrum",
+    "character_desc": "Uma ágil gata Abissínia de crochê, mestra de scrum. Segura um sino de feltro de daily e cartões de planning poker de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Abyssinian style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt daily-standup bell, tiny knitted planning-poker cards fanned in one paw, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r011",
+    "sheet_id": "s003",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Bento Backend",
+    "character_desc": "Um sólido gato Chartreux de crochê, dev backend. Segura um servidor de feltro em miniatura com luzinhas de botão.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Chartreux style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a tiny felt server rack with button LED lights, cables of yarn, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r012",
+    "sheet_id": "s003",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Aline API",
+    "character_desc": "Uma comunicativa gata Tonquinesa de crochê, designer de API. Segura conectores de feltro em forma de plugue e tomada encaixando.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Tonkinese style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding felt plug-and-socket connectors clicking together, tiny endpoint tags of yarn, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r013",
+    "sheet_id": "s003",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Micaela Micro",
+    "character_desc": "Uma diminuta gata Singapura de crochê, engenheira de microsserviços. Cercada por vários cubinhos de feltro conectados por fios.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Singapura style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, surrounded by several tiny felt service-cubes linked by yarn threads, holding one cube, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r014",
+    "sheet_id": "s003",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Pipoca Pipeline",
+    "character_desc": "Um dinâmico gato Ocicat de crochê, dev de pipeline. Segura uma esteira de feltro com dados passando como bolinhas de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Ocicat style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt conveyor belt with little yarn data-balls flowing, tiny funnel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r015",
+    "sheet_id": "s003",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Dado Data",
+    "character_desc": "Um atento gato Mau Egípcio de crochê, engenheiro de dados. Segura tubos de feltro conectando reservatórios de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Egyptian Mau style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding felt data-pipes connecting yarn reservoirs, a small ETL funnel of felt, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r016",
+    "sheet_id": "s003",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Dona Base",
+    "character_desc": "Uma encaracolada gata Selkirk Rex de crochê, administradora de banco. Segura cilindros de feltro empilhados como um banco de dados.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Selkirk Rex style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding stacked felt database cylinders, a tiny key of yarn, guarding posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r017",
+    "sheet_id": "s003",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Selma SQL",
+    "character_desc": "Uma marrom gata Havana de crochê, especialista em SQL. Segura uma placa de feltro com uma tabela tecida e uma lupa de botão.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Havana Brown style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt query card with a woven table grid, a small button magnifier, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r018",
+    "sheet_id": "s003",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Cacau Cache",
+    "character_desc": "Um veloz gato Korat de crochê, engenheiro de cache. Segura uma gavetinha de feltro que abre rápido com etiquetas de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Korat style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a small felt quick-drawer with yarn hit/miss tags, lightning bolt of felt, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r019",
+    "sheet_id": "s003",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Fila Queue",
+    "character_desc": "Um paciente gato Manx sem cauda de crochê, engenheiro de filas. Segura uma esteira de feltro com mensagens de lã enfileiradas.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Manx style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt queue-line with little yarn message-envelopes lined up in order, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r020",
+    "sheet_id": "s003",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Sofia Search",
+    "character_desc": "Uma investigativa gata Somali de crochê, engenheira de busca. Segura uma lupa gigante de feltro sobre um índice de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Somali style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a large felt magnifying glass over a yarn index card, tiny result tags, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r021",
+    "sheet_id": "s003",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Fábio Front",
+    "character_desc": "Um estiloso gato Devon Rex de crochê, dev frontend. Segura uma telinha de feltro mostrando botões e caixas de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Devon Rex style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a small felt screen showing yarn buttons and boxes, a tiny paintbrush, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r022",
+    "sheet_id": "s003",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Ulisses UI",
+    "character_desc": "Um elegante gato Cornish Rex de crochê, engenheiro de UI. Segura componentes de feltro como botões e sliders encaixáveis.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Cornish Rex style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding assorted felt UI components buttons and sliders, arranging them neatly, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r023",
+    "sheet_id": "s003",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Uxana Experiência",
+    "character_desc": "Uma empática gata Birmanês de crochê, designer de UX. Segura um wireframe de feltro e um mapa de jornada de lã com setas.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Birman style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt wireframe sketch and a yarn journey-map with little arrows, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r024",
+    "sheet_id": "s003",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Sistema Sônia",
+    "character_desc": "Uma organizada gata Balinesa de crochê, engenheira de design system. Segura uma paleta de feltro com componentes padronizados.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Balinese style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt palette of standardized components, tiny matching yarn swatches, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r025",
+    "sheet_id": "s003",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Ada Acesso",
+    "character_desc": "Uma acolhedora gata Ragamuffin de crochê, especialista em acessibilidade. Segura uma bengala de feltro e um símbolo de acessibilidade de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Ragamuffin style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt cane and a knitted accessibility symbol, a small braille tag, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r026",
+    "sheet_id": "s003",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Vera Veloz",
+    "character_desc": "Um enérgico gato Sphynx de crochê, engenheiro de performance web. Segura um velocímetro de feltro e um cronômetro de botão.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Sphynx style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt speedometer and a button stopwatch, tiny speed-lines of yarn, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r027",
+    "sheet_id": "s003",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "César Estilo",
+    "character_desc": "Um caprichoso gato Van Turco de crochê, especialista em CSS. Segura pincéis de feltro e amostras de cor em novelos de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Turkish Van style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding felt paintbrushes and color-swatch yarn balls, a tiny style ruler, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r028",
+    "sheet_id": "s003",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Ania Anima",
+    "character_desc": "Uma expressiva gata Oriental de crochê, engenheira de animação. Segura uma tira de feltro de frames em sequência de movimento.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Oriental Shorthair style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt filmstrip of motion frames, tiny yarn motion-arcs around a paw, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r029",
+    "sheet_id": "s003",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Moni Mobile",
+    "character_desc": "Uma compacta gata Munchkin de crochê, dev mobile. Segura um celular de feltro com telinha de lã e um app tecido.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Munchkin style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a small felt smartphone with yarn app-screen, tiny touch-gesture arc, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r030",
+    "sheet_id": "s003",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Ivo iOS",
+    "character_desc": "Um refinado gato American Curl de crochê, dev iOS. Segura um celular de feltro com maçã mordida de lã no verso.",
+    "nano_prompt": "A handmade amigurumi crochet cat, American Curl style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt phone with a knitted bitten-apple on the back, minimalist pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r031",
+    "sheet_id": "s003",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "André Android",
+    "character_desc": "Um verdinho-cinza gato Nebelung de crochê, dev Android. Segura um robozinho de feltro verde e um celular de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Nebelung style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a small green felt robot mascot and a yarn phone, friendly pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r032",
+    "sheet_id": "s003",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Renata Nativa",
+    "character_desc": "Uma versátil gata Snowshoe de crochê, dev React Native. Segura um átomo de feltro girando sobre dois celulares de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Snowshoe style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt spinning-atom emblem over two yarn phones side by side, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r033",
+    "sheet_id": "s003",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Flor Flutter",
+    "character_desc": "Uma esvoaçante gata LaPerm de crochê, dev Flutter. Segura uma borboleta de feltro azul e dois celulares de lã idênticos.",
+    "nano_prompt": "A handmade amigurumi crochet cat, LaPerm style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a blue felt butterfly emblem and two identical yarn phones, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r034",
+    "sheet_id": "s003",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Ciência Cida",
+    "character_desc": "Uma curiosa gata Chausie de crochê, cientista de dados. Segura um gráfico de dispersão de feltro com pontos de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Chausie style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt scatter-plot chart with yarn dots, a tiny beaker of felt, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r035",
+    "sheet_id": "s003",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Marlon ML",
+    "character_desc": "Um esguio gato Savannah de crochê, engenheiro de ML. Segura uma rede neural de feltro com nós de botão conectados por fios.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Savannah style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt neural-network with button nodes linked by yarn threads, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r036",
+    "sheet_id": "s003",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Ops Otília",
+    "character_desc": "Uma prática gata Pixie-bob de crochê, engenheira de MLOps. Segura um ciclo de feltro conectando modelo e engrenagens de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Pixie-bob style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt loop connecting a yarn model box to little gears, deploy tag, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r037",
+    "sheet_id": "s003",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Rita Research",
+    "character_desc": "Uma pensativa gata Peterbald de crochê, pesquisadora de IA. Segura um papel de feltro com fórmulas tecidas e uma lâmpada de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Peterbald style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt paper with woven formulas and a glowing yarn lightbulb, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r038",
+    "sheet_id": "s003",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Paulo Prompt",
+    "character_desc": "Um eloquente gato Serengeti de crochê, engenheiro de prompt. Segura um balão de fala de feltro cheio de fios de texto de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Serengeti style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt speech-bubble filled with yarn text-threads, a tiny wand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r039",
+    "sheet_id": "s003",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Nara NLP",
+    "character_desc": "Uma linguística gata Toyger de crochê, engenheira de NLP. Segura letras de feltro e um balão com ondas de fala de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Toyger style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding felt letters and a yarn speech-wave bubble, tiny language tags, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r040",
+    "sheet_id": "s003",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Vitória Visão",
+    "character_desc": "Uma observadora gata Bombay negra de crochê, engenheira de visão computacional. Segura uma câmera de feltro com moldura de detecção de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Bombay style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt camera with a yarn detection-box frame, tiny bounding markers, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r041",
+    "sheet_id": "s003",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Ana Análise",
+    "character_desc": "Uma metódica gata Burmese de crochê, analista de dados. Segura uma prancheta de feltro com gráfico de barras de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Burmese style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt clipboard with a yarn bar-chart, a small pie-chart of felt, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r042",
+    "sheet_id": "s003",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Bia BI",
+    "character_desc": "Uma perspicaz gata Burmilla de crochê, analista de BI. Segura um painel de feltro com dashboards e indicadores de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Burmilla style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt dashboard panel with yarn KPI gauges and mini charts, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r043",
+    "sheet_id": "s003",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Alan Analytics",
+    "character_desc": "Um analítico gato Chantilly de crochê, engenheiro de analytics. Segura tubos de feltro transformando dados brutos em métricas de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Chantilly-Tiffany style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding felt transform-pipes turning raw yarn data into tidy metric cards, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r044",
+    "sheet_id": "s003",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Vânia Viz",
+    "character_desc": "Uma artística gata Cymric fofa de crochê, especialista em data viz. Segura vários gráficos coloridos de feltro em leque.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Cymric style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding several colorful felt charts fanned out, tiny yarn legend dots, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r045",
+    "sheet_id": "s003",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Devon DevOps",
+    "character_desc": "Um versátil gato Australian Mist de crochê, engenheiro DevOps. Segura o símbolo infinito de feltro e uma chave inglesa de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Australian Mist style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt infinity-loop symbol and a yarn wrench, tiny gears around, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r046",
+    "sheet_id": "s003",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Sara SRE",
+    "character_desc": "Uma vigilante gata American Shorthair de crochê, SRE. Segura um monitor de feltro com gráfico de uptime e um pager de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, American Shorthair style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt monitor with uptime graph and a small yarn pager, alert badge, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r047",
+    "sheet_id": "s003",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Plínio Plataforma",
+    "character_desc": "Um estável gato European Shorthair de crochê, engenheiro de plataforma. Segura uma base de feltro sustentando blocos de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, European Shorthair style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a broad felt platform-base supporting little yarn service-blocks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r048",
+    "sheet_id": "s003",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Núvea Cloud",
+    "character_desc": "Uma etérea gata Ragdoll de crochê, arquiteta de nuvem. Segura uma nuvem de feltro fofa com servidores de lã flutuando.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Ragdoll Mitted style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a fluffy felt cloud with tiny floating yarn servers, blueprint tag, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r049",
+    "sheet_id": "s003",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Karla K8s",
+    "character_desc": "Uma coordenadora gata Kurilian Bobtail de crochê, admin de Kubernetes. Segura um leme de feltro de timão com contêineres de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Kurilian Bobtail style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt ship-helm wheel with little yarn containers, seven-spoke motif, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r050",
+    "sheet_id": "s003",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Nelson Net",
+    "character_desc": "Um conectado gato de crochê, engenheiro de redes. Segura cabos de feltro e um roteador de lã com luzinhas de botão.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Chausie Grigio style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding felt network cables and a yarn router with button lights, node map, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r051",
+    "sheet_id": "s003",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Silas Sys",
+    "character_desc": "Um confiável gato de pelo longo de crochê, administrador de sistemas. Segura um terminal de feltro e um molho de chaves de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Domestic Longhair style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt terminal screen and a ring of yarn keys, tiny toolbelt, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r052",
+    "sheet_id": "s003",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Rael Release",
+    "character_desc": "Um pontual gato Highlander de crochê, engenheiro de release. Segura um foguete de feltro com etiqueta de versão de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Highlander style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt rocket with a yarn version-tag label, tiny launch flag, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r053",
+    "sheet_id": "s003",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Bruno Build",
+    "character_desc": "Um metódico gato Chinchilla de crochê, engenheiro de build. Segura blocos de feltro sendo montados numa caixa de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Chinchilla Persian style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding felt blocks being assembled into a yarn package box, tiny hammer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r054",
+    "sheet_id": "s003",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Cíntia CICD",
+    "character_desc": "Uma fluida gata Toybob de crochê, engenheira de CI/CD. Segura uma esteira de feltro em loop com etapas de teste de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Toybob style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a looping felt conveyor with yarn test-stages and green check tags, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r055",
+    "sheet_id": "s003",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Serena Segura",
+    "character_desc": "Uma protetora gata Maine Coon prateada de crochê, engenheira de segurança. Segura um escudo de feltro e um cadeado de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Maine Coon Silver style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt shield and a knitted padlock, tiny guard posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r056",
+    "sheet_id": "s003",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Pedro Pentest",
+    "character_desc": "Um furtivo gato Sphynx negro de crochê, pentester. Segura uma gazua de feltro e usa um capuz de lã de hacker do bem.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Black Sphynx style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt lockpick set, wearing a yarn hoodie, sneaky grin, tiny mask, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r057",
+    "sheet_id": "s003",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Alice AppSec",
+    "character_desc": "Uma cuidadosa gata Nebelung de crochê, engenheira de AppSec. Segura um código de feltro com escudo de lã sobreposto.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Nebelung Blue style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt code-card with a yarn shield overlay, tiny bug-caught tag, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r058",
+    "sheet_id": "s003",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cristo Cripto",
+    "character_desc": "Um enigmático gato Mau bronze de crochê, criptógrafo. Segura uma chave de feltro e um cadeado com fechadura de lã e runas.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Egyptian Mau Bronze style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt cipher-key and a padlock with yarn rune symbols, tiny scroll, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r059",
+    "sheet_id": "s003",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Clara Compliance",
+    "character_desc": "Uma criteriosa gata Ragdoll de crochê, oficial de compliance. Segura um checklist de feltro com selos de lã de aprovado.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Ragdoll Seal style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt checklist with yarn approval-stamps, a tiny gavel of felt, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r060",
+    "sheet_id": "s003",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Priscila Privacidade",
+    "character_desc": "Uma discreta gata British Blue de crochê, engenheira de privacidade. Segura um cadeado de feltro sobre dados pessoais de lã borrados.",
+    "nano_prompt": "A handmade amigurumi crochet cat, British Blue style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt padlock over blurred yarn personal-data cards, GDPR tag, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r061",
+    "sheet_id": "s003",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Igor Incidente",
+    "character_desc": "Um alerta gato Bombay de crochê, respondente a incidentes. Segura um extintor de feltro e um pager de lã piscando.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Bombay Noir style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt fire-extinguisher and a blinking yarn pager, tiny siren light, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r062",
+    "sheet_id": "s003",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Tomás Threat",
+    "character_desc": "Um estratégico gato Bengal Snow de crochê, modelador de ameaças. Segura um tabuleiro de feltro com peças de ataque e defesa de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Bengal Snow style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt threat-board with yarn attack and defense pieces, tiny map pins, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r063",
+    "sheet_id": "s003",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Quênia QA",
+    "character_desc": "Uma atenta gata Scottish Fold de crochê, engenheira de QA. Segura uma lupa de feltro e uma lista de bugs de lã com marcas.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Scottish Fold style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt magnifier and a yarn bug-checklist, tiny red bug plush, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r064",
+    "sheet_id": "s003",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Ademar SDET",
+    "character_desc": "Um automatizado gato Highland Fold de crochê, SDET. Segura um robozinho de feltro rodando testes com engrenagens de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Highland Fold style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt test-robot running with yarn gears, green check tags, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r065",
+    "sheet_id": "s003",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Percy Perf",
+    "character_desc": "Um resistente gato Chartreux de crochê, testador de performance. Segura um medidor de carga de feltro e pesos de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Chartreux Gris style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt load-gauge and little yarn stress-weights, speed-line motif, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r066",
+    "sheet_id": "s003",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Marina Manual",
+    "character_desc": "Uma minuciosa gata smoking de crochê, testadora manual. Segura um roteiro de feltro e clica um botão de lã com a patinha.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Tuxedo Cat style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt test-script sheet, tapping a yarn button with one paw, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r067",
+    "sheet_id": "s003",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Alma Acessível",
+    "character_desc": "Uma sensível gata Birman de crochê, testadora de acessibilidade. Segura um checklist de feltro com símbolo de acessibilidade de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Birman Blue style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt a11y checklist with a knitted accessibility symbol, ear-tag, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r068",
+    "sheet_id": "s003",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Douglas Docs",
+    "character_desc": "Uma erudita gata Angorá branca de crochê, redatora técnica. Segura um livro de feltro aberto e uma caneta-tinteiro de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Turkish Angora White style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding an open felt manual book and a yarn fountain-pen, tiny bookmark, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r069",
+    "sheet_id": "s003",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Ademir Advocate",
+    "character_desc": "Um carismático gato Bengal de crochê, developer advocate. Segura um microfone de feltro e um adesivo de lã de comunidade.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Bengal Gold style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt microphone and a yarn community-sticker, waving one paw, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r070",
+    "sheet_id": "s003",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Estela Estratégia",
+    "character_desc": "Uma planejadora gata Ragamuffin de crochê, estrategista de conteúdo. Segura um calendário de feltro com pautas de lã coloridas.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Ragamuffin Cream style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt content-calendar with colorful yarn topic-tags, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r071",
+    "sheet_id": "s003",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Ian Idiomas",
+    "character_desc": "Um poliglota gato Aegean de crochê, engenheiro de localização. Segura balõezinhos de feltro com bandeiras de lã de vários idiomas.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Aegean Cat style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding felt speech-bubbles with little yarn flags of many languages, globe, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r072",
+    "sheet_id": "s003",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Duda Design",
+    "character_desc": "Uma versátil gata Ragdoll de crochê, product designer. Segura um wireframe de feltro e uma paleta de lã de cores.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Ragdoll Lilac style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt wireframe and a yarn color-palette, tiny stylus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r073",
+    "sheet_id": "s003",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Val Visual",
+    "character_desc": "Uma vistosa gata Somali ruiva de crochê, designer visual. Segura uma paleta de feltro e um pincel de lã com tinta.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Somali Red style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt artist-palette and a yarn paintbrush with color blob, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r074",
+    "sheet_id": "s003",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Ivan Interação",
+    "character_desc": "Um responsivo gato Tonquinês de crochê, designer de interação. Segura um botão de feltro com onda de toque e setas de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Tonkinese Mink style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt button with tap-ripple and yarn interaction-arrows, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r075",
+    "sheet_id": "s003",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Mila Motion",
+    "character_desc": "Uma dinâmica gata Oriental de crochê, designer de motion. Segura uma tira de feltro de keyframes com curvas de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Oriental Bicolor style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt keyframe-strip with yarn easing-curves, motion sparkles, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r076",
+    "sheet_id": "s003",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Íris Ilustra",
+    "character_desc": "Uma colorida gata tricolor de crochê, ilustradora. Segura uma prancheta de feltro com desenho e lápis de lã coloridos.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Calico Cat style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt drawing-tablet with sketch and colorful yarn pencils, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r077",
+    "sheet_id": "s003",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Ari Assets",
+    "character_desc": "Uma organizada gata tartaruga de crochê, designer de assets. Segura uma grade de feltro com ícones e sprites de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Tortoiseshell style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt grid-sheet of little yarn icons and sprites, tiny folder, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r078",
+    "sheet_id": "s003",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Bruna Brand",
+    "character_desc": "Uma marcante gata Snowshoe de crochê, designer de marca. Segura um logotipo de feltro em círculo e amostras de lã de identidade.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Snowshoe Seal style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt round logo-badge and yarn brand swatches, tiny guideline card, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r079",
+    "sheet_id": "s003",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Sônia Som",
+    "character_desc": "Uma auditiva gata Korat de crochê, designer de som. Segura fones de feltro e uma onda sonora de lã ondulada.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Korat Silver style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding felt headphones and a wavy yarn sound-wave, tiny music note, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r080",
+    "sheet_id": "s003",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Théo 3D",
+    "character_desc": "Um dimensional gato Chartreux de crochê, artista 3D. Segura um cubo de feltro com malha wireframe de lã e um modelo esculpido.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Chartreux Bleu style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt cube with yarn wireframe mesh and a small sculpted model, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r081",
+    "sheet_id": "s003",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Gael Game",
+    "character_desc": "Um lúdico gato Bengal de crochê, game designer. Segura um controle de feltro e cartas de mecânica de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Bengal Rosetted style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt game-controller and yarn mechanic-cards, tiny dice, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r082",
+    "sheet_id": "s003",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Lia Level",
+    "character_desc": "Uma arquiteta gata Mau de crochê, level designer. Segura um mapa de feltro de fase com plataformas e inimigos de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Egyptian Mau Smoke style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt level-map with yarn platforms and enemy tokens, start flag, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r083",
+    "sheet_id": "s003",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Nino Narra",
+    "character_desc": "Um contador gato Balinês de crochê, designer narrativo. Segura um livro de feltro de história e um pergaminho de lã ramificado.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Balinese Chocolate style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt storybook and a branching yarn dialogue-scroll, quill pen, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r084",
+    "sheet_id": "s003",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Gustavo GameDev",
+    "character_desc": "Um criativo gato Ocicat de crochê, desenvolvedor de jogos. Segura um controle de feltro e um sprite de personagem de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Ocicat Ebony style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt game-controller and a little yarn character-sprite, code tag, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r085",
+    "sheet_id": "s003",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Sheila Shader",
+    "character_desc": "Uma luminosa gata Bengal de crochê, engenheira de shaders. Segura uma esfera de feltro com gradiente de lã brilhante e raios.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Bengal Charcoal style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt sphere with glowing yarn gradient and light-ray threads, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r086",
+    "sheet_id": "s003",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Emília Embarcado",
+    "character_desc": "Uma compacta gata Singapura de crochê, engenheira de embarcados. Segura uma placa de circuito de feltro com chip de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Singapura Sepia style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt circuit-board with a yarn microchip, tiny solder iron, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r087",
+    "sheet_id": "s003",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Firmino Firmware",
+    "character_desc": "Um preciso gato Devon Rex de crochê, engenheiro de firmware. Segura um chip de feltro com código gravado em fios de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Devon Rex Slate style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt chip with yarn low-level code-threads, tiny flash tag, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r088",
+    "sheet_id": "s003",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Iolanda IoT",
+    "character_desc": "Uma conectada gata Cornish Rex de crochê, engenheira de IoT. Segura vários dispositivos de feltro ligados por fios de lã e uma antena.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Cornish Rex Fawn style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding several small felt smart-devices linked by yarn threads, tiny antenna, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r089",
+    "sheet_id": "s003",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Bruno Bloco",
+    "character_desc": "Um encadeado gato Azul Russo de crochê, dev de blockchain. Segura blocos de feltro acorrentados por elos de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Russian Blue Silver style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding felt blocks chained together by yarn links, tiny coin of felt, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r090",
+    "sheet_id": "s003",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Sara Smart",
+    "character_desc": "Uma criteriosa gata British de crochê, auditora de smart contracts. Segura um contrato de feltro com lupa e escudo de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, British Shorthair Gold style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt contract-scroll with a yarn magnifier and shield, check tag, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r091",
+    "sheet_id": "s003",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Vera VR",
+    "character_desc": "Uma imersiva gata Snowshoe de crochê, engenheira de AR/VR. Usa um óculos VR de feltro e segura hologramas de lã flutuantes.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Snowshoe Blue style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, wearing a felt VR-headset and holding floating yarn hologram cubes, sparkles, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r092",
+    "sheet_id": "s003",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Roberta Robô",
+    "character_desc": "Uma mecânica gata Kurilian de crochê, engenheira de robótica. Segura um braço robótico de feltro e uma chave de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Kurilian Silver style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt robotic-arm and a yarn wrench, tiny gear and bolt, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r093",
+    "sheet_id": "s003",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Gil Growth",
+    "character_desc": "Um ambicioso gato Abissínio de crochê, engenheiro de growth. Segura um gráfico de feltro em curva ascendente e um foguetinho de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Abyssinian Ruddy style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt upward growth-curve chart and a small yarn rocket, funnel tag, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r094",
+    "sheet_id": "s003",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Seu Ozéias SEO",
+    "character_desc": "Um estratégico gato Van Turco de crochê, especialista em SEO. Segura uma lupa de feltro sobre resultados de busca de lã ranqueados.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Turkish Van Auburn style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt magnifier over ranked yarn search-results, tiny rank arrow, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r095",
+    "sheet_id": "s003",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Marta MarTech",
+    "character_desc": "Uma conectora gata Bengal de crochê, marketing technologist. Segura um funil de feltro e engrenagens de lã de automação.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Bengal Marble style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt marketing-funnel and yarn automation-gears, tiny email icon, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r096",
+    "sheet_id": "s003",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Solange Solução",
+    "character_desc": "Uma ponte gata Ragdoll de crochê, engenheira de soluções. Segura um quebra-cabeça de feltro encaixando peças de cliente e produto de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Ragdoll Blue Point style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt puzzle fitting yarn client and product pieces together, handshake, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r097",
+    "sheet_id": "s003",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Sofia Suporte",
+    "character_desc": "Uma prestativa gata Birman de crochê, engenheira de suporte. Usa um headset de feltro e segura um ticket de lã resolvido.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Birman Cream style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, wearing a felt headset and holding a yarn support-ticket with a check, tiny bell, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r098",
+    "sheet_id": "s003",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Saulo Sales",
+    "character_desc": "Um persuasivo gato Bengal de crochê, engenheiro de vendas. Segura uma maleta de feltro com demo e um aperto de mão de lã.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Bengal Silver style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt demo-briefcase and offering a yarn handshake, tiny chart, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r099",
+    "sheet_id": "s003",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Fabi FinOps",
+    "character_desc": "Uma econômica gata Chartreux de crochê, analista de FinOps. Segura uma calculadora de feltro e um cifrão de lã com gráfico de custo.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Chartreux Argent style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt calculator and a yarn money-sign with a cost-chart, coin stack, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s003-r100",
+    "sheet_id": "s003",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Leda Legal",
+    "character_desc": "Uma ponderada gata Persa prateada de crochê, consultora jurídica. Segura um martelo de juiz de feltro e um contrato de lã enrolado.",
+    "nano_prompt": "A handmade amigurumi crochet cat, Persian Silver style rendered in soft chunky yarn with visible crochet stitches and a stuffed plush toy look, small safety-eye buttons and an embroidered nose, seated upright full body, holding a felt judge's gavel and a rolled yarn contract, tiny scales of justice, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

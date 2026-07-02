@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s099-r001",
+    "sheet_id": "s099",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Grid",
+    "character_desc": "Figura-pictograma que ergue uma prancha de quadrados aninhados; a régua T e o compasso geométrico dizem que planeja a estrutura toda.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a solution architect, holding a blueprint board of nested squares, a T-square and geometric compass under one arm, surveying a modular layout, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r002",
+    "sheet_id": "s099",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Vetor",
+    "character_desc": "Pictograma no topo de três blocos empilhados, apontando adiante; a seta vermelha na mão marca quem dá a direção técnica.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a tech lead, standing atop three stacked blocks, holding a bold red directional arrow, small squad of dot-figures below, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r003",
+    "sheet_id": "s099",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Pilar",
+    "character_desc": "Figura larga que sustenta uma viga horizontal sobre os ombros; a estabilidade geométrica comunica alcance de organização inteira.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a staff engineer, shouldering a long horizontal beam, planted on a wide grid base, calm balanced posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r004",
+    "sheet_id": "s099",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Prumo",
+    "character_desc": "Pictograma segurando um fio de prumo perfeito e uma coluna vertical; define o padrão técnico de referência.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a principal engineer, holding a plumb line and a tall vertical column, one hand setting a reference standard, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r005",
+    "sheet_id": "s099",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Molde",
+    "character_desc": "Figura que organiza fileiras de pequenos círculos-pessoa numa grade; o gesto de arranjar diz que cuida do time.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as an engineering manager, arranging rows of small circle-people into a neat grid, a caring guiding gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r006",
+    "sheet_id": "s099",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Bússola",
+    "character_desc": "Pictograma equilibrando uma balança entre um losango (valor) e um quadrado (esforço); decide o que se constrói.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a product manager, holding a balance scale weighing a diamond against a square, roadmap arrow behind, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r007",
+    "sheet_id": "s099",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Lista",
+    "character_desc": "Figura que carrega uma pilha de cartões retangulares priorizados; o topo destacado em vermelho é a prioridade.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a product owner, carrying a stack of prioritized rectangular cards, top card highlighted red, backlog column beside, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r008",
+    "sheet_id": "s099",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Trilho",
+    "character_desc": "Pictograma conectando três caixas por linhas retas contínuas; coordena programas paralelos no mesmo grid.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a program manager, connecting three boxes with continuous straight lines, orchestrating parallel tracks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r009",
+    "sheet_id": "s099",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Marco",
+    "character_desc": "Figura apontando para uma linha do tempo de pontos igualmente espaçados; o triângulo-bandeira marca a entrega.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a project manager, pointing at a timeline of evenly spaced dots, a small triangular milestone flag, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r010",
+    "sheet_id": "s099",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Ciclo",
+    "character_desc": "Pictograma girando uma seta circular fechada; remove um pequeno bloco vermelho do caminho do time.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a scrum master, turning a closed circular arrow loop, lifting a small red blocker cube away, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r011",
+    "sheet_id": "s099",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Motor",
+    "character_desc": "Figura com engrenagens retangulares no peito e chaves de fenda geométricas nas mãos; monta a lógica por trás.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a backend developer, rectangular gears on the chest, geometric wrench in hand, server-block stack behind, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r012",
+    "sheet_id": "s099",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Contrato",
+    "character_desc": "Pictograma segurando dois conectores geométricos que se encaixam perfeitamente; desenha a interface entre partes.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as an API designer, holding two interlocking geometric plug shapes that click together cleanly, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r013",
+    "sheet_id": "s099",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Fragmento",
+    "character_desc": "Figura ao lado de vários cubinhos independentes ligados por finas linhas; divide o monólito em partes.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a microservices engineer, standing among many small independent cubes linked by thin lines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r014",
+    "sheet_id": "s099",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Duto",
+    "character_desc": "Pictograma guiando um losango por um tubo retangular contínuo de ponta a ponta; move dados no fluxo.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a pipeline developer, guiding a diamond through a long rectangular pipe from end to end, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r015",
+    "sheet_id": "s099",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Fluxo",
+    "character_desc": "Figura canalizando três correntes de pontos numa só via; estrutura o rio de dados na grade.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a data engineer, channeling three streams of dots into one aligned lane, funnel shape, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r016",
+    "sheet_id": "s099",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Cofre",
+    "character_desc": "Pictograma guardando cilindros empilhados de dados com uma chave geométrica na mão; administra o banco.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a database administrator, tending a stack of cylindrical data drums, holding a geometric key, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r017",
+    "sheet_id": "s099",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Consulta",
+    "character_desc": "Figura com uma lupa quadrada sobre uma tabela de células; extrai a linha certa do grid.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a SQL specialist, holding a square magnifier over a grid table, one cell highlighted red, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r018",
+    "sheet_id": "s099",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Reserva",
+    "character_desc": "Pictograma segurando uma caixa-relâmpago que guarda cópias rápidas; entrega o dado no ato.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a caching engineer, holding a lightning-marked box of quick copies, fast delivery pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r019",
+    "sheet_id": "s099",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Fila",
+    "character_desc": "Figura organizando losangos alinhados que entram por um lado e saem por outro; ordena as mensagens.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a message queue engineer, ordering a line of diamonds entering one side and exiting the other, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r020",
+    "sheet_id": "s099",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Farol",
+    "character_desc": "Pictograma com uma lupa circular varrendo um campo de pontos até achar um vermelho; encontra o que se busca.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a search engineer, sweeping a circular magnifier across a field of dots, one dot glowing red, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r021",
+    "sheet_id": "s099",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Tela",
+    "character_desc": "Figura montando um retângulo-janela com blocos coloridos encaixados; constrói o que se vê.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a frontend developer, assembling a rectangular window frame filled with fitted colored blocks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r022",
+    "sheet_id": "s099",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Botão",
+    "character_desc": "Pictograma apoiando um componente redondo perfeito na palma; cuida das peças de interface.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a UI engineer, presenting a perfect round button component on an open palm, tidy component tray, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r023",
+    "sheet_id": "s099",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Rota",
+    "character_desc": "Figura desenhando uma trilha de setas entre círculos-usuário e um quadrado-objetivo; planeja o caminho do uso.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a UX designer, sketching an arrow path between user-circles and a goal-square, flow map, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r024",
+    "sheet_id": "s099",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Peça",
+    "character_desc": "Pictograma alinhando módulos idênticos numa grade reutilizável; padroniza os componentes.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a design systems engineer, aligning identical modular tiles into a reusable grid, tokens as small squares, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r025",
+    "sheet_id": "s099",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Rampa",
+    "character_desc": "Figura ao lado de uma rampa geométrica e um círculo-alvo grande; abre o acesso para todos.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as an accessibility specialist, beside a geometric ramp and a large target circle, inclusive open gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r026",
+    "sheet_id": "s099",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Turbo",
+    "character_desc": "Pictograma segurando um cronômetro circular e uma seta veloz; enxuga o peso da página.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a web performance engineer, holding a circular stopwatch and a fast red arrow, trimming a heavy block, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r027",
+    "sheet_id": "s099",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Estilo",
+    "character_desc": "Figura pintando um quadrado com faixas de cor exatas usando um pincel retangular; molda a aparência.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a CSS specialist, painting a square with precise color bands using a rectangular brush, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r028",
+    "sheet_id": "s099",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Quadro",
+    "character_desc": "Pictograma exibindo três quadros de um movimento em arco; dá vida ao que estava parado.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as an animation engineer, showing three keyframe squares of an arc motion, a ball rising in steps, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r029",
+    "sheet_id": "s099",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Palma",
+    "character_desc": "Figura equilibrando um retângulo-telefone arredondado na mão; leva a app para o bolso.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a mobile developer, balancing a rounded rectangular phone slab on the palm, pocket-scale device, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r030",
+    "sheet_id": "s099",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Maçã",
+    "character_desc": "Pictograma com um retângulo-telefone e um círculo-mordida geométrico; constrói para o ecossistema da fruta.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as an iOS developer, holding a phone slab beside a geometric bitten-circle mark, clean minimalist device, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r031",
+    "sheet_id": "s099",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Verdinho",
+    "character_desc": "Figura segurando um telefone-bloco encimado por um triângulo-robô simples; entrega para o robô verde.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as an Android developer, holding a phone block topped by a simple triangular robot head, antenna dots, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r032",
+    "sheet_id": "s099",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Ponte",
+    "character_desc": "Pictograma unindo dois telefones espelhados por uma única viga central; um código para os dois.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a React native developer, bridging two mirrored phone blocks with one central beam, shared core cube, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r033",
+    "sheet_id": "s099",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Asa",
+    "character_desc": "Figura montando uma app com um losango-pássaro estilizado sobre o telefone; voa entre plataformas.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a Flutter developer, building a phone app crowned by a stylized diamond-bird shape, dual-platform blocks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r034",
+    "sheet_id": "s099",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Sigma",
+    "character_desc": "Pictograma inclinado sobre um gráfico de barras retangulares com uma curva vermelha; lê o padrão nos dados.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a data scientist, leaning over a rectangular bar chart with a red trend curve, magnifier of circles, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r035",
+    "sheet_id": "s099",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Sinapse",
+    "character_desc": "Figura conectando pequenos círculos em camadas por linhas retas; treina a rede que aprende.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as an ML engineer, wiring small circles in layered columns with straight lines, a neural grid, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r036",
+    "sheet_id": "s099",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Esteira",
+    "character_desc": "Pictograma movendo um cubo-modelo por uma esteira de setas para uma caixa de produção; opera o ciclo do modelo.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as an MLOps engineer, moving a model-cube along an arrow conveyor into a production box, loop arrow, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r037",
+    "sheet_id": "s099",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Prisma",
+    "character_desc": "Figura observando um triângulo que decompõe um raio em faixas de cor; investiga o novo.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as an AI researcher, watching a triangular prism split a beam into color bands, notebook of squares, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r038",
+    "sheet_id": "s099",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Molde-Fala",
+    "character_desc": "Pictograma moldando um balão de fala retangular com blocos encaixados; escreve a instrução perfeita.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a prompt engineer, shaping a rectangular speech balloon out of fitted word-blocks, chat bracket icon, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r039",
+    "sheet_id": "s099",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Sílaba",
+    "character_desc": "Figura decompondo um balão de fala em pequenos quadrados-token alinhados; entende a linguagem.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as an NLP engineer, breaking a speech balloon into aligned small token-squares, language grid, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r040",
+    "sheet_id": "s099",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Olho",
+    "character_desc": "Pictograma segurando uma moldura quadrada que enquadra um rosto-círculo com pontos de marcação; faz a máquina ver.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a computer vision engineer, holding a square frame over a circle-face marked with detection dots, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r041",
+    "sheet_id": "s099",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Régua-Dados",
+    "character_desc": "Figura medindo barras de altura variável com uma régua vertical; lê a história nos números.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a data analyst, measuring bars of varying height with a vertical ruler, red highlight bar, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r042",
+    "sheet_id": "s099",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Painel",
+    "character_desc": "Pictograma montando um painel de três blocos-indicadores num grid limpo; mostra o negócio de relance.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a BI analyst, assembling a dashboard of three indicator blocks in a clean grid, pie-circle segment, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r043",
+    "sheet_id": "s099",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Junção",
+    "character_desc": "Figura encaixando duas tabelas-grade por uma coluna comum destacada; prepara o dado para análise.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as an analytics engineer, joining two grid-tables by a highlighted common column, transform arrow, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r044",
+    "sheet_id": "s099",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Traço",
+    "character_desc": "Pictograma desenhando um gráfico de linha nítido sobre eixos perpendiculares; transforma número em imagem.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a data viz specialist, drawing a crisp line chart on perpendicular axes, geometric legend dots, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r045",
+    "sheet_id": "s099",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Elo",
+    "character_desc": "Figura conectando uma caixa-código a uma caixa-servidor por uma seta de mão dupla contínua; automatiza a ponte.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a DevOps engineer, linking a code-box to a server-box with a continuous double arrow, infinity loop, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r046",
+    "sheet_id": "s099",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Vigia",
+    "character_desc": "Pictograma observando um monitor circular de pulso com uma linha de vida estável; mantém tudo de pé.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a site reliability engineer, watching a circular pulse monitor with a steady lifeline, alarm dot, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r047",
+    "sheet_id": "s099",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Alicerce",
+    "character_desc": "Figura assentando blocos-base uniformes onde os outros vão construir; entrega a plataforma comum.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a platform engineer, laying uniform foundation blocks for others to build on, base grid slab, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r048",
+    "sheet_id": "s099",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Nuvem",
+    "character_desc": "Pictograma organizando cubos-servidor dentro de uma nuvem geométrica de arcos; planeja a infraestrutura no ar.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a cloud architect, arranging server-cubes inside a geometric arc-cloud, connection lines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r049",
+    "sheet_id": "s099",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Leme",
+    "character_desc": "Figura pilotando um timão geométrico de raios iguais sobre contêineres empilhados; guia os contêineres.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a Kubernetes admin, steering a geometric ship-wheel of equal spokes over stacked containers, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r050",
+    "sheet_id": "s099",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Malha",
+    "character_desc": "Pictograma ligando nós-círculo por uma teia de retas ortogonais; desenha a rede.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a network engineer, linking node-circles with a web of orthogonal straight lines, packet-diamond, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r051",
+    "sheet_id": "s099",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Zelador",
+    "character_desc": "Figura ajustando interruptores retangulares num painel de blocos; mantém os sistemas rodando.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a systems administrator, flipping rectangular switches on a block panel, uptime bar green-red, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r052",
+    "sheet_id": "s099",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Selo",
+    "character_desc": "Pictograma carimbando um cubo-versão com um triângulo-tag; despacha a entrega no ponto certo.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a release engineer, stamping a version-cube with a triangular tag, shipping arrow forward, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r053",
+    "sheet_id": "s099",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Forja",
+    "character_desc": "Figura prensando peças-código soltas num único bloco compacto; compila tudo em um artefato.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a build engineer, pressing loose code-pieces into one compact block, gear-square press, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r054",
+    "sheet_id": "s099",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Correia",
+    "character_desc": "Pictograma movendo cubos por uma esteira de setas com carimbos de aprovação verdes; automatiza o fluxo de entrega.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a CI/CD engineer, moving cubes along an arrow conveyor stamped with green check-circles, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r055",
+    "sheet_id": "s099",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Escudo",
+    "character_desc": "Figura erguendo um escudo geométrico hexagonal com um cadeado-quadrado; barra a ameaça.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a security engineer, raising a hexagonal geometric shield with a square padlock, blocking a red arrow, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r056",
+    "sheet_id": "s099",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Brecha",
+    "character_desc": "Pictograma sondando uma parede-grade com uma chave-gazua triangular; procura o ponto fraco.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a penetration tester, probing a grid-wall with a triangular pick, spotting a red crack, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r057",
+    "sheet_id": "s099",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Costura",
+    "character_desc": "Figura remendando um bloco-app com placas-remendo quadradas; fecha as falhas do código.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as an AppSec engineer, patching an app-block with square patch-plates, closing red gaps, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r058",
+    "sheet_id": "s099",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cifra",
+    "character_desc": "Pictograma embaralhando um quadrado legível num padrão de blocos irreconhecível; tranca o segredo.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a cryptographer, scrambling a readable square into an unreadable block pattern, key-diamond, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r059",
+    "sheet_id": "s099",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Carimbo",
+    "character_desc": "Figura conferindo uma lista de caixas de seleção quadradas com um selo de aprovação; garante as regras.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a compliance officer, checking a column of square checkboxes with an approval seal, rulebook block, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r060",
+    "sheet_id": "s099",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Véu",
+    "character_desc": "Pictograma cobrindo círculos-pessoa com uma máscara-retângulo que anonimiza; protege o dado pessoal.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a privacy engineer, covering person-circles with an anonymizing rectangle mask, shield-dot, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r061",
+    "sheet_id": "s099",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Sirene",
+    "character_desc": "Figura correndo com um triângulo-alerta vermelho e um extintor geométrico; apaga o incêndio do sistema.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as an incident responder, rushing with a red triangular alert and a geometric extinguisher, siren-arc, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r062",
+    "sheet_id": "s099",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Mapa-Risco",
+    "character_desc": "Pictograma marcando setas de ataque num diagrama de caixas conectadas; prevê onde a ameaça entra.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a threat modeler, marking attack arrows on a diagram of connected boxes, red danger nodes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r063",
+    "sheet_id": "s099",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Lupa-Q",
+    "character_desc": "Figura inspecionando um bloco-produto com uma lupa quadrada e um carimbo de aprovação; caça o defeito.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a QA engineer, inspecting a product-block with a square magnifier, pass-check and red bug-dot, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r064",
+    "sheet_id": "s099",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Robô-Teste",
+    "character_desc": "Pictograma acionando um braço-robô geométrico que aperta botões em sequência; testa sem parar.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as an SDET automation engineer, operating a geometric robot arm pressing buttons in sequence, loop arrow, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r065",
+    "sheet_id": "s099",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Cronô",
+    "character_desc": "Figura medindo a carga de um bloco pesado com um cronômetro circular sob pressão; testa o limite.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a performance tester, measuring a heavy block's load with a circular stopwatch, stress gauge bar, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r066",
+    "sheet_id": "s099",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Dedão",
+    "character_desc": "Pictograma percorrendo uma tela-grade com o dedo, marcando cada célula testada; confere na unha.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a manual tester, running a finger across a grid-screen, marking each checked cell by hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r067",
+    "sheet_id": "s099",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Toque",
+    "character_desc": "Figura testando uma rampa e um alvo grande com um círculo-alvo de contraste; verifica o acesso.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as an accessibility tester, checking a ramp and large target with a high-contrast circle, ear-dot icon, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r068",
+    "sheet_id": "s099",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Pena",
+    "character_desc": "Pictograma escrevendo linhas retas de texto-abstrato num bloco-página com uma caneta geométrica; documenta tudo.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a technical writer, ruling straight abstract text-lines on a page-block with a geometric pen, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r069",
+    "sheet_id": "s099",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Megafone",
+    "character_desc": "Figura no palco-bloco erguendo um megafone triangular para uma plateia de círculos; espalha a técnica.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a developer advocate, on a block-stage raising a triangular megaphone to a circle-audience, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r070",
+    "sheet_id": "s099",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Bússola-Texto",
+    "character_desc": "Pictograma organizando cartões-conteúdo numa trilha de setas; planeja a mensagem.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a content strategist, arranging content-cards along an arrow path, plan grid, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r071",
+    "sheet_id": "s099",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Globo",
+    "character_desc": "Figura trocando um balão de fala por outro sobre um círculo-globo de meridianos; adapta para cada idioma.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a localization engineer, swapping one speech balloon for another over a meridian-circle globe, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r072",
+    "sheet_id": "s099",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Molde-P",
+    "character_desc": "Pictograma esculpindo uma tela a partir de círculos-usuário e blocos, unindo forma e uso; desenha o produto.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a product designer, sculpting a screen from user-circles and blocks, joining form and function, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r073",
+    "sheet_id": "s099",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Paleta",
+    "character_desc": "Figura segurando uma paleta de três quadrados de cor exatos e uma régua; compõe o visual.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a visual designer, holding a palette of three precise color squares and a ruler, grid canvas, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r074",
+    "sheet_id": "s099",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Gesto",
+    "character_desc": "Pictograma ligando o toque de um círculo-dedo a um botão que reage com uma seta; desenha a resposta.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as an interaction designer, linking a finger-circle tap to a button reacting with an arrow, feedback loop, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r075",
+    "sheet_id": "s099",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Arco",
+    "character_desc": "Figura traçando uma curva de movimento em arco com três pontos-chave; dá ritmo ao gesto.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a motion designer, tracing an arc motion curve with three keyframe dots, easing arrow, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r076",
+    "sheet_id": "s099",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Bico",
+    "character_desc": "Pictograma desenhando uma figura geométrica com um bico-de-pena triangular; ilustra em formas puras.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as an illustrator, drawing a geometric figure with a triangular nib pen, shapes on a page-block, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r077",
+    "sheet_id": "s099",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Peça-Arte",
+    "character_desc": "Figura organizando ícones-quadrado idênticos num tabuleiro de assets; produz as peças visuais.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as an asset designer, arranging identical square icon-tiles on an asset board, export arrow, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r078",
+    "sheet_id": "s099",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Marca",
+    "character_desc": "Pictograma apresentando um símbolo geométrico único num círculo perfeito; cria a identidade.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a brand designer, presenting a single geometric symbol inside a perfect circle, logo-mark grid, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r079",
+    "sheet_id": "s099",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Onda",
+    "character_desc": "Figura moldando uma onda sonora de barras verticais crescentes e decrescentes; desenha o som.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a sound designer, shaping a sound wave of rising and falling vertical bars, speaker-triangle, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r080",
+    "sheet_id": "s099",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Poliedro",
+    "character_desc": "Pictograma girando um cubo isométrico de arestas nítidas; esculpe o volume em três eixos.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a 3D artist, rotating an isometric cube with crisp edges, wireframe grid, axis arrows, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r081",
+    "sheet_id": "s099",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Regra-Jogo",
+    "character_desc": "Figura ajustando um tabuleiro de casas quadradas com peças-círculo e uma seta de loop; define as regras.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a game designer, adjusting a square-tile board with circle-pieces and a loop arrow, dice-cube, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r082",
+    "sheet_id": "s099",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Mapa-Fase",
+    "character_desc": "Pictograma montando um percurso de plataformas retangulares com um triângulo-bandeira no fim; desenha a fase.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a level designer, laying out a path of rectangular platforms with a triangular goal flag, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r083",
+    "sheet_id": "s099",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Enredo",
+    "character_desc": "Figura ligando balões de fala por uma trilha ramificada de setas; conta a história do jogo.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a narrative designer, connecting speech balloons along a branching arrow path, choice-diamonds, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r084",
+    "sheet_id": "s099",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Sprite",
+    "character_desc": "Pictograma controlando um personagem-quadrado que salta entre plataformas com um botão-círculo; constrói o jogo.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a game developer, steering a square-character leaping over platforms with a circle-button, joystick, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r085",
+    "sheet_id": "s099",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Reflexo",
+    "character_desc": "Figura moldando um triângulo que reflete um raio de luz em faixas nítidas; programa o brilho.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a graphics shader engineer, shaping a triangle that reflects a light beam into crisp bands, pixel-grid, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r086",
+    "sheet_id": "s099",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Chip",
+    "character_desc": "Pictograma soldando um quadrado-chip com pinos regulares numa placa-grade; programa o pequeno.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as an embedded engineer, soldering a square chip with regular pins onto a grid-board, tiny circuit lines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r087",
+    "sheet_id": "s099",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Base-Metal",
+    "character_desc": "Figura instalando um bloco-firmware dentro de um chip retangular; escreve a camada mais baixa.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a firmware engineer, slotting a firmware-block into a rectangular chip, low-level layer stack, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r088",
+    "sheet_id": "s099",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Sensor",
+    "character_desc": "Pictograma conectando pequenos círculos-sensor a uma nuvem por linhas de sinal; liga as coisas.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as an IoT engineer, linking small sensor-circles to a cloud with signal lines, radio-arc dots, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r089",
+    "sheet_id": "s099",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Corrente",
+    "character_desc": "Pictograma encadeando cubos-bloco idênticos numa fila selada por elos; constrói a cadeia.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a blockchain developer, chaining identical block-cubes in a sealed line with link shapes, hash-dots, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r090",
+    "sheet_id": "s099",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Selo-Contrato",
+    "character_desc": "Figura conferindo um bloco-contrato com uma lupa quadrada e um selo de aprovação; audita o código selado.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a smart contract auditor, inspecting a contract-block with a square magnifier and approval seal, red bug, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r091",
+    "sheet_id": "s099",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Visor",
+    "character_desc": "Pictograma vestindo um visor-retângulo que projeta um cubo flutuante à frente; funde real e virtual.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as an AR/VR engineer, wearing a rectangular visor projecting a floating cube ahead, depth arrows, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r092",
+    "sheet_id": "s099",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Braço",
+    "character_desc": "Figura operando um braço-robô geométrico de segmentos retos que agarra um cubo; move o físico.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a robotics engineer, operating a geometric segmented robot arm gripping a cube, motion arc, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r093",
+    "sheet_id": "s099",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Curva-Alta",
+    "character_desc": "Pictograma empurrando uma curva de crescimento vermelha para cima com uma seta; acelera os números.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a growth engineer, pushing a red growth curve upward with an arrow, funnel of circles to a target, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r094",
+    "sheet_id": "s099",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Topo",
+    "character_desc": "Figura escalando uma pilha de blocos-resultado rumo a uma lupa-círculo no topo; sobe na busca.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as an SEO specialist, climbing a stack of result-blocks toward a magnifier-circle at the top, rank arrows, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r095",
+    "sheet_id": "s099",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Funil",
+    "character_desc": "Pictograma canalizando círculos-usuário por um funil triangular até uma caixa-conversão; liga marketing e código.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a marketing technologist, channeling user-circles through a triangular funnel into a conversion box, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r096",
+    "sheet_id": "s099",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Elo-Cliente",
+    "character_desc": "Figura ligando um bloco-produto a um círculo-cliente por uma seta de encaixe; mostra a solução funcionando.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a solutions engineer, connecting a product-block to a client-circle with a fitting arrow, demo screen, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r097",
+    "sheet_id": "s099",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Cabo",
+    "character_desc": "Pictograma com um headset geométrico atendendo um balão-chamado e apontando a solução num bloco; resolve o problema.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a support engineer, wearing a geometric headset answering a call-balloon, pointing at a fix-block, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r098",
+    "sheet_id": "s099",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Aperto",
+    "character_desc": "Figura estendendo a mão a um círculo-cliente sobre um bloco-demonstração; vende com a técnica na mão.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a sales engineer, extending a hand to a client-circle over a demo-block, value arrow and handshake shapes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r099",
+    "sheet_id": "s099",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Moeda",
+    "character_desc": "Pictograma equilibrando círculos-moeda numa balança contra um cubo-nuvem; corta o custo do sistema.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a FinOps analyst, balancing coin-circles on a scale against a cloud-cube, downward cost arrow, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s099-r100",
+    "sheet_id": "s099",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Balança",
+    "character_desc": "Figura segurando uma balança geométrica perfeita e um bloco-documento selado; guarda a lei.",
+    "nano_prompt": "Flat geometric Swiss-style minimalist pictogram figure standing full body, body constructed from clean primitive shapes (circles, rectangles, triangles) aligned to a rigid modular grid, strict International Typographic Style, limited flat palette of signal red, deep black and off-white, bold Helvetica-era simplicity, crisp hard vector edges, no gradients, reading as a legal counsel, holding a perfectly geometric balance scale and a sealed document-block, gavel-triangle, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s025-r001",
+    "sheet_id": "s025",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Genryu, o Dragão-Planta",
+    "character_desc": "Dragão-yokai ancião que carrega o mapa do mundo espiritual; segurando um pergaminho-planta baixa aberto com torii, pontes e templos interligados, régua de bambu na cintura.",
+    "nano_prompt": "a dragão-yokai ancião que carrega o mapa do mundo espiritual, segurando um pergaminho-planta baixa aberto com torii, pontes e templos interligados, régua de bambu na cintura, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r002",
+    "sheet_id": "s025",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Kashira-tengu",
+    "character_desc": "Tengu líder de bando com leque de comando; empunhando um leque de guerra japonês (gunbai), penas de asa nas costas, apontando o caminho para pequenos espíritos ao seu redor.",
+    "nano_prompt": "a tengu líder de bando com leque de comando, empunhando um leque de guerra japonês (gunbai), penas de asa nas costas, apontando o caminho para pequenos espíritos ao seu redor, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r003",
+    "sheet_id": "s025",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Fudo, o Espírito-Âncora",
+    "character_desc": "Kitsune veterano de nove caudas firme como rocha; de braços cruzados sobre uma bigorna de pedra, nove caudas estáveis, olhar sereno e resoluto.",
+    "nano_prompt": "a kitsune veterano de nove caudas firme como rocha, de braços cruzados sobre uma bigorna de pedra, nove caudas estáveis, olhar sereno e resoluto, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r004",
+    "sheet_id": "s025",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Taikan, o Sábio das Torres",
+    "character_desc": "Tengu-eremita que vê o horizonte inteiro; de pé no topo de uma montanha em miniatura, luneta de bambu na mão, compasso de arquiteto pendurado.",
+    "nano_prompt": "a tengu-eremita que vê o horizonte inteiro, de pé no topo de uma montanha em miniatura, luneta de bambu na mão, compasso de arquiteto pendurado, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r005",
+    "sheet_id": "s025",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Yadori, a Mãe-Kodama",
+    "character_desc": "Kodama guardiã que abriga espíritos menores; cercada de pequenos kodamas brotando de seus galhos-braços, guiando-os com gestos gentis.",
+    "nano_prompt": "a kodama guardiã que abriga espíritos menores, cercada de pequenos kodamas brotando de seus galhos-braços, guiando-os com gestos gentis, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r006",
+    "sheet_id": "s025",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Michi, a Raposa-Bússola",
+    "character_desc": "Kitsune que fareja o desejo dos vilarejos; segurando uma bússola-flor e um mapa de rota, orelhas atentas voltadas à multidão de sombras.",
+    "nano_prompt": "a kitsune que fareja o desejo dos vilarejos, segurando uma bússola-flor e um mapa de rota, orelhas atentas voltadas à multidão de sombras, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r007",
+    "sheet_id": "s025",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Sazae, a Concha-Prioridade",
+    "character_desc": "Yokai-molusco que organiza tesouros por valor; empilhando gemas numeradas numa concha espiral, uma vara marca a mais importante no topo.",
+    "nano_prompt": "a yokai-molusco que organiza tesouros por valor, empilhando gemas numeradas numa concha espiral, uma vara marca a mais importante no topo, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r008",
+    "sheet_id": "s025",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Amimoto, o Tecelão-de-Redes",
+    "character_desc": "Tsuchigumo (aranha-yokai) que entrelaça muitos fios; no centro de uma teia de fios de tinta ligando vários lampiões, cada fio marcado por um nó.",
+    "nano_prompt": "a tsuchigumo (aranha-yokai) que entrelaça muitos fios, no centro de uma teia de fios de tinta ligando vários lampiões, cada fio marcado por um nó, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r009",
+    "sheet_id": "s025",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Sunadokei, o Espírito-Ampulheta",
+    "character_desc": "Tsukumogami de ampulheta que zela pelo tempo; corpo de ampulheta com areia-tinta escorrendo, prancheta de bambu com marcações e um sino de prazo.",
+    "nano_prompt": "a tsukumogami de ampulheta que zela pelo tempo, corpo de ampulheta com areia-tinta escorrendo, prancheta de bambu com marcações e um sino de prazo, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r010",
+    "sheet_id": "s025",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Wagumo, o Guardião do Círculo",
+    "character_desc": "Tanuki animador que mantém o ritmo do grupo; batendo num tambor taiko com um quadro de post-its de folhas, tambor marca o ritmo do time.",
+    "nano_prompt": "a tanuki animador que mantém o ritmo do grupo, batendo num tambor taiko com um quadro de post-its de folhas, tambor marca o ritmo do time, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r011",
+    "sheet_id": "s025",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Kuroza, o Oni-da-Forja",
+    "character_desc": "Oni ferreiro que martela a lógica do mundo oculto; martelando engrenagens incandescentes numa bigorna, avental de couro, servidores-tochas ao fundo estilizados em tinta.",
+    "nano_prompt": "a oni ferreiro que martela a lógica do mundo oculto, martelando engrenagens incandescentes numa bigorna, avental de couro, servidores-tochas ao fundo estilizados em tinta, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r012",
+    "sheet_id": "s025",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Torii-no-Kami",
+    "character_desc": "Espírito-portão que define passagens sagradas; moldando um portão torii com encaixes precisos nas mãos, planta de conexões (endpoints) flutuando como origamis.",
+    "nano_prompt": "a espírito-portão que define passagens sagradas, moldando um portão torii com encaixes precisos nas mãos, planta de conexões (endpoints) flutuando como origamis, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r013",
+    "sheet_id": "s025",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Bunshin, o Ronin-Múltiplo",
+    "character_desc": "Yokai que se divide em muitos pequenos guerreiros; cercado por versões-miniatura de si mesmo, cada uma com uma tarefa e uma lanterna própria.",
+    "nano_prompt": "a yokai que se divide em muitos pequenos guerreiros, cercado por versões-miniatura de si mesmo, cada uma com uma tarefa e uma lanterna própria, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r014",
+    "sheet_id": "s025",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Nagare, a Serpente-Rio",
+    "character_desc": "Mizuchi (serpente-d'água) que conduz o fluxo; corpo sinuoso guiando baldes de tinta por calhas de bambu de uma fonte a um reservatório.",
+    "nano_prompt": "a mizuchi (serpente-d'água) que conduz o fluxo, corpo sinuoso guiando baldes de tinta por calhas de bambu de uma fonte a um reservatório, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r015",
+    "sheet_id": "s025",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Minamoto, o Carregador de Águas",
+    "character_desc": "Yokai-aguadeiro que transporta correntes de dados; com varal de ombro equilibrando dois grandes baldes transbordando de peixinhos-símbolo, canais escavados aos pés.",
+    "nano_prompt": "a yokai-aguadeiro que transporta correntes de dados, com varal de ombro equilibrando dois grandes baldes transbordando de peixinhos-símbolo, canais escavados aos pés, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r016",
+    "sheet_id": "s025",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Kura-no-Nushi",
+    "character_desc": "Yokai-guardião do armazém subterrâneo; diante de um grande baú-arquivo com muitas gavetas, chave-esqueleto na mão, tochas indexando prateleiras.",
+    "nano_prompt": "a yokai-guardião do armazém subterrâneo, diante de um grande baú-arquivo com muitas gavetas, chave-esqueleto na mão, tochas indexando prateleiras, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r017",
+    "sheet_id": "s025",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Toikake, o Espírito-Pergunta",
+    "character_desc": "Kitsune escriba que interroga o arquivo; segurando um pincel e um pergaminho de perguntas (queries), gaveta aberta cuspindo fichas selecionadas.",
+    "nano_prompt": "a kitsune escriba que interroga o arquivo, segurando um pincel e um pergaminho de perguntas (queries), gaveta aberta cuspindo fichas selecionadas, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r018",
+    "sheet_id": "s025",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Hayagake, a Lebre-Relâmpago",
+    "character_desc": "Yokai-lebre veloz que guarda respostas prontas; com sacola de fichas idênticas de acesso instantâneo, patas em brasa, atalho de bambu enrolado.",
+    "nano_prompt": "a yokai-lebre veloz que guarda respostas prontas, com sacola de fichas idênticas de acesso instantâneo, patas em brasa, atalho de bambu enrolado, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r019",
+    "sheet_id": "s025",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Watashimori, o Barqueiro-Fila",
+    "character_desc": "Yokai-barqueiro que enfileira almas ordenadamente; conduzindo uma canoa com pacotes-lanterna em fila, remo marcando a ordem de embarque.",
+    "nano_prompt": "a yokai-barqueiro que enfileira almas ordenadamente, conduzindo uma canoa com pacotes-lanterna em fila, remo marcando a ordem de embarque, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r020",
+    "sheet_id": "s025",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Sagashi, o Coruja-Farol",
+    "character_desc": "Coruja-yokai que encontra qualquer coisa no escuro; lupa numa asa, lanterna na outra, penas cheias de pequenos índices luminosos, olhos enormes de busca.",
+    "nano_prompt": "a coruja-yokai que encontra qualquer coisa no escuro, lupa numa asa, lanterna na outra, penas cheias de pequenos índices luminosos, olhos enormes de busca, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r021",
+    "sheet_id": "s025",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Omote, a Máscara-Viva",
+    "character_desc": "Tsukumogami de máscara noh que é a face do mundo; segurando e vestindo máscaras noh empilhadas (janelas), moldura de tela de shoji ao redor do rosto.",
+    "nano_prompt": "a tsukumogami de máscara noh que é a face do mundo, segurando e vestindo máscaras noh empilhadas (janelas), moldura de tela de shoji ao redor do rosto, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r022",
+    "sheet_id": "s025",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Kumitate, o Marceneiro-Espírito",
+    "character_desc": "Yokai-artesão que monta peças da vitrine; encaixando blocos-componentes de madeira laqueada num painel, formão e esquadro de bambu nas mãos.",
+    "nano_prompt": "a yokai-artesão que monta peças da vitrine, encaixando blocos-componentes de madeira laqueada num painel, formão e esquadro de bambu nas mãos, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r023",
+    "sheet_id": "s025",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Kokoromi, a Andarilha-Caminho",
+    "character_desc": "Yurei gentil que traça a jornada do viajante; desenhando com pincel uma trilha de pegadas entre torii, mapa de fluxo de passos desdobrado.",
+    "nano_prompt": "a yurei gentil que traça a jornada do viajante, desenhando com pincel uma trilha de pegadas entre torii, mapa de fluxo de passos desdobrado, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r024",
+    "sheet_id": "s025",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Kata, o Selo-Mestre",
+    "character_desc": "Tsukumogami de carimbo que padroniza tudo; prensando carimbos idênticos (tokens) numa cartela ordenada, paleta de selos organizada no cinto.",
+    "nano_prompt": "a tsukumogami de carimbo que padroniza tudo, prensando carimbos idênticos (tokens) numa cartela ordenada, paleta de selos organizada no cinto, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r025",
+    "sheet_id": "s025",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Michibiki, o Cão-Guia",
+    "character_desc": "Inugami (cão-espírito) que guia os sem-visão; com sino de orientação, bengala de bambu, faixas em braille-tinta na veste, orelhas atentas a todos.",
+    "nano_prompt": "a inugami (cão-espírito) que guia os sem-visão, com sino de orientação, bengala de bambu, faixas em braille-tinta na veste, orelhas atentas a todos, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r026",
+    "sheet_id": "s025",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Shukusoku, o Vento-Veloz",
+    "character_desc": "Kamaitachi (doninha-do-vento) que corta a lentidão; rasgando o ar com foices, cronômetro-flor no pescoço, rastro de velocidade em traços rápidos de tinta.",
+    "nano_prompt": "a kamaitachi (doninha-do-vento) que corta a lentidão, rasgando o ar com foices, cronômetro-flor no pescoço, rastro de velocidade em traços rápidos de tinta, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r027",
+    "sheet_id": "s025",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Irodori, o Espírito-Pincel",
+    "character_desc": "Tsukumogami de pincel que veste o mundo; grande pincel caligráfico como corpo, paleta de tons de cinza e réguas de layout flutuando ao redor.",
+    "nano_prompt": "a tsukumogami de pincel que veste o mundo, grande pincel caligráfico como corpo, paleta de tons de cinza e réguas de layout flutuando ao redor, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r028",
+    "sheet_id": "s025",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Odori, a Chama-Dançante",
+    "character_desc": "Hitodama (chama-alma) que dá vida ao movimento; corpo de chama fluida deixando rastros de quadros sucessivos, leque marcando poses de animação.",
+    "nano_prompt": "a hitodama (chama-alma) que dá vida ao movimento, corpo de chama fluida deixando rastros de quadros sucessivos, leque marcando poses de animação, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r029",
+    "sheet_id": "s025",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Futago, o Tanuki-de-Bolso",
+    "character_desc": "Tanuki que cabe em qualquer palma; sentado sobre uma folha-tela retangular pequena, mochila de apps-miniatura, transformando-se conforme a mão.",
+    "nano_prompt": "a tanuki que cabe em qualquer palma, sentado sobre uma folha-tela retangular pequena, mochila de apps-miniatura, transformando-se conforme a mão, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r030",
+    "sheet_id": "s025",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Ringo-hime",
+    "character_desc": "Espírito-fruta polido de jardim zen; segurando uma maçã-espelho lustrada, jardim de pedras raked perfeito aos pés, veste minimalista impecável.",
+    "nano_prompt": "a espírito-fruta polido de jardim zen, segurando uma maçã-espelho lustrada, jardim de pedras raked perfeito aos pés, veste minimalista impecável, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r031",
+    "sheet_id": "s025",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Midori-robo",
+    "character_desc": "Golem-verde de bambu articulado; corpo de bambu segmentado com juntas visíveis, chá-verde a fumegar, pequenos robôs-broto na palma.",
+    "nano_prompt": "a golem-verde de bambu articulado, corpo de bambu segmentado com juntas visíveis, chá-verde a fumegar, pequenos robôs-broto na palma, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r032",
+    "sheet_id": "s025",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Kakehashi, a Ponte-Gêmea",
+    "character_desc": "Yokai-ponte que liga duas margens de uma vez; de pé sobre uma ponte que se bifurca para dois torii idênticos, uma única lanterna alimenta ambos.",
+    "nano_prompt": "a yokai-ponte que liga duas margens de uma vez, de pé sobre uma ponte que se bifurca para dois torii idênticos, uma única lanterna alimenta ambos, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r033",
+    "sheet_id": "s025",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Chocho, a Borboleta-Enxame",
+    "character_desc": "Mushi-yokai cujas asas viram muitas telas; asas de borboleta feitas de pequenos painéis idênticos, voando entre plataformas-flor com um só sopro.",
+    "nano_prompt": "a mushi-yokai cujas asas viram muitas telas, asas de borboleta feitas de pequenos painéis idênticos, voando entre plataformas-flor com um só sopro, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r034",
+    "sheet_id": "s025",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Uranai, a Kitsune-Oráculo",
+    "character_desc": "Kitsune adivinha que lê padrões nas folhas; debruçada sobre folhas de chá formando gráficos, ábaco de contas e lupa de cristal na mão.",
+    "nano_prompt": "a kitsune adivinha que lê padrões nas folhas, debruçada sobre folhas de chá formando gráficos, ábaco de contas e lupa de cristal na mão, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r035",
+    "sheet_id": "s025",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Karakuri, o Autômato-Aprendiz",
+    "character_desc": "Karakuri (boneco-máquina) que aprende sozinho; boneco de madeira com engrenagens ajustando-se, alimentando-se de fichas-dado, mira que se corrige.",
+    "nano_prompt": "a karakuri (boneco-máquina) que aprende sozinho, boneco de madeira com engrenagens ajustando-se, alimentando-se de fichas-dado, mira que se corrige, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r036",
+    "sheet_id": "s025",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Rokuro, o Espírito-Esteira",
+    "character_desc": "Tsukumogami de roda de oleiro que entrega modelos; girando uma roda de oleiro que molda autômatos idênticos e os envia por uma esteira de bambu.",
+    "nano_prompt": "a tsukumogami de roda de oleiro que entrega modelos, girando uma roda de oleiro que molda autômatos idênticos e os envia por uma esteira de bambu, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r037",
+    "sheet_id": "s025",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Mugen, o Eremita-do-Vazio",
+    "character_desc": "Sennin (imortal) que medita sobre o desconhecido; meditando sobre uma nuvem, segurando um pergaminho de fórmulas-caligrafia inacabadas, olhar no infinito.",
+    "nano_prompt": "a sennin (imortal) que medita sobre o desconhecido, meditando sobre uma nuvem, segurando um pergaminho de fórmulas-caligrafia inacabadas, olhar no infinito, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r038",
+    "sheet_id": "s025",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Kotodama, a Voz-Encantada",
+    "character_desc": "Yokai da palavra que conjura espíritos falando; soprando ideogramas-fumaça que ganham forma, sino de conversa e pergaminho de conjuros nas mãos.",
+    "nano_prompt": "a yokai da palavra que conjura espíritos falando, soprando ideogramas-fumaça que ganham forma, sino de conversa e pergaminho de conjuros nas mãos, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r039",
+    "sheet_id": "s025",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Kotoba-neko",
+    "character_desc": "Nekomata bibliotecário das línguas; gato-yokai de duas caudas cercado de pergaminhos de idiomas, óculos de leitura, pincel traduzindo runas.",
+    "nano_prompt": "a nekomata bibliotecário das línguas, gato-yokai de duas caudas cercado de pergaminhos de idiomas, óculos de leitura, pincel traduzindo runas, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r040",
+    "sheet_id": "s025",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Metsuke, o Olho-que-Tudo-Vê",
+    "character_desc": "Yokai de olho único que reconhece formas; grande olho-lanterna flutuante examinando silhuetas recortadas, moldura-visor de bambu, régua de contornos.",
+    "nano_prompt": "a yokai de olho único que reconhece formas, grande olho-lanterna flutuante examinando silhuetas recortadas, moldura-visor de bambu, régua de contornos, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r041",
+    "sheet_id": "s025",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Yomitori, a Garça-Contadora",
+    "character_desc": "Garça-yokai que separa grãos de verdade; bico separando grãos numa peneira, ábaco no pé, pequenos gráficos de junco arranjados na margem.",
+    "nano_prompt": "a garça-yokai que separa grãos de verdade, bico separando grãos numa peneira, ábaco no pé, pequenos gráficos de junco arranjados na margem, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r042",
+    "sheet_id": "s025",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Miharu, a Coruja-Painel",
+    "character_desc": "Coruja-yokai que mostra o estado do reino; abas de leque abertas como painéis de indicadores, medidores-lanterna pendurados, ponteiro de bambu.",
+    "nano_prompt": "a coruja-yokai que mostra o estado do reino, abas de leque abertas como painéis de indicadores, medidores-lanterna pendurados, ponteiro de bambu, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r043",
+    "sheet_id": "s025",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Tsunagi, o Costureiro-de-Fluxos",
+    "character_desc": "Tsukumogami de agulha que costura fontes; costurando vários fios-riacho num tecido único e limpo, carretéis rotulados no cinto, tesoura de transformação.",
+    "nano_prompt": "a tsukumogami de agulha que costura fontes, costurando vários fios-riacho num tecido único e limpo, carretéis rotulados no cinto, tesoura de transformação, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r044",
+    "sheet_id": "s025",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Emaki, o Pintor-de-Histórias",
+    "character_desc": "Yokai-pintor que transforma números em imagens; desenrolando um emaki (rolo pintado) com barras e curvas em tinta, pincel e tinteiro de dados na mão.",
+    "nano_prompt": "a yokai-pintor que transforma números em imagens, desenrolando um emaki (rolo pintado) com barras e curvas em tinta, pincel e tinteiro de dados na mão, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r045",
+    "sheet_id": "s025",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Hako-oni",
+    "character_desc": "Oni de logística que ergue e move montanhas; carregando caixas-container empilhadas nas costas, chave inglesa gigante e corda de içar, ponte de bambu montada.",
+    "nano_prompt": "a oni de logística que ergue e move montanhas, carregando caixas-container empilhadas nas costas, chave inglesa gigante e corda de içar, ponte de bambu montada, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r046",
+    "sheet_id": "s025",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Mamori, o Cão-Sentinela",
+    "character_desc": "Komainu (leão-guardião) que nunca dorme; postado como estátua de guardião, sino de alarme, tochas de vigília, patas prontas a reerguer um pilar caído.",
+    "nano_prompt": "a komainu (leão-guardião) que nunca dorme, postado como estátua de guardião, sino de alarme, tochas de vigília, patas prontas a reerguer um pilar caído, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r047",
+    "sheet_id": "s025",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Dai, o Espírito-Alicerce",
+    "character_desc": "Yokai-tartaruga que sustenta o palco do mundo; casco em forma de plataforma sobre a qual outros yokai trabalham, pilares de bambu apoiados no dorso.",
+    "nano_prompt": "a yokai-tartaruga que sustenta o palco do mundo, casco em forma de plataforma sobre a qual outros yokai trabalham, pilares de bambu apoiados no dorso, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r048",
+    "sheet_id": "s025",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Kumo-no-Kami",
+    "character_desc": "Espírito das nuvens que hospeda vilarejos flutuantes; sentado numa nuvem-cidade com casinhas, tridente de comando dos ventos, mapa de nuvens em uma das mãos.",
+    "nano_prompt": "a espírito das nuvens que hospeda vilarejos flutuantes, sentado numa nuvem-cidade com casinhas, tridente de comando dos ventos, mapa de nuvens em uma das mãos, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r049",
+    "sheet_id": "s025",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Kaji, o Timoneiro-Enxame",
+    "character_desc": "Yokai-marinheiro que pastoreia contêineres-navio; timão numa mão, pastoreando pequenos barcos-caixa idênticos numa baía, mapa de leme (helm) ao lado.",
+    "nano_prompt": "a yokai-marinheiro que pastoreia contêineres-navio, timão numa mão, pastoreando pequenos barcos-caixa idênticos numa baía, mapa de leme (helm) ao lado, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r050",
+    "sheet_id": "s025",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Ito-hiki, a Aranha-Estrada",
+    "character_desc": "Jorogumo (aranha-yokai) que tece as estradas; puxando fios de teia que conectam torii distantes, roldanas e nós de roteamento pendurados nas patas.",
+    "nano_prompt": "a jorogumo (aranha-yokai) que tece as estradas, puxando fios de teia que conectam torii distantes, roldanas e nós de roteamento pendurados nas patas, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r051",
+    "sheet_id": "s025",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Kanri, o Zelador-Lanterna",
+    "character_desc": "Yokai-zelador que mantém as luzes acesas; molho de chaves gigante, óleo de lampião, ajustando fileiras de lanternas de um santuário-máquina.",
+    "nano_prompt": "a yokai-zelador que mantém as luzes acesas, molho de chaves gigante, óleo de lampião, ajustando fileiras de lanternas de um santuário-máquina, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r052",
+    "sheet_id": "s025",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Hanabi, o Mestre-Fogos",
+    "character_desc": "Yokai que lança lançamentos ao céu na hora certa; prestes a acender um foguete-pacote embrulhado com etiqueta de versão, pavio na mão, calendário-lua atrás.",
+    "nano_prompt": "a yokai que lança lançamentos ao céu na hora certa, prestes a acender um foguete-pacote embrulhado com etiqueta de versão, pavio na mão, calendário-lua atrás, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r053",
+    "sheet_id": "s025",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Tsuchi, o Oleiro-Construtor",
+    "character_desc": "Yokai-oleiro que cozinha peças cruas até ficarem prontas; amassando barro-código num forno-anagama, moldes de peças alinhados, avental empoeirado de cinza.",
+    "nano_prompt": "a yokai-oleiro que cozinha peças cruas até ficarem prontas, amassando barro-código num forno-anagama, moldes de peças alinhados, avental empoeirado de cinza, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r054",
+    "sheet_id": "s025",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Beruto, a Roda-Esteira",
+    "character_desc": "Tsukumogami de roda-d'água que testa e entrega; roda-d'água movendo baldes que passam por portões de inspeção antes de despejar no destino.",
+    "nano_prompt": "a tsukumogami de roda-d'água que testa e entrega, roda-d'água movendo baldes que passam por portões de inspeção antes de despejar no destino, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r055",
+    "sheet_id": "s025",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Shugo, o Guardião-Escudo",
+    "character_desc": "Komainu blindado que barra intrusos; escudo-espelho e cadeado gigante, postado diante de um portão trancado, olhar vigilante sobre sombras furtivas.",
+    "nano_prompt": "a komainu blindado que barra intrusos, escudo-espelho e cadeado gigante, postado diante de um portão trancado, olhar vigilante sobre sombras furtivas, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r056",
+    "sheet_id": "s025",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Nukebito, o Ninja-Fantasma",
+    "character_desc": "Yurei-ninja que testa as próprias muralhas; trepando furtivo por um muro procurando frestas, gazua e lanterna encoberta, capuz de sombra.",
+    "nano_prompt": "a yurei-ninja que testa as próprias muralhas, trepando furtivo por um muro procurando frestas, gazua e lanterna encoberta, capuz de sombra, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r057",
+    "sheet_id": "s025",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Kabuto-mushi",
+    "character_desc": "Yokai-besouro couraçado que protege o código-fruto; casco de besouro cobrindo um pergaminho-código, lupa examinando fissuras na casca, ferrão de correção.",
+    "nano_prompt": "a yokai-besouro couraçado que protege o código-fruto, casco de besouro cobrindo um pergaminho-código, lupa examinando fissuras na casca, ferrão de correção, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r058",
+    "sheet_id": "s025",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Kagi-no-Oni",
+    "character_desc": "Oni-serralheiro dos segredos; forjando fechaduras-labirinto e chaves entrelaçadas, cofre de tinta com selos cifrados, martelo e limas finas.",
+    "nano_prompt": "a oni-serralheiro dos segredos, forjando fechaduras-labirinto e chaves entrelaçadas, cofre de tinta com selos cifrados, martelo e limas finas, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r059",
+    "sheet_id": "s025",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Bugyo, o Magistrado-Selo",
+    "character_desc": "Yokai-magistrado que zela pelas leis do reino; vestes de juiz feudal, martelo-selo de aprovação, pilha de pergaminhos-decreto carimbados sob o braço.",
+    "nano_prompt": "a yokai-magistrado que zela pelas leis do reino, vestes de juiz feudal, martelo-selo de aprovação, pilha de pergaminhos-decreto carimbados sob o braço, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r060",
+    "sheet_id": "s025",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Kakushi, a Máscara-Névoa",
+    "character_desc": "Yokai que oculta os rostos dos aldeões; borrando rostos numa multidão de retratos com um véu de névoa-tinta, tesoura que recorta dados pessoais.",
+    "nano_prompt": "a yokai que oculta os rostos dos aldeões, borrando rostos numa multidão de retratos com um véu de névoa-tinta, tesoura que recorta dados pessoais, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r061",
+    "sheet_id": "s025",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Kaji-keshi",
+    "character_desc": "Yokai-bombeiro dos incêndios noturnos; correndo com balde e machado até uma lanterna em chamas, sino de alarme tocando, fumaça em traços agitados.",
+    "nano_prompt": "a yokai-bombeiro dos incêndios noturnos, correndo com balde e machado até uma lanterna em chamas, sino de alarme tocando, fumaça em traços agitados, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r062",
+    "sheet_id": "s025",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Kagemi, o Estrategista-Sombra",
+    "character_desc": "Tengu-estrategista que prevê os ataques; sobre um tabuleiro de go com peças-ameaça, apontando rotas de invasão com leque, olhos calculistas.",
+    "nano_prompt": "a tengu-estrategista que prevê os ataques, sobre um tabuleiro de go com peças-ameaça, apontando rotas de invasão com leque, olhos calculistas, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r063",
+    "sheet_id": "s025",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Aramono, a Peneira-Yokai",
+    "character_desc": "Tsukumogami de peneira que separa defeitos; peneirando peças e retendo as tortas numa peneira, carimbo de aprovado/reprovado, lupa no cinto.",
+    "nano_prompt": "a tsukumogami de peneira que separa defeitos, peneirando peças e retendo as tortas numa peneira, carimbo de aprovado/reprovado, lupa no cinto, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r064",
+    "sheet_id": "s025",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Karakuri-mushi",
+    "character_desc": "Besouro-autômato que repete testes sem cansar; besouro mecânico percorrendo um trilho de checagens em loop, engrenagens marcando repetições, marca de verde.",
+    "nano_prompt": "a besouro-autômato que repete testes sem cansar, besouro mecânico percorrendo um trilho de checagens em loop, engrenagens marcando repetições, marca de verde, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r065",
+    "sheet_id": "s025",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Omori, o Oni-do-Peso",
+    "character_desc": "Oni que mede quanto o palco aguenta; empilhando pesos gigantes sobre uma plataforma para vê-la ceder, medidor de tensão-lanterna, cronômetro.",
+    "nano_prompt": "a oni que mede quanto o palco aguenta, empilhando pesos gigantes sobre uma plataforma para vê-la ceder, medidor de tensão-lanterna, cronômetro, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r066",
+    "sheet_id": "s025",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Tesaki, a Mão-Cuidadosa",
+    "character_desc": "Yurei paciente que toca cada detalhe à mão; apalpando peças uma a uma com lista de verificação em folha, lupa e pincel de marcação, gesto meticuloso.",
+    "nano_prompt": "a yurei paciente que toca cada detalhe à mão, apalpando peças uma a uma com lista de verificação em folha, lupa e pincel de marcação, gesto meticuloso, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r067",
+    "sheet_id": "s025",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Kikimimi, o Ouvido-Espírito",
+    "character_desc": "Yokai-orelha que escuta se todos são atendidos; grande orelha-concha testando sinos e faixas de acesso, bengala e sino, atento a quem não é ouvido.",
+    "nano_prompt": "a yokai-orelha que escuta se todos são atendidos, grande orelha-concha testando sinos e faixas de acesso, bengala e sino, atento a quem não é ouvido, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r068",
+    "sheet_id": "s025",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Fudezukai, o Escriba-Kodama",
+    "character_desc": "Kodama-escriba que registra o saber da floresta; sentado com pincel e rolo, tinteiro numa cavidade do tronco, pilhas de pergaminhos-manual bem ordenados.",
+    "nano_prompt": "a kodama-escriba que registra o saber da floresta, sentado com pincel e rolo, tinteiro numa cavidade do tronco, pilhas de pergaminhos-manual bem ordenados, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r069",
+    "sheet_id": "s025",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Katari, o Contador-de-Feira",
+    "character_desc": "Tanuki eloquente que reúne a aldeia em roda; num palco de feira erguendo um pergaminho-demonstração, megafone-concha, plateia de espíritos encantados.",
+    "nano_prompt": "a tanuki eloquente que reúne a aldeia em roda, num palco de feira erguendo um pergaminho-demonstração, megafone-concha, plateia de espíritos encantados, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r070",
+    "sheet_id": "s025",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Suji, a Tecelã-de-Enredos",
+    "character_desc": "Yokai que fia o fio narrativo do reino; tecendo num tear fios que formam um mapa de histórias, novelos rotulados, tesoura de edição na cintura.",
+    "nano_prompt": "a yokai que fia o fio narrativo do reino, tecendo num tear fios que formam um mapa de histórias, novelos rotulados, tesoura de edição na cintura, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r071",
+    "sheet_id": "s025",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Yaoyorozu",
+    "character_desc": "Yokai-poliglota das oito-milhões-de-vozes; muitas bocas-lanterna falando línguas diferentes, globo de papel na mão, pergaminhos de tradução ao vento.",
+    "nano_prompt": "a yokai-poliglota das oito-milhões-de-vozes, muitas bocas-lanterna falando línguas diferentes, globo de papel na mão, pergaminhos de tradução ao vento, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r072",
+    "sheet_id": "s025",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Katachi, o Escultor-de-Sonhos",
+    "character_desc": "Yokai-escultor que dá forma ao que o usuário deseja; esculpindo em bloco de tinta a silhueta de um objeto-produto, cinzel e mapa de necessidades ao lado.",
+    "nano_prompt": "a yokai-escultor que dá forma ao que o usuário deseja, esculpindo em bloco de tinta a silhueta de um objeto-produto, cinzel e mapa de necessidades ao lado, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r073",
+    "sheet_id": "s025",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Sumizome, a Pintora-Tom",
+    "character_desc": "Yokai-pintora mestra do preto e do vazio; equilibrando gradientes de tinta num pincel largo, paleta de tons de nanquim, composição harmônica no ar.",
+    "nano_prompt": "a yokai-pintora mestra do preto e do vazio, equilibrando gradientes de tinta num pincel largo, paleta de tons de nanquim, composição harmônica no ar, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r074",
+    "sheet_id": "s025",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Fureai, o Espírito-do-Toque",
+    "character_desc": "Yokai que responde a cada gesto do viajante; reagindo a mãos que o tocam com ondas de tinta, botões-flor que acendem ao contato, fios de resposta.",
+    "nano_prompt": "a yokai que responde a cada gesto do viajante, reagindo a mãos que o tocam com ondas de tinta, botões-flor que acendem ao contato, fios de resposta, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r075",
+    "sheet_id": "s025",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Nagareboshi",
+    "character_desc": "Estrela-cadente-yokai que move o que estava parado; deixando um rastro de trajetória curva com marcadores de quadros, leque de easing, poses intermediárias.",
+    "nano_prompt": "a estrela-cadente-yokai que move o que estava parado, deixando um rastro de trajetória curva com marcadores de quadros, leque de easing, poses intermediárias, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r076",
+    "sheet_id": "s025",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Egaki, o Kodama-Ilustrador",
+    "character_desc": "Kodama que faz brotar imagens dos galhos; grande pincel goteja cenas ilustradas de seus ramos, tinteiro-fruto, folhas cobertas de desenhos.",
+    "nano_prompt": "a kodama que faz brotar imagens dos galhos, grande pincel goteja cenas ilustradas de seus ramos, tinteiro-fruto, folhas cobertas de desenhos, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r077",
+    "sheet_id": "s025",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Kobito-koya",
+    "character_desc": "Yokai-artesão de pequenos apetrechos; cercado de miniaturas-ícone alinhadas numa bandeja, formão minúsculo e lupa, avental cheio de bolsos.",
+    "nano_prompt": "a yokai-artesão de pequenos apetrechos, cercado de miniaturas-ícone alinhadas numa bandeja, formão minúsculo e lupa, avental cheio de bolsos, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r078",
+    "sheet_id": "s025",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Monshin, o Guardião-do-Brasão",
+    "character_desc": "Yokai que zela pela marca-crista do clã; erguendo um estandarte com um mon (brasão) circular, carimbo do selo do clã, paleta de identidade fixa.",
+    "nano_prompt": "a yokai que zela pela marca-crista do clã, erguendo um estandarte com um mon (brasão) circular, carimbo do selo do clã, paleta de identidade fixa, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r079",
+    "sheet_id": "s025",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Otodama, o Espírito-do-Som",
+    "character_desc": "Yokai-sino que dá voz sonora ao silêncio; cercado de sinos, tambores e ondas sonoras desenhadas em espirais de tinta, diapasão de bambu na mão.",
+    "nano_prompt": "a yokai-sino que dá voz sonora ao silêncio, cercado de sinos, tambores e ondas sonoras desenhadas em espirais de tinta, diapasão de bambu na mão, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r080",
+    "sheet_id": "s025",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Nendo, o Golem-de-Barro",
+    "character_desc": "Tsuchinoko-golem que ergue formas em volume; moldando uma escultura tridimensional de barro-tinta que ganha profundidade, espátulas e aramado de sustentação.",
+    "nano_prompt": "a tsuchinoko-golem que ergue formas em volume, moldando uma escultura tridimensional de barro-tinta que ganha profundidade, espátulas e aramado de sustentação, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r081",
+    "sheet_id": "s025",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Sugoroku-no-Kami",
+    "character_desc": "Espírito de jogo de tabuleiro que inventa regras; segurando dados gigantes e um tabuleiro de sugoroku com regras-caligrafia, peças-yokai posicionadas.",
+    "nano_prompt": "a espírito de jogo de tabuleiro que inventa regras, segurando dados gigantes e um tabuleiro de sugoroku com regras-caligrafia, peças-yokai posicionadas, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r082",
+    "sheet_id": "s025",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Meikyu, o Arquiteto-Labirinto",
+    "character_desc": "Yokai que desenha masmorras e caminhos; traçando o mapa de um labirinto com salas e armadilhas em tinta, régua e compasso, miniaturas de portões.",
+    "nano_prompt": "a yokai que desenha masmorras e caminhos, traçando o mapa de um labirinto com salas e armadilhas em tinta, régua e compasso, miniaturas de portões, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r083",
+    "sheet_id": "s025",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Monogatari, o Velho-Conto",
+    "character_desc": "Yurei narrador que carrega as lendas do reino; abrindo um livro-emaki de onde saem personagens-fumaça, cachimbo de histórias, ramos de decisões no ar.",
+    "nano_prompt": "a yurei narrador que carrega as lendas do reino, abrindo um livro-emaki de onde saem personagens-fumaça, cachimbo de histórias, ramos de decisões no ar, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r084",
+    "sheet_id": "s025",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Asobi, o Tanuki-Brincalhão",
+    "character_desc": "Tanuki que constrói mundos jogáveis; montando um cenário-diorama de tinta com heróis-miniatura, joystick-folha e martelo de criação nas mãos.",
+    "nano_prompt": "a tanuki que constrói mundos jogáveis, montando um cenário-diorama de tinta com heróis-miniatura, joystick-folha e martelo de criação nas mãos, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r085",
+    "sheet_id": "s025",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Hikari-e",
+    "character_desc": "Yokai da luz que pinta brilhos e sombras; moldando feixes de luz e sombra sobre uma esfera, prisma de bambu refratando tinta, malha luminosa ao redor.",
+    "nano_prompt": "a yokai da luz que pinta brilhos e sombras, moldando feixes de luz e sombra sobre uma esfera, prisma de bambu refratando tinta, malha luminosa ao redor, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r086",
+    "sheet_id": "s025",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Mameya, o Grão-Autômato",
+    "character_desc": "Karakuri minúsculo que vive dentro das coisas; sentado dentro de uma caixinha-circuito de bambu, soldador-agulha, engrenagens de arroz, escala diminuta.",
+    "nano_prompt": "a karakuri minúsculo que vive dentro das coisas, sentado dentro de uma caixinha-circuito de bambu, soldador-agulha, engrenagens de arroz, escala diminuta, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r087",
+    "sheet_id": "s025",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Tamashii-ban",
+    "character_desc": "Espírito-firmware que anima os autômatos; sussurrando instruções-caligrafia dentro de um boneco karakuri aberto, chip-selo na mão, fios finos de tinta.",
+    "nano_prompt": "a espírito-firmware que anima os autômatos, sussurrando instruções-caligrafia dentro de um boneco karakuri aberto, chip-selo na mão, fios finos de tinta, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r088",
+    "sheet_id": "s025",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Musubi-mushi",
+    "character_desc": "Enxame de vaga-lumes-yokai que conecta objetos; vaga-lumes ligando lanternas-objeto por fios de luz numa aldeia, antena de junco, rede de pontos brilhantes.",
+    "nano_prompt": "a enxame de vaga-lumes-yokai que conecta objetos, vaga-lumes ligando lanternas-objeto por fios de luz numa aldeia, antena de junco, rede de pontos brilhantes, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r089",
+    "sheet_id": "s025",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Kusari-ryu",
+    "character_desc": "Dragão-corrente cujos elos guardam a verdade; corpo feito de elos de corrente-blocos encadeados, cada elo um selo lacrado, tocha iluminando a cadeia.",
+    "nano_prompt": "a dragão-corrente cujos elos guardam a verdade, corpo feito de elos de corrente-blocos encadeados, cada elo um selo lacrado, tocha iluminando a cadeia, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r090",
+    "sheet_id": "s025",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Fuda-me",
+    "character_desc": "Yokai-olho que inspeciona pactos selados; examinando com lupa os elos de uma corrente-contrato, carimbo de auditoria, pincel vermelho de alerta.",
+    "nano_prompt": "a yokai-olho que inspeciona pactos selados, examinando com lupa os elos de uma corrente-contrato, carimbo de auditoria, pincel vermelho de alerta, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r091",
+    "sheet_id": "s025",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Kasumi-me",
+    "character_desc": "Yokai que sobrepõe o mundo-espírito ao real; vestindo um visor de bambu que projeta espíritos translúcidos sobre a paisagem, mãos moldando hologramas-tinta.",
+    "nano_prompt": "a yokai que sobrepõe o mundo-espírito ao real, vestindo um visor de bambu que projeta espíritos translúcidos sobre a paisagem, mãos moldando hologramas-tinta, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r092",
+    "sheet_id": "s025",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Tetsu-tanuki",
+    "character_desc": "Tanuki de ferro que ganha braços mecânicos; corpo de tanuki com braços-manipuladores articulados, chave de fenda e sensores-antena, garra pegando um objeto.",
+    "nano_prompt": "a tanuki de ferro que ganha braços mecânicos, corpo de tanuki com braços-manipuladores articulados, chave de fenda e sensores-antena, garra pegando um objeto, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r093",
+    "sheet_id": "s025",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Fukuro-neko",
+    "character_desc": "Nekomata da fortuna que multiplica a aldeia; maneki-neko de duas caudas com pata erguida, funil de moedas-aldeões crescendo, gráfico-junco em ascensão.",
+    "nano_prompt": "a nekomata da fortuna que multiplica a aldeia, maneki-neko de duas caudas com pata erguida, funil de moedas-aldeões crescendo, gráfico-junco em ascensão, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r094",
+    "sheet_id": "s025",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Michishirube",
+    "character_desc": "Yokai-marco que faz os viajantes acharem o vilarejo; plantando placas-torii de sinalização numa trilha, farol-lanterna no topo, aranha de palavras-chave tecendo caminho.",
+    "nano_prompt": "a yokai-marco que faz os viajantes acharem o vilarejo, plantando placas-torii de sinalização numa trilha, farol-lanterna no topo, aranha de palavras-chave tecendo caminho, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r095",
+    "sheet_id": "s025",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Karuta-tsukai",
+    "character_desc": "Yokai que joga cartas para atrair multidões; espalhando cartas-karuta ilustradas em leque, funil de espíritos atraídos, sino de campanha na cintura.",
+    "nano_prompt": "a yokai que joga cartas para atrair multidões, espalhando cartas-karuta ilustradas em leque, funil de espíritos atraídos, sino de campanha na cintura, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r096",
+    "sheet_id": "s025",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Kakehashi-bito",
+    "character_desc": "Yokai-ponte entre o cliente e o reino técnico; erguendo uma ponte de bambu entre dois torii, maleta de encaixes-solução, mostrando o caminho a um viajante.",
+    "nano_prompt": "a yokai-ponte entre o cliente e o reino técnico, erguendo uma ponte de bambu entre dois torii, maleta de encaixes-solução, mostrando o caminho a um viajante, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r097",
+    "sheet_id": "s025",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Tasuke, o Espírito-Socorro",
+    "character_desc": "Zashiki-warashi prestativo que resolve aflições; com bolsa de remédios-ferramenta e fone-concha de atendimento, apagando um pequeno incêndio de aflição com leque.",
+    "nano_prompt": "a zashiki-warashi prestativo que resolve aflições, com bolsa de remédios-ferramenta e fone-concha de atendimento, apagando um pequeno incêndio de aflição com leque, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r098",
+    "sheet_id": "s025",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Akindo-tanuki",
+    "character_desc": "Tanuki-mercador que demonstra maravilhas; abrindo um baú-mostruário reluzente diante de um cliente-espírito, ábaco de negócio, aperto de mão selado.",
+    "nano_prompt": "a tanuki-mercador que demonstra maravilhas, abrindo um baú-mostruário reluzente diante de um cliente-espírito, ábaco de negócio, aperto de mão selado, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r099",
+    "sheet_id": "s025",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Zeni-mamori",
+    "character_desc": "Yokai-guardião das moedas do reino; pesando sacos de moedas numa balança, ábaco gigante, cortando gastos supérfluos com tesoura, cofre selado.",
+    "nano_prompt": "a yokai-guardião das moedas do reino, pesando sacos de moedas numa balança, ábaco gigante, cortando gastos supérfluos com tesoura, cofre selado, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s025-r100",
+    "sheet_id": "s025",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Okite-nushi",
+    "character_desc": "Yokai-magistrado dos pactos e das leis; segurando um pergaminho de contrato lacrado e um martelo-selo, balança da justiça, vestes formais de corte feudal.",
+    "nano_prompt": "a yokai-magistrado dos pactos e das leis, segurando um pergaminho de contrato lacrado e um martelo-selo, balança da justiça, vestes formais de corte feudal, painted in traditional Japanese sumi-e ink-wash style, bold expressive monochromatic black brushstrokes with soft gray washes and a few ink splatters, minimal calligraphic linework, full-body standing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

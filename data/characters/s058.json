@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s058-r001",
+    "sheet_id": "s058",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Grão-Arquiteto",
+    "character_desc": "Peça de xadrez (king) em mármore: o rei que planeja o tabuleiro inteiro. Adereços que comunicam o papel: holding a blueprint scroll and a miniature carved cathedral, crown shaped like interlocking arches.",
+    "nano_prompt": "A carved marble chess king figurine of a stylized figure, holding a blueprint scroll and a miniature carved cathedral, crown shaped like interlocking arches, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r002",
+    "sheet_id": "s058",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Regente Técnico",
+    "character_desc": "Peça de xadrez (king) em mármore: o rei que rege o time técnico. Adereços que comunicam o papel: one hand raised guiding smaller pieces, a small conductor's baton and a shield with a code bracket emblem.",
+    "nano_prompt": "A carved marble chess king figurine of a stylized figure, one hand raised guiding smaller pieces, a small conductor's baton and a shield with a code bracket emblem, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r003",
+    "sheet_id": "s058",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Staff Sênior",
+    "character_desc": "Peça de xadrez (king) em mármore: o rei-conselheiro de longo alcance. Adereços que comunicam o papel: leaning on a tall carved staff topped with a gear, wise bearded posture.",
+    "nano_prompt": "A carved marble chess king figurine of a stylized figure, leaning on a tall carved staff topped with a gear, wise bearded posture, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r004",
+    "sheet_id": "s058",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Princeps",
+    "character_desc": "Peça de xadrez (king) em mármore: o rei principal, autoridade máxima de engenharia. Adereços que comunicam o papel: tallest crown, holding an orb carved with circuit-tree patterns.",
+    "nano_prompt": "A carved marble chess king figurine of a stylized figure, tallest crown, holding an orb carved with circuit-tree patterns, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r005",
+    "sheet_id": "s058",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Rainha Gestora",
+    "character_desc": "Peça de xadrez (queen) em mármore: a rainha que gerencia pessoas e fluxo. Adereços que comunicam o papel: holding a roster tablet and an hourglass, gesturing to organize pieces.",
+    "nano_prompt": "A carved marble chess queen figurine of a stylized figure, holding a roster tablet and an hourglass, gesturing to organize pieces, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r006",
+    "sheet_id": "s058",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Rainha do Produto",
+    "character_desc": "Peça de xadrez (queen) em mármore: a rainha que decide a direção do produto. Adereços que comunicam o papel: cradling a carved compass-heart and a roadmap banner.",
+    "nano_prompt": "A carved marble chess queen figurine of a stylized figure, cradling a carved compass-heart and a roadmap banner, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r007",
+    "sheet_id": "s058",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Guardiã do Backlog",
+    "character_desc": "Peça de xadrez (queen) em mármore: a rainha dona do backlog. Adereços que comunicam o papel: holding a stacked scroll of priorities and a quill.",
+    "nano_prompt": "A carved marble chess queen figurine of a stylized figure, holding a stacked scroll of priorities and a quill, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r008",
+    "sheet_id": "s058",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Rainha Coordenadora",
+    "character_desc": "Peça de xadrez (queen) em mármore: a rainha que coordena programas paralelos. Adereços que comunicam o papel: arms spread over a web of connecting threads between miniature pieces.",
+    "nano_prompt": "A carved marble chess queen figurine of a stylized figure, arms spread over a web of connecting threads between miniature pieces, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r009",
+    "sheet_id": "s058",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Rainha do Cronograma",
+    "character_desc": "Peça de xadrez (queen) em mármore: a rainha que rege prazos e escopo. Adereços que comunicam o papel: holding a Gantt-bar fan and a small hourglass on the crown.",
+    "nano_prompt": "A carved marble chess queen figurine of a stylized figure, holding a Gantt-bar fan and a small hourglass on the crown, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r010",
+    "sheet_id": "s058",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Facilitadora",
+    "character_desc": "Peça de xadrez (queen) em mármore: a rainha que facilita o ritmo do time. Adereços que comunicam o papel: holding a talking-stick and a circular ceremony ring, welcoming pose.",
+    "nano_prompt": "A carved marble chess queen figurine of a stylized figure, holding a talking-stick and a circular ceremony ring, welcoming pose, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r011",
+    "sheet_id": "s058",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Torre Servidora",
+    "character_desc": "Peça de xadrez (rook) em mármore: a torre que sustenta o backend. Adereços que comunicam o papel: castle carved as stacked server racks with a small power lever.",
+    "nano_prompt": "A carved marble chess rook figurine of a stylized figure, castle carved as stacked server racks with a small power lever, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r012",
+    "sheet_id": "s058",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Torre-Portal",
+    "character_desc": "Peça de xadrez (rook) em mármore: a torre que desenha as APIs. Adereços que comunicam o papel: battlements shaped like plug-and-socket connectors, holding a key-shaped endpoint.",
+    "nano_prompt": "A carved marble chess rook figurine of a stylized figure, battlements shaped like plug-and-socket connectors, holding a key-shaped endpoint, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r013",
+    "sheet_id": "s058",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Torre Modular",
+    "character_desc": "Peça de xadrez (rook) em mármore: a torre feita de microserviços. Adereços que comunicam o papel: castle split into many small detachable stone cubes.",
+    "nano_prompt": "A carved marble chess rook figurine of a stylized figure, castle split into many small detachable stone cubes, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r014",
+    "sheet_id": "s058",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Torre-Duto",
+    "character_desc": "Peça de xadrez (rook) em mármore: a torre por onde correm os pipelines. Adereços que comunicam o papel: carved channels and flowing water-grooves running through the castle.",
+    "nano_prompt": "A carved marble chess rook figurine of a stylized figure, carved channels and flowing water-grooves running through the castle, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r015",
+    "sheet_id": "s058",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Torre-Aqueduto",
+    "character_desc": "Peça de xadrez (rook) em mármore: a torre que canaliza os dados. Adereços que comunicam o papel: aqueduct arches carrying flowing data-streams of carved beads.",
+    "nano_prompt": "A carved marble chess rook figurine of a stylized figure, aqueduct arches carrying flowing data-streams of carved beads, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r016",
+    "sheet_id": "s058",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Zelador do Cofre",
+    "character_desc": "Peça de xadrez (rook) em mármore: a torre-cofre que administra o banco. Adereços que comunicam o papel: castle with a vault door and a big ornate key at the base.",
+    "nano_prompt": "A carved marble chess rook figurine of a stylized figure, castle with a vault door and a big ornate key at the base, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r017",
+    "sheet_id": "s058",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Torre das Consultas",
+    "character_desc": "Peça de xadrez (rook) em mármore: a torre especialista em consultas. Adereços que comunicam o papel: battlements engraved with query-lattice patterns, holding a magnifying prism.",
+    "nano_prompt": "A carved marble chess rook figurine of a stylized figure, battlements engraved with query-lattice patterns, holding a magnifying prism, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r018",
+    "sheet_id": "s058",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Torre Veloz",
+    "character_desc": "Peça de xadrez (rook) em mármore: a torre que acelera com cache. Adereços que comunicam o papel: castle wrapped in lightning-fast slipstream lines, holding a tiny hourglass frozen.",
+    "nano_prompt": "A carved marble chess rook figurine of a stylized figure, castle wrapped in lightning-fast slipstream lines, holding a tiny hourglass frozen, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r019",
+    "sheet_id": "s058",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Torre-Fila",
+    "character_desc": "Peça de xadrez (rook) em mármore: a torre que enfileira mensagens. Adereços que comunicam o papel: conveyor of little carved envelopes queued along the ramparts.",
+    "nano_prompt": "A carved marble chess rook figurine of a stylized figure, conveyor of little carved envelopes queued along the ramparts, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r020",
+    "sheet_id": "s058",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Torre-Farol",
+    "character_desc": "Peça de xadrez (rook) em mármore: a torre que busca e encontra. Adereços que comunicam o papel: beacon lantern on top sweeping a carved beam, holding a magnifier.",
+    "nano_prompt": "A carved marble chess rook figurine of a stylized figure, beacon lantern on top sweeping a carved beam, holding a magnifier, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r021",
+    "sheet_id": "s058",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Bispo da Interface",
+    "character_desc": "Peça de xadrez (bishop) em mármore: o bispo que constrói a interface. Adereços que comunicam o papel: mitre shaped like a browser window, holding a carved layout panel.",
+    "nano_prompt": "A carved marble chess bishop figurine of a stylized figure, mitre shaped like a browser window, holding a carved layout panel, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r022",
+    "sheet_id": "s058",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Bispo dos Componentes",
+    "character_desc": "Peça de xadrez (bishop) em mármore: o bispo que monta componentes de UI. Adereços que comunicam o papel: robe patterned with modular UI blocks, holding a widget staff.",
+    "nano_prompt": "A carved marble chess bishop figurine of a stylized figure, robe patterned with modular UI blocks, holding a widget staff, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r023",
+    "sheet_id": "s058",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Bispo da Jornada",
+    "character_desc": "Peça de xadrez (bishop) em mármore: o bispo que desenha a experiência. Adereços que comunicam o papel: holding a wireframe tablet and a carved user-path ribbon.",
+    "nano_prompt": "A carved marble chess bishop figurine of a stylized figure, holding a wireframe tablet and a carved user-path ribbon, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r024",
+    "sheet_id": "s058",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Bispo Padronizador",
+    "character_desc": "Peça de xadrez (bishop) em mármore: o bispo do design system. Adereços que comunicam o papel: robe of repeated tokens, holding a pattern-library book.",
+    "nano_prompt": "A carved marble chess bishop figurine of a stylized figure, robe of repeated tokens, holding a pattern-library book, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r025",
+    "sheet_id": "s058",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Bispo Inclusivo",
+    "character_desc": "Peça de xadrez (bishop) em mármore: o bispo da acessibilidade. Adereços que comunicam o papel: holding a carved ear-and-eye emblem and a braille-dotted tablet.",
+    "nano_prompt": "A carved marble chess bishop figurine of a stylized figure, holding a carved ear-and-eye emblem and a braille-dotted tablet, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r026",
+    "sheet_id": "s058",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Bispo Ligeiro",
+    "character_desc": "Peça de xadrez (bishop) em mármore: o bispo da performance web. Adereços que comunicam o papel: robe streamlined with speed-lines, holding a stopwatch gauge.",
+    "nano_prompt": "A carved marble chess bishop figurine of a stylized figure, robe streamlined with speed-lines, holding a stopwatch gauge, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r027",
+    "sheet_id": "s058",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Bispo Estilista",
+    "character_desc": "Peça de xadrez (bishop) em mármore: o bispo do CSS. Adereços que comunicam o papel: robe cascading in flowing carved layers, holding a paint-brush ruler.",
+    "nano_prompt": "A carved marble chess bishop figurine of a stylized figure, robe cascading in flowing carved layers, holding a paint-brush ruler, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r028",
+    "sheet_id": "s058",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Bispo em Movimento",
+    "character_desc": "Peça de xadrez (bishop) em mármore: o bispo das animações. Adereços que comunicam o papel: robe frozen mid-swirl with motion-arc grooves, holding a keyframe fan.",
+    "nano_prompt": "A carved marble chess bishop figurine of a stylized figure, robe frozen mid-swirl with motion-arc grooves, holding a keyframe fan, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r029",
+    "sheet_id": "s058",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Bispo Portátil",
+    "character_desc": "Peça de xadrez (bishop) em mármore: o bispo do mobile. Adereços que comunicam o papel: holding a small carved smartphone tablet, robe with rounded-corner motifs.",
+    "nano_prompt": "A carved marble chess bishop figurine of a stylized figure, holding a small carved smartphone tablet, robe with rounded-corner motifs, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r030",
+    "sheet_id": "s058",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Bispo da Maçã",
+    "character_desc": "Peça de xadrez (bishop) em mármore: o bispo do iOS. Adereços que comunicam o papel: mitre with a subtle bitten-fruit crest, holding a rounded glass slab.",
+    "nano_prompt": "A carved marble chess bishop figurine of a stylized figure, mitre with a subtle bitten-fruit crest, holding a rounded glass slab, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r031",
+    "sheet_id": "s058",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Bispo Andróide",
+    "character_desc": "Peça de xadrez (bishop) em mármore: o bispo do Android. Adereços que comunicam o papel: mitre shaped like a robot head with antennae, holding a droid tablet.",
+    "nano_prompt": "A carved marble chess bishop figurine of a stylized figure, mitre shaped like a robot head with antennae, holding a droid tablet, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r032",
+    "sheet_id": "s058",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Bispo-Ponte",
+    "character_desc": "Peça de xadrez (bishop) em mármore: o bispo do React Native. Adereços que comunicam o papel: robe woven from two braided strands meeting, holding a bridge emblem.",
+    "nano_prompt": "A carved marble chess bishop figurine of a stylized figure, robe woven from two braided strands meeting, holding a bridge emblem, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r033",
+    "sheet_id": "s058",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Bispo Alado",
+    "character_desc": "Peça de xadrez (bishop) em mármore: o bispo do Flutter. Adereços que comunicam o papel: robe shaped like folded wings, holding a bird-crest tablet.",
+    "nano_prompt": "A carved marble chess bishop figurine of a stylized figure, robe shaped like folded wings, holding a bird-crest tablet, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r034",
+    "sheet_id": "s058",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Cavaleiro Analista",
+    "character_desc": "Peça de xadrez (knight) em mármore: o cavalo que investiga dados. Adereços que comunicam o papel: horse head with a graph-mane, holding a beaker and a bell-curve scroll.",
+    "nano_prompt": "A carved marble chess knight figurine of a stylized figure, horse head with a graph-mane, holding a beaker and a bell-curve scroll, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r035",
+    "sheet_id": "s058",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Cavaleiro do Modelo",
+    "character_desc": "Peça de xadrez (knight) em mármore: o cavalo que treina modelos. Adereços que comunicam o papel: horse head fitted with neural-network bridle, gears in the mane.",
+    "nano_prompt": "A carved marble chess knight figurine of a stylized figure, horse head fitted with neural-network bridle, gears in the mane, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r036",
+    "sheet_id": "s058",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Cavaleiro de Operações",
+    "character_desc": "Peça de xadrez (knight) em mármore: o cavalo que opera ML em produção. Adereços que comunicam o papel: horse in harness of loop-arrows and pipes, deploy-lever in mouth.",
+    "nano_prompt": "A carved marble chess knight figurine of a stylized figure, horse in harness of loop-arrows and pipes, deploy-lever in mouth, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r037",
+    "sheet_id": "s058",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Cavaleiro Pesquisador",
+    "character_desc": "Peça de xadrez (knight) em mármore: o cavalo que pesquisa IA. Adereços que comunicam o papel: horse head with a lightbulb crest, holding a carved research paper.",
+    "nano_prompt": "A carved marble chess knight figurine of a stylized figure, horse head with a lightbulb crest, holding a carved research paper, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r038",
+    "sheet_id": "s058",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Cavaleiro dos Feitiços",
+    "character_desc": "Peça de xadrez (knight) em mármore: o cavalo que escreve prompts. Adereços que comunicam o papel: horse with a speech-scroll bridle, holding a wand-quill of prompts.",
+    "nano_prompt": "A carved marble chess knight figurine of a stylized figure, horse with a speech-scroll bridle, holding a wand-quill of prompts, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r039",
+    "sheet_id": "s058",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Cavaleiro da Fala",
+    "character_desc": "Peça de xadrez (knight) em mármore: o cavalo da linguagem natural. Adereços que comunicam o papel: horse head with carved sound-waves in the mane, holding a tongue-tablet.",
+    "nano_prompt": "A carved marble chess knight figurine of a stylized figure, horse head with carved sound-waves in the mane, holding a tongue-tablet, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r040",
+    "sheet_id": "s058",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Cavaleiro Vigia",
+    "character_desc": "Peça de xadrez (knight) em mármore: o cavalo da visão computacional. Adereços que comunicam o papel: horse head with a big carved eye-lens on the brow, holding a frame reticle.",
+    "nano_prompt": "A carved marble chess knight figurine of a stylized figure, horse head with a big carved eye-lens on the brow, holding a frame reticle, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r041",
+    "sheet_id": "s058",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Cavaleiro dos Números",
+    "character_desc": "Peça de xadrez (knight) em mármore: o cavalo que analisa dados. Adereços que comunicam o papel: horse head with abacus-mane, holding a pie-chart shield.",
+    "nano_prompt": "A carved marble chess knight figurine of a stylized figure, horse head with abacus-mane, holding a pie-chart shield, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r042",
+    "sheet_id": "s058",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Cavaleiro dos Painéis",
+    "character_desc": "Peça de xadrez (knight) em mármore: o cavalo do BI. Adereços que comunicam o papel: horse harnessed with dashboard-gauge plates, holding a KPI banner.",
+    "nano_prompt": "A carved marble chess knight figurine of a stylized figure, horse harnessed with dashboard-gauge plates, holding a KPI banner, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r043",
+    "sheet_id": "s058",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Cavaleiro-Modelador",
+    "character_desc": "Peça de xadrez (knight) em mármore: o cavalo da analytics engineering. Adereços que comunicam o papel: horse with pipeline-braid mane, holding a transform-cog scroll.",
+    "nano_prompt": "A carved marble chess knight figurine of a stylized figure, horse with pipeline-braid mane, holding a transform-cog scroll, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r044",
+    "sheet_id": "s058",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Cavaleiro Ilustre",
+    "character_desc": "Peça de xadrez (knight) em mármore: o cavalo da visualização de dados. Adereços que comunicam o papel: horse with flowing chart-ribbon mane, holding a color-wheel palette.",
+    "nano_prompt": "A carved marble chess knight figurine of a stylized figure, horse with flowing chart-ribbon mane, holding a color-wheel palette, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r045",
+    "sheet_id": "s058",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Peão de Operações",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que une dev e ops. Adereços que comunicam o papel: hard-hat carved on the round head, holding a wrench and an infinity-loop token.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, hard-hat carved on the round head, holding a wrench and an infinity-loop token, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r046",
+    "sheet_id": "s058",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Peão Sentinela",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que zela pela confiabilidade. Adereços que comunicam o papel: holding a shield-gauge and a heartbeat-line banner, alert stance.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, holding a shield-gauge and a heartbeat-line banner, alert stance, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r047",
+    "sheet_id": "s058",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Peão-Plataforma",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que constrói a plataforma. Adereços que comunicam o papel: standing on an extra carved platform slab, holding a toolkit block.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, standing on an extra carved platform slab, holding a toolkit block, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r048",
+    "sheet_id": "s058",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Peão das Nuvens",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que arquiteta a nuvem. Adereços que comunicam o papel: round head shaped like a carved cloud, holding a blueprint of floating slabs.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, round head shaped like a carved cloud, holding a blueprint of floating slabs, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r049",
+    "sheet_id": "s058",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Peão Timoneiro",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que pilota Kubernetes. Adereços que comunicam o papel: holding a ship's-helm wheel carved with containers, sailor stance.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, holding a ship's-helm wheel carved with containers, sailor stance, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r050",
+    "sheet_id": "s058",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Peão-Nó",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que conecta a rede. Adereços que comunicam o papel: wrapped in carved cabling and node-dots, holding a router hub.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, wrapped in carved cabling and node-dots, holding a router hub, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r051",
+    "sheet_id": "s058",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Peão Zelador",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que administra os sistemas. Adereços que comunicam o papel: holding a terminal-tablet and a maintenance oil-can.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, holding a terminal-tablet and a maintenance oil-can, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r052",
+    "sheet_id": "s058",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Peão Lançador",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que gerencia releases. Adereços que comunicam o papel: holding a rocket-tag and a version-flag banner.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, holding a rocket-tag and a version-flag banner, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r053",
+    "sheet_id": "s058",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Peão Construtor",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que faz os builds. Adereços que comunicam o papel: holding a carved hammer and an assembled brick-block.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, holding a carved hammer and an assembled brick-block, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r054",
+    "sheet_id": "s058",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Peão Esteira",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão do CI/CD. Adereços que comunicam o papel: standing on a carved conveyor with loop-arrow, holding a pipeline baton.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, standing on a carved conveyor with loop-arrow, holding a pipeline baton, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r055",
+    "sheet_id": "s058",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Peão Guardião",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que protege o sistema. Adereços que comunicam o papel: holding a lock-shield and a carved padlock helm.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, holding a lock-shield and a carved padlock helm, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r056",
+    "sheet_id": "s058",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Peão Infiltrador",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que testa invasões. Adereços que comunicam o papel: hooded, holding a skeleton-key lockpick and a crack emblem.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, hooded, holding a skeleton-key lockpick and a crack emblem, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r057",
+    "sheet_id": "s058",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Peão da Muralha",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão da segurança de aplicação. Adereços que comunicam o papel: carrying a brick-firewall shield with a bug-crossed-out crest.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, carrying a brick-firewall shield with a bug-crossed-out crest, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r058",
+    "sheet_id": "s058",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Peão Cifrador",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que cifra segredos. Adereços que comunicam o papel: holding a carved key-and-scramble tablet with lock-glyphs.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, holding a carved key-and-scramble tablet with lock-glyphs, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r059",
+    "sheet_id": "s058",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Peão do Selo",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que garante conformidade. Adereços que comunicam o papel: holding a checklist scroll and an official wax-seal stamp.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, holding a checklist scroll and an official wax-seal stamp, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r060",
+    "sheet_id": "s058",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Peão Discreto",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que protege a privacidade. Adereços que comunicam o papel: holding a masked-face shield and a redaction bar tablet.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, holding a masked-face shield and a redaction bar tablet, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r061",
+    "sheet_id": "s058",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Peão Bombeiro",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que responde a incidentes. Adereços que comunicam o papel: holding an extinguisher-horn and an alarm-bell, urgent stance.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, holding an extinguisher-horn and an alarm-bell, urgent stance, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r062",
+    "sheet_id": "s058",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Peão Estrategista",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que modela ameaças. Adereços que comunicam o papel: studying a carved attack-tree map, holding a threat-marker pin.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, studying a carved attack-tree map, holding a threat-marker pin, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r063",
+    "sheet_id": "s058",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Peão Inspetor",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que testa qualidade. Adereços que comunicam o papel: holding a magnifier and a checklist clipboard with a bug-net.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, holding a magnifier and a checklist clipboard with a bug-net, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r064",
+    "sheet_id": "s058",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Peão Autômato",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão da automação de testes. Adereços que comunicam o papel: clockwork body seams, holding a robot-arm running a test-script scroll.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, clockwork body seams, holding a robot-arm running a test-script scroll, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r065",
+    "sheet_id": "s058",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Peão da Carga",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que testa performance. Adereços que comunicam o papel: straining under a stack of carved weight-plates, holding a stress gauge.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, straining under a stack of carved weight-plates, holding a stress gauge, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r066",
+    "sheet_id": "s058",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Peão Meticuloso",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que testa manualmente. Adereços que comunicam o papel: holding a step-by-step checklist scroll and a pointing finger.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, holding a step-by-step checklist scroll and a pointing finger, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r067",
+    "sheet_id": "s058",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Peão Acessível",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que testa acessibilidade. Adereços que comunicam o papel: holding an ear-and-eye emblem checklist and a braille tablet.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, holding an ear-and-eye emblem checklist and a braille tablet, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r068",
+    "sheet_id": "s058",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Bispo Escriba",
+    "character_desc": "Peça de xadrez (bishop) em mármore: o bispo que escreve a documentação. Adereços que comunicam o papel: holding an open carved manual and a quill, robe of text-lines.",
+    "nano_prompt": "A carved marble chess bishop figurine of a stylized figure, holding an open carved manual and a quill, robe of text-lines, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r069",
+    "sheet_id": "s058",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Bispo Arauto",
+    "character_desc": "Peça de xadrez (bishop) em mármore: o bispo que evangeliza devs. Adereços que comunicam o papel: holding a herald's trumpet and a community-banner.",
+    "nano_prompt": "A carved marble chess bishop figurine of a stylized figure, holding a herald's trumpet and a community-banner, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r070",
+    "sheet_id": "s058",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Bispo Estrategista",
+    "character_desc": "Peça de xadrez (bishop) em mármore: o bispo da estratégia de conteúdo. Adereços que comunicam o papel: holding a content-map scroll and a compass.",
+    "nano_prompt": "A carved marble chess bishop figurine of a stylized figure, holding a content-map scroll and a compass, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r071",
+    "sheet_id": "s058",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Bispo Poliglota",
+    "character_desc": "Peça de xadrez (bishop) em mármore: o bispo da localização. Adereços que comunicam o papel: robe with many carved flag-globes, holding a translation tablet.",
+    "nano_prompt": "A carved marble chess bishop figurine of a stylized figure, robe with many carved flag-globes, holding a translation tablet, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r072",
+    "sheet_id": "s058",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Rainha Designer",
+    "character_desc": "Peça de xadrez (queen) em mármore: a rainha que desenha o produto. Adereços que comunicam o papel: holding a carved artboard and a golden-ratio compass.",
+    "nano_prompt": "A carved marble chess queen figurine of a stylized figure, holding a carved artboard and a golden-ratio compass, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r073",
+    "sheet_id": "s058",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Rainha Visual",
+    "character_desc": "Peça de xadrez (queen) em mármore: a rainha do design visual. Adereços que comunicam o papel: holding a color-wheel fan and a type-specimen tablet.",
+    "nano_prompt": "A carved marble chess queen figurine of a stylized figure, holding a color-wheel fan and a type-specimen tablet, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r074",
+    "sheet_id": "s058",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Rainha Interativa",
+    "character_desc": "Peça de xadrez (queen) em mármore: a rainha da interação. Adereços que comunicam o papel: gesturing over a carved gesture-arc panel with tap-ripples.",
+    "nano_prompt": "A carved marble chess queen figurine of a stylized figure, gesturing over a carved gesture-arc panel with tap-ripples, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r075",
+    "sheet_id": "s058",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Rainha em Movimento",
+    "character_desc": "Peça de xadrez (queen) em mármore: a rainha do motion design. Adereços que comunicam o papel: gown frozen mid-swirl with motion-arc grooves and keyframe dots.",
+    "nano_prompt": "A carved marble chess queen figurine of a stylized figure, gown frozen mid-swirl with motion-arc grooves and keyframe dots, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r076",
+    "sheet_id": "s058",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Rainha Ilustradora",
+    "character_desc": "Peça de xadrez (queen) em mármore: a rainha que ilustra. Adereços que comunicam o papel: holding a giant carved pen-nib and a sketchbook.",
+    "nano_prompt": "A carved marble chess queen figurine of a stylized figure, holding a giant carved pen-nib and a sketchbook, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r077",
+    "sheet_id": "s058",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Rainha dos Ativos",
+    "character_desc": "Peça de xadrez (queen) em mármore: a rainha que produz assets. Adereços que comunicam o papel: holding a tray of small carved sprite-tiles and icons.",
+    "nano_prompt": "A carved marble chess queen figurine of a stylized figure, holding a tray of small carved sprite-tiles and icons, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r078",
+    "sheet_id": "s058",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Rainha da Marca",
+    "character_desc": "Peça de xadrez (queen) em mármore: a rainha da identidade de marca. Adereços que comunicam o papel: crown shaped like an abstract logo mark, holding a brand-guide book.",
+    "nano_prompt": "A carved marble chess queen figurine of a stylized figure, crown shaped like an abstract logo mark, holding a brand-guide book, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r079",
+    "sheet_id": "s058",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Rainha do Som",
+    "character_desc": "Peça de xadrez (queen) em mármore: a rainha do design de som. Adereços que comunicam o papel: holding carved sound-wave ribbons and a tuning fork.",
+    "nano_prompt": "A carved marble chess queen figurine of a stylized figure, holding carved sound-wave ribbons and a tuning fork, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r080",
+    "sheet_id": "s058",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Rainha Escultora",
+    "character_desc": "Peça de xadrez (queen) em mármore: a rainha da arte 3D. Adereços que comunicam o papel: holding a carved wireframe polyhedron and modeling tools.",
+    "nano_prompt": "A carved marble chess queen figurine of a stylized figure, holding a carved wireframe polyhedron and modeling tools, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r081",
+    "sheet_id": "s058",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Rainha do Jogo",
+    "character_desc": "Peça de xadrez (queen) em mármore: a rainha que projeta o jogo. Adereços que comunicam o papel: holding a carved game-controller and a rulebook scroll.",
+    "nano_prompt": "A carved marble chess queen figurine of a stylized figure, holding a carved game-controller and a rulebook scroll, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r082",
+    "sheet_id": "s058",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Rainha dos Níveis",
+    "character_desc": "Peça de xadrez (queen) em mármore: a rainha que desenha fases. Adereços que comunicam o papel: holding a carved map-grid with tiny obstacles and a spawn-flag.",
+    "nano_prompt": "A carved marble chess queen figurine of a stylized figure, holding a carved map-grid with tiny obstacles and a spawn-flag, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r083",
+    "sheet_id": "s058",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Rainha Narradora",
+    "character_desc": "Peça de xadrez (queen) em mármore: a rainha da narrativa. Adereços que comunicam o papel: holding an open story-book and a branching-path ribbon.",
+    "nano_prompt": "A carved marble chess queen figurine of a stylized figure, holding an open story-book and a branching-path ribbon, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r084",
+    "sheet_id": "s058",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Cavaleiro Jogador",
+    "character_desc": "Peça de xadrez (knight) em mármore: o cavalo que desenvolve jogos. Adereços que comunicam o papel: horse head with a game-controller bridle, holding a joystick lance.",
+    "nano_prompt": "A carved marble chess knight figurine of a stylized figure, horse head with a game-controller bridle, holding a joystick lance, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r085",
+    "sheet_id": "s058",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Cavaleiro do Brilho",
+    "character_desc": "Peça de xadrez (knight) em mármore: o cavalo dos shaders e gráficos. Adereços que comunicam o papel: horse mane rippling with light-facet grooves, holding a prism shader-tablet.",
+    "nano_prompt": "A carved marble chess knight figurine of a stylized figure, horse mane rippling with light-facet grooves, holding a prism shader-tablet, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r086",
+    "sheet_id": "s058",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Cavaleiro Embarcado",
+    "character_desc": "Peça de xadrez (knight) em mármore: o cavalo dos sistemas embarcados. Adereços que comunicam o papel: horse head with a circuit-board brow, holding a tiny carved chip.",
+    "nano_prompt": "A carved marble chess knight figurine of a stylized figure, horse head with a circuit-board brow, holding a tiny carved chip, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r087",
+    "sheet_id": "s058",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Cavaleiro do Firmware",
+    "character_desc": "Peça de xadrez (knight) em mármore: o cavalo do firmware. Adereços que comunicam o papel: horse harness of etched microcode traces, holding a ROM-chip token.",
+    "nano_prompt": "A carved marble chess knight figurine of a stylized figure, horse harness of etched microcode traces, holding a ROM-chip token, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r088",
+    "sheet_id": "s058",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Cavaleiro Conectado",
+    "character_desc": "Peça de xadrez (knight) em mármore: o cavalo da IoT. Adereços que comunicam o papel: horse with antenna-ears and signal-wave mane, holding a sensor-node orb.",
+    "nano_prompt": "A carved marble chess knight figurine of a stylized figure, horse with antenna-ears and signal-wave mane, holding a sensor-node orb, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r089",
+    "sheet_id": "s058",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Cavaleiro dos Blocos",
+    "character_desc": "Peça de xadrez (knight) em mármore: o cavalo do blockchain. Adereços que comunicam o papel: horse harnessed with a chain of carved linked cubes, holding a ledger tablet.",
+    "nano_prompt": "A carved marble chess knight figurine of a stylized figure, horse harnessed with a chain of carved linked cubes, holding a ledger tablet, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r090",
+    "sheet_id": "s058",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Cavaleiro Auditor",
+    "character_desc": "Peça de xadrez (knight) em mármore: o cavalo que audita contratos. Adereços que comunicam o papel: horse with magnifier-visor, inspecting a chain of carved contract-blocks.",
+    "nano_prompt": "A carved marble chess knight figurine of a stylized figure, horse with magnifier-visor, inspecting a chain of carved contract-blocks, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r091",
+    "sheet_id": "s058",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Cavaleiro das Lentes",
+    "character_desc": "Peça de xadrez (knight) em mármore: o cavalo de AR/VR. Adereços que comunicam o papel: horse head fitted with a carved VR-visor, holding a floating hologram cube.",
+    "nano_prompt": "A carved marble chess knight figurine of a stylized figure, horse head fitted with a carved VR-visor, holding a floating hologram cube, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r092",
+    "sheet_id": "s058",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Cavaleiro Mecânico",
+    "character_desc": "Peça de xadrez (knight) em mármore: o cavalo da robótica. Adereços que comunicam o papel: horse rendered as a jointed robotic steed, holding a gripper-arm.",
+    "nano_prompt": "A carved marble chess knight figurine of a stylized figure, horse rendered as a jointed robotic steed, holding a gripper-arm, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r093",
+    "sheet_id": "s058",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Peão do Crescimento",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que faz o produto crescer. Adereços que comunicam o papel: holding an upward arrow-sprout and an A/B split banner.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, holding an upward arrow-sprout and an A/B split banner, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r094",
+    "sheet_id": "s058",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Peão Rastreador",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão do SEO. Adereços que comunicam o papel: holding a magnifier over a keyword-net and a rank-ladder token.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, holding a magnifier over a keyword-net and a rank-ladder token, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r095",
+    "sheet_id": "s058",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Peão do Funil",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão do marketing técnico. Adereços que comunicam o papel: holding a carved funnel with automation-gears and a campaign-flag.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, holding a carved funnel with automation-gears and a campaign-flag, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r096",
+    "sheet_id": "s058",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Peão Solucionador",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que integra soluções. Adereços que comunicam o papel: holding a puzzle-piece key and a handshake emblem.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, holding a puzzle-piece key and a handshake emblem, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r097",
+    "sheet_id": "s058",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Peão do Suporte",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que dá suporte. Adereços que comunicam o papel: wearing a carved headset, holding a lifebuoy-ticket token.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, wearing a carved headset, holding a lifebuoy-ticket token, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r098",
+    "sheet_id": "s058",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Peão Vendedor",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que faz engenharia de vendas. Adereços que comunicam o papel: holding a demo-tablet and a handshake-and-coin emblem.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, holding a demo-tablet and a handshake-and-coin emblem, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r099",
+    "sheet_id": "s058",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Peão Contador",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão que otimiza custos de nuvem. Adereços que comunicam o papel: holding a carved coin-stack and a cost-gauge dial.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, holding a carved coin-stack and a cost-gauge dial, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s058-r100",
+    "sheet_id": "s058",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Peão Togado",
+    "character_desc": "Peça de xadrez (pawn) em mármore: o peão do jurídico. Adereços que comunicam o papel: wearing a small carved judge's collar, holding a balance-scale and a sealed contract.",
+    "nano_prompt": "A carved marble chess pawn figurine of a stylized figure, wearing a small carved judge's collar, holding a balance-scale and a sealed contract, sculpted from polished black-and-white veined marble with glossy stone finish, standing upright on a round marble base, dramatic museum sculpture lighting, black-and-white marble aesthetic, game-sculpture vibe, full-body figurine framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

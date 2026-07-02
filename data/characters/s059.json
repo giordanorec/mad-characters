@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s059-r001",
+    "sheet_id": "s059",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Vionan, o Cacique-Planta",
+    "character_desc": "Um cutout de papel que é cacique que ergue a nação inteira do zero da nação tech; segurando uma planta-baixa de aldeia em papel quadriculado e um cajado de régua-T, comunicando o papel de Arquiteto de Solução.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, cocar de líder feito de tirinhas de papel e capa de mapa dobrado, segurando uma planta-baixa de aldeia em papel quadriculado e um cajado de régua-T, olhar visionário e sereno, a member of the tech tribe representing a Arquiteto de Solução, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r002",
+    "sheet_id": "s059",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Tekla, a Guia da Trilha",
+    "character_desc": "Um cutout de papel que é guia que abre caminho para a tribo dev da nação tech; apontando para a frente com uma bússola de código na mão, comunicando o papel de Tech Lead.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, faixa de líder no braço e capacete de papel, apontando para a frente com uma bússola de código na mão, expressão firme e encorajadora, a member of the tech tribe representing a Tech Lead, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r003",
+    "sheet_id": "s059",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Staffa, a Anciã de Muitas Aldeias",
+    "character_desc": "Um cutout de papel que é anciã que aconselha várias tribos ao mesmo tempo da nação tech; carregando um cajado alto com vários totens pequenos pendurados, comunicando o papel de Staff Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto largo de retalhos de papel com muitos bolsos, carregando um cajado alto com vários totens pequenos pendurados, expressão sábia e cansada, a member of the tech tribe representing a Staff Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r004",
+    "sheet_id": "s059",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Principo, o Sábio-Mor",
+    "character_desc": "Um cutout de papel que é sábio máximo da confederação de tribos da nação tech; segurando um pergaminho de arquitetura grande desenrolado, comunicando o papel de Principal Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, toga cerimonial de papel dourado, segurando um pergaminho de arquitetura grande desenrolado, olhar imponente e pensativo, a member of the tech tribe representing a Principal Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r005",
+    "sheet_id": "s059",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Manda, a Mãe da Tribo",
+    "character_desc": "Um cutout de papel que é matriarca que cuida dos guerreiros da aldeia da nação tech; abraçando uma prancheta com fotos recortadas da tribo, comunicando o papel de Engineering Manager.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, xale de papel com broche de coração e prancheta pendurada, abraçando uma prancheta com fotos recortadas da tribo, sorriso acolhedor e atento, a member of the tech tribe representing a Engineering Manager, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r006",
+    "sheet_id": "s059",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Prudo, o Escolhe-Rumos",
+    "character_desc": "Um cutout de papel que é conselheiro que decide o destino da nação da nação tech; segurando um mapa de estradas com pinos de post-it, comunicando o papel de Product Manager.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, colete de papel com muitas etiquetas coloridas, segurando um mapa de estradas com pinos de post-it, expressão decidida e curiosa, a member of the tech tribe representing a Product Manager, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r007",
+    "sheet_id": "s059",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Ona, a Dona da Sacola",
+    "character_desc": "Um cutout de papel que é guardiã da bolsa de desejos da tribo da nação tech; carregando uma sacola cheia de cartõezinhos recortados, comunicando o papel de Product Owner.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, avental de papel com bolsos de histórias, carregando uma sacola cheia de cartõezinhos recortados, olhar organizado e atento, a member of the tech tribe representing a Product Owner, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r008",
+    "sheet_id": "s059",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Progo, o Tece-Rotas",
+    "character_desc": "Um cutout de papel que é tecelão que amarra várias trilhas em uma só da nação tech; puxando vários fios de papel que conectam totens, comunicando o papel de Program Manager.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, faixa larga cruzada no peito cheia de nós de barbante, puxando vários fios de papel que conectam totens, expressão concentrada, a member of the tech tribe representing a Program Manager, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r009",
+    "sheet_id": "s059",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Jetra, a Marca-Luas",
+    "character_desc": "Um cutout de papel que é contadora de luas e prazos da aldeia da nação tech; segurando um bastão-calendário com risquinhos de dias, comunicando o papel de Project Manager.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, chapéu de papel com um calendário preso, segurando um bastão-calendário com risquinhos de dias, olhar controlador e pontual, a member of the tech tribe representing a Project Manager, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r010",
+    "sheet_id": "s059",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Scrumo, o Toca-Tambor",
+    "character_desc": "Um cutout de papel que é xamã que dá o ritmo dos rituais diários da nação tech; batendo num tambor redondo de papel com baquetas, comunicando o papel de Scrum Master.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, tanga de papel e colar de contas coloridas, batendo num tambor redondo de papel com baquetas, sorriso animado e ritmado, a member of the tech tribe representing a Scrum Master, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r011",
+    "sheet_id": "s059",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Backo, o Forjador-do-Fundo",
+    "character_desc": "Um cutout de papel que é ferreiro que trabalha nas cavernas da aldeia da nação tech; segurando um martelo e uma engrenagem de papel, comunicando o papel de Backend Developer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, avental de couro-papel manchado de fuligem, segurando um martelo e uma engrenagem de papel, expressão suada e focada, a member of the tech tribe representing a Backend Developer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r012",
+    "sheet_id": "s059",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Apira, a Porteira dos Tratados",
+    "character_desc": "Um cutout de papel que é diplomata das portas entre tribos da nação tech; estendendo um contrato dobrado com um aperto de mão, comunicando o papel de API Designer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto com muitos selos de cera de papel, estendendo um contrato dobrado com um aperto de mão, sorriso cordial e formal, a member of the tech tribe representing a API Designer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r013",
+    "sheet_id": "s059",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Microa, a Vila-de-Cabanas",
+    "character_desc": "Um cutout de papel que é chefe de uma aldeia feita de cabaninhas separadas da nação tech; segurando um totem cercado de mini-cabanas, comunicando o papel de Microservices Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, colar com várias cabaninhas de papel em miniatura, segurando um totem cercado de mini-cabanas, expressão coordenadora, a member of the tech tribe representing a Microservices Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r014",
+    "sheet_id": "s059",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Pipo, o Cava-Canais",
+    "character_desc": "Um cutout de papel que é cavador de canais que levam água pela aldeia da nação tech; empurrando uma calha de papel com bolinhas azuis descendo, comunicando o papel de Pipeline Developer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, chapéu de palha de papel e botas de barro, empurrando uma calha de papel com bolinhas azuis descendo, olhar trabalhador e satisfeito, a member of the tech tribe representing a Pipeline Developer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r015",
+    "sheet_id": "s059",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Dena, a Traz-Rios",
+    "character_desc": "Um cutout de papel que é engenheira que traz os grandes rios de dados da nação tech; carregando baldes ligados por canos de papel, comunicando o papel de Data Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, capa impermeável de papel azul brilhante, carregando baldes ligados por canos de papel, expressão determinada, a member of the tech tribe representing a Data Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r016",
+    "sheet_id": "s059",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Dabo, o Guarda-Celeiro",
+    "character_desc": "Um cutout de papel que é guardião do celeiro central de grãos da tribo da nação tech; segurando uma chave enorme na frente de um baú-arquivo, comunicando o papel de Database Administrator.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, avental de guarda com molho de chaves de papel, segurando uma chave enorme na frente de um baú-arquivo, olhar vigilante e sério, a member of the tech tribe representing a Database Administrator, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r017",
+    "sheet_id": "s059",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Selqua, a Cata-Grãos",
+    "character_desc": "Um cutout de papel que é colhedora exímia que acha qualquer grão no celeiro da nação tech; segurando uma peneira com grãos recortados selecionados, comunicando o papel de SQL Specialist.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, cesto de colheita nas costas feito de papel trançado, segurando uma peneira com grãos recortados selecionados, expressão esperta e rápida, a member of the tech tribe representing a SQL Specialist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r018",
+    "sheet_id": "s059",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Cacha, a Guarda-Provisões",
+    "character_desc": "Um cutout de papel que é quem esconde comida perto pra pegar rápido da nação tech; abraçando um pote fresco com etiqueta de raio, comunicando o papel de Caching Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, cinto com potes de papel presos por toda a volta, abraçando um pote fresco com etiqueta de raio, sorriso rápido e prático, a member of the tech tribe representing a Caching Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r019",
+    "sheet_id": "s059",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Fila, a Passa-Bilhetes",
+    "character_desc": "Um cutout de papel que é mensageira que enfileira recados da aldeia da nação tech; puxando um cordão com bilhetes numerados em fila, comunicando o papel de Message Queue Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, bolsa carteiro cheia de bilhetinhos dobrados, puxando um cordão com bilhetes numerados em fila, expressão organizada e ágil, a member of the tech tribe representing a Message Queue Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r020",
+    "sheet_id": "s059",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Busca, o Fareja-Trilhas",
+    "character_desc": "Um cutout de papel que é rastreador que acha tudo na mata da tribo da nação tech; segurando uma lupa gigante sobre pegadas recortadas, comunicando o papel de Search Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, cocar leve com lupa de papel na testa, segurando uma lupa gigante sobre pegadas recortadas, olhar atento e caçador, a member of the tech tribe representing a Search Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r021",
+    "sheet_id": "s059",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Fronta, a Pinta-Fachadas",
+    "character_desc": "Um cutout de papel que é artesã que pinta a fachada das cabanas da nação tech; segurando um pincel largo e uma paleta de botões-UI, comunicando o papel de Frontend Developer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, avental de pintora respingado de tinta de papel, segurando um pincel largo e uma paleta de botões-UI, sorriso criativo e leve, a member of the tech tribe representing a Frontend Developer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r022",
+    "sheet_id": "s059",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Uino, o Monta-Vitrines",
+    "character_desc": "Um cutout de papel que é quem arruma o mostruário da aldeia da nação tech; encaixando peças de painel de papel como quebra-cabeça, comunicando o papel de UI Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, colete com botões coloridos de papel costurados, encaixando peças de painel de papel como quebra-cabeça, expressão caprichosa, a member of the tech tribe representing a UI Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r023",
+    "sheet_id": "s059",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Uxa, a Escuta-Andarilhos",
+    "character_desc": "Um cutout de papel que é quem entende o que os viajantes precisam da nação tech; segurando um fluxograma de setas em cartõezinhos, comunicando o papel de UX Designer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, faixa com mapa de trilha das pessoas na cabeça, segurando um fluxograma de setas em cartõezinhos, olhar empático e curioso, a member of the tech tribe representing a UX Designer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r024",
+    "sheet_id": "s059",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Sisa, a Guardiã dos Moldes",
+    "character_desc": "Um cutout de papel que é quem cuida dos moldes padrão de todas cabanas da nação tech; segurando um estojo de peças-padrão recortadas iguais, comunicando o papel de Design Systems Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, avental com régua-gabarito e peças-molde no cinto, segurando um estojo de peças-padrão recortadas iguais, expressão metódica, a member of the tech tribe representing a Design Systems Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r025",
+    "sheet_id": "s059",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Aksa, a Abre-Caminhos",
+    "character_desc": "Um cutout de papel que é quem faz rampas para todos entrarem na aldeia da nação tech; instalando uma rampinha de papel numa entrada de cabana, comunicando o papel de Accessibility Specialist.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, faixa com símbolo de mãos e rampa de papel, instalando uma rampinha de papel numa entrada de cabana, sorriso acolhedor e atento, a member of the tech tribe representing a Accessibility Specialist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r026",
+    "sheet_id": "s059",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Perfo, o Corre-Ventos",
+    "character_desc": "Um cutout de papel que é corredor mais veloz da tribo do site da nação tech; segurando um cronômetro de papel com ponteiro voando, comunicando o papel de Web Performance Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, tanga leve de papel e penas de velocidade nos pés, segurando um cronômetro de papel com ponteiro voando, expressão veloz e ofegante, a member of the tech tribe representing a Web Performance Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r027",
+    "sheet_id": "s059",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Cessa, a Enfeita-Panos",
+    "character_desc": "Um cutout de papel que é tecelã que estiliza os panos da aldeia da nação tech; segurando amostras de tecido-CSS com cores em degradê, comunicando o papel de CSS Specialist.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto todo estampado de padrões geométricos de papel, segurando amostras de tecido-CSS com cores em degradê, olhar elegante, a member of the tech tribe representing a CSS Specialist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r028",
+    "sheet_id": "s059",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Anima, a Faz-Bonecos-Andar",
+    "character_desc": "Um cutout de papel que é titeriteira que dá movimento aos totens da nação tech; segurando marionetes de papel em poses de movimento, comunicando o papel de Animation Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, roupa cheia de fitinhas de papel que parecem mexer, segurando marionetes de papel em poses de movimento, sorriso brincalhão, a member of the tech tribe representing a Animation Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r029",
+    "sheet_id": "s059",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Mobi, a Andarilha-de-Bolso",
+    "character_desc": "Um cutout de papel que é nômade que carrega a aldeia no bolso da nação tech; segurando uma cabaninha portátil de papel na palma, comunicando o papel de Mobile Developer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, mochila-cabana dobrável de papel nas costas, segurando uma cabaninha portátil de papel na palma, expressão prática e leve, a member of the tech tribe representing a Mobile Developer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r030",
+    "sheet_id": "s059",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Iosa, a Tribo-da-Maçã",
+    "character_desc": "Um cutout de papel que é clã elegante do vale da maçã da nação tech; segurando uma tabuleta-retângulo com uma maçã recortada, comunicando o papel de iOS Developer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, traje minimalista de papel branco impecável, segurando uma tabuleta-retângulo com uma maçã recortada, olhar refinado e sereno, a member of the tech tribe representing a iOS Developer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r031",
+    "sheet_id": "s059",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Andro, o Clã-do-Robô-Verde",
+    "character_desc": "Um cutout de papel que é tribo do robozinho verde amistoso da nação tech; segurando um totem de robô verde sorridente, comunicando o papel de Android Developer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, capacete de robô verde de papel com anteninhas, segurando um totem de robô verde sorridente, sorriso amigável, a member of the tech tribe representing a Android Developer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r032",
+    "sheet_id": "s059",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Reana, a Ponte-Duas-Aldeias",
+    "character_desc": "Um cutout de papel que é quem serve duas tribos com uma cabana só da nação tech; segurando uma ponte de papel ligando duas cabaninhas, comunicando o papel de React Native Developer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto meio-a-meio de duas cores de papel, segurando uma ponte de papel ligando duas cabaninhas, expressão versátil, a member of the tech tribe representing a React Native Developer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r033",
+    "sheet_id": "s059",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Flута, a Tece-Uma-Vez",
+    "character_desc": "Um cutout de papel que é tecelã que faz um pano que serve todo lugar da nação tech; segurando uma bobina de linha azul que vira várias telas, comunicando o papel de Flutter Developer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, vestido único de papel azul com pena de pássaro, segurando uma bobina de linha azul que vira várias telas, sorriso confiante, a member of the tech tribe representing a Flutter Developer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r034",
+    "sheet_id": "s059",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Ciena, a Lê-Estrelas",
+    "character_desc": "Um cutout de papel que é vidente que lê padrões no céu de dados da nação tech; segurando um telescópio de papel apontado a gráficos-estrela, comunicando o papel de Data Scientist.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto de astrônoma coberto de estrelinhas de papel, segurando um telescópio de papel apontado a gráficos-estrela, olhar curioso e analítico, a member of the tech tribe representing a Data Scientist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r035",
+    "sheet_id": "s059",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Emela, a Doma-Feras",
+    "character_desc": "Um cutout de papel que é domadora da fera que aprende sozinha da nação tech; segurando uma coleira ligada a uma fera-modelo de papel, comunicando o papel de ML Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, roupa de domadora com chicote-de-fita de papel, segurando uma coleira ligada a uma fera-modelo de papel, expressão firme e paciente, a member of the tech tribe representing a ML Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r036",
+    "sheet_id": "s059",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Mlopo, o Cuida-do-Rebanho",
+    "character_desc": "Um cutout de papel que é pastor que mantém as feras-modelo no pasto da nação tech; conduzindo várias feras-modelo por uma cerca de papel, comunicando o papel de MLOps Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, chapéu de pastor e cajado com engrenagem, conduzindo várias feras-modelo por uma cerca de papel, olhar atento e cansado, a member of the tech tribe representing a MLOps Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r037",
+    "sheet_id": "s059",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Aira, a Sonha-Futuros",
+    "character_desc": "Um cutout de papel que é profetisa que imagina inteligências novas da nação tech; segurando um pergaminho de fórmulas e uma pena reluzente, comunicando o papel de AI Researcher.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto de sonhadora com nuvens de papel na cabeça, segurando um pergaminho de fórmulas e uma pena reluzente, expressão inspirada e distante, a member of the tech tribe representing a AI Researcher, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r038",
+    "sheet_id": "s059",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Prompo, o Fala-com-Espíritos",
+    "character_desc": "Um cutout de papel que é xamã que conversa com o oráculo da tribo da nação tech; segurando um totem-oráculo e cartões de perguntas, comunicando o papel de Prompt Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, traje de xamã com máscara de balão-de-fala, segurando um totem-oráculo e cartões de perguntas, sorriso astuto, a member of the tech tribe representing a Prompt Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r039",
+    "sheet_id": "s059",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Nela, a Entende-Línguas",
+    "character_desc": "Um cutout de papel que é intérprete que decifra todas as falas da nação tech; segurando um pergaminho com balões de fala traduzidos, comunicando o papel de NLP Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, colar de bocas e ouvidos recortados em papel, segurando um pergaminho com balões de fala traduzidos, olhar atento e ágil, a member of the tech tribe representing a NLP Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r040",
+    "sheet_id": "s059",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Civa, o Olho-que-Tudo-Vê",
+    "character_desc": "Um cutout de papel que é vigia que enxerga formas na mata da nação tech; segurando uma moldura que reconhece rostos recortados, comunicando o papel de Computer Vision Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, cocar com um grande olho de papel na testa, segurando uma moldura que reconhece rostos recortados, expressão observadora, a member of the tech tribe representing a Computer Vision Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r041",
+    "sheet_id": "s059",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Anala, a Conta-Contas",
+    "character_desc": "Um cutout de papel que é contadora de tudo que a tribo colhe da nação tech; segurando uma tabuleta com colunas de risquinhos, comunicando o papel de Data Analyst.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, avental com ábaco de contas de papel, segurando uma tabuleta com colunas de risquinhos, olhar concentrado, a member of the tech tribe representing a Data Analyst, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r042",
+    "sheet_id": "s059",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Bia, a Mostra-Painéis",
+    "character_desc": "Um cutout de papel que é quem exibe os painéis de colheita da aldeia da nação tech; segurando um painel-tabuleta com gráficos coloridos, comunicando o papel de BI Analyst.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto coberto de mini-gráficos de barra de papel, segurando um painel-tabuleta com gráficos coloridos, sorriso apresentador, a member of the tech tribe representing a BI Analyst, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r043",
+    "sheet_id": "s059",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Anega, a Limpa-Grãos",
+    "character_desc": "Um cutout de papel que é quem separa grão bom de grão ruim antes de contar da nação tech; segurando um funil que transforma grãos soltos em fileiras, comunicando o papel de Analytics Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, avental com peneira e funil de papel, segurando um funil que transforma grãos soltos em fileiras, expressão caprichosa, a member of the tech tribe representing a Analytics Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r044",
+    "sheet_id": "s059",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Vizu, a Pinta-Gráficos",
+    "character_desc": "Um cutout de papel que é artista que transforma números em desenhos da nação tech; segurando um pincel que pinta um gráfico de pizza de papel, comunicando o papel de Data Viz Specialist.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto de pintora com paleta de gráficos, segurando um pincel que pinta um gráfico de pizza de papel, olhar criativo e alegre, a member of the tech tribe representing a Data Viz Specialist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r045",
+    "sheet_id": "s059",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Devo, o Ergue-Cabanas",
+    "character_desc": "Um cutout de papel que é construtor que levanta e mantém as cabanas da nação tech; segurando uma chave-inglesa gigante e uma engrenagem, comunicando o papel de DevOps Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, macacão de operário com cinto de ferramentas de papel, segurando uma chave-inglesa gigante e uma engrenagem, sorriso trabalhador, a member of the tech tribe representing a DevOps Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r046",
+    "sheet_id": "s059",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Esrea, a Vela-pelo-Fogo",
+    "character_desc": "Um cutout de papel que é guardiã que mantém a fogueira central acesa da nação tech; segurando um extintor de papel perto de uma fogueira-servidor, comunicando o papel de Site Reliability Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, capa de vigília noturna com lamparina de papel, segurando um extintor de papel perto de uma fogueira-servidor, olhar alerta e cansado, a member of the tech tribe representing a Site Reliability Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r047",
+    "sheet_id": "s059",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Plata, o Assenta-Alicerces",
+    "character_desc": "Um cutout de papel que é quem prepara o chão firme para todas cabanas da nação tech; segurando uma laje-plataforma de papel com cabaninhas em cima, comunicando o papel de Platform Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, avental de pedreiro com nível de bolha de papel, segurando uma laje-plataforma de papel com cabaninhas em cima, expressão sólida, a member of the tech tribe representing a Platform Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r048",
+    "sheet_id": "s059",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Claudo, o Chama-Nuvens",
+    "character_desc": "Um cutout de papel que é feiticeiro que traz aldeias inteiras das nuvens da nação tech; segurando um cajado que puxa uma nuvem-cidade de papel, comunicando o papel de Cloud Architect.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto azul-céu com nuvens de papel penduradas, segurando um cajado que puxa uma nuvem-cidade de papel, olhar grandioso, a member of the tech tribe representing a Cloud Architect, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r049",
+    "sheet_id": "s059",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Kuba, a Pastora-de-Caixas",
+    "character_desc": "Um cutout de papel que é quem arreia os contêineres da tribo no leme da nação tech; segurando um leme cercado de caixinhas-contêiner empilhadas, comunicando o papel de Kubernetes Admin.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, roupa de marinheira com timão de papel, segurando um leme cercado de caixinhas-contêiner empilhadas, expressão coordenadora, a member of the tech tribe representing a Kubernetes Admin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r050",
+    "sheet_id": "s059",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Neta, a Tece-Fios",
+    "character_desc": "Um cutout de papel que é tecelã da teia de cordas entre cabanas da nação tech; segurando um novelo que liga totens por fios tensos, comunicando o papel de Network Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto cheio de cordinhas de papel esticadas, segurando um novelo que liga totens por fios tensos, olhar atento, a member of the tech tribe representing a Network Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r051",
+    "sheet_id": "s059",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Sisa-do-Monte, o Zelador",
+    "character_desc": "Um cutout de papel que é zelador que mantém as máquinas da aldeia da nação tech; segurando uma prancheta de manutenção e uma chave de fenda, comunicando o papel de Systems Administrator.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, macacão surrado com molho de chaves de papel, segurando uma prancheta de manutenção e uma chave de fenda, expressão paciente, a member of the tech tribe representing a Systems Administrator, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r052",
+    "sheet_id": "s059",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Rela, a Solta-Pombos",
+    "character_desc": "Um cutout de papel que é quem libera os pombos com as novidades da tribo da nação tech; soltando um pombo de papel com um pacote-versão, comunicando o papel de Release Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, roupa de mensageira com pombos de papel no ombro, soltando um pombo de papel com um pacote-versão, sorriso cerimonioso, a member of the tech tribe representing a Release Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r053",
+    "sheet_id": "s059",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Bilda, o Junta-Peças",
+    "character_desc": "Um cutout de papel que é montador que encaixa as peças da cabana nova da nação tech; encaixando blocos de papel numa cabana meio-montada, comunicando o papel de Build Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, avental de marceneiro com peças de papel no cinto, encaixando blocos de papel numa cabana meio-montada, expressão focada, a member of the tech tribe representing a Build Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r054",
+    "sheet_id": "s059",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Cida, a Esteira-Sem-Fim",
+    "character_desc": "Um cutout de papel que é operadora da esteira que leva peças ao forno da nação tech; empurrando peças numa esteira rolante de papel em loop, comunicando o papel de CI/CD Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, roupa de operária ao lado de uma esteira de papel, empurrando peças numa esteira rolante de papel em loop, olhar mecânico e calmo, a member of the tech tribe representing a CI/CD Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r055",
+    "sheet_id": "s059",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Sega, o Guerreiro-de-Escudo",
+    "character_desc": "Um cutout de papel que é guerreiro que protege os muros da aldeia da nação tech; segurando um escudo com um cadeado recortado no centro, comunicando o papel de Security Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, armadura de papelão com escudo redondo, segurando um escudo com um cadeado recortado no centro, expressão vigilante, a member of the tech tribe representing a Security Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r056",
+    "sheet_id": "s059",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Pena, a Testa-Muralhas",
+    "character_desc": "Um cutout de papel que é batedora que tenta furar as defesas de propósito da nação tech; segurando uma escada dobrável apoiada num muro de papel, comunicando o papel de Penetration Tester.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, traje escuro de infiltradora com capuz de papel, segurando uma escada dobrável apoiada num muro de papel, sorriso maroto e esperto, a member of the tech tribe representing a Penetration Tester, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r057",
+    "sheet_id": "s059",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Apsa, a Fortifica-Cabanas",
+    "character_desc": "Um cutout de papel que é quem reforça cada cabana por dentro da nação tech; martelando cadeados de papel nas janelas de uma cabana, comunicando o papel de AppSec Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, avental com pregos-cadeado espalhados, martelando cadeados de papel nas janelas de uma cabana, expressão cautelosa, a member of the tech tribe representing a AppSec Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r058",
+    "sheet_id": "s059",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cripta, a Guarda-Segredos",
+    "character_desc": "Um cutout de papel que é quem esconde as mensagens em códigos da nação tech; segurando um baú-cofre com fechadura de runas, comunicando o papel de Cryptographer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto coberto de runas embaralhadas de papel, segurando um baú-cofre com fechadura de runas, olhar enigmático, a member of the tech tribe representing a Cryptographer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r059",
+    "sheet_id": "s059",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Compla, a Segue-Leis",
+    "character_desc": "Um cutout de papel que é anciã que garante que a tribo cumpre os tratados da nação tech; segurando uma prancheta de checklist com carimbos, comunicando o papel de Compliance Officer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, toga formal com selos de aprovação de papel, segurando uma prancheta de checklist com carimbos, expressão séria e correta, a member of the tech tribe representing a Compliance Officer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r060",
+    "sheet_id": "s059",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Priva, a Cobre-Rostos",
+    "character_desc": "Um cutout de papel que é quem protege os rostos e nomes da tribo da nação tech; segurando uma cortina que esconde silhuetas recortadas, comunicando o papel de Privacy Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto com máscaras e cortinas de papel, segurando uma cortina que esconde silhuetas recortadas, olhar protetor e discreto, a member of the tech tribe representing a Privacy Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r061",
+    "sheet_id": "s059",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Inca, o Apaga-Incêndios",
+    "character_desc": "Um cutout de papel que é brigadista que corre quando o fogo se espalha da nação tech; segurando um extintor apontado a chamas de papel, comunicando o papel de Incident Responder.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, capacete de bombeiro de papel e sirene no ombro, segurando um extintor apontado a chamas de papel, expressão urgente e alerta, a member of the tech tribe representing a Incident Responder, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r062",
+    "sheet_id": "s059",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Tremo, o Prevê-Perigos",
+    "character_desc": "Um cutout de papel que é vidente que aponta onde o inimigo pode atacar da nação tech; segurando um quadro de ameaças com bonequinhos e setas, comunicando o papel de Threat Modeler.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto com um mapa de setas-ataque de papel, segurando um quadro de ameaças com bonequinhos e setas, olhar desconfiado e atento, a member of the tech tribe representing a Threat Modeler, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r063",
+    "sheet_id": "s059",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Qua, a Prova-Tudo",
+    "character_desc": "Um cutout de papel que é provadora que testa cada coisa da aldeia da nação tech; segurando uma lupa e uma lista de bugs-inseto recortados, comunicando o papel de QA Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, avental com selo de aprovado/reprovado de papel, segurando uma lupa e uma lista de bugs-inseto recortados, expressão criteriosa, a member of the tech tribe representing a QA Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r064",
+    "sheet_id": "s059",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Deta, a Constrói-Autômatos",
+    "character_desc": "Um cutout de papel que é quem cria bonecos que testam sozinhos da nação tech; segurando um controle ligado a bonecos-teste enfileirados, comunicando o papel de SDET (Automação).",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, roupa de inventora com robôzinhos de papel, segurando um controle ligado a bonecos-teste enfileirados, sorriso engenhoso, a member of the tech tribe representing a SDET (Automação), centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r065",
+    "sheet_id": "s059",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Perta, o Puxa-Carga",
+    "character_desc": "Um cutout de papel que é quem testa até onde a ponte aguenta peso da nação tech; empurrando muitos pesos-caixa contra uma ponte de papel, comunicando o papel de Performance Tester.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, traje de forte da aldeia com pesos de papel, empurrando muitos pesos-caixa contra uma ponte de papel, expressão esforçada, a member of the tech tribe representing a Performance Tester, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r066",
+    "sheet_id": "s059",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Manua, a Toca-com-a-Mão",
+    "character_desc": "Um cutout de papel que é quem testa tudo pacientemente à mão da nação tech; apontando o dedo numa tabuleta de passos-a-testar, comunicando o papel de Manual Tester.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, avental com dedo-indicador destacado e lista, apontando o dedo numa tabuleta de passos-a-testar, olhar paciente e atento, a member of the tech tribe representing a Manual Tester, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r067",
+    "sheet_id": "s059",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Aksa-Prova, a Testa-Rampas",
+    "character_desc": "Um cutout de papel que é quem confere se todos conseguem usar a aldeia da nação tech; testando uma rampa com um totem de bengala ao lado, comunicando o papel de Accessibility Tester.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, faixa de mãos e checklist de acesso de papel, testando uma rampa com um totem de bengala ao lado, expressão cuidadosa, a member of the tech tribe representing a Accessibility Tester, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r068",
+    "sheet_id": "s059",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Doca, a Escreve-Rolos",
+    "character_desc": "Um cutout de papel que é escriba que registra os saberes da tribo da nação tech; segurando um pergaminho aberto e uma pena grande, comunicando o papel de Technical Writer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto de escriba com penas e tinteiro de papel, segurando um pergaminho aberto e uma pena grande, olhar aplicado e calmo, a member of the tech tribe representing a Technical Writer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r069",
+    "sheet_id": "s059",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Devoca, o Grita-na-Praça",
+    "character_desc": "Um cutout de papel que é arauto que espalha a fama da tribo às outras da nação tech; segurando um megafone e uma bandeirinha da aldeia, comunicando o papel de Developer Advocate.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, roupa colorida com megafone de papel, segurando um megafone e uma bandeirinha da aldeia, sorriso entusiasmado, a member of the tech tribe representing a Developer Advocate, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r070",
+    "sheet_id": "s059",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Conta, a Planeja-Histórias",
+    "character_desc": "Um cutout de papel que é quem decide quais histórias a tribo conta da nação tech; segurando um quadro de histórias organizadas em cartões, comunicando o papel de Content Strategist.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto com mapa de contos e fitas de papel, segurando um quadro de histórias organizadas em cartões, expressão estratégica, a member of the tech tribe representing a Content Strategist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r071",
+    "sheet_id": "s059",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Ina, a Fala-Muitas-Línguas",
+    "character_desc": "Um cutout de papel que é intérprete que traduz a aldeia pra outras tribos da nação tech; segurando placas-recado iguais em várias línguas, comunicando o papel de Localization Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto com bandeirinhas de vários povos de papel, segurando placas-recado iguais em várias línguas, sorriso acolhedor, a member of the tech tribe representing a Localization Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r072",
+    "sheet_id": "s059",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Prona, a Desenha-Cabanas",
+    "character_desc": "Um cutout de papel que é arquiteta que projeta como a cabana serve o povo da nação tech; segurando uma maquete de cabana e um fluxo de setas, comunicando o papel de Product Designer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, avental de designer com régua e cartões de papel, segurando uma maquete de cabana e um fluxo de setas, olhar criativo e prático, a member of the tech tribe representing a Product Designer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r073",
+    "sheet_id": "s059",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Visa, a Escolhe-Cores",
+    "character_desc": "Um cutout de papel que é artista visual que dá a cara bonita à aldeia da nação tech; segurando uma paleta e amostras de cores recortadas, comunicando o papel de Visual Designer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto multicolorido com paleta de papel, segurando uma paleta e amostras de cores recortadas, sorriso estético, a member of the tech tribe representing a Visual Designer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r074",
+    "sheet_id": "s059",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Intera, a Ensaia-Toques",
+    "character_desc": "Um cutout de papel que é quem ensaia como as mãos tocam os totens da nação tech; apontando uma sequência de setas de toque num painel, comunicando o papel de Interaction Designer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, roupa com botões e alavancas de papel no colete, apontando uma sequência de setas de toque num painel, expressão atenta, a member of the tech tribe representing a Interaction Designer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r075",
+    "sheet_id": "s059",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Mota, a Faz-Fluir",
+    "character_desc": "Um cutout de papel que é dançarina que dá fluidez aos movimentos da aldeia da nação tech; segurando fitas em curvas de movimento no ar, comunicando o papel de Motion Designer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, traje leve com rastros de fita de papel, segurando fitas em curvas de movimento no ar, sorriso fluido, a member of the tech tribe representing a Motion Designer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r076",
+    "sheet_id": "s059",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Ilua, a Rabisca-Totens",
+    "character_desc": "Um cutout de papel que é ilustradora que desenha os totens do povo da nação tech; segurando um lápis enorme e um desenho de totem recortado, comunicando o papel de Illustrator.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, avental de artista com lápis gigante de papel, segurando um lápis enorme e um desenho de totem recortado, olhar sonhador, a member of the tech tribe representing a Illustrator, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r077",
+    "sheet_id": "s059",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Aseta, o Talha-Peças",
+    "character_desc": "Um cutout de papel que é artesão que talha as pecinhas do dia a dia da nação tech; segurando uma bandeja de ícones-peças recortados iguais, comunicando o papel de Asset Designer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, avental cheio de mini-ícones de papel pendurados, segurando uma bandeja de ícones-peças recortados iguais, expressão caprichosa, a member of the tech tribe representing a Asset Designer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r078",
+    "sheet_id": "s059",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Branda, a Marca-o-Brasão",
+    "character_desc": "Um cutout de papel que é quem cria o brasão e as cores da nação da nação tech; segurando um estandarte com o brasão-logo de papel, comunicando o papel de Brand Designer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto com o brasão da tribo estampado, segurando um estandarte com o brasão-logo de papel, olhar orgulhoso, a member of the tech tribe representing a Brand Designer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r079",
+    "sheet_id": "s059",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Sona, a Bate-Tambores",
+    "character_desc": "Um cutout de papel que é quem faz os sons e cantos dos rituais da nação tech; segurando maracas e ondas sonoras recortadas ao redor, comunicando o papel de Sound Designer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, colar de guizos e tambor pequeno de papel, segurando maracas e ondas sonoras recortadas ao redor, sorriso animado, a member of the tech tribe representing a Sound Designer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r080",
+    "sheet_id": "s059",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Trida, a Esculpe-Volumes",
+    "character_desc": "Um cutout de papel que é escultora que dá volume aos totens da aldeia da nação tech; segurando um totem em relevo 3D de papel dobrado, comunicando o papel de 3D Artist.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, avental de escultora com cinzel de papel, segurando um totem em relevo 3D de papel dobrado, expressão concentrada, a member of the tech tribe representing a 3D Artist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r081",
+    "sheet_id": "s059",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Ludo, o Inventa-Brincadeiras",
+    "character_desc": "Um cutout de papel que é quem cria os jogos e rituais da tribo da nação tech; segurando um dado enorme e um tabuleiro recortado, comunicando o papel de Game Designer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto lúdico com dado gigante de papel, segurando um dado enorme e um tabuleiro recortado, sorriso travesso, a member of the tech tribe representing a Game Designer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r082",
+    "sheet_id": "s059",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Niva, a Traça-Terrenos",
+    "character_desc": "Um cutout de papel que é quem desenha o terreno onde a tribo brinca da nação tech; segurando um mapa-terreno com caminhos e obstáculos, comunicando o papel de Level Designer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, avental com mapa de labirinto de papel, segurando um mapa-terreno com caminhos e obstáculos, olhar planejador, a member of the tech tribe representing a Level Designer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r083",
+    "sheet_id": "s059",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Narra, a Conta-Lendas",
+    "character_desc": "Um cutout de papel que é contadora das lendas que guiam o povo da nação tech; segurando um livro-lenda com balões de história, comunicando o papel de Narrative Designer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto de contadora com livro aberto de papel, segurando um livro-lenda com balões de história, expressão encantadora, a member of the tech tribe representing a Narrative Designer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r084",
+    "sheet_id": "s059",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Gamo, o Forja-Brinquedos",
+    "character_desc": "Um cutout de papel que é forjador dos brinquedos animados da tribo da nação tech; segurando um controle-joystick e um totem que se mexe, comunicando o papel de Game Developer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, macacão de inventor com joystick de papel, segurando um controle-joystick e um totem que se mexe, sorriso entusiasmado, a member of the tech tribe representing a Game Developer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r085",
+    "sheet_id": "s059",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Grafa, a Pinta-Luz",
+    "character_desc": "Um cutout de papel que é pintora que dá brilho e sombra aos totens da nação tech; segurando um pincel de luz sobre uma esfera brilhante, comunicando o papel de Graphics/Shader Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto com raios de luz de papel prateado, segurando um pincel de luz sobre uma esfera brilhante, olhar deslumbrado, a member of the tech tribe representing a Graphics/Shader Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r086",
+    "sheet_id": "s059",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Embra, o Encaixa-Pedrinhas",
+    "character_desc": "Um cutout de papel que é artesão das pecinhas minúsculas encravadas da nação tech; segurando uma pedrinha-chip com pinos recortados, comunicando o papel de Embedded Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, avental com placas-circuito minúsculas de papel, segurando uma pedrinha-chip com pinos recortados, expressão minuciosa, a member of the tech tribe representing a Embedded Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r087",
+    "sheet_id": "s059",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Firma, a Sopra-Vida-nas-Pedras",
+    "character_desc": "Um cutout de papel que é quem dá as primeiras ordens às pedras-máquina da nação tech; segurando um chip com um pergaminho de instruções mínimas, comunicando o papel de Firmware Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto com fita de fogo baixo de papel, segurando um chip com um pergaminho de instruções mínimas, olhar preciso, a member of the tech tribe representing a Firmware Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r088",
+    "sheet_id": "s059",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Iota, a Liga-Tudo",
+    "character_desc": "Um cutout de papel que é quem conecta cada objeto da aldeia por fios da nação tech; segurando vários objetos-de-casa amarrados por fios, comunicando o papel de IoT Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, colar de objetinhos ligados por cordinhas de papel, segurando vários objetos-de-casa amarrados por fios, sorriso conectado, a member of the tech tribe representing a IoT Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r089",
+    "sheet_id": "s059",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Bloca, a Empilha-Blocos",
+    "character_desc": "Um cutout de papel que é quem empilha os blocos-registro da tribo da nação tech; segurando uma torre de blocos encadeados por elos, comunicando o papel de Blockchain Developer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto com correntes de blocos de papel, segurando uma torre de blocos encadeados por elos, expressão firme, a member of the tech tribe representing a Blockchain Developer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r090",
+    "sheet_id": "s059",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Smara, o Confere-Pactos",
+    "character_desc": "Um cutout de papel que é auditor que revisa os pactos automáticos da nação tech; segurando uma lupa sobre um contrato-bloco recortado, comunicando o papel de Smart Contract Auditor.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, toga com lupa e pergaminho-contrato de papel, segurando uma lupa sobre um contrato-bloco recortado, olhar minucioso e sério, a member of the tech tribe representing a Smart Contract Auditor, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r091",
+    "sheet_id": "s059",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Arva, a Abre-Mundos",
+    "character_desc": "Um cutout de papel que é quem abre janelas para mundos sobrepostos da nação tech; segurando um visor que projeta totens flutuantes de papel, comunicando o papel de AR/VR Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, óculos-visor de papel e capa cintilante, segurando um visor que projeta totens flutuantes de papel, expressão maravilhada, a member of the tech tribe representing a AR/VR Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r092",
+    "sheet_id": "s059",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Robo, o Anima-Autômatos",
+    "character_desc": "Um cutout de papel que é quem constrói os grandes autômatos da tribo da nação tech; segurando um controle ligado a um autômato de papel, comunicando o papel de Robotics Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, macacão com braço-robô de papel articulado, segurando um controle ligado a um autômato de papel, olhar engenhoso, a member of the tech tribe representing a Robotics Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r093",
+    "sheet_id": "s059",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Grova, a Semeia-Crescimento",
+    "character_desc": "Um cutout de papel que é quem faz a tribo crescer e atrair novos membros da nação tech; segurando um regador que faz um gráfico-planta subir, comunicando o papel de Growth Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto com brotos e setas para cima de papel, segurando um regador que faz um gráfico-planta subir, sorriso otimista, a member of the tech tribe representing a Growth Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r094",
+    "sheet_id": "s059",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Seona, a Chama-Viajantes",
+    "character_desc": "Um cutout de papel que é quem faz outros povos acharem a aldeia da nação tech; segurando um farol que atrai bonequinhos-viajantes, comunicando o papel de SEO Specialist.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, manto com placas-de-trilha e setas de papel, segurando um farol que atrai bonequinhos-viajantes, olhar estratégico, a member of the tech tribe representing a SEO Specialist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r095",
+    "sheet_id": "s059",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Marka, o Toca-Trombeta",
+    "character_desc": "Um cutout de papel que é quem anuncia as ofertas da tribo com engenho da nação tech; segurando uma trombeta ligada a um funil de bonequinhos, comunicando o papel de Marketing Technologist.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, roupa festiva com trombeta e funil de papel, segurando uma trombeta ligada a um funil de bonequinhos, sorriso persuasivo, a member of the tech tribe representing a Marketing Technologist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r096",
+    "sheet_id": "s059",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Soluta, a Encaixa-Soluções",
+    "character_desc": "Um cutout de papel que é quem mostra como a cabana serve a outra tribo da nação tech; encaixando uma peça-solução no problema de um cliente-totem, comunicando o papel de Solutions Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, colete com peças de encaixe de papel, encaixando uma peça-solução no problema de um cliente-totem, expressão prestativa, a member of the tech tribe representing a Solutions Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r097",
+    "sheet_id": "s059",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Supa, a Estende-a-Mão",
+    "character_desc": "Um cutout de papel que é quem socorre os viajantes perdidos na aldeia da nação tech; segurando um fone-headset e uma caixa de ferramentas-ajuda, comunicando o papel de Support Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, roupa com fone de papel e coração no peito, segurando um fone-headset e uma caixa de ferramentas-ajuda, sorriso paciente e gentil, a member of the tech tribe representing a Support Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r098",
+    "sheet_id": "s059",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Sela, o Mostra-Maravilhas",
+    "character_desc": "Um cutout de papel que é quem apresenta as maravilhas da tribo aos de fora da nação tech; abrindo uma maleta que mostra um totem-demonstração, comunicando o papel de Sales Engineer.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, roupa elegante com maleta de amostras de papel, abrindo uma maleta que mostra um totem-demonstração, sorriso convincente, a member of the tech tribe representing a Sales Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r099",
+    "sheet_id": "s059",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Fina, a Pesa-Moedas",
+    "character_desc": "Um cutout de papel que é guardiã que conta as moedas gastas pela nuvem da nação tech; segurando uma balança pesando moedas contra nuvens, comunicando o papel de FinOps Analyst.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, avental com balança e moedas de papel, segurando uma balança pesando moedas contra nuvens, olhar econômico e atento, a member of the tech tribe representing a FinOps Analyst, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s059-r100",
+    "sheet_id": "s059",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Lega, a Guarda-Tratados",
+    "character_desc": "Um cutout de papel que é juíza que zela pelas leis entre as tribos da nação tech; segurando um martelo-de-juiz e um pergaminho de leis, comunicando o papel de Legal Counsel.",
+    "nano_prompt": "South Park style construction-paper cutout character, flat simple geometric shapes, big round head, small oval eyes, tiny stubby body, mitten hands, short stubby legs, layered paper texture, flat bright colors, hard paper edges, full body standing, toga de juíza com martelinho de papel, segurando um martelo-de-juiz e um pergaminho de leis, expressão imparcial e firme, a member of the tech tribe representing a Legal Counsel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

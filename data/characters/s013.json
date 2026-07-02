@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s013-r001",
+    "sheet_id": "s013",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Arquimago Blueprint",
+    "character_desc": "Arquimago Blueprint: um arquimago-arquiteto que projeta reinos inteiros; segura um pergaminho-planta brilhante e uma maquete de castelo flutuante, cajado de cristal.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting an archmage architect, holding a glowing blueprint scroll and a floating miniature castle, crystal-topped staff, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r002",
+    "sheet_id": "s013",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Cavaleiro Comandante",
+    "character_desc": "Cavaleiro Comandante: o cavaleiro que lidera o esquadrão na linha de frente; espada apontada à frente e estandarte do time nas costas.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a party-leader knight, sword pointed forward and a squad banner on his back, commanding pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r003",
+    "sheet_id": "s013",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Paladino Veterano",
+    "character_desc": "Paladino Veterano: um paladino sábio e experiente que ampara os novatos; martelo de guerra e um tomo grosso de conhecimento sob o braço.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a veteran paladin sage, war hammer and a thick tome of knowledge under the arm, seasoned armor, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r004",
+    "sheet_id": "s013",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Grande Mago Ancião",
+    "character_desc": "Grande Mago Ancião: o mais poderoso mago do reino, guia máximo; cajado grandioso com orbe de runas e manto estrelado.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting an elder grand mage, grand rune-orb staff and a star-patterned robe, long white beard, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r005",
+    "sheet_id": "s013",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Mestre da Guilda",
+    "character_desc": "Mestre da Guilda: o mestre que gerencia a guilda de aventureiros; pergaminho de recrutamento e um martelo de decisão (gavel).",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a guild master, a roster scroll and a decision gavel, guild-hall keys at the belt, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r006",
+    "sheet_id": "s013",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Tático Estrategista",
+    "character_desc": "Tático Estrategista: o estrategista que define para onde a party avança; mapa de campanha aberto e uma bússola dourada.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a battle tactician, an open campaign map and a golden compass, planning gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r007",
+    "sheet_id": "s013",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Nobre dos Contratos",
+    "character_desc": "Nobre dos Contratos: o nobre que entrega as missões e prioriza objetivos; mural de quests em miniatura e uma pequena coroa.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a quest-giver noble, a miniature quest board and a small crown, pointing to priorities, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r008",
+    "sheet_id": "s013",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Marechal de Campanhas",
+    "character_desc": "Marechal de Campanhas: o marechal que coordena várias frentes de batalha; vários estandartes cruzados e um mapa de teatro de guerra.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a coordinating warlord, several crossed banners and a war-theatre map, coordinating stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r009",
+    "sheet_id": "s013",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Cartógrafo do Tempo",
+    "character_desc": "Cartógrafo do Tempo: o cartógrafo que planeja a jornada passo a passo; mapa-cronograma em rolo e uma ampulheta na cintura.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a timeline cartographer, a scroll timeline map and an hourglass at the belt, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r010",
+    "sheet_id": "s013",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Bardo Facilitador",
+    "character_desc": "Bardo Facilitador: o bardo-clérigo que mantém o ritmo da party; tambor de ritmo e amuletos de pergaminhos coloridos (sticky notes).",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a facilitator bard-cleric, a rhythm drum and colorful sticky-note charms hanging from the belt, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r011",
+    "sheet_id": "s013",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Ferreiro das Forjas",
+    "character_desc": "Ferreiro das Forjas: o ferreiro anão que forja a base do sistema; martelo de forja e engrenagens incandescentes ao redor.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a dwarven blacksmith warrior, a forge hammer and glowing gears, sturdy leather apron, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r012",
+    "sheet_id": "s013",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Guardião do Portão",
+    "character_desc": "Guardião do Portão: o guardião que define quem entra pelos portões; molho de chaves ornamentadas e um portal-gate arcano ao lado.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a gatekeeper mage, an ornate keyring and a small arcane gate portal beside him, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r013",
+    "sheet_id": "s013",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Ranger dos Enxames",
+    "character_desc": "Ranger dos Enxames: o ranger que comanda muitos pequenos familiares (serviços); vários familiares-orbe flutuando em formação ao redor.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a ranger commanding many tiny familiars, several small orb familiars floating in formation around him, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r014",
+    "sheet_id": "s013",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Encanador Arcano",
+    "character_desc": "Encanador Arcano: o encanador-engenheiro que conduz o fluxo de mana; chave de tubo grande e conduítes luminosos que fluem.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a plumber-engineer, a large pipe wrench and glowing flowing conduits, valve gauntlets, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r015",
+    "sheet_id": "s013",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Mineiro de Dados",
+    "character_desc": "Mineiro de Dados: o mineiro anão que extrai minério bruto (dados); picareta e um carrinho cheio de gemas-dado brilhantes.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a data miner dwarf, a pickaxe and an ore cart full of glowing data gems, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r016",
+    "sheet_id": "s013",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Guardião do Cofre",
+    "character_desc": "Guardião do Cofre: o guardião do grande cofre de registros; tomo-livro-razão pesado e uma chave de vault gigante.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a vault-keeper, a heavy ledger tome and a giant vault key, keeper's cloak, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r017",
+    "sheet_id": "s013",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Escriba das Runas",
+    "character_desc": "Escriba das Runas: o escriba que consulta os arquivos com runas precisas; pergaminhos de consulta e uma pena rúnica luminosa.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a rune scribe, query scrolls and a glowing rune quill, index-tab pouches, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r018",
+    "sheet_id": "s013",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Mago do Instante",
+    "character_desc": "Mago do Instante: o mago do tempo que guarda instantâneos do reino; ampulheta de gelo com snapshots congelados, aura fria.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a time mage, a frost hourglass storing frozen snapshots, cold blue aura, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r019",
+    "sheet_id": "s013",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Condutor da Esteira",
+    "character_desc": "Condutor da Esteira: o condutor que enfileira as cargas em ordem; esteira com fila de caixas-ticket numeradas.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a conveyor conductor, a conveyor line of numbered ticket crates moving in order, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r020",
+    "sheet_id": "s013",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Vidente Buscador",
+    "character_desc": "Vidente Buscador: o vidente que encontra qualquer coisa no reino; lente-cristal de aumento e uma bússola localizadora.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a seeker with a magnifying crystal, a magnifying crystal lens and a locator compass, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r021",
+    "sheet_id": "s013",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Mago Pintor de Telas",
+    "character_desc": "Mago Pintor de Telas: o mago que pinta as interfaces visíveis; pincel encantado e um escudo em forma de painel de UI.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a painter-mage, an enchanted brush and a UI-panel shaped shield, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r022",
+    "sheet_id": "s013",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Armeiro de Botões",
+    "character_desc": "Armeiro de Botões: o armeiro que forja componentes reluzentes; escudo cravejado de botões brilhantes e martelo fino.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting an armorer of glowing buttons, a shield studded with glowing buttons and a fine hammer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r023",
+    "sheet_id": "s013",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Clérigo da Empatia",
+    "character_desc": "Clérigo da Empatia: o clérigo que sente as dores do usuário; pergaminho de wireframe e um coração-mapa flutuante.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting an empath cleric, a wireframe scroll and a floating heart-shaped journey map, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r024",
+    "sheet_id": "s013",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Bibliotecário Modular",
+    "character_desc": "Bibliotecário Modular: o arquiteto-bibliotecário dos blocos reutilizáveis; conjunto de blocos-componente encaixáveis e catálogo.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a modular librarian architect, a set of snap-together component blocks and a catalog book, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r025",
+    "sheet_id": "s013",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Clérigo da Lanterna",
+    "character_desc": "Clérigo da Lanterna: o clérigo que ilumina o caminho para todos; lanterna guia e runas em braille numa placa.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a guiding cleric, a guiding lantern and braille runes on a tablet, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r026",
+    "sheet_id": "s013",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Monge do Vento",
+    "character_desc": "Monge do Vento: o monge veloz que corta o tempo de carga; botas aladas e um cronômetro na mão.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a swift speed monk, winged boots and a stopwatch, motion-blur speed lines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r027",
+    "sheet_id": "s013",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Alfaiate Arcano",
+    "character_desc": "Alfaiate Arcano: o alfaiate-mago que costura os estilos do reino; amostras de tecido-manto e uma régua encantada.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a tailor-mage, robe fabric swatches and an enchanted measuring ruler, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r028",
+    "sheet_id": "s013",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Ilusionista Animador",
+    "character_desc": "Ilusionista Animador: o ilusionista que dá vida ao movimento; flipbook mágico e rastros de movimento luminosos.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a puppeteer illusionist, a magic flipbook and glowing motion-trail afterimages, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r029",
+    "sheet_id": "s013",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Ranger Andarilho",
+    "character_desc": "Ranger Andarilho: o ranger que leva o reino no bolso; santuário-tablet portátil preso ao braço, capa de viagem.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a traveling ranger, a portable shrine-tablet strapped to the arm, travel cloak, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r030",
+    "sheet_id": "s013",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Cavaleiro Polido",
+    "character_desc": "Cavaleiro Polido: o cavaleiro refinado do brasão da maçã; escudo espelhado com brasão de maçã e armadura impecável.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a refined knight, a mirror-polished shield with an apple crest, sleek armor, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r031",
+    "sheet_id": "s013",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Domador do Autômato",
+    "character_desc": "Domador do Autômato: o domador do pequeno autômato verde; companheiro-robô verde ao lado e uma chave de engate.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a green robot tamer, a small green robot companion at his side and a wrench, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r032",
+    "sheet_id": "s013",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Druida Metamorfo",
+    "character_desc": "Druida Metamorfo: o druida que une duas formas numa só ponte; cajado que faz ponte entre duas metades élficas do corpo.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a shapeshifter druid, a staff bridging two elemental halves of the body, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r033",
+    "sheet_id": "s013",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Fada dos Widgets",
+    "character_desc": "Fada dos Widgets: a fada-maga de asas de borboleta multiplataforma; asas de borboleta iridescentes e varinha de widgets.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a winged fairy-mage, iridescent butterfly wings and a widget-tipped wand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r034",
+    "sheet_id": "s013",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Astrólogo Oráculo",
+    "character_desc": "Astrólogo Oráculo: o astrólogo que lê padrões nas estrelas (dados); carta estelar e um telescópio de bronze.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting an oracle astrologer, a star chart and a bronze telescope, constellation cloak, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r035",
+    "sheet_id": "s013",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Domador de Feras-IA",
+    "character_desc": "Domador de Feras-IA: o domador que treina um familiar mecânico; familiar-fera mecânico numa coleira de treino.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a beast-tamer, a mechanical beast familiar on a training leash, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r036",
+    "sheet_id": "s013",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Treinador de Autômatos",
+    "character_desc": "Treinador de Autômatos: o treinador que mantém os autômatos em forma; arreio de treino e uma engrenagem-esteira de rotina.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a tamer-engineer, a training harness and a treadmill contraption gear, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r037",
+    "sheet_id": "s013",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Alquimista da Mente",
+    "character_desc": "Alquimista da Mente: o alquimista que experimenta com cérebros-orbe; orbe-cérebro borbulhante e frascos de experimento.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting an alchemist scholar, a bubbling brain-orb and experiment flasks on the belt, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r038",
+    "sheet_id": "s013",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Invocador de Gênios",
+    "character_desc": "Invocador de Gênios: o invocador que sussurra ordens a um gênio-lâmpada; grimório aberto e uma lâmpada mágica soltando fumaça-resposta.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a summoner, an open grimoire and a magic lamp releasing answer-smoke, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r039",
+    "sheet_id": "s013",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Mago das Línguas",
+    "character_desc": "Mago das Línguas: o mago-linguista que entende toda fala; pergaminho de runas-tongue e um amuleto de tradução.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a linguist mage, a talking-rune scroll and a translation amulet, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r040",
+    "sheet_id": "s013",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Vidente do Olho",
+    "character_desc": "Vidente do Olho: o vidente do olho que tudo vê; óculos-lente do olho onividente e um cristal de visão.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a seer with an all-seeing eye, all-seeing eye goggles and a vision crystal, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r041",
+    "sheet_id": "s013",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Escriba do Ábaco",
+    "character_desc": "Escriba do Ábaco: o escriba que conta e resume os números; ábaco e um pergaminho de gráfico de barras.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a scribe analyst, an abacus and a bar-chart scroll, ink-stained fingers, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r042",
+    "sheet_id": "s013",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Conselheiro Mercante",
+    "character_desc": "Conselheiro Mercante: o conselheiro que traduz números em ouro; cristal-dashboard e uma pilha de moedas.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a merchant advisor, a dashboard crystal and a stack of gold coins, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r043",
+    "sheet_id": "s013",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Agrimensor de Gráficos",
+    "character_desc": "Agrimensor de Gráficos: o agrimensor que constrói os canais de métrica; teodolito arcano e canos-pipeline de gráficos.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a surveyor engineer, an arcane theodolite and chart-pipeline conduits, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r044",
+    "sheet_id": "s013",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Ilusionista de Gráficos",
+    "character_desc": "Ilusionista de Gráficos: o ilusionista que desenha gráficos no ar; gráficos luminosos flutuando entre as mãos.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting an illusionist, glowing floating graphs conjured between the hands, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r045",
+    "sheet_id": "s013",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Artífice do Infinito",
+    "character_desc": "Artífice do Infinito: o artífice que mantém as máquinas girando sem parar; chave inglesa e um símbolo de engrenagem-infinito flutuante.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting an artificer engineer, a wrench and a floating infinity-gear symbol, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r046",
+    "sheet_id": "s013",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Sentinela Guardiã",
+    "character_desc": "Sentinela Guardiã: a sentinela que vigia a saúde do reino sem dormir; escudo vigilante e um monitor de batimentos cardíacos.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a guardian sentinel, a vigilant shield and a heartbeat monitor rune, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r047",
+    "sheet_id": "s013",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Golem das Fundações",
+    "character_desc": "Golem das Fundações: o construtor-golem que ergue a plataforma base; laje-plataforma erguida sobre as costas e colher de pedreiro.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a foundation golem builder, a raised platform slab on the back and a builder's trowel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r048",
+    "sheet_id": "s013",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Mago das Nuvens",
+    "character_desc": "Mago das Nuvens: o mago que ergue castelos no céu; castelo-nuvem flutuante e cajado de tempestade.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a sky mage, a floating cloud castle and a storm staff, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r049",
+    "sheet_id": "s013",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Timoneiro dos Contêineres",
+    "character_desc": "Timoneiro dos Contêineres: o timoneiro que pilota o navio de contêineres; leme de navio e contêineres empilhados atrás.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a helmsman, a ship's wheel helm and stacked containers behind, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r050",
+    "sheet_id": "s013",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Tecelão de Redes",
+    "character_desc": "Tecelão de Redes: o tecelão que conecta tudo por fios; novelo de cabos e uma teia luminosa de conexões.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a net-weaver, a spool of cabling and a glowing web of connections, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r051",
+    "sheet_id": "s013",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Castelão dos Sistemas",
+    "character_desc": "Castelão dos Sistemas: o castelão que cuida dos aposentos do reino; molho enorme de chaves e um painel-console de pedra.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a castellan sysadmin, a huge keyring and a stone console panel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r052",
+    "sheet_id": "s013",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Arauto do Lançamento",
+    "character_desc": "Arauto do Lançamento: o arauto que anuncia e lança novas versões; pergaminho selado e um foguete pronto para lançar.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a launch herald, a wax-sealed scroll and a small rocket ready to launch, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r053",
+    "sheet_id": "s013",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Pedreiro Montador",
+    "character_desc": "Pedreiro Montador: o pedreiro que monta o reino bloco a bloco; colher de pedreiro e blocos de tijolo se encaixando.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a mason builder, a mason's trowel and interlocking brick blocks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r054",
+    "sheet_id": "s013",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Corredor do Revezamento",
+    "character_desc": "Corredor do Revezamento: o corredor que entrega o bastão em ciclo contínuo; bastão de revezamento numa pista em loop infinito.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a relay runner, a relay baton on an infinite-loop track, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r055",
+    "sheet_id": "s013",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Guardião do Cadeado",
+    "character_desc": "Guardião do Cadeado: o guardião blindado que tranca os portões do reino; escudo com um grande cadeado e armadura reforçada.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting an armored guardian, a shield bearing a large padlock, reinforced armor, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r056",
+    "sheet_id": "s013",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Ladino Testador",
+    "character_desc": "Ladino Testador: o ladino que testa as fechaduras dos baús; gazuas na mão testando um baú trancado.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a rogue thief, lockpicks in hand testing a locked treasure chest, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r057",
+    "sheet_id": "s013",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Cavaleiro Inspetor",
+    "character_desc": "Cavaleiro Inspetor: o cavaleiro que caça rachaduras na armadura; lupa examinando a própria armadura em busca de falhas.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting an armor-inspecting knight, a magnifying glass examining armor for cracks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r058",
+    "sheet_id": "s013",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Mago das Cifras",
+    "character_desc": "Mago das Cifras: o mago que sela mensagens em códigos; roda de cifras rúnica e um pergaminho lacrado.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a cipher mage, a rune cipher wheel and a sealed enciphered scroll, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r059",
+    "sheet_id": "s013",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Inquisidor do Selo",
+    "character_desc": "Inquisidor do Selo: o inquisidor-juiz que confere as regras; pergaminho-checklist e um carimbo de selo de aprovação.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting an inquisitor judge, a checklist scroll and an approval seal stamp, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r060",
+    "sheet_id": "s013",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Guardião Velado",
+    "character_desc": "Guardião Velado: o guardião que oculta os segredos do povo; manto velado e um escudo com máscara protetora.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a veiled guardian, a veiled cloak and a shield with a protective mask, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r061",
+    "sheet_id": "s013",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Paladino Bombeiro",
+    "character_desc": "Paladino Bombeiro: o paladino que apaga os incêndios da crise; sino de alarme e um extintor-cajado de água.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a firefighter paladin, an alarm bell and a water-extinguisher staff, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r062",
+    "sheet_id": "s013",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Estrategista das Ameaças",
+    "character_desc": "Estrategista das Ameaças: o estrategista que mapeia os inimigos antes do ataque; mapa de ameaças cravado de alfinetes de alerta.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a threat strategist, a threat map studded with warning pins, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r063",
+    "sheet_id": "s013",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Caçador de Bugs",
+    "character_desc": "Caçador de Bugs: o ranger que caça os insetos-pixel do sistema; rede de caça capturando um bug-inseto pixelado.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a bug-hunter ranger, a catching net snaring a pixel bug creature, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r064",
+    "sheet_id": "s013",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Invocador de Golens",
+    "character_desc": "Invocador de Golens: o invocador que cria golens de teste automáticos; golem-robô de teste ao lado e um pergaminho de scripts.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting an automaton summoner, a robotic test golem beside him and a script scroll, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r065",
+    "sheet_id": "s013",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Testador de Força",
+    "character_desc": "Testador de Força: o testador que mede o quanto o reino aguenta; medidor de pressão e um peso pesado sendo erguido.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a strength tester, a pressure gauge and a heavy load being lifted, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r066",
+    "sheet_id": "s013",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Inspetor Meticuloso",
+    "character_desc": "Inspetor Meticuloso: o inspetor que confere tudo à mão; prancheta-checklist e uma lupa de inspeção.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a meticulous inspector, a checklist clipboard and an inspection magnifier, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r067",
+    "sheet_id": "s013",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Guia dos Caminhos",
+    "character_desc": "Guia dos Caminhos: o guia que testa se todos conseguem passar; lanterna e uma venda testando rotas acessíveis.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting an accessibility guide, a lantern and a blindfold testing accessible paths, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r068",
+    "sheet_id": "s013",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Escriba-Bardo dos Manuais",
+    "character_desc": "Escriba-Bardo dos Manuais: o escriba que registra o saber em manuais; pena de escrever e um tomo-manual aberto.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a scribe bard, a writing quill and an open manual tome, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r069",
+    "sheet_id": "s013",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Bardo Arauto",
+    "character_desc": "Bardo Arauto: o bardo que reúne a multidão de aventureiros; corneta-megafone e uma multidão pequena reunida.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a rallying bard, a megaphone horn and a small gathered crowd, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r070",
+    "sheet_id": "s013",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Cartógrafo do Conteúdo",
+    "character_desc": "Cartógrafo do Conteúdo: o cartógrafo que planeja a jornada de conteúdo; mapa-roadmap de conteúdo enrolado sob o braço.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a content cartographer, a rolled content roadmap map under the arm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r071",
+    "sheet_id": "s013",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Mago Poliglota",
+    "character_desc": "Mago Poliglota: o mago que traduz o reino para todas as terras; globo terrestre flutuante e runas de tradução.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a polyglot mage, a floating globe and translation runes orbiting, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r072",
+    "sheet_id": "s013",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Artesão do Protótipo",
+    "character_desc": "Artesão do Protótipo: o artesão que lapida a joia do produto; joia-protótipo sendo lapidada com um cinzel fino.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a product artisan, a prototype gem being cut with a fine chisel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r073",
+    "sheet_id": "s013",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Pintor da Paleta",
+    "character_desc": "Pintor da Paleta: o pintor que dá cor e forma ao visual; paleta de tintas e um pincel largo.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a visual painter, a paint palette and a broad brush, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r074",
+    "sheet_id": "s013",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Titeriteiro das Ligações",
+    "character_desc": "Titeriteiro das Ligações: o titeriteiro que conecta ações e reações; marionete de botões ligados por fios de controle.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a puppeteer of interactions, a marionette of buttons linked by control strings, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r075",
+    "sheet_id": "s013",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Dançarino do Vento",
+    "character_desc": "Dançarino do Vento: o dançarino que faz tudo fluir em movimento; fitas fluidas de movimento girando ao redor do corpo.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a wind dancer, flowing motion ribbons swirling around the body, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r076",
+    "sheet_id": "s013",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Mago do Esboço",
+    "character_desc": "Mago do Esboço: o mago que dá vida ao que desenha; lápis encantado desenhando uma criatura que surge.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a sketch mage, an enchanted pencil drawing a creature that comes alive, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r077",
+    "sheet_id": "s013",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Forjador de Ícones",
+    "character_desc": "Forjador de Ícones: o forjador que cunha os tokens e sprites do reino; bigorna cunhando tokens-ícone brilhantes.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting an asset forge-crafter, an anvil minting glowing icon tokens, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r078",
+    "sheet_id": "s013",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Heraldista das Marcas",
+    "character_desc": "Heraldista das Marcas: o heraldista que cria os brasões do reino; escudo-brasão emblemático recém-pintado.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a heraldry mage, a freshly painted emblematic crest shield, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r079",
+    "sheet_id": "s013",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Bardo dos Sons",
+    "character_desc": "Bardo dos Sons: o bardo que afina cada som do reino; alaúde e sinos de afinação com ondas sonoras visíveis.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a sound-designer bard, a lute and tuning bells with visible sound waves, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r080",
+    "sheet_id": "s013",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Escultor de Golens",
+    "character_desc": "Escultor de Golens: o escultor que modela figuras em três dimensões; modelo-golem de argila e um cinzel de escultor.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a sculptor artist, a clay golem model and a sculptor's chisel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r081",
+    "sheet_id": "s013",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Mestre do Calabouço",
+    "character_desc": "Mestre do Calabouço: o mestre que define as regras do jogo; dados poliédricos e um livro de regras aberto.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a dungeon master, polyhedral dice and an open rulebook, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r082",
+    "sheet_id": "s013",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Construtor de Mundos",
+    "character_desc": "Construtor de Mundos: o construtor que molda os cenários da aventura; mapa de terreno e blocos de cenário empilhados.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a world-builder, a terrain map and stacked level blocks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r083",
+    "sheet_id": "s013",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Contador de Histórias",
+    "character_desc": "Contador de Histórias: o contador que ramifica as tramas do reino; livro de história com galhos de enredo ramificados.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a storyteller mage, a story book with branching plot limbs glowing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r084",
+    "sheet_id": "s013",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Feiticeiro dos Mundos",
+    "character_desc": "Feiticeiro dos Mundos: o feiticeiro que codifica mundos jogáveis num orbe; orbe com um mini-mundo jogável girando dentro.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a game-crafting wizard, an orb with a tiny playable world spinning inside, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r085",
+    "sheet_id": "s013",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Mago da Luz",
+    "character_desc": "Mago da Luz: o mago que dobra prismas e sombras; prisma refratando um arco-íris de luz nas mãos.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a light-and-shader mage, a prism refracting a rainbow of light in the hands, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r086",
+    "sheet_id": "s013",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Gnomo dos Circuitos",
+    "character_desc": "Gnomo dos Circuitos: o gnomo que trabalha em placas minúsculas; placa de circuito minúscula e uma varinha de solda.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a tinker gnome, a tiny circuit board and a soldering wand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r087",
+    "sheet_id": "s013",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Artífice do Núcleo",
+    "character_desc": "Artífice do Núcleo: o artífice que grava runas no coração da máquina; chip-núcleo brilhante e runas de baixo nível gravadas.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a low-level artificer, a glowing core chip and engraved low-level runes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r088",
+    "sheet_id": "s013",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Mestre dos Sensores",
+    "character_desc": "Mestre dos Sensores: o mestre que conecta pequenas criaturas-sensor; rede de pequenos sprites-sensor conectados por fios.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a sensor beastmaster, a network of small sensor sprites linked by wires, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r089",
+    "sheet_id": "s013",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Forjador de Correntes",
+    "character_desc": "Forjador de Correntes: o forjador que encadeia blocos dourados imutáveis; corrente de blocos dourados encadeados na mão.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a chain-forger, a chain of linked golden blocks in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r090",
+    "sheet_id": "s013",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Magistrado das Correntes",
+    "character_desc": "Magistrado das Correntes: o magistrado que audita cada elo do contrato; lupa examinando um pergaminho acorrentado.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a chain-auditing magistrate, a magnifier examining a chained contract scroll, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r091",
+    "sheet_id": "s013",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Mago dos Sonhos",
+    "character_desc": "Mago dos Sonhos: o mago que projeta portais sobre a realidade; visor-óculos projetando um portal holográfico.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a dream mage, a visor goggles projecting a holographic portal, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r092",
+    "sheet_id": "s013",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Piloto do Autômato",
+    "character_desc": "Piloto do Autômato: o piloto que comanda um companheiro robótico; grande robô-companheiro ao lado e um controle rúnico.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a mech pilot tamer, a large robotic companion beside him and a rune controller, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r093",
+    "sheet_id": "s013",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Jardineiro do Crescimento",
+    "character_desc": "Jardineiro do Crescimento: o jardineiro que faz o gráfico crescer como um pé de feijão; pé-de-feijão gigante em forma de gráfico ascendente.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a growth gardener mage, a giant beanstalk shaped like a rising growth chart, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r094",
+    "sheet_id": "s013",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Ranger da Trilha",
+    "character_desc": "Ranger da Trilha: o ranger que escala os degraus do ranking; bússola e uma escada de ranking sendo escalada.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a tracker ranger, a compass and a rank ladder being climbed, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r095",
+    "sheet_id": "s013",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Alquimista do Funil",
+    "character_desc": "Alquimista do Funil: o alquimista que mistura poções de conversão; funil alquímico com poções escorrendo em camadas.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a marketing alchemist, an alchemical funnel with potions dripping in tiers, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r096",
+    "sheet_id": "s013",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Cavaleiro Solucionador",
+    "character_desc": "Cavaleiro Solucionador: o cavaleiro que monta a solução sob medida; cinto de ferramentas modulares encaixáveis.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a solutions knight, a belt of modular snap-together tools, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r097",
+    "sheet_id": "s013",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Clérigo Curandeiro",
+    "character_desc": "Clérigo Curandeiro: o clérigo que cura os aflitos do reino; cajado de cura com cruz e um fone de atendimento.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a healer cleric, a healing staff with a cross and a support headset, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r098",
+    "sheet_id": "s013",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Mercador Carismático",
+    "character_desc": "Mercador Carismático: o mercador-cavaleiro que demonstra maravilhas; orbe de demonstração numa mão e uma moeda de ouro na outra.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a charismatic merchant-knight, a demo orb in one hand and a gold coin in the other, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r099",
+    "sheet_id": "s013",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Tesoureiro do Ouro",
+    "character_desc": "Tesoureiro do Ouro: o tesoureiro anão que pesa cada moeda; balança de ouro e um livro-razão de contas.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a treasurer dwarf, a gold scale and a coin ledger book, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s013-r100",
+    "sheet_id": "s013",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Paladino da Balança",
+    "character_desc": "Paladino da Balança: o paladino-juiz que pesa a justiça do reino; balança da justiça numa mão e um livro de leis na outra.",
+    "nano_prompt": "16-bit SNES-era pixel art fantasy RPG class sprite, full-body front-facing hero in a heroic idle stance, chunky readable pixels, limited retro palette, crisp dithering, bold outlines, classic JRPG character design depicting a judge paladin, the scales of justice in one hand and a lawbook in the other, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s069-r001",
+    "sheet_id": "s069",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Structium",
+    "character_desc": "Elemento-herói da arquitetura, uma partícula construtora que planeja tudo. Segura um pergaminho-blueprint brilhante e um modelo molecular de um prédio flutuando ao lado, com capacete de obra cravejado de átomo.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Structium', wearing an atom-crested hard hat, holding a glowing blueprint scroll and a floating molecular model shaped like a building, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r002",
+    "sheet_id": "s069",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Leadon",
+    "character_desc": "Elemento-líder técnico que rege o time como uma orquestra de átomos. Empunha uma batuta-chave-inglesa e um cacho de mini-átomos orbitando em formação, com distintivo de capitão no peito.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Leadon', holding a wrench-shaped conductor baton, a cluster of tiny orbiting team-atoms around it, a captain star badge on its chest, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r003",
+    "sheet_id": "s069",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Staffium",
+    "character_desc": "Elemento-herói veterano e sábio, o pilar do time. Apoia-se num cajado alto terminado numa chave-inglesa, barba curta grisalha e um anel de elétrons de sabedoria girando ao redor.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Staffium', a wise short grey beard, leaning on a tall staff topped with a wrench, a glowing electron ring orbiting its head, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r004",
+    "sheet_id": "s069",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Principium",
+    "character_desc": "Elemento-herói de elite, o mais nobre da tabela. Usa uma coroa feita de anel de elétrons dourado e exibe um medalhão-engrenagem de ouro no peito, postura majestosa.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Principium', wearing a golden electron-ring crown and a large golden gear medallion on its chest, regal pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r005",
+    "sheet_id": "s069",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Managium",
+    "character_desc": "Elemento gestor que cuida da manada de átomos-desenvolvedores. Usa headset, segura uma prancheta com coração e guia pequenos átomos-sprites obedientes ao seu redor.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Managium', wearing a headset, holding a clipboard with a heart icon, small friendly atom-sprites gathered around its feet, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r006",
+    "sheet_id": "s069",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Producton",
+    "character_desc": "Elemento-herói do produto, guia da jornada. Segura um mapa-roadmap enrolado e uma bússola, com um ícone de caixa-presente-produto brilhando ao lado.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Producton', holding a rolled roadmap map and a compass, a glowing gift-box product icon floating beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r007",
+    "sheet_id": "s069",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Ownium",
+    "character_desc": "Elemento dono do backlog, prioriza como um rei. Carrega uma pilha de cartões-tarefa, usa uma pequena coroa de prioridade e segura um checklist marcado.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Ownium', wearing a small priority crown, holding a stack of task cards and a checklist with checkmarks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r008",
+    "sheet_id": "s069",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Programma",
+    "character_desc": "Elemento-herói que faz malabarismo com vários programas. Tem múltiplos anéis orbitais girando ao redor e um escudo em formato de gráfico de Gantt.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Programma', juggling several orbital rings, holding a Gantt-chart shaped shield, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r009",
+    "sheet_id": "s069",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Projex",
+    "character_desc": "Elemento-herói do projeto, mestre do prazo. Segura uma faixa com gráfico de Gantt, um cronômetro numa mão e uma prancheta na outra.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Projex', holding a Gantt-chart banner in one hand and a stopwatch and clipboard in the other, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r010",
+    "sheet_id": "s069",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Scrumium",
+    "character_desc": "Elemento-herói ágil, coração de rugby. Tem núcleo em formato de bola oval de rugby, apito no pescoço e um quadro de sticky-notes sob o braço.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Scrumium', a rugby-ball shaped nucleus core, a whistle around its neck, holding a small sticky-note board, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r011",
+    "sheet_id": "s069",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Serveron",
+    "character_desc": "Elemento-herói do backend, motor invisível. Carrega uma mochila-rack de servidores, segura um cilindro-banco-de-dados e uma chave-inglesa.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Serveron', wearing a server-rack backpack, holding a database cylinder and a wrench, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r012",
+    "sheet_id": "s069",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Apion",
+    "character_desc": "Elemento-herói das APIs, o grande conector. Segura conectores plug-and-socket que se encaixam e um mapa de endpoints flutuando.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Apion', holding interlocking plug-and-socket connectors, a floating endpoint map beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r013",
+    "sheet_id": "s069",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Micron",
+    "character_desc": "Elemento-herói dos microsserviços, um enxame coordenado. Rodeado por bolhas-serviço minúsculas ligadas e segurando caixas-container empilhadas.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Micron', surrounded by tiny linked service-bubbles, holding small stacked container boxes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r014",
+    "sheet_id": "s069",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Pipium",
+    "character_desc": "Elemento-herói do pipeline, canaliza o fluxo. Segura segmentos de cano por onde escorre líquido-dado brilhante e gira uma válvula.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Pipium', holding pipe segments with glowing data-liquid flowing through, turning a valve, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r015",
+    "sheet_id": "s069",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Datalon",
+    "character_desc": "Elemento-herói da engenharia de dados. Carrega barris de dados e um grande funil ETL, com canos conectando as fontes.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Datalon', carrying data barrels and a big ETL funnel, connecting pipes around it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r016",
+    "sheet_id": "s069",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Baseium",
+    "character_desc": "Elemento guardião do banco. Tem corpo-escudo em formato de cilindro-banco-de-dados, segura um molho de chaves e fichas-índice.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Baseium', a database-cylinder shaped shield body, holding a key ring and index cards, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r017",
+    "sheet_id": "s069",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Sequelon",
+    "character_desc": "Elemento-herói das queries. Segura um pergaminho-query e uma lupa, com um diagrama de JOIN flutuando ao lado.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Sequelon', holding a query scroll and a magnifying glass, a JOIN diagram floating beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r018",
+    "sheet_id": "s069",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Cachion",
+    "character_desc": "Elemento-herói do cache, veloz como um raio. Segura uma ampulheta relâmpago e usa um medalhão-chip de memória, com flocos quente-e-frio ao redor.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Cachion', holding a lightning-fast hourglass, wearing a memory-chip locket, hot-and-cold snowflake sparks around it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r019",
+    "sheet_id": "s069",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Queulium",
+    "character_desc": "Elemento-herói das filas de mensagens. Opera uma esteira transportadora de envelopes-mensagem numerados por senhas.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Queulium', operating a conveyor belt of numbered envelope-messages with ticket tags, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r020",
+    "sheet_id": "s069",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Searchon",
+    "character_desc": "Elemento-herói da busca. Segura uma lupa gigante e um pergaminho de lista ranqueada, com uma árvore de índice ao lado.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Searchon', holding a giant magnifying glass and a ranked-list scroll, an index tree beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r021",
+    "sheet_id": "s069",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Fronton",
+    "character_desc": "Elemento-herói do frontend. Empunha um escudo em formato de janela-de-navegador e segura um pincel que também é caneta de código.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Fronton', holding a browser-window shaped shield and a paintbrush-code-pen, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r022",
+    "sheet_id": "s069",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Uion",
+    "character_desc": "Elemento-herói da UI, construtor de widgets. Segura botões e sliders flutuantes e carrega uma grade de componentes.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Uion', holding floating button and slider widgets, a component grid panel beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r023",
+    "sheet_id": "s069",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Uxenon",
+    "character_desc": "Elemento-herói da experiência. Segura um mapa de jornada do usuário e um bloco de wireframe, com um coração de empatia brilhando.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Uxenon', holding a user-journey map and a wireframe pad, a glowing empathy heart on its chest, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r024",
+    "sheet_id": "s069",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Systemium",
+    "character_desc": "Elemento-herói do design system. Carrega swatches de tokens e uma biblioteca de componentes tipo blocos de montar.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Systemium', holding color token swatches and a library of Lego-like component blocks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r025",
+    "sheet_id": "s069",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Accesson",
+    "character_desc": "Elemento-herói da acessibilidade. Exibe o símbolo universal de acesso no peito e segura placas com pontos de braille e ícones de olho e ouvido.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Accesson', a universal-access wheel symbol on its chest, holding braille-dot and eye-and-ear icon plaques, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r026",
+    "sheet_id": "s069",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Perfium",
+    "character_desc": "Elemento-herói da performance web, leve e veloz. Segura um velocímetro e um cronômetro, com um raio e uma pena flutuando.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Perfium', holding a speedometer and a stopwatch, a lightning bolt and a feather floating around it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r027",
+    "sheet_id": "s069",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Stylon",
+    "character_desc": "Elemento-herói do CSS. Segura uma paleta de tinta e uma varinha-gradiente, com camadas do box-model empilhadas ao lado.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Stylon', holding a paint palette and a gradient wand, stacked box-model layers beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r028",
+    "sheet_id": "s069",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Motium",
+    "character_desc": "Elemento-herói da animação. Deixa trilhas de movimento no ar e segura diamantes-keyframe, com uma bolinha quicando.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Motium', trailing motion streaks, holding keyframe diamonds, a bouncing ball beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r029",
+    "sheet_id": "s069",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Mobilon",
+    "character_desc": "Elemento-herói do mobile. Empunha um escudo em formato de smartphone e solta faíscas de gestos de toque.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Mobilon', holding a smartphone-shaped shield with touch-gesture sparks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r030",
+    "sheet_id": "s069",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Applium",
+    "character_desc": "Elemento-herói do iOS. Segura um telefone de cantos arredondados, com uma crista de folha-fruta e um passarinho veloz ao lado.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Applium', holding a rounded-rectangle phone, a leaf-fruit crest badge and a small swift bird beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r031",
+    "sheet_id": "s069",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Droidium",
+    "character_desc": "Elemento-herói do Android. Usa um capacete robótico verde e segura um telefone e uma engrenagem.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Droidium', wearing a green robot-style helmet, holding a phone and a gear, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r032",
+    "sheet_id": "s069",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Nativon",
+    "character_desc": "Elemento-herói do React Native. Tem um anel-átomo orbitando e segura um telefone com um ícone de ponte conectando plataformas.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Nativon', an orbiting atom ring, holding a phone with a bridge icon linking two platforms, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r033",
+    "sheet_id": "s069",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Flutterite",
+    "character_desc": "Elemento-herói do Flutter. Tem asas de borboleta e segura blocos-widget e uma seta-dardo.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Flutterite', small butterfly wings, holding widget blocks and a dart arrow, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r034",
+    "sheet_id": "s069",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Sciento",
+    "character_desc": "Elemento-herói da ciência de dados. Usa óculos, segura um frasco-de-laboratório cheio de dados e um gráfico de dispersão.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Sciento', wearing round glasses, holding a lab flask full of data points and a scatter-plot chart, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r035",
+    "sheet_id": "s069",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Machinon",
+    "character_desc": "Elemento-herói do ML. Tem um cérebro-rede-neural exposto no topo, um braço robótico e uma caixa-modelo.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Machinon', a glowing neural-net brain on top, a robotic arm and a model box, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r036",
+    "sheet_id": "s069",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Opsium",
+    "character_desc": "Elemento-herói do MLOps. Envolto por setas de ciclo em loop ao redor de um modelo, segura um foguete-deploy e uma chave-inglesa.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Opsium', encircled by looping cycle arrows around a model, holding a deploy rocket and a wrench, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r037",
+    "sheet_id": "s069",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Researchon",
+    "character_desc": "Elemento-herói pesquisador de IA. Segura um pergaminho-paper e uma lâmpada-cérebro, com um telescópio ao lado.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Researchon', holding a research paper scroll and a brain-lightbulb, a small telescope beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r038",
+    "sheet_id": "s069",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Promptium",
+    "character_desc": "Elemento-herói dos prompts. Usa cartola de mago e agita uma varinha-balão-de-fala, com cartas-token flutuando.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Promptium', wearing a wizard hat, waving a speech-bubble wand, floating token cards around it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r039",
+    "sheet_id": "s069",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Linguon",
+    "character_desc": "Elemento-herói de NLP. Cercado por ondas de fala e blocos de alfabeto, segura um texto tokenizado.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Linguon', surrounded by speech waveforms and alphabet blocks, holding a tokenized-text strip, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r040",
+    "sheet_id": "s069",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Visium",
+    "character_desc": "Elemento-herói da visão computacional. Tem um olho-câmera no peito e usa óculos com caixas-delimitadoras.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Visium', a camera-eye on its chest, wearing goggles with bounding-box frames, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r041",
+    "sheet_id": "s069",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Analon",
+    "character_desc": "Elemento-herói da análise de dados. Segura uma prancheta com gráfico de barras, uma lupa e uma calculadora.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Analon', holding a bar-chart clipboard, a magnifying glass and a calculator, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r042",
+    "sheet_id": "s069",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Bion",
+    "character_desc": "Elemento-herói de BI. Empunha um escudo-dashboard com medidores e um gráfico de pizza flutuando.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Bion', holding a dashboard shield with gauges, a floating pie chart beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r043",
+    "sheet_id": "s069",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Analytica",
+    "character_desc": "Elemento-herói da engenharia de analytics. Segura camadas de modelo e canos de transformação ligados a um gráfico.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Analytica', holding stacked model layers and transform pipes connected to a chart, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r044",
+    "sheet_id": "s069",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Vizion",
+    "character_desc": "Elemento-herói da visualização de dados. Usa boina de artista e segura uma paleta de gráficos coloridos e uma tela com um grafo.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Vizion', wearing an artist beret, holding a colorful chart palette and a canvas with a graph, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r045",
+    "sheet_id": "s069",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Devopsium",
+    "character_desc": "Elemento-herói de DevOps. Usa um cinto em formato de laço-infinito e segura uma chave-inglesa e um foguete, com caixas-container ao lado.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Devopsium', wearing an infinity-loop belt, holding a wrench and a rocket, container boxes beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r046",
+    "sheet_id": "s069",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Reliabon",
+    "character_desc": "Elemento-herói do SRE. Empunha um escudo-uptime, tem um pager preso ao cinto e segura um extintor de incêndio.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Reliabon', holding an uptime shield, a pager on its belt and a fire extinguisher, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r047",
+    "sheet_id": "s069",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Platon",
+    "character_desc": "Elemento-herói da plataforma. Fica sobre uma laje-plataforma em camadas e segura uma caixa de ferramentas self-service.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Platon', standing on a layered platform slab, holding a self-service toolbox, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r048",
+    "sheet_id": "s069",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Cloudium",
+    "character_desc": "Elemento-herói do cloud. Usa uma capa em formato de nuvem e segura um blueprint com servidores orbitando ao redor.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Cloudium', wearing a cloud-shaped cape, holding a blueprint with servers orbiting around it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r049",
+    "sheet_id": "s069",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Kubion",
+    "character_desc": "Elemento-herói do Kubernetes. Segura um leme de navio e usa um escudo hexagonal, com um cluster de containers atrás.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Kubion', holding a ship-helm wheel, wearing a hexagon shield, a container cluster behind it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r050",
+    "sheet_id": "s069",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Netron",
+    "character_desc": "Elemento-herói de redes. Carrega um roteador-nó, cabos enrolados no braço e emite ondas de sinal.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Netron', carrying a router node, coiled cables on its arm, emitting signal waves, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r051",
+    "sheet_id": "s069",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Sysium",
+    "character_desc": "Elemento-herói sysadmin. Empunha um escudo-terminal, um molho de chaves e uma chave de fenda.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Sysium', holding a terminal-screen shield, a key ring and a screwdriver, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r052",
+    "sheet_id": "s069",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Releason",
+    "character_desc": "Elemento-herói do release. Segura um foguete de lançamento e uma faixa com tag de versão, além de um checklist.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Releason', holding a launching rocket and a version-tag banner, a checklist beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r053",
+    "sheet_id": "s069",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Buildium",
+    "character_desc": "Elemento-herói do build. Empunha um martelo e uma engrenagem, com blocos-tijolo saindo de uma esteira.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Buildium', holding a hammer and a gear, brick blocks coming off an assembly conveyor, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r054",
+    "sheet_id": "s069",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Cicdon",
+    "character_desc": "Elemento-herói de CI/CD. Opera uma esteira em loop cheia de checkmarks passando por portões-semáforo.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Cicdon', operating a looping conveyor of checkmarks passing through traffic-light gates, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r055",
+    "sheet_id": "s069",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Securion",
+    "character_desc": "Elemento-herói da segurança. Tem corpo-escudo com crista de cadeado e empunha uma espada protetora.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Securion', a shield-shaped body with a padlock crest, wielding a protective sword, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r056",
+    "sheet_id": "s069",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Penton",
+    "character_desc": "Elemento-herói pentester. Usa capuz-capa, segura um kit de gazua e uma rede de caçar bugs.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Penton', wearing a hood-cape, holding a lockpick set and a bug-catching net, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r057",
+    "sheet_id": "s069",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Appsecon",
+    "character_desc": "Elemento-herói de AppSec. Segura uma janela-de-app protegida por escudo, com código e uma lupa.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Appsecon', holding an app-window guarded by a shield, code lines and a magnifying glass, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r058",
+    "sheet_id": "s069",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cryptium",
+    "character_desc": "Elemento-herói criptógrafo. Gira uma roda-de-cifra, segura uma chave e um cadeado, com engrenagens-enigma ao redor.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Cryptium', turning a cipher wheel, holding a key and a padlock, enigma gears around it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r059",
+    "sheet_id": "s069",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Complium",
+    "character_desc": "Elemento-herói de compliance. Segura um pergaminho-checklist, um martelo-de-juiz e um carimbo de certificado.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Complium', holding a checklist scroll, a judge's gavel and a certified stamp, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r060",
+    "sheet_id": "s069",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Privon",
+    "character_desc": "Elemento-herói da privacidade. Usa uma máscara sobre um fluxo de dados e segura um escudo com ícone de olho tachado e um cadeado.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Privon', wearing a mask over a data stream, holding a shield with a crossed-out eye icon and a lock, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r061",
+    "sheet_id": "s069",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Incidon",
+    "character_desc": "Elemento-herói da resposta a incidentes. Usa capacete de bombeiro, toca um sino de alarme e segura um extintor.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Incidon', wearing a firefighter helmet, ringing an alarm bell, holding a fire extinguisher, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r062",
+    "sheet_id": "s069",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Threatium",
+    "character_desc": "Elemento-herói do threat modeling. Debruça-se sobre um tabuleiro-mapa com uma lupa e uma árvore-de-ataque diagramada.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Threatium', leaning over a chessboard-map with a magnifying glass and a drawn attack-tree diagram, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r063",
+    "sheet_id": "s069",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Qualion",
+    "character_desc": "Elemento-herói do QA. Segura um checklist com lupa, uma rede de caçar bugs e um carimbo de aprovado.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Qualion', holding a checklist with a magnifier, a bug-catching net and an approved stamp, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r064",
+    "sheet_id": "s069",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Sdetium",
+    "character_desc": "Elemento-herói do SDET, automatiza testes. Comanda um braço robótico que roda scripts com checkmarks e engrenagens.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Sdetium', commanding a robotic arm running test scripts with checkmarks and gears, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r065",
+    "sheet_id": "s069",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Loadium",
+    "character_desc": "Elemento-herói do teste de performance. Levanta halteres-de-carga e segura um cronômetro, com um medidor de velocidade.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Loadium', lifting load-weight dumbbells, holding a stopwatch, a speed gauge beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r066",
+    "sheet_id": "s069",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Manualon",
+    "character_desc": "Elemento-herói do teste manual. Segura uma prancheta-checklist, uma lupa e um cursor-mão apontador.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Manualon', holding a checklist clipboard, a magnifier and a pointing hand-cursor, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r067",
+    "sheet_id": "s069",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Accestium",
+    "character_desc": "Elemento-herói do teste de acessibilidade. Segura um checklist com símbolo de acesso e usa headset de leitor de tela.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Accestium', holding a checklist with an access-wheel symbol, wearing a screen-reader headset, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r068",
+    "sheet_id": "s069",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Docsium",
+    "character_desc": "Elemento-herói da escrita técnica. Segura uma pena de escrever e um livro aberto, com um pergaminho de documentação.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Docsium', holding a quill pen and an open book, a documentation scroll beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r069",
+    "sheet_id": "s069",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Advocon",
+    "character_desc": "Elemento-herói do dev advocate. Empunha um megafone e um microfone de palco, com um coração unido a um símbolo de código.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Advocon', holding a megaphone and a stage microphone, a heart-plus-code icon glowing on its chest, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r070",
+    "sheet_id": "s069",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Contenton",
+    "character_desc": "Elemento-herói da estratégia de conteúdo. Segura um calendário-editorial e uma pena, com uma peça de xadrez de estratégia.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Contenton', holding a content calendar and a quill, a strategy chess piece beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r071",
+    "sheet_id": "s069",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Localon",
+    "character_desc": "Elemento-herói da localização. Segura um globo com bandeirinhas e balões de fala de tradução em vários idiomas.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Localon', holding a globe with little flags and translation speech bubbles in multiple scripts, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r072",
+    "sheet_id": "s069",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Designium",
+    "character_desc": "Elemento-herói do design de produto. Segura um lápis e um frame de protótipo, com sticky-notes coladas.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Designium', holding a pencil and a prototype frame, sticky notes attached, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r073",
+    "sheet_id": "s069",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Visualon",
+    "character_desc": "Elemento-herói do design visual. Segura uma paleta de tinta e uma roda de cores, com um pincel na outra mão.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Visualon', holding a paint palette and a color wheel, a brush in its other hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r074",
+    "sheet_id": "s069",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Interon",
+    "character_desc": "Elemento-herói do design de interação. Cercado por setas de gesto e ondulações de toque, apontando um fluxo de setas.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Interon', surrounded by gesture arrows and tap-ripples, pointing along a flow of arrows, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r075",
+    "sheet_id": "s069",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Motionium",
+    "character_desc": "Elemento-herói do motion design. Deixa arcos de movimento e segura uma tira de filme e uma curva de easing.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Motionium', trailing motion arcs, holding a film strip and an easing-curve card, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r076",
+    "sheet_id": "s069",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Illustron",
+    "character_desc": "Elemento-herói ilustrador. Empunha um pincel grande e um pote de tinta, com um caderno de esboços.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Illustron', holding a big paintbrush and an ink pot, a sketchbook beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r077",
+    "sheet_id": "s069",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Assetium",
+    "character_desc": "Elemento-herói dos assets. Segura uma sprite-sheet em grade com ícones minúsculos e uma caixa de export.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Assetium', holding a grid sprite-sheet with tiny icons and an export box, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r078",
+    "sheet_id": "s069",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Brandon",
+    "character_desc": "Elemento-herói do branding. Empunha um escudo-logotipo e cartelas de style-guide com swatches.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Brandon', holding a logo-badge shield and style-guide swatch cards, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r079",
+    "sheet_id": "s069",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Sonon",
+    "character_desc": "Elemento-herói do som. Usa fones de ouvido, emite anéis de onda sonora e segura um diapasão.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Sonon', wearing headphones, emitting sound-wave rings, holding a tuning fork, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r080",
+    "sheet_id": "s069",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Tridon",
+    "character_desc": "Elemento-herói do 3D. Segura uma esfera wireframe e uma ferramenta de escultura, com um cubo 3D flutuando.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Tridon', holding a wireframe sphere and a sculpting tool, a floating 3D cube, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r081",
+    "sheet_id": "s069",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Ludion",
+    "character_desc": "Elemento-herói do game design. Segura dados e um controle de videogame, com um livro de regras.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Ludion', holding dice and a game controller, a rulebook beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r082",
+    "sheet_id": "s069",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Levelium",
+    "character_desc": "Elemento-herói do level design. Segura uma grade de tile-map com uma bandeira e blocos-plataforma.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Levelium', holding a tile-map grid with a checkered flag and platform blocks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r083",
+    "sheet_id": "s069",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Narron",
+    "character_desc": "Elemento-herói do design narrativo. Segura um pergaminho-história e uma pena, com uma árvore de diálogo ramificada.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Narron', holding a story scroll and a quill, a branching dialogue tree beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r084",
+    "sheet_id": "s069",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Gamium",
+    "character_desc": "Elemento-herói do game dev. Empunha um controle de videogame e um joystick, com uma bolinha de física e um sprite.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Gamium', holding a game controller and a joystick, a physics ball and a pixel sprite around it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r085",
+    "sheet_id": "s069",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Shadron",
+    "character_desc": "Elemento-herói de shaders. Segura uma esfera-shader com raios de luz e um chip-GPU, com um prisma refratando.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Shadron', holding a shader-sphere with light rays and a GPU chip, a light-refracting prism beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r086",
+    "sheet_id": "s069",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Embedon",
+    "character_desc": "Elemento-herói de embarcados. Segura uma placa-microcontrolador e um ferro de solda, com um chip minúsculo.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Embedon', holding a microcontroller board and a soldering iron, a tiny chip beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r087",
+    "sheet_id": "s069",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Firmium",
+    "character_desc": "Elemento-herói do firmware. Segura um chip com engrenagem dentro e um cartucho-ROM, girando uma chave de fenda.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Firmium', holding a chip with a gear inside and a ROM cartridge, turning a screwdriver, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r088",
+    "sheet_id": "s069",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Ioton",
+    "character_desc": "Elemento-herói do IoT. Cercado por dispositivos-sensor orbitando, emite ondas wifi e segura gadgets minúsculos.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Ioton', surrounded by orbiting sensor devices, emitting wifi waves, holding tiny gadgets, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r089",
+    "sheet_id": "s069",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Blockon",
+    "character_desc": "Elemento-herói do blockchain. Segura uma corrente de blocos brilhantes e um cubo-ledger, com uma chave.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Blockon', holding a chain of glowing blocks and a ledger cube, a key beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r090",
+    "sheet_id": "s069",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Contractium",
+    "character_desc": "Elemento-herói do audit de smart contracts. Segura um pergaminho-contrato com lupa e um escudo com corrente e checkmark.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Contractium', holding a contract scroll with a magnifier and a shield with a chain and a checkmark, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r091",
+    "sheet_id": "s069",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Vron",
+    "character_desc": "Elemento-herói de AR/VR. Usa um visor de headset VR e segura dois controles, com um cubo holográfico flutuando.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Vron', wearing a VR headset visor, holding two motion controllers, a floating holographic cube, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r092",
+    "sheet_id": "s069",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Robion",
+    "character_desc": "Elemento-herói da robótica. Ao lado de um robozinho amigo, segura uma chave-inglesa e uma engrenagem, com um braço de circuito.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Robion', beside a small friendly robot buddy, holding a wrench and a gear, a circuit-arm attachment, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r093",
+    "sheet_id": "s069",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Growthium",
+    "character_desc": "Elemento-herói do growth. Segura uma seta de gráfico subindo e um funil, com um foguete-broto decolando.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Growthium', holding a rising arrow chart and a funnel, a sprouting rocket taking off beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r094",
+    "sheet_id": "s069",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Seon",
+    "character_desc": "Elemento-herói do SEO. Segura uma lupa com seta de ranking e etiquetas de palavra-chave, com uma aranha-crawler.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Seon', holding a magnifier with a ranking arrow and keyword tags, a small crawler spider beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r095",
+    "sheet_id": "s069",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Markon",
+    "character_desc": "Elemento-herói do martech. Segura um funil com engrenagem e um megafone-email, envolto por um loop de automação.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Markon', holding a funnel with a gear and an email-megaphone, wrapped by an automation loop, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r096",
+    "sheet_id": "s069",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Solutium",
+    "character_desc": "Elemento-herói de solutions. Encaixa uma peça de quebra-cabeça, segura um kit de ferramentas e uma tela de demo, com aperto de mão.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Solutium', fitting a puzzle piece, holding a toolkit and a demo screen, a handshake icon beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r097",
+    "sheet_id": "s069",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Supporton",
+    "character_desc": "Elemento-herói do suporte. Usa headset, segura uma boia salva-vidas e uma chave-inglesa junto a um balão de chat.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Supporton', wearing a headset, holding a life-ring and a wrench, a chat bubble beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r098",
+    "sheet_id": "s069",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Salion",
+    "character_desc": "Elemento-herói do sales engineering. Segura slides de demo e uma maleta, com aperto de mão e um gráfico subindo.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Salion', holding demo slides and a briefcase, a handshake and a rising chart beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r099",
+    "sheet_id": "s069",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Finium",
+    "character_desc": "Elemento-herói do FinOps. Segura uma moeda sobre uma nuvem e uma calculadora, com um medidor de custo.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Finium', holding a coin over a cloud and a calculator, a cost gauge beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s069-r100",
+    "sheet_id": "s069",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Legalon",
+    "character_desc": "Elemento-herói jurídico. Empunha um martelo-de-juiz e uma balança da justiça, com um pergaminho-contrato.",
+    "nano_prompt": "Pop-science cartoon mascot illustration of a single heroic periodic-table element character, full-body chibi hero with a glossy rounded element-tile shaped torso, bold clean black outlines, bright flat colors with soft cel shading, big friendly eyes and a confident smile, tiny white-gloved hands, small superhero cape, glossy educational-poster style, standing centered hero pose; themed as 'Legalon', holding a judge's gavel and the scales of justice, a contract scroll beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

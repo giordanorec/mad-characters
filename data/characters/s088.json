@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s088-r001",
+    "sheet_id": "s088",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Bexiga Mestra",
+    "character_desc": "Balão-mascote de mylar dourado que representa o Arquiteto de Solução, segurando uma planta arquitetônica enrolada e uma régua metálica flutuante.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a rolled blueprint scroll and a shiny metallic ruler, tiny hard-hat balloon topper, confident smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r002",
+    "sheet_id": "s088",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Líder Bojudo",
+    "character_desc": "Balão-mascote prateado do Tech Lead, com um pequeno megafone inflável e um crachá de estrela colado no corpo brilhante.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding an inflatable megaphone, a star badge stuck on its glossy chest, guiding gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r003",
+    "sheet_id": "s088",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Estrela Staff",
+    "character_desc": "Balão-mascote de mylar estrelado do Staff Engineer, coberto de estrelinhas foil e segurando um mapa técnico dobrado.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, star-shaped foil accents over the body, holding a folded technical roadmap, calm assured face, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r004",
+    "sheet_id": "s088",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Principal Puff",
+    "character_desc": "Balão-mascote grande e imponente do Principal Engineer, com uma coroa inflável discreta e um compasso metálico.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, small inflatable crown topper, holding a metallic drafting compass, dignified expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r005",
+    "sheet_id": "s088",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Gerente Gás",
+    "character_desc": "Balão-mascote do Engineering Manager, segurando uma prancheta inflável e um punhado de balõezinhos amarrados como sua equipe.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding an inflatable clipboard and a bunch of tiny tethered balloons like a team, warm smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r006",
+    "sheet_id": "s088",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Produto Pop",
+    "character_desc": "Balão-mascote colorido do Product Manager, equilibrando um post-it gigante foil e uma lâmpada inflável de ideia.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, balancing an oversized foil sticky-note and an inflatable lightbulb, curious eager face, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r007",
+    "sheet_id": "s088",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Dono da Bola",
+    "character_desc": "Balão-mascote do Product Owner, abraçando um backlog em forma de pilha de cartões foil priorizados.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, hugging a stack of prioritized foil index cards, decisive pointing gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r008",
+    "sheet_id": "s088",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Programa Prateado",
+    "character_desc": "Balão-mascote do Program Manager, com vários fios coloridos conectando pequenos balões-projeto ao seu corpo.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, multiple colored strings linking small project balloons to its body, coordinating pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r009",
+    "sheet_id": "s088",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Crono Balão",
+    "character_desc": "Balão-mascote do Project Manager, segurando um cronograma de Gantt foil e um relógio inflável.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil Gantt-chart banner and an inflatable clock, organized cheerful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r010",
+    "sheet_id": "s088",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Scrum Sopro",
+    "character_desc": "Balão-mascote do Scrum Master, com um quadro kanban inflável e post-its foil flutuando ao redor.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding an inflatable kanban board with floating foil sticky notes, facilitating gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r011",
+    "sheet_id": "s088",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Bexiga do Back",
+    "character_desc": "Balão-mascote do Backend Developer, carregando engrenagens foil e um pequeno servidor inflável nas mãos bojudas.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding shiny foil gears and a tiny inflatable server rack, focused smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r012",
+    "sheet_id": "s088",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "API Airy",
+    "character_desc": "Balão-mascote do API Designer, segurando plugues e conectores foil que se encaixam como endpoints.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding interlocking foil plugs and connector sockets, tidy composed face, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r013",
+    "sheet_id": "s088",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Micro Balão",
+    "character_desc": "Balão-mascote do Microservices Engineer, formado por vários mini-balões conectados por tubinhos brilhantes.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, body made of several linked mini balloons joined by shiny tubes, modular playful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r014",
+    "sheet_id": "s088",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Duto Dourado",
+    "character_desc": "Balão-mascote do Pipeline Developer, com um tubo foil transportando bolinhas de dados brilhantes.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil pipe channeling shiny data spheres through it, industrious smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r015",
+    "sheet_id": "s088",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Engenho de Dados",
+    "character_desc": "Balão-mascote do Data Engineer, carregando baldes foil transbordando de cubos de dados reflexivos.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, carrying foil buckets overflowing with reflective data cubes, sturdy stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r016",
+    "sheet_id": "s088",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "DBA Bojudo",
+    "character_desc": "Balão-mascote do Database Administrator, abraçando cilindros de banco de dados infláveis empilhados.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, hugging stacked inflatable database cylinders, watchful protective pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r017",
+    "sheet_id": "s088",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Query Prata",
+    "character_desc": "Balão-mascote do SQL Specialist, segurando uma lupa foil sobre uma tabela de células brilhantes.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil magnifying glass over a shiny grid table, sharp attentive face, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r018",
+    "sheet_id": "s088",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Cache Flash",
+    "character_desc": "Balão-mascote do Caching Engineer, com pequenos gavetões foil de acesso rápido e um raio inflável.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding quick-access foil drawers and an inflatable lightning bolt, speedy grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r019",
+    "sheet_id": "s088",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Fila Flutuante",
+    "character_desc": "Balão-mascote do Message Queue Engineer, com mensagens em envelopes foil enfileiradas num trilho.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, foil envelope messages lined up on a rail beside it, orderly patient look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r020",
+    "sheet_id": "s088",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Busca Balão",
+    "character_desc": "Balão-mascote do Search Engineer, empunhando uma lupa foil gigante e um índice inflável.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, wielding a giant foil magnifying glass and an inflatable index card set, seeking expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r021",
+    "sheet_id": "s088",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Front Foil",
+    "character_desc": "Balão-mascote do Frontend Developer, segurando uma janela de navegador inflável com botões foil.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding an inflatable browser window with shiny foil buttons, bright friendly smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r022",
+    "sheet_id": "s088",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "UI Bolha",
+    "character_desc": "Balão-mascote do UI Engineer, montando componentes foil como botões e sliders no ar.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, arranging floating foil UI components like buttons and sliders, tidy creative look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r023",
+    "sheet_id": "s088",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "UX Sopro",
+    "character_desc": "Balão-mascote do UX Designer, com um mapa de jornada foil e uma lupa de empatia inflável.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil journey-map ribbon and an inflatable empathy magnifier, thoughtful warm face, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r024",
+    "sheet_id": "s088",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Sistema Prata",
+    "character_desc": "Balão-mascote do Design Systems Engineer, carregando uma caixa foil de peças de UI padronizadas.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, carrying a foil kit box of standardized UI tokens and components, orderly precise look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r025",
+    "sheet_id": "s088",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Acesso Airy",
+    "character_desc": "Balão-mascote do Accessibility Specialist, com símbolo de acessibilidade foil no peito e um bastão inflável de contraste.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, foil accessibility symbol on its chest and an inflatable contrast wand, inclusive caring smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r026",
+    "sheet_id": "s088",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Perf Pop",
+    "character_desc": "Balão-mascote do Web Performance Engineer, segurando um velocímetro inflável e um cronômetro foil.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding an inflatable speedometer and a foil stopwatch, energetic swift look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r027",
+    "sheet_id": "s088",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "CSS Cintilante",
+    "character_desc": "Balão-mascote do CSS Specialist, com pincéis foil e amostras de cor brilhantes flutuando.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding foil paintbrushes and floating shiny color swatches, stylish playful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r028",
+    "sheet_id": "s088",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Anima Balão",
+    "character_desc": "Balão-mascote do Animation Engineer, cercado por trilhas de movimento foil e quadros-chave infláveis.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, surrounded by foil motion trails and inflatable keyframe cards, lively bouncing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r029",
+    "sheet_id": "s088",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Móbile Mylar",
+    "character_desc": "Balão-mascote do Mobile Developer, segurando um smartphone inflável com tela foil brilhante.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding an inflatable smartphone with a shiny foil screen, on-the-go cheerful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r030",
+    "sheet_id": "s088",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "iOS Iridescente",
+    "character_desc": "Balão-mascote do iOS Developer, com uma maçã foil mordida e um celular inflável minimalista.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a glossy foil bitten-apple charm and a sleek inflatable phone, refined smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r031",
+    "sheet_id": "s088",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Droid Dourado",
+    "character_desc": "Balão-mascote do Android Developer, com um robozinho verde inflável e um celular foil.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a small inflatable green robot and a foil phone, friendly open look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r032",
+    "sheet_id": "s088",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Nativo Reativo",
+    "character_desc": "Balão-mascote do React Native Developer, com dois celulares foil (um azul, um verde) e um átomo inflável.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding two foil phones and a spinning inflatable atom symbol, dual-platform grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r033",
+    "sheet_id": "s088",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Flutter Foil",
+    "character_desc": "Balão-mascote do Flutter Developer, com asinhas foil de borboleta e um celular inflável colorido.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, small foil butterfly wings and a colorful inflatable phone, fluttering playful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r034",
+    "sheet_id": "s088",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Cientista Cintilante",
+    "character_desc": "Balão-mascote do Data Scientist, com óculos foil e um frasco inflável cheio de bolinhas de dados.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, wearing foil glasses and holding an inflatable flask full of data spheres, curious analytical smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r035",
+    "sheet_id": "s088",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "ML Balão",
+    "character_desc": "Balão-mascote do ML Engineer, segurando uma rede neural foil com nós brilhantes conectados.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil neural-network diagram with connected shiny nodes, clever focused look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r036",
+    "sheet_id": "s088",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "MLOps Mylar",
+    "character_desc": "Balão-mascote do MLOps Engineer, com engrenagens foil rodeando um cérebro inflável em esteira.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, foil gears around an inflatable brain on a conveyor loop, operational steady look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r037",
+    "sheet_id": "s088",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Pesquisa Prata",
+    "character_desc": "Balão-mascote do AI Researcher, com um chapéu de formatura foil e um pergaminho inflável de fórmulas.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, wearing a foil graduation cap and holding an inflatable formula scroll, inquisitive smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r038",
+    "sheet_id": "s088",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Prompt Puff",
+    "character_desc": "Balão-mascote do Prompt Engineer, com balões de fala foil e uma varinha inflável mágica.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, surrounded by foil speech bubbles and holding an inflatable magic wand, expressive grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r039",
+    "sheet_id": "s088",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "NLP Nuvem",
+    "character_desc": "Balão-mascote do NLP Engineer, com letras foil flutuando e um balão de fala inflável grande.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, floating foil letters and a big inflatable speech bubble, communicative friendly face, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r040",
+    "sheet_id": "s088",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Visão Vívida",
+    "character_desc": "Balão-mascote do Computer Vision Engineer, com um olho foil gigante e uma câmera inflável.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a giant foil eye lens and an inflatable camera, perceptive alert look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r041",
+    "sheet_id": "s088",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Analista Airy",
+    "character_desc": "Balão-mascote do Data Analyst, segurando um gráfico de barras foil e uma calculadora inflável.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil bar-chart panel and an inflatable calculator, tidy studious smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r042",
+    "sheet_id": "s088",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "BI Bojudo",
+    "character_desc": "Balão-mascote do BI Analyst, com um painel de dashboard foil cheio de gráficos brilhantes.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil dashboard panel packed with shiny charts, insightful confident look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r043",
+    "sheet_id": "s088",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Analytics Prata",
+    "character_desc": "Balão-mascote do Analytics Engineer, transformando cubos foil crus em gráficos limpos infláveis.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, turning raw foil data cubes into clean inflatable charts, methodical smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r044",
+    "sheet_id": "s088",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Viz Vibrante",
+    "character_desc": "Balão-mascote do Data Viz Specialist, cercado por gráficos foil coloridos de pizza e linha.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, surrounded by colorful foil pie and line charts, artistic delighted look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r045",
+    "sheet_id": "s088",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "DevOps Dourado",
+    "character_desc": "Balão-mascote do DevOps Engineer, com o símbolo do infinito foil e uma chave inglesa inflável.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil infinity-loop symbol and an inflatable wrench, capable steady smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r046",
+    "sheet_id": "s088",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "SRE Sereno",
+    "character_desc": "Balão-mascote do Site Reliability Engineer, com um extintor inflável e um painel foil de monitoramento.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding an inflatable fire extinguisher and a foil monitoring gauge, calm vigilant look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r047",
+    "sheet_id": "s088",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Plataforma Puff",
+    "character_desc": "Balão-mascote do Platform Engineer, sustentando uma plataforma foil sobre a cabeça bojuda.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, balancing a foil platform slab on its rounded head, supportive sturdy pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r048",
+    "sheet_id": "s088",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Nuvem Cintilante",
+    "character_desc": "Balão-mascote do Cloud Architect, formado como uma nuvem foil fofa segurando uma planta inflável.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, shaped like a fluffy foil cloud holding an inflatable blueprint, airy visionary smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r049",
+    "sheet_id": "s088",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "K8s Timoneiro",
+    "character_desc": "Balão-mascote do Kubernetes Admin, com um leme de navio foil de sete pontas e contêineres infláveis.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a seven-spoke foil ship helm and stacked inflatable containers, steering pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r050",
+    "sheet_id": "s088",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Rede Reluzente",
+    "character_desc": "Balão-mascote do Network Engineer, com cabos foil trançados e um roteador inflável brilhante.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding braided foil cables and an inflatable glowing router, connective focused look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r051",
+    "sheet_id": "s088",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Sysadmin Prata",
+    "character_desc": "Balão-mascote do Systems Administrator, com um molho de chaves foil e um terminal inflável.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a ring of foil keys and an inflatable terminal screen, reliable watchful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r052",
+    "sheet_id": "s088",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Release Radiante",
+    "character_desc": "Balão-mascote do Release Engineer, com um foguetinho inflável rotulado por tags foil de versão.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding an inflatable rocket tagged with foil version labels, ready launch grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r053",
+    "sheet_id": "s088",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Build Bojudo",
+    "character_desc": "Balão-mascote do Build Engineer, empilhando blocos foil que se montam numa caixa inflável.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, assembling foil blocks into an inflatable package box, constructive busy look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r054",
+    "sheet_id": "s088",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "CI Cintilante",
+    "character_desc": "Balão-mascote do CI/CD Engineer, numa esteira foil com setas de fluxo e checkmarks infláveis.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, standing on a foil conveyor with flow arrows and inflatable green checkmarks, smooth-flow smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r055",
+    "sheet_id": "s088",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Guarda Prata",
+    "character_desc": "Balão-mascote do Security Engineer, com escudo foil e cadeado inflável brilhante no peito.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil shield and an inflatable padlock on its chest, protective firm look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r056",
+    "sheet_id": "s088",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Pentest Puff",
+    "character_desc": "Balão-mascote do Penetration Tester, com um chapéu foil e uma gazua inflável de lockpick.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, wearing a foil hat and holding an inflatable lockpick set, sly clever grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r057",
+    "sheet_id": "s088",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "AppSec Airy",
+    "character_desc": "Balão-mascote do AppSec Engineer, com uma lupa foil sobre um app inflável e um cadeado.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil magnifier over an inflatable app with a padlock, careful scanning look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r058",
+    "sheet_id": "s088",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cripto Cintilante",
+    "character_desc": "Balão-mascote do Cryptographer, com engrenagens foil de cifra e uma chave inflável dourada.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding foil cipher wheels and an inflatable golden key, secretive smart smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r059",
+    "sheet_id": "s088",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Conforme Cintilante",
+    "character_desc": "Balão-mascote do Compliance Officer, com prancheta foil de checklist e um selo inflável carimbado.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil checklist clipboard and an inflatable approval stamp, orderly upright look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r060",
+    "sheet_id": "s088",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Privacidade Prata",
+    "character_desc": "Balão-mascote do Privacy Engineer, com um guarda-chuva foil protegendo dados infláveis.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil umbrella sheltering inflatable data icons, discreet caring smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r061",
+    "sheet_id": "s088",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Resposta Rápida",
+    "character_desc": "Balão-mascote do Incident Responder, com sirene inflável no topo e um kit foil de emergência.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, inflatable siren light on top and a foil emergency kit, alert ready expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r062",
+    "sheet_id": "s088",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Ameaça Airy",
+    "character_desc": "Balão-mascote do Threat Modeler, com um tabuleiro foil de cenários e peças infláveis de risco.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, studying a foil scenario board with inflatable risk pieces, strategic thoughtful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r063",
+    "sheet_id": "s088",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "QA Cintilante",
+    "character_desc": "Balão-mascote do QA Engineer, com lupa foil e uma lista inflável de bugs marcados.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil magnifier and an inflatable bug-checklist, meticulous smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r064",
+    "sheet_id": "s088",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "SDET Sopro",
+    "character_desc": "Balão-mascote do SDET, com braços robóticos foil automatizando testes infláveis.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, foil robotic arms running inflatable test scripts, automated efficient look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r065",
+    "sheet_id": "s088",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Perf Prata",
+    "character_desc": "Balão-mascote do Performance Tester, com um cronômetro foil e halteres infláveis de carga.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil stopwatch and inflatable load dumbbells, straining measuring look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r066",
+    "sheet_id": "s088",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Manual Mylar",
+    "character_desc": "Balão-mascote do Manual Tester, apontando um dedo foil para um app inflável, testando à mão.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, poking an inflatable app with a foil pointer finger, hands-on curious smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r067",
+    "sheet_id": "s088",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "A11y Airy",
+    "character_desc": "Balão-mascote do Accessibility Tester, com checklist foil de acessibilidade e um leitor de tela inflável.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil accessibility checklist and an inflatable screen-reader device, inclusive attentive look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r068",
+    "sheet_id": "s088",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Escriba Prata",
+    "character_desc": "Balão-mascote do Technical Writer, com uma pena foil gigante e um pergaminho inflável de docs.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a giant foil quill and an inflatable documentation scroll, articulate calm smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r069",
+    "sheet_id": "s088",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Advogado Airy",
+    "character_desc": "Balão-mascote do Developer Advocate, com um megafone foil e um balãozinho de coração inflável para a comunidade.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil megaphone and an inflatable heart balloon for the community, enthusiastic grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r070",
+    "sheet_id": "s088",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Estrategista Sopro",
+    "character_desc": "Balão-mascote do Content Strategist, com um mapa foil de conteúdo e peças de puzzle infláveis.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, arranging a foil content map with inflatable puzzle pieces, planning thoughtful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r071",
+    "sheet_id": "s088",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Localiza Balão",
+    "character_desc": "Balão-mascote do Localization Engineer, com um globo foil e balõezinhos de fala infláveis em várias línguas.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil globe and inflatable speech bubbles in many scripts, worldly friendly smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r072",
+    "sheet_id": "s088",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Produto Design",
+    "character_desc": "Balão-mascote do Product Designer, com um wireframe foil e uma caneta inflável de design.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil wireframe board and an inflatable design pen, creative composed look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r073",
+    "sheet_id": "s088",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Visual Vívido",
+    "character_desc": "Balão-mascote do Visual Designer, com paleta foil de cores e um pincel inflável brilhante.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil color palette and a shiny inflatable brush, artistic vibrant smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r074",
+    "sheet_id": "s088",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Interação Airy",
+    "character_desc": "Balão-mascote do Interaction Designer, com botões foil e setas infláveis de fluxo entre telas.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, connecting foil buttons with inflatable flow arrows between screens, engaging look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r075",
+    "sheet_id": "s088",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Motion Mylar",
+    "character_desc": "Balão-mascote do Motion Designer, com rastros foil de movimento e um clapperboard inflável.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, foil motion streaks and an inflatable clapperboard, dynamic bouncy pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r076",
+    "sheet_id": "s088",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Ilustra Balão",
+    "character_desc": "Balão-mascote do Illustrator, com pincel foil gigante e uma tela inflável meio pintada.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a giant foil brush and an inflatable half-painted canvas, imaginative smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r077",
+    "sheet_id": "s088",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Asset Airy",
+    "character_desc": "Balão-mascote do Asset Designer, com uma caixa foil de sprites e ícones infláveis empilhados.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil box of sprites and stacked inflatable icons, tidy productive look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r078",
+    "sheet_id": "s088",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Marca Prata",
+    "character_desc": "Balão-mascote do Brand Designer, com um selo foil de logo e amostras de identidade infláveis.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil logo emblem and inflatable brand swatches, polished confident smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r079",
+    "sheet_id": "s088",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Som Sopro",
+    "character_desc": "Balão-mascote do Sound Designer, com fones foil e ondas sonoras infláveis saindo do corpo.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, wearing foil headphones with inflatable sound waves radiating out, groovy relaxed look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r080",
+    "sheet_id": "s088",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "3D Dourado",
+    "character_desc": "Balão-mascote do 3D Artist, segurando um cubo foil wireframe e uma esfera inflável renderizada.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil wireframe cube and a rendered inflatable sphere, dimensional creative smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r081",
+    "sheet_id": "s088",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Jogo Bojudo",
+    "character_desc": "Balão-mascote do Game Designer, com um controle foil e dados infláveis brilhantes.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil game controller and shiny inflatable dice, playful inventive grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r082",
+    "sheet_id": "s088",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Level Lustroso",
+    "character_desc": "Balão-mascote do Level Designer, montando um mapa foil de fase com plataformas infláveis.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, assembling a foil level map with inflatable platforms and coins, planning playful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r083",
+    "sheet_id": "s088",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Narra Prata",
+    "character_desc": "Balão-mascote do Narrative Designer, com um livro foil aberto e balões de fala infláveis de história.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding an open foil storybook with inflatable story speech bubbles, whimsical warm smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r084",
+    "sheet_id": "s088",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Dev do Jogo",
+    "character_desc": "Balão-mascote do Game Developer, com joystick foil e um sprite inflável pixelado nas mãos.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil joystick and an inflatable pixel sprite, focused excited grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r085",
+    "sheet_id": "s088",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Shader Cintilante",
+    "character_desc": "Balão-mascote do Graphics/Shader Engineer, com esferas foil iridescentes e um triângulo inflável de render.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding iridescent foil spheres and an inflatable render triangle, glossy technical smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r086",
+    "sheet_id": "s088",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Embarcado Airy",
+    "character_desc": "Balão-mascote do Embedded Engineer, com uma placa foil de circuito minúscula e um chip inflável.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a tiny foil circuit board and an inflatable microchip, precise compact look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r087",
+    "sheet_id": "s088",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Firmware Foil",
+    "character_desc": "Balão-mascote do Firmware Engineer, com um chip foil e uma ferramenta inflável de flash.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil chip and an inflatable flashing tool, low-level focused smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r088",
+    "sheet_id": "s088",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "IoT Iridescente",
+    "character_desc": "Balão-mascote do IoT Engineer, com sensores foil e mini-eletrodomésticos infláveis conectados por ondas.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, surrounded by foil sensors and inflatable smart gadgets linked by signal waves, connected cheerful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r089",
+    "sheet_id": "s088",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Bloco Balão",
+    "character_desc": "Balão-mascote do Blockchain Developer, com uma corrente foil de blocos brilhantes ligados.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil chain of linked shiny blocks, decentralized confident smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r090",
+    "sheet_id": "s088",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Contrato Cintilante",
+    "character_desc": "Balão-mascote do Smart Contract Auditor, com lupa foil sobre um contrato inflável selado.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil magnifier over an inflatable sealed contract scroll, scrutinizing look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r091",
+    "sheet_id": "s088",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "AR Airy",
+    "character_desc": "Balão-mascote do AR/VR Engineer, com um headset foil de realidade virtual e cubos infláveis flutuantes.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, wearing a foil VR headset with floating inflatable holographic cubes, immersed wondrous smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r092",
+    "sheet_id": "s088",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Robô Reluzente",
+    "character_desc": "Balão-mascote do Robotics Engineer, com braços foil articulados e uma chave inglesa inflável.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, articulated foil robot arms and an inflatable wrench, mechanical friendly look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r093",
+    "sheet_id": "s088",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Growth Gás",
+    "character_desc": "Balão-mascote do Growth Engineer, com um gráfico foil de flecha subindo e um funil inflável.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil upward-arrow chart and an inflatable funnel, ambitious upbeat grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r094",
+    "sheet_id": "s088",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "SEO Sopro",
+    "character_desc": "Balão-mascote do SEO Specialist, com lupa foil de busca e setas infláveis de ranking subindo.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil search magnifier and inflatable rising rank arrows, optimizing smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r095",
+    "sheet_id": "s088",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Martech Mylar",
+    "character_desc": "Balão-mascote do Marketing Technologist, com um funil foil e engrenagens infláveis de automação.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil marketing funnel and inflatable automation gears, savvy cheerful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r096",
+    "sheet_id": "s088",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Solução Airy",
+    "character_desc": "Balão-mascote do Solutions Engineer, com um kit foil de peças e um aperto de mão inflável.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil solution toolkit and an inflatable handshake, helpful confident smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r097",
+    "sheet_id": "s088",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Suporte Sopro",
+    "character_desc": "Balão-mascote do Support Engineer, com fones foil de headset e um balão de fala inflável de ajuda.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, wearing a foil headset and holding an inflatable help speech bubble, warm reassuring smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r098",
+    "sheet_id": "s088",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Vendas Vívido",
+    "character_desc": "Balão-mascote do Sales Engineer, com uma maleta foil e um gráfico inflável de demonstração.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil briefcase and an inflatable demo chart, persuasive bright grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r099",
+    "sheet_id": "s088",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "FinOps Foil",
+    "character_desc": "Balão-mascote do FinOps Analyst, com uma calculadora foil e cifrões infláveis flutuando.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil calculator with floating inflatable currency symbols, budget-savvy smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s088-r100",
+    "sheet_id": "s088",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Legal Lustroso",
+    "character_desc": "Balão-mascote do Legal Counsel, com uma balança foil da justiça e um martelo inflável de juiz.",
+    "nano_prompt": "A full-body inflatable mylar foil balloon mascot, glossy metallic reflective surface with puffy bulbous rounded seams and a small cinched valve at the base, floating upright in a cheerful buoyant pose, holding a foil scales of justice and an inflatable judge gavel, formal composed look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

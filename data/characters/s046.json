@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s046-r001",
+    "sheet_id": "s046",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Maestro Órgão",
+    "character_desc": "Um majestoso órgão de tubos, dentro da analogia dos instrumentos musicais: a estrutura de muitos tubos interligados e a planta gravada no console comunicam o Arquiteto de Solução.",
+    "nano_prompt": "Golden fine line art illustration of a majestic pipe organ whose many interconnected pipes form an architectural blueprint, engraved schematic panels on the console, ruler and compass resting on the keys, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r002",
+    "sheet_id": "s046",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Primo Violino",
+    "character_desc": "Um violino de primeira cadeira dentro dos instrumentos musicais: a batuta de regência cruzada sobre o corpo e a posição de destaque comunicam o Tech Lead.",
+    "nano_prompt": "Golden fine line art illustration of a first-chair violin with a conductor's baton crossed over its body, a small crown on the scroll marking the lead position, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r003",
+    "sheet_id": "s046",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Violoncelo Base",
+    "character_desc": "Um violoncelo de tom grave dentro dos instrumentos musicais: o corpo grande e as fundações reforçadas comunicam o Staff Engineer sustentando a orquestra.",
+    "nano_prompt": "Golden fine line art illustration of a large deep-toned cello with a broad reinforced base and thick supporting endpin like a structural pillar, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r004",
+    "sheet_id": "s046",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Piano de Cauda",
+    "character_desc": "Um piano de cauda central dentro dos instrumentos musicais: o instrumento principal e imponente comunica o Principal Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a grand piano seen from above with lid open, a laurel medallion on the fallboard signalling principal status, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r005",
+    "sheet_id": "s046",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Metrônomo",
+    "character_desc": "Um metrônomo de pêndulo dentro dos instrumentos musicais: o ritmo constante que mantém a equipe no compasso comunica o Engineering Manager.",
+    "nano_prompt": "Golden fine line art illustration of a wooden pyramid metronome with swinging pendulum, a small conductor's baton and a team pennant at its base, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r006",
+    "sheet_id": "s046",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Diapasão Guia",
+    "character_desc": "Um diapasão afinador dentro dos instrumentos musicais: a ferramenta que define o tom certo e a bússola gravada comunicam o Product Manager.",
+    "nano_prompt": "Golden fine line art illustration of a tuning fork standing upright, an engraved compass rose and a small roadmap flag at its stem setting the correct pitch, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r007",
+    "sheet_id": "s046",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Lira do Backlog",
+    "character_desc": "Uma lira clássica dentro dos instrumentos musicais: a partitura enrolada entre as cordas, priorizada, comunica o Product Owner dono do backlog.",
+    "nano_prompt": "Golden fine line art illustration of a classical lyre with a rolled musical score threaded through its strings, ordered priority notches carved on the frame, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r008",
+    "sheet_id": "s046",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Bumbo Coordenador",
+    "character_desc": "Um grande bumbo de marcha dentro dos instrumentos musicais: o tambor que coordena o passo de muitos comunica o Program Manager.",
+    "nano_prompt": "Golden fine line art illustration of a large marching bass drum with carrying harness, several coordinated mallets fanning out to guide multiple sections, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r009",
+    "sheet_id": "s046",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Xilofone Cronograma",
+    "character_desc": "Um xilofone dentro dos instrumentos musicais: as barras sequenciais como um gráfico de Gantt comunicam o Project Manager.",
+    "nano_prompt": "Golden fine line art illustration of a xylophone whose graduated bars form a Gantt-chart timeline, a small milestone flag planted on one bar, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r010",
+    "sheet_id": "s046",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Sino de Cerimônia",
+    "character_desc": "Um sino de mão dentro dos instrumentos musicais: o sino que convoca as cerimônias comunica o Scrum Master.",
+    "nano_prompt": "Golden fine line art illustration of a handbell with an ornate grip beside a small triangle, a tiny recurring-cycle arrow motif engraved on the bell, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r011",
+    "sheet_id": "s046",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Contrabaixo",
+    "character_desc": "Um contrabaixo acústico dentro dos instrumentos musicais: o corpo enorme que sustenta a harmonia comunica o Backend Developer.",
+    "nano_prompt": "Golden fine line art illustration of a large upright double bass forming the backbone of the ensemble, sturdy scrollwork and a solid low body, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r012",
+    "sheet_id": "s046",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Sintetizador Modular",
+    "character_desc": "Um sintetizador modular dentro dos instrumentos musicais: os jaques e cabos de conexão como endpoints comunicam o API Designer.",
+    "nano_prompt": "Golden fine line art illustration of a modular synthesizer with a patch bay of connector jacks and interconnecting cables forming clean interfaces, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r013",
+    "sheet_id": "s046",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Sinos Modulares",
+    "character_desc": "Um conjunto de sininhos independentes dentro dos instrumentos musicais: muitas pequenas unidades tocando juntas comunicam o Microservices Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a set of many small independent handbells arranged in a grid, each a self-contained tiny unit working together, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r014",
+    "sheet_id": "s046",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Realejo Pipeline",
+    "character_desc": "Uma sanfona de manivela (hurdy-gurdy) dentro dos instrumentos musicais: a manivela que move um fluxo contínuo comunica o Pipeline Developer.",
+    "nano_prompt": "Golden fine line art illustration of a hurdy-gurdy with a hand crank driving a continuous wheel, a flowing conveyor of notes along its wheel, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r015",
+    "sheet_id": "s046",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Carrilhão de Dados",
+    "character_desc": "Um carrilhão de tubos dentro dos instrumentos musicais: os tubos por onde o som flui como dados comunicam o Data Engineer.",
+    "nano_prompt": "Golden fine line art illustration of tubular bells hung in a cascading row like flowing pipes channeling streams of data downward, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r016",
+    "sheet_id": "s046",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Cravo Ordenado",
+    "character_desc": "Um cravo (harpsichord) dentro dos instrumentos musicais: as fileiras ordenadas e indexadas de teclas e cordas comunicam o Database Administrator.",
+    "nano_prompt": "Golden fine line art illustration of a harpsichord with neatly indexed rows of keys and strings, small drawer-like tabs labelling ordered records, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r017",
+    "sheet_id": "s046",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Acordeão de Consultas",
+    "character_desc": "Um acordeão dentro dos instrumentos musicais: as fileiras de botões em linhas e colunas como uma tabela comunicam o SQL Specialist.",
+    "nano_prompt": "Golden fine line art illustration of an accordion whose button rows and bellows folds resemble structured table columns and query rows, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r018",
+    "sheet_id": "s046",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Glockenspiel Rápido",
+    "character_desc": "Um glockenspiel brilhante dentro dos instrumentos musicais: as barras metálicas de resposta rápida e prontas comunicam o Caching Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a bright glockenspiel with quick-response metal bars, a small lightning bolt and a ready-access tray of mallets, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r019",
+    "sheet_id": "s046",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Marimba em Fila",
+    "character_desc": "Uma marimba dentro dos instrumentos musicais: as barras alinhadas com marteletes esperando em fila comunicam o Message Queue Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a marimba with bars in a long line and several mallets queued in order waiting their turn, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r020",
+    "sheet_id": "s046",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Teremim Busca",
+    "character_desc": "Um teremim dentro dos instrumentos musicais: a antena que encontra sinais no espaço comunica o Search Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a theremin with a tall antenna sweeping the air, a small magnifier and radiating signal arcs around the antenna, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r021",
+    "sheet_id": "s046",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Guitarra Frontal",
+    "character_desc": "Uma guitarra elétrica dentro dos instrumentos musicais: o instrumento vistoso da linha de frente comunica o Frontend Developer.",
+    "nano_prompt": "Golden fine line art illustration of a showy electric guitar held front and center, sleek headstock and a polished pickguard facing forward, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r022",
+    "sheet_id": "s046",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Teclado UI",
+    "character_desc": "Um teclado sintetizador dentro dos instrumentos musicais: a grade limpa de botões e teclas como componentes comunica o UI Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a synthesizer keyboard with a clean grid of buttons and aligned keys like tidy interface components, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r023",
+    "sheet_id": "s046",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Harpa UX",
+    "character_desc": "Uma harpa dentro dos instrumentos musicais: as cordas fluidas e ergonômicas de curva suave comunicam o UX Designer.",
+    "nano_prompt": "Golden fine line art illustration of a harp with smoothly flowing ergonomic string curves, a gentle continuous silhouette guiding the hand, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r024",
+    "sheet_id": "s046",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Celesta Sistema",
+    "character_desc": "Uma celesta dentro dos instrumentos musicais: as teclas uniformes e consistentes como tokens de design comunicam o Design Systems Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a celesta cabinet with perfectly uniform consistent keys arranged like standardized design tokens, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r025",
+    "sheet_id": "s046",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Handpan Acessível",
+    "character_desc": "Um handpan dentro dos instrumentos musicais: as marcas táteis em relevo braille sobre as notas comunicam o Accessibility Specialist.",
+    "nano_prompt": "Golden fine line art illustration of a handpan steel drum with tactile braille-dot markings raised over each tone field for accessible touch, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r026",
+    "sheet_id": "s046",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Rabeca Veloz",
+    "character_desc": "Uma rabeca ágil dentro dos instrumentos musicais: o cronômetro na cravelha e as linhas de velocidade comunicam o Web Performance Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a nimble fiddle with a small stopwatch set into a tuning peg and speed lines trailing the bow, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r027",
+    "sheet_id": "s046",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Steel Drum Estiloso",
+    "character_desc": "Um steel drum dentro dos instrumentos musicais: a superfície ricamente estilizada com padrões comunica o CSS Specialist.",
+    "nano_prompt": "Golden fine line art illustration of a steelpan drum with an elaborately styled decorated surface, ornamental patterned segments framing each note, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r028",
+    "sheet_id": "s046",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Caixa de Música",
+    "character_desc": "Uma caixa de música dentro dos instrumentos musicais: o cilindro giratório de pinos como quadros de animação comunica o Animation Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a music box with an open rotating pinned cylinder, motion-sweep lines suggesting frame-by-frame movement, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r029",
+    "sheet_id": "s046",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Ukulele Portátil",
+    "character_desc": "Um ukulele compacto dentro dos instrumentos musicais: o instrumento pequeno e portátil comunica o Mobile Developer.",
+    "nano_prompt": "Golden fine line art illustration of a small compact portable ukulele, rounded pocket-sized body easy to carry in hand, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r030",
+    "sheet_id": "s046",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Ocarina Polida",
+    "character_desc": "Uma ocarina lisa dentro dos instrumentos musicais: a forma minimalista e polida comunica o iOS Developer.",
+    "nano_prompt": "Golden fine line art illustration of a sleek minimalist polished ocarina with smooth seamless curves and refined clean finish, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r031",
+    "sheet_id": "s046",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Kalimba Aberta",
+    "character_desc": "Uma kalimba dentro dos instrumentos musicais: as tines abertas e ajustáveis para experimentar comunicam o Android Developer.",
+    "nano_prompt": "Golden fine line art illustration of a kalimba thumb piano with open exposed adjustable metal tines on a friendly tinkerable wooden body, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r032",
+    "sheet_id": "s046",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Guitarra Dupla",
+    "character_desc": "Uma guitarra de braço duplo dentro dos instrumentos musicais: os dois braços em um só corpo, duas plataformas, comunicam o React Native Developer.",
+    "nano_prompt": "Golden fine line art illustration of a double-necked guitar with two necks sharing one body, symbolizing two platforms from a single instrument, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r033",
+    "sheet_id": "s046",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Flauta Voadora",
+    "character_desc": "Uma flauta transversal dentro dos instrumentos musicais: o motivo de asas de borboleta (flutter) comunica o Flutter Developer.",
+    "nano_prompt": "Golden fine line art illustration of a transverse flute with delicate butterfly-wing motifs along the body evoking fluttering flight, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r034",
+    "sheet_id": "s046",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Saltério de Dados",
+    "character_desc": "Um saltério de martelo (hammered dulcimer) dentro dos instrumentos musicais: a grade de cordas como um dataset e a lente comunicam o Data Scientist.",
+    "nano_prompt": "Golden fine line art illustration of a hammered dulcimer with a grid of strings like a dataset, a magnifying lens and two hammers analyzing it, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r035",
+    "sheet_id": "s046",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Orquestrião ML",
+    "character_desc": "Um orquestrião automático dentro dos instrumentos musicais: a máquina que aprende e toca sozinha comunica o ML Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a self-playing orchestrion machine with automated mechanisms, gears learning and reproducing melodies on its own, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r036",
+    "sheet_id": "s046",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Pianola MLOps",
+    "character_desc": "Uma pianola (player piano) dentro dos instrumentos musicais: o rolo perfurado e a esteira que implanta o modelo comunicam o MLOps Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a player piano with a perforated paper roll feeding through a conveyor mechanism deploying music automatically, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r037",
+    "sheet_id": "s046",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Harmônica de Vidro",
+    "character_desc": "Uma harmônica de vidro (glass armonica) dentro dos instrumentos musicais: as taças de vidro experimentais e ondas de pesquisa comunicam o AI Researcher.",
+    "nano_prompt": "Golden fine line art illustration of a glass armonica of nested spinning glass bowls, experimental wave patterns and a question-mark motif radiating, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r038",
+    "sheet_id": "s046",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Berimbau de Boca",
+    "character_desc": "Um berimbau de boca (jaw harp) dentro dos instrumentos musicais: a palheta que molda o som em palavras comunica o Prompt Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a jaw harp mouth instrument with a vibrating tongue shaping sound into speech, a small speech-bubble motif, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r039",
+    "sheet_id": "s046",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Trompete Falante",
+    "character_desc": "Um trompete com tubo falante (talkbox) dentro dos instrumentos musicais: o tubo que leva a linguagem à boca comunica o NLP Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a trumpet fitted with a talk-box tube leading to a mouthpiece, translating tones into language, small letter-shaped valves, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r040",
+    "sheet_id": "s046",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Alaúde Óptico",
+    "character_desc": "Um alaúde dentro dos instrumentos musicais: a boca do instrumento como uma grande lente de câmera comunica o Computer Vision Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a lute whose round soundhole is a large camera lens iris, a small eye motif observing through the aperture, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r041",
+    "sheet_id": "s046",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Xilofone Gráfico",
+    "character_desc": "Um xilofone dentro dos instrumentos musicais: as barras de alturas diferentes formando um gráfico de barras comunicam o Data Analyst.",
+    "nano_prompt": "Golden fine line art illustration of a xylophone whose bars rise at varying heights forming a clear bar chart of data readings, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r042",
+    "sheet_id": "s046",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Sino Dashboard",
+    "character_desc": "Um conjunto de sinos com mostradores dentro dos instrumentos musicais: os medidores e ponteiros como um painel comunicam o BI Analyst.",
+    "nano_prompt": "Golden fine line art illustration of a set of glockenspiel bells framed by round gauge dials and needles arranged like a business dashboard, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r043",
+    "sheet_id": "s046",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Flauta de Pã Métrica",
+    "character_desc": "Uma flauta de pã dentro dos instrumentos musicais: os tubos graduados como um pipeline de métricas comunicam o Analytics Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a pan flute of graduated tubes forming a measured pipeline, small tick-mark gradations along each pipe, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r044",
+    "sheet_id": "s046",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Marimba de Vidro",
+    "character_desc": "Uma marimba de vidro dentro dos instrumentos musicais: as barras coloridas translúcidas em arco-íris de dados comunicam o Data Viz Specialist.",
+    "nano_prompt": "Golden fine line art illustration of a glass marimba with translucent colorful bars arranged as a vivid rainbow chart of visualized data, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r045",
+    "sheet_id": "s046",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Congas Dev-Ops",
+    "character_desc": "Um par de congas dentro dos instrumentos musicais: os dois tambores unidos por uma correia, ligando dois mundos, comunicam o DevOps Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a pair of conga drums bound together by a bridging strap, an infinity-loop motif joining development and operations, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r046",
+    "sheet_id": "s046",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Gongo de Uptime",
+    "character_desc": "Um grande gongo dentro dos instrumentos musicais: o disco estável que ressoa sem parar comunica o Site Reliability Engineer garantindo uptime.",
+    "nano_prompt": "Golden fine line art illustration of a large steady gong on a frame with an uptime meter arc and a small alarm bell for reliability watch, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r047",
+    "sheet_id": "s046",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Gamelão Plataforma",
+    "character_desc": "Um gamelão dentro dos instrumentos musicais: a plataforma sólida de gongos sobre a qual outros tocam comunica o Platform Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a gamelan set of tuned bronze gongs on a sturdy shared platform frame that others can play upon, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r048",
+    "sheet_id": "s046",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Órgão nas Nuvens",
+    "character_desc": "Um órgão de tubos em forma de nuvens dentro dos instrumentos musicais: os tubos flutuantes na nuvem comunicam o Cloud Architect.",
+    "nano_prompt": "Golden fine line art illustration of a pipe organ whose pipes rise from a cloud-shaped base floating aloft, airy vapor scrollwork around the console, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r049",
+    "sheet_id": "s046",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Timbales em Contêiner",
+    "character_desc": "Timbales montados como contêineres dentro dos instrumentos musicais: os tambores em um leme de navio (helm) comunicam o Kubernetes Admin.",
+    "nano_prompt": "Golden fine line art illustration of tuned timbale drums arranged as stacked containers on a ship's-helm wheel orchestrating the fleet, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r050",
+    "sheet_id": "s046",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Harpa em Rede",
+    "character_desc": "Uma harpa dentro dos instrumentos musicais: as cordas como cabos de rede ligando nós comunicam o Network Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a harp whose strings are network cables connecting small node points, forming a routed mesh across the frame, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r051",
+    "sheet_id": "s046",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Console de Órgão",
+    "character_desc": "Um console de órgão dentro dos instrumentos musicais: os muitos registros e chaves para administrar comunicam o Systems Administrator.",
+    "nano_prompt": "Golden fine line art illustration of an organ console covered in many stop-knobs, switches and control levers for administering the whole system, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r052",
+    "sheet_id": "s046",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Carrilhão de Release",
+    "character_desc": "Uma torre de carrilhão dentro dos instrumentos musicais: os sinos que badalam a cada lançamento comunicam o Release Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a carillon bell tower with a row of tuned bells that ring to mark each release, a small version tag on a bell, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r053",
+    "sheet_id": "s046",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Marimba de Andaime",
+    "character_desc": "Uma marimba erguida como andaime dentro dos instrumentos musicais: a estrutura montada peça a peça comunica o Build Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a marimba assembled on a scaffold-like frame, its bars fitted together piece by piece as a built structure, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r054",
+    "sheet_id": "s046",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Esteira Musical",
+    "character_desc": "Uma caixa de música em esteira dentro dos instrumentos musicais: o cinto em loop contínuo de integração comunica o CI/CD Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a music box driven by a continuous looping conveyor belt cycling notes through endlessly, small loop arrows, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r055",
+    "sheet_id": "s046",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Lira Blindada",
+    "character_desc": "Uma lira blindada dentro dos instrumentos musicais: o cadeado e o escudo protegendo as cordas comunicam o Security Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a lyre guarded by a shield over its strings and a padlock hanging from the crossbar, protective armor plating, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r056",
+    "sheet_id": "s046",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Violino Gazua",
+    "character_desc": "Um violino dentro dos instrumentos musicais: o arco em forma de gazua sondando uma fechadura comunica o Penetration Tester.",
+    "nano_prompt": "Golden fine line art illustration of a violin with a lockpick-shaped bow probing a keyhole set into its body, testing for a way in, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r057",
+    "sheet_id": "s046",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Guitarra Escudo",
+    "character_desc": "Uma guitarra dentro dos instrumentos musicais: a boca em forma de escudo e os trastes de firewall comunicam o AppSec Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a guitar with a shield-shaped soundhole and firewall-brick fret markers defending the application, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r058",
+    "sheet_id": "s046",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Caixa Cifrada",
+    "character_desc": "Uma caixa de música dentro dos instrumentos musicais: os rotores cifrados tipo Enigma que codificam a melodia comunicam o Cryptographer.",
+    "nano_prompt": "Golden fine line art illustration of a music box with rotating cipher-rotor wheels and coded symbols that scramble the melody into a secret code, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r059",
+    "sheet_id": "s046",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Marimba do Selo",
+    "character_desc": "Uma marimba dentro dos instrumentos musicais: os marteletes em forma de martelo de juiz e o pergaminho de checklist comunicam o Compliance Officer.",
+    "nano_prompt": "Golden fine line art illustration of a marimba struck by gavel-shaped mallets, a compliance checklist scroll and an approval seal beside the bars, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r060",
+    "sheet_id": "s046",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Harpa Velada",
+    "character_desc": "Uma harpa velada dentro dos instrumentos musicais: a cortina e a máscara cobrindo as cordas comunicam o Privacy Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a harp partly veiled by a draped curtain with a small privacy mask over the strings, hidden protected tones, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r061",
+    "sheet_id": "s046",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Corneta de Alarme",
+    "character_desc": "Uma corneta de alarme dentro dos instrumentos musicais: o sino de incêndio e as ondas de sirene comunicam o Incident Responder.",
+    "nano_prompt": "Golden fine line art illustration of an alarm horn paired with a fire bell, radiating siren sound waves signalling an urgent incident response, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r062",
+    "sheet_id": "s046",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Xilofone Estratégia",
+    "character_desc": "Um xilofone dentro dos instrumentos musicais: as barras dispostas como um tabuleiro de ataque com espada e escudo comunicam o Threat Modeler.",
+    "nano_prompt": "Golden fine line art illustration of a xylophone laid out like a chessboard of attack paths, small sword-and-shield markers mapping threats across bars, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r063",
+    "sheet_id": "s046",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Sino de Testes",
+    "character_desc": "Um sino de teste dentro dos instrumentos musicais: o diapasão que verifica o tom e o selo de check comunicam o QA Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a test bell with a tuning fork checking its pitch and a checkmark seal certifying the correct tone, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r064",
+    "sheet_id": "s046",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Violino Automático",
+    "character_desc": "Um violino automático dentro dos instrumentos musicais: o braço robótico com arco que toca sozinho comunica o SDET de automação.",
+    "nano_prompt": "Golden fine line art illustration of a violin played by an automated robotic arm holding the bow, mechanical servo joints running the test passes, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r065",
+    "sheet_id": "s046",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Tambor de Carga",
+    "character_desc": "Um tambor de estresse dentro dos instrumentos musicais: o medidor de carga no aro tensionado ao máximo comunica o Performance Tester.",
+    "nano_prompt": "Golden fine line art illustration of a drum with a load-gauge on its rim stretched to maximum tension, stress-meter needle pushed into the red, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r066",
+    "sheet_id": "s046",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Realejo Manual",
+    "character_desc": "Um realejo de manivela dentro dos instrumentos musicais: a manivela girada à mão e a lupa de inspeção comunicam o Manual Tester.",
+    "nano_prompt": "Golden fine line art illustration of a hand-cranked barrel organ turned manually, a magnifying glass inspecting each note by hand, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r067",
+    "sheet_id": "s046",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Sino Tátil",
+    "character_desc": "Um sino tátil dentro dos instrumentos musicais: as marcas em braille e o selo de check comunicam o Accessibility Tester.",
+    "nano_prompt": "Golden fine line art illustration of a handbell with raised braille markings and a checkmark seal verifying tactile accessibility, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r068",
+    "sheet_id": "s046",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Flauta Pena",
+    "character_desc": "Uma flauta em forma de pena dentro dos instrumentos musicais: o corpo de pena escrevente e o pergaminho comunicam o Technical Writer.",
+    "nano_prompt": "Golden fine line art illustration of a flute shaped like a writing quill feather with a small unrolled scroll of documentation beside it, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r069",
+    "sheet_id": "s046",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Trompa Porta-voz",
+    "character_desc": "Uma trompa megafone dentro dos instrumentos musicais: o pavilhão em forma de bullhorn que reúne a plateia comunica o Developer Advocate.",
+    "nano_prompt": "Golden fine line art illustration of a trumpet with a bullhorn megaphone bell rallying a crowd, radiating sound projecting a message outward, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r070",
+    "sheet_id": "s046",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Lira Editorial",
+    "character_desc": "Uma lira dentro dos instrumentos musicais: o pergaminho de planejamento e o calendário de conteúdo entre as cordas comunicam o Content Strategist.",
+    "nano_prompt": "Golden fine line art illustration of a lyre with a planning scroll and a small content calendar threaded through its strings, strategic layout marks, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r071",
+    "sheet_id": "s046",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Flauta Global",
+    "character_desc": "Uma flauta de pã global dentro dos instrumentos musicais: os tubos com bandeirinhas de idiomas e um globo comunicam o Localization Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a pan flute whose tubes carry tiny language flags around a small globe, multilingual localized pipes, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r072",
+    "sheet_id": "s046",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Alaúde Projeto",
+    "character_desc": "Um alaúde dentro dos instrumentos musicais: o esboço de projeto e o compasso de calibre sobre o corpo comunicam o Product Designer.",
+    "nano_prompt": "Golden fine line art illustration of a beautifully crafted lute overlaid with a design blueprint sketch and calipers measuring its form, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r073",
+    "sheet_id": "s046",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Tambor Paleta",
+    "character_desc": "Um tambor paleta dentro dos instrumentos musicais: a superfície de paleta de pintor com respingos de cor comunica o Visual Designer.",
+    "nano_prompt": "Golden fine line art illustration of a steelpan drum shaped like a painter's palette with dabs of color and a brush resting across it, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r074",
+    "sheet_id": "s046",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Melódica Interativa",
+    "character_desc": "Uma melódica dentro dos instrumentos musicais: as teclas-botão interativas com setas de clique comunicam o Interaction Designer.",
+    "nano_prompt": "Golden fine line art illustration of a melodica with interactive push-button keys marked by tap and arrow cues indicating user interactions, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r075",
+    "sheet_id": "s046",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Caixa em Movimento",
+    "character_desc": "Uma caixa de música dentro dos instrumentos musicais: o cilindro girante com linhas de movimento em espiral comunica o Motion Designer.",
+    "nano_prompt": "Golden fine line art illustration of a music box with a spinning cylinder trailing swirling motion lines and easing curves of animated movement, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r076",
+    "sheet_id": "s046",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Harpa Ateliê",
+    "character_desc": "Uma harpa em forma de cavalete dentro dos instrumentos musicais: o cavalete de pintor e o arco-pincel comunicam o Illustrator.",
+    "nano_prompt": "Golden fine line art illustration of a harp built like an artist's easel, a paintbrush used as a bow and small palette hanging on its frame, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r077",
+    "sheet_id": "s046",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Bandeja de Assets",
+    "character_desc": "Uma bandeja de percussão dentro dos instrumentos musicais: os pequenos instrumentos-ícone arrumados em grade comunicam o Asset Designer.",
+    "nano_prompt": "Golden fine line art illustration of a percussion tray holding many small tidy icon-like instruments arranged in a neat organized asset grid, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r078",
+    "sheet_id": "s046",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Trompete Marca",
+    "character_desc": "Um trompete de fanfarra dentro dos instrumentos musicais: a flâmula com brasão pendurada no pavilhão comunica o Brand Designer.",
+    "nano_prompt": "Golden fine line art illustration of a fanfare trumpet with a heraldic crest banner hanging from its bell announcing a distinctive brand emblem, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r079",
+    "sheet_id": "s046",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Sintetizador Foley",
+    "character_desc": "Um sintetizador dentro dos instrumentos musicais: os botões de onda sonora e o sino de foley comunicam o Sound Designer.",
+    "nano_prompt": "Golden fine line art illustration of a synthesizer covered in waveform knobs and sliders, a small foley bell and sound-wave motifs shaping audio, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r080",
+    "sheet_id": "s046",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Violoncelo 3D",
+    "character_desc": "Um violoncelo em wireframe dentro dos instrumentos musicais: os contornos de malha 3D esculpindo o corpo comunicam o 3D Artist.",
+    "nano_prompt": "Golden fine line art illustration of a cello rendered as a 3D wireframe mesh, polygonal contour lines sculpting its volume in three dimensions, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r081",
+    "sheet_id": "s046",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Órgão Arcade",
+    "character_desc": "Um órgão arcade dentro dos instrumentos musicais: os registros em forma de joystick e os dados comunicam o Game Designer.",
+    "nano_prompt": "Golden fine line art illustration of an organ console with joystick-shaped stops, arcade buttons and a pair of dice designing the play, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r082",
+    "sheet_id": "s046",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Xilofone Fase",
+    "character_desc": "Um xilofone dentro dos instrumentos musicais: as barras dispostas como plataformas de uma fase de jogo comunicam o Level Designer.",
+    "nano_prompt": "Golden fine line art illustration of a xylophone whose bars are laid out as platform steps of a game level, small start and goal flags along the path, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r083",
+    "sheet_id": "s046",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Lira Narrativa",
+    "character_desc": "Uma lira dentro dos instrumentos musicais: o livro aberto e o pergaminho ramificado entre as cordas comunicam o Narrative Designer.",
+    "nano_prompt": "Golden fine line art illustration of a lyre with an open storybook and a branching narrative scroll woven through its strings telling a tale, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r084",
+    "sheet_id": "s046",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Sintetizador Chiptune",
+    "character_desc": "Um sintetizador chiptune dentro dos instrumentos musicais: os botões pixelados e o joystick 8-bit comunicam o Game Developer.",
+    "nano_prompt": "Golden fine line art illustration of an 8-bit chiptune synth console with blocky pixel-styled knobs, a joystick and a retro cartridge slot, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r085",
+    "sheet_id": "s046",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Harpa Prisma",
+    "character_desc": "Uma harpa dentro dos instrumentos musicais: o prisma que dispersa luz em cores como shaders comunica o Graphics/Shader Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a harp with a crystal prism at its crown refracting light into rainbow shader beams across the strings, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r086",
+    "sheet_id": "s046",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Kalimba de Chip",
+    "character_desc": "Uma kalimba de circuito dentro dos instrumentos musicais: a placa de circuito com tines-chip comunica o Embedded Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a kalimba built on a printed circuit board with tiny chip-like tines and traced copper pathways, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r087",
+    "sheet_id": "s046",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Caixa Firmware",
+    "character_desc": "Uma caixa de música dentro dos instrumentos musicais: o cilindro-ROM exposto e a solda comunicam o Firmware Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a music box with an exposed ROM-cylinder engraved with low-level code and small solder points on its comb, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r088",
+    "sheet_id": "s046",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Sinos IoT",
+    "character_desc": "Uma malha de sininhos sem fio dentro dos instrumentos musicais: os sinos conectados por antenas comunicam o IoT Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a mesh of tiny wireless bells linked by little antennas broadcasting signals to one another across a network, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r089",
+    "sheet_id": "s046",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Correntes Sonoras",
+    "character_desc": "Uma corrente de sinos dentro dos instrumentos musicais: os sinos encadeados formando um livro-razão comunicam o Blockchain Developer.",
+    "nano_prompt": "Golden fine line art illustration of a chain of linked handbells forming an unbroken ledger chain, each bell a sealed block joined to the next, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r090",
+    "sheet_id": "s046",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Selo em Corrente",
+    "character_desc": "Uma corrente de sinos com lupa dentro dos instrumentos musicais: a inspeção de cada elo e o selo comunicam o Smart Contract Auditor.",
+    "nano_prompt": "Golden fine line art illustration of a chain of bells examined by a magnifying glass, an audit seal verifying each linked contract block, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r091",
+    "sheet_id": "s046",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Visor Sonoro",
+    "character_desc": "Um visor imersivo dentro dos instrumentos musicais: o headset com trompas gêmeas envolventes comunica o AR/VR Engineer.",
+    "nano_prompt": "Golden fine line art illustration of an instrument shaped like a VR visor headset with twin immersive horns wrapping around, spatial sound arcs, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r092",
+    "sheet_id": "s046",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Braço Percussor",
+    "character_desc": "Um baterista robótico dentro dos instrumentos musicais: o braço mecânico com servos batendo no tambor comunica o Robotics Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a robotic articulated arm with servo joints striking a drum, mechanical gripper holding a mallet, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r093",
+    "sheet_id": "s046",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Flauta Crescente",
+    "character_desc": "Uma flauta de pã dentro dos instrumentos musicais: os tubos em escada ascendente formando uma seta de crescimento comunicam o Growth Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a pan flute with tubes rising in an upward staircase forming a growth arrow trending up, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r094",
+    "sheet_id": "s046",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Harpa Ímã",
+    "character_desc": "Uma harpa dentro dos instrumentos musicais: o ímã e a lupa que atraem posições de busca comunicam o SEO Specialist.",
+    "nano_prompt": "Golden fine line art illustration of a harp with a horseshoe magnet at its base and a magnifying glass, attracting a small ranking ladder of results, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r095",
+    "sheet_id": "s046",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Trompa Funil",
+    "character_desc": "Uma trompa dentro dos instrumentos musicais: o pavilhão em forma de funil de marketing comunica o Marketing Technologist.",
+    "nano_prompt": "Golden fine line art illustration of a fanfare horn whose bell forms a marketing funnel narrowing downward, small conversion dots flowing through, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r096",
+    "sheet_id": "s046",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Instrumento Canivete",
+    "character_desc": "Um instrumento modular multiuso dentro dos instrumentos musicais: a combinação canivete-suíço de várias peças comunica o Solutions Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a swiss-army modular instrument combining a flute, strings and a horn into one adaptable configurable tool, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r097",
+    "sheet_id": "s046",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Corneta de Suporte",
+    "character_desc": "Uma corneta com headset dentro dos instrumentos musicais: o fone com microfone de atendimento comunica o Support Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a horn fitted with a support headset and microphone boom, a small help lifebuoy motif for customer assistance, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r098",
+    "sheet_id": "s046",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Trompete de Vendas",
+    "character_desc": "Um trompete reluzente dentro dos instrumentos musicais: o aperto de mãos gravado e o sino do negócio comunicam o Sales Engineer.",
+    "nano_prompt": "Golden fine line art illustration of a gleaming polished sales trumpet with an engraved handshake and a deal-closing bell flourish, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r099",
+    "sheet_id": "s046",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Marimba Contábil",
+    "character_desc": "Uma marimba-ábaco dentro dos instrumentos musicais: as barras que contam moedas com cifrão comunicam o FinOps Analyst.",
+    "nano_prompt": "Golden fine line art illustration of a marimba doubling as an abacus, its bars counting stacked coins with small currency symbols tallying cost, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s046-r100",
+    "sheet_id": "s046",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Tambor da Justiça",
+    "character_desc": "Um tambor da justiça dentro dos instrumentos musicais: os pratos em forma de balança e o martelo de juiz comunicam o Legal Counsel.",
+    "nano_prompt": "Golden fine line art illustration of a drum flanked by scales-of-justice cymbals, struck with a judge's gavel, a legal scroll tucked in its frame, thin single-weight gold contour lines, minimalist elegant lineart with delicate ornamental detailing, the complete instrument shown in full object framing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

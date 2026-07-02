@@ -1,0 +1,1002 @@
+[
+ {
+  "char_id": "s005-r001",
+  "sheet_id": "s005",
+  "role_id": "r001",
+  "role_slug": "arquiteto",
+  "role_name": "Arquiteto de Solução",
+  "character_name": "Nautilo-Mestre",
+  "character_desc": "Nautilus ancião cuja concha em espiral vira a planta de uma cidade submarina; segura um compasso de coral e uma cianotipia enrolada.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a chambered nautilus elder whose spiral shell is etched like a city blueprint, holding a coral drafting compass and a rolled blueprint scroll, wise composed expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r002",
+  "sheet_id": "s005",
+  "role_id": "r002",
+  "role_slug": "tech-lead",
+  "role_name": "Tech Lead",
+  "character_name": "Polvo-Timoneiro",
+  "character_desc": "Polvo líder que segura oito ferramentas com os tentáculos e aponta o caminho; expressão firme de quem coordena o cardume.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a leading octopus wielding eight different tools across its arms, one arm pointing forward directing the way, confident guiding expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r003",
+  "sheet_id": "s005",
+  "role_id": "r003",
+  "role_slug": "staff-engineer",
+  "role_name": "Staff Engineer",
+  "character_name": "Enguia-Ancestral",
+  "character_desc": "Enguia longeva coberta de conhecimento; carrega um grimório de coral e um cristal de decisão que ilumina os arredores.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a long-lived deep eel draped in coral runes, carrying a coral grimoire and a glowing decision crystal, serene senior expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r004",
+  "sheet_id": "s005",
+  "role_id": "r004",
+  "role_slug": "principal-engineer",
+  "role_name": "Principal Engineer",
+  "character_name": "Cachalote-Sábio",
+  "character_desc": "Cachalote de porte imponente com uma coroa discreta de corais raros; olhar de autoridade técnica máxima.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a dignified sperm whale figure wearing a subtle crown of rare corals, holding a staff topped with a faceted pearl, authoritative principal expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r005",
+  "sheet_id": "s005",
+  "role_id": "r005",
+  "role_slug": "eng-manager",
+  "role_name": "Engineering Manager",
+  "character_name": "Tartaruga-Guia",
+  "character_desc": "Tartaruga marinha acolhedora que reúne peixinhos sob suas nadadeiras; segura uma prancheta de conchas com o time.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a warm sea turtle gathering small fish under its flippers, holding a shell clipboard with a team roster, caring managerial smile, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r006",
+  "sheet_id": "s005",
+  "role_id": "r006",
+  "role_slug": "product-manager",
+  "role_name": "Product Manager",
+  "character_name": "Golfinho-Bússola",
+  "character_desc": "Golfinho carismático que segura um roadmap de algas e um post-it de coral; aponta para uma estrela-do-mar-alvo.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a charismatic dolphin holding a kelp roadmap and a coral sticky note, gesturing toward a starfish target icon, visionary expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r007",
+  "sheet_id": "s005",
+  "role_id": "r007",
+  "role_slug": "product-owner",
+  "role_name": "Product Owner",
+  "character_name": "Cavalo-Marinho-Dono",
+  "character_desc": "Cavalo-marinho que abraça um backlog de conchas empilhadas e prioriza cada uma com selos de pérola.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a seahorse cradling a stack of prioritized shell cards, pinning pearl markers on the top ones, focused ownership expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r008",
+  "sheet_id": "s005",
+  "role_id": "r008",
+  "role_slug": "program-manager",
+  "role_name": "Program Manager",
+  "character_name": "Arraia-Coordenadora",
+  "character_desc": "Arraia manta que estende as asas como um cronograma gigante ligando vários marcos de coral.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a manta ray spreading its wings like a giant timeline linking multiple coral milestone markers, orchestrating expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r009",
+  "sheet_id": "s005",
+  "role_id": "r009",
+  "role_slug": "project-manager",
+  "role_name": "Project Manager",
+  "character_name": "Caranguejo-Cronograma",
+  "character_desc": "Caranguejo organizado com um quadro de gantt feito de gravetos e um relógio de bolha; pinças seguram cronômetro.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a tidy crab holding a driftwood gantt-chart board and a bubble clock, one claw gripping a stopwatch, planning expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r010",
+  "sheet_id": "s005",
+  "role_id": "r010",
+  "role_slug": "scrum-master",
+  "role_name": "Scrum Master",
+  "character_name": "Água-Viva-Facilitadora",
+  "character_desc": "Água-viva serena que guia o cardume em círculos ágeis; segura um sino de coral para marcar as cerimônias.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a serene jellyfish guiding small fish in agile circles, holding a coral ceremony bell, facilitating gentle expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r011",
+  "sheet_id": "s005",
+  "role_id": "r011",
+  "role_slug": "backend-dev",
+  "role_name": "Backend Developer",
+  "character_name": "Peixe-Abissal-Servidor",
+  "character_desc": "Peixe abissal robusto com um rack de servidores de coral nas costas; segura um cabo bioluminescente conectado.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a sturdy abyssal fish carrying a coral server-rack on its back, holding a glowing connected cable, backend focused expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r012",
+  "sheet_id": "s005",
+  "role_id": "r012",
+  "role_slug": "api-designer",
+  "role_name": "API Designer",
+  "character_name": "Enguia-Conector",
+  "character_desc": "Enguia elegante cujos tentáculos terminam em plugues e tomadas de coral, desenhando contratos de conexão.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a sleek eel whose fins end in coral plugs and sockets, sketching an endpoint contract on a shell tablet, precise designer expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r013",
+  "sheet_id": "s005",
+  "role_id": "r013",
+  "role_slug": "microservices-eng",
+  "role_name": "Microservices Engineer",
+  "character_name": "Cardume-Modular",
+  "character_desc": "Pequeno peixe rodeado por mini-peixes-serviço independentes ligados por fios de luz; cada um faz uma tarefa.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a small fish surrounded by tiny independent service-fish linked by light threads, each doing one task, modular orchestrating expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r014",
+  "sheet_id": "s005",
+  "role_id": "r014",
+  "role_slug": "pipeline-dev",
+  "role_name": "Pipeline Developer",
+  "character_name": "Enguia-Esteira",
+  "character_desc": "Enguia-tubo que forma um duto contínuo transportando gotas de dados de uma ponta à outra.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a tube eel forming a continuous pipeline conveying glowing data droplets from end to end, flowing methodical expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r015",
+  "sheet_id": "s005",
+  "role_id": "r015",
+  "role_slug": "data-engineer",
+  "role_name": "Data Engineer",
+  "character_name": "Verme-Tubular-Dados",
+  "character_desc": "Verme de fontes hidrotermais que canaliza fluxos de partículas luminosas para tanques de coral.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a hydrothermal tube worm channeling streams of luminous particles into coral storage tanks, industrious data expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r016",
+  "sheet_id": "s005",
+  "role_id": "r016",
+  "role_slug": "dba",
+  "role_name": "Database Administrator",
+  "character_name": "Ostra-Guardiã",
+  "character_desc": "Ostra gigante que abriga fileiras de pérolas-registro em prateleiras; segura uma chave de coral do cofre.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a giant oyster housing neat rows of pearl-records on shelves, holding a coral vault key, meticulous guardian expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r017",
+  "sheet_id": "s005",
+  "role_id": "r017",
+  "role_slug": "sql-specialist",
+  "role_name": "SQL Specialist",
+  "character_name": "Moreia-Consulta",
+  "character_desc": "Moreia ágil que se enfia entre gavetas de coral puxando exatamente a pérola certa numa busca precisa.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: an agile moray eel darting between coral drawers pulling out exactly the right pearl in a precise query, sharp expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r018",
+  "sheet_id": "s005",
+  "role_id": "r018",
+  "role_slug": "caching-engineer",
+  "role_name": "Caching Engineer",
+  "character_name": "Peixe-Bolha-Rápido",
+  "character_desc": "Peixe-balão que guarda respostas prontas dentro de bolhas de acesso instantâneo ao seu redor.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a pufferfish storing ready answers inside instant-access bubbles around itself, quick-retrieval speedy expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r019",
+  "sheet_id": "s005",
+  "role_id": "r019",
+  "role_slug": "queue-engineer",
+  "role_name": "Message Queue Engineer",
+  "character_name": "Siri-Fila",
+  "character_desc": "Siri que enfileira mensagens em cápsulas de coral numa correia ordenada, entregando uma de cada vez.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a crab lining up message capsules on an orderly coral conveyor belt, delivering one at a time, orderly queue expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r020",
+  "sheet_id": "s005",
+  "role_id": "r020",
+  "role_slug": "search-engineer",
+  "role_name": "Search Engineer",
+  "character_name": "Peixe-Lanterna-Buscador",
+  "character_desc": "Peixe-lanterna que varre o escuro com um facho indexador, iluminando o item exato num banco de conchas.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a lanternfish sweeping the dark with an indexing beam, spotlighting the exact item in a shelf of shells, searching expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r021",
+  "sheet_id": "s005",
+  "role_id": "r021",
+  "role_slug": "frontend-dev",
+  "role_name": "Frontend Developer",
+  "character_name": "Peixe-Palhaço-Vitrine",
+  "character_desc": "Peixe-palhaço que monta uma interface de botões-anêmona coloridos flutuando à sua frente.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a clownfish assembling a floating interface of colorful anemone-buttons in front of it, cheerful frontend expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r022",
+  "sheet_id": "s005",
+  "role_id": "r022",
+  "role_slug": "ui-engineer",
+  "role_name": "UI Engineer",
+  "character_name": "Camarão-Pixel",
+  "character_desc": "Camarão preciso que encaixa componentes-conchas num grid perfeito com uma régua de coral.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a precise shrimp snapping shell-components into a perfect grid with a coral ruler, tidy UI expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r023",
+  "sheet_id": "s005",
+  "role_id": "r023",
+  "role_slug": "ux-designer",
+  "role_name": "UX Designer",
+  "character_name": "Lula-Empática",
+  "character_desc": "Lula que desenha o fluxo do usuário com linhas de tinta e segue um caminho de pegadas de estrela-do-mar.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a squid drawing a user-flow with ink lines and following a path of starfish footprints, empathetic UX expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r024",
+  "sheet_id": "s005",
+  "role_id": "r024",
+  "role_slug": "design-systems-eng",
+  "role_name": "Design Systems Engineer",
+  "character_name": "Coral-Bibliotecário",
+  "character_desc": "Colônia de coral que organiza uma biblioteca de componentes-pólipos idênticos e reutilizáveis.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a coral colony organizing a library of identical reusable polyp-components on tidy racks, systematic expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r025",
+  "sheet_id": "s005",
+  "role_id": "r025",
+  "role_slug": "a11y-specialist",
+  "role_name": "Accessibility Specialist",
+  "character_name": "Golfinho-Sonar",
+  "character_desc": "Golfinho que usa ecolocalização para incluir todos; carrega um guia em braille de conchas e um megafone gentil.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a dolphin using echolocation to include everyone, carrying a shell braille guide and a gentle megaphone, inclusive expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r026",
+  "sheet_id": "s005",
+  "role_id": "r026",
+  "role_slug": "web-perf-engineer",
+  "role_name": "Web Performance Engineer",
+  "character_name": "Peixe-Voador-Veloz",
+  "character_desc": "Peixe-voador aerodinâmico que corta a água carregando um cronômetro e descartando peso extra de algas.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a streamlined flying fish slicing the water carrying a stopwatch and shedding extra kelp weight, performance-tuned expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r027",
+  "sheet_id": "s005",
+  "role_id": "r027",
+  "role_slug": "css-specialist",
+  "role_name": "CSS Specialist",
+  "character_name": "Anêmona-Estilista",
+  "character_desc": "Anêmona que arruma seus tentáculos em camadas e cores estilizadas, com um pincel de coral e cartela de tons.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: an anemone arranging its tentacles into styled layered colors, holding a coral brush and a color swatch fan, stylist expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r028",
+  "sheet_id": "s005",
+  "role_id": "r028",
+  "role_slug": "animation-engineer",
+  "role_name": "Animation Engineer",
+  "character_name": "Água-Viva-Fluida",
+  "character_desc": "Água-viva cujo movimento deixa rastros de quadros-chave luminosos, desenhando uma curva de animação suave.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a jellyfish whose motion leaves glowing keyframe trails sketching a smooth easing curve, fluid animator expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r029",
+  "sheet_id": "s005",
+  "role_id": "r029",
+  "role_slug": "mobile-dev",
+  "role_name": "Mobile Developer",
+  "character_name": "Caranguejo-Ermitão-App",
+  "character_desc": "Caranguejo-ermitão que carrega um smartphone-concha como casa, tocando na tela de coral.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a hermit crab carrying a smartphone-shaped shell as its home, tapping a coral touchscreen, mobile-first expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r030",
+  "sheet_id": "s005",
+  "role_id": "r030",
+  "role_slug": "ios-dev",
+  "role_name": "iOS Developer",
+  "character_name": "Foca-Maçã",
+  "character_desc": "Foca elegante e minimalista que segura um tablet-concha polido com cantos arredondados impecáveis.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a sleek minimalist seal holding a polished shell-tablet with impeccably rounded corners, refined premium expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r031",
+  "sheet_id": "s005",
+  "role_id": "r031",
+  "role_slug": "android-dev",
+  "role_name": "Android Developer",
+  "character_name": "Tartaruga-Robô-Verde",
+  "character_desc": "Tartaruga com carapaça de circuitos verdes que monta widgets flutuantes num tablet de coral.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a turtle with a green-circuit shell assembling floating widgets on a coral tablet, friendly android-green expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r032",
+  "sheet_id": "s005",
+  "role_id": "r032",
+  "role_slug": "react-native-dev",
+  "role_name": "React Native Developer",
+  "character_name": "Polvo-Ponte",
+  "character_desc": "Polvo que segura dois tablets idênticos com um só braço, sincronizando as duas telas com fios de luz.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: an octopus holding two identical tablets with one arm, syncing both screens with light threads, cross-platform expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r033",
+  "sheet_id": "s005",
+  "role_id": "r033",
+  "role_slug": "flutter-dev",
+  "role_name": "Flutter Developer",
+  "character_name": "Arraia-Borboleta",
+  "character_desc": "Arraia com padrões de asa vibrantes que renderiza a mesma interface fluida em várias bolhas ao redor.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a butterfly ray with vibrant wing patterns rendering the same fluid interface across several surrounding bubbles, versatile expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r034",
+  "sheet_id": "s005",
+  "role_id": "r034",
+  "role_slug": "data-scientist",
+  "role_name": "Data Scientist",
+  "character_name": "Peixe-Barril-Cientista",
+  "character_desc": "Peixe-barril de cabeça transparente que examina gráficos flutuantes e segura um frasco de amostras luminosas.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a barreleye fish with a transparent head examining floating charts and holding a flask of luminous samples, analytical expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r035",
+  "sheet_id": "s005",
+  "role_id": "r035",
+  "role_slug": "ml-engineer",
+  "role_name": "ML Engineer",
+  "character_name": "Enguia-Elétrica-Modelo",
+  "character_desc": "Enguia-elétrica que treina um enxame de peixinhos-neurônio ligados por descargas de luz.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: an electric eel training a swarm of tiny neuron-fish connected by pulses of light, model-training expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r036",
+  "sheet_id": "s005",
+  "role_id": "r036",
+  "role_slug": "mlops-engineer",
+  "role_name": "MLOps Engineer",
+  "character_name": "Caranguejo-Yeti-Esteira",
+  "character_desc": "Caranguejo-yeti peludo que opera uma esteira que empacota modelos-conchas para lançamento contínuo.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a fuzzy yeti crab operating a conveyor that packages model-shells for continuous deployment, operations expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r037",
+  "sheet_id": "s005",
+  "role_id": "r037",
+  "role_slug": "ai-researcher",
+  "role_name": "AI Researcher",
+  "character_name": "Água-Viva-Cerebral",
+  "character_desc": "Água-viva translúcida com um cérebro-coral pulsante visível, rabiscando fórmulas em uma lousa de bolhas.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a translucent jellyfish with a visible pulsing coral-brain, scribbling formulas on a bubble chalkboard, curious researcher expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r038",
+  "sheet_id": "s005",
+  "role_id": "r038",
+  "role_slug": "llm-prompt",
+  "role_name": "Prompt Engineer",
+  "character_name": "Peixe-Sussurrador",
+  "character_desc": "Peixe-dragão que sopra balões de fala de coral perfeitamente moldados, ajustando cada palavra com pinça.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a dragonfish blowing perfectly shaped coral speech-bubbles, tweaking each word with tweezers, prompt-crafting expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r039",
+  "sheet_id": "s005",
+  "role_id": "r039",
+  "role_slug": "nlp-engineer",
+  "role_name": "NLP Engineer",
+  "character_name": "Enguia-Pelicano-Fala",
+  "character_desc": "Enguia-pelicano de boca enorme que engole e reordena palavras-conchas em frases coerentes.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a pelican eel with a huge mouth swallowing and reordering word-shells into coherent sentences, language-parsing expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r040",
+  "sheet_id": "s005",
+  "role_id": "r040",
+  "role_slug": "cv-engineer",
+  "role_name": "Computer Vision Engineer",
+  "character_name": "Peixe-Olho-Grande",
+  "character_desc": "Peixe de olhos gigantes que projeta um retículo de reconhecimento sobre objetos flutuantes.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a big-eyed fish projecting a recognition reticle over floating objects, scanning vision expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r041",
+  "sheet_id": "s005",
+  "role_id": "r041",
+  "role_slug": "data-analyst",
+  "role_name": "Data Analyst",
+  "character_name": "Estrela-do-Mar-Analista",
+  "character_desc": "Estrela-do-mar que aponta com cada braço para um número diferente num painel de conchas.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a starfish pointing each arm at a different number on a shell dashboard, insightful analyst expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r042",
+  "sheet_id": "s005",
+  "role_id": "r042",
+  "role_slug": "bi-analyst",
+  "role_name": "BI Analyst",
+  "character_name": "Peixe-Anjo-Relatório",
+  "character_desc": "Peixe-anjo que apresenta um gráfico de barras de coral crescente com um ponteiro de alga.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: an angelfish presenting a rising coral bar-chart with a kelp pointer, reporting expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r043",
+  "sheet_id": "s005",
+  "role_id": "r043",
+  "role_slug": "analytics-engineer",
+  "role_name": "Analytics Engineer",
+  "character_name": "Ouriço-Transformador",
+  "character_desc": "Ouriço-do-mar cujos espinhos são tubos que limpam e transformam gotas de dados brutos em cristais.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a sea urchin whose spines are tubes cleaning and transforming raw data droplets into tidy crystals, transforming expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r044",
+  "sheet_id": "s005",
+  "role_id": "r044",
+  "role_slug": "dataviz-specialist",
+  "role_name": "Data Viz Specialist",
+  "character_name": "Peixe-Pavão-Gráfico",
+  "character_desc": "Peixe colorido que abre uma cauda em leque de gráficos vibrantes como um painel vivo.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a colorful fish fanning out a peacock tail made of vibrant charts like a living dashboard, visualization expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r045",
+  "sheet_id": "s005",
+  "role_id": "r045",
+  "role_slug": "devops-installer",
+  "role_name": "DevOps Engineer",
+  "character_name": "Caranguejo-Ferramenteiro",
+  "character_desc": "Caranguejo com cinto de ferramentas de coral e uma chave-inglesa; instala engrenagens de esteira no leito.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a crab wearing a coral tool-belt and holding a wrench, installing conveyor gears on the seabed, hands-on devops expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r046",
+  "sheet_id": "s005",
+  "role_id": "r046",
+  "role_slug": "sre",
+  "role_name": "Site Reliability Engineer",
+  "character_name": "Polvo-Guardião-Uptime",
+  "character_desc": "Polvo vigilante que monitora vários mostradores de bolha ao mesmo tempo, apagando um alerta vermelho.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a vigilant octopus monitoring several bubble gauges at once, silencing a red alert dial, reliability expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r047",
+  "sheet_id": "s005",
+  "role_id": "r047",
+  "role_slug": "platform-engineer",
+  "role_name": "Platform Engineer",
+  "character_name": "Coral-Plataforma",
+  "character_desc": "Recife-plataforma sólido sobre o qual outros peixinhos constroem; oferece encaixes padronizados de coral.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a solid platform-reef on which other small fish build, offering standardized coral docking slots, foundational expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r048",
+  "sheet_id": "s005",
+  "role_id": "r048",
+  "role_slug": "cloud-architect",
+  "role_name": "Cloud Architect",
+  "character_name": "Água-Viva-Nuvem",
+  "character_desc": "Água-viva etérea em forma de nuvem que conecta ilhas de coral flutuantes com raios de luz.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: an ethereal cloud-shaped jellyfish connecting floating coral islands with beams of light, cloud-architect expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r049",
+  "sheet_id": "s005",
+  "role_id": "r049",
+  "role_slug": "k8s-admin",
+  "role_name": "Kubernetes Admin",
+  "character_name": "Polvo-Leme",
+  "character_desc": "Polvo cujo corpo é um timão de navio; orquestra contêineres-conchas idênticos girando ao redor.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: an octopus whose body is a ship's helm, orchestrating identical shell-containers spinning around it, container-herding expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r050",
+  "sheet_id": "s005",
+  "role_id": "r050",
+  "role_slug": "network-engineer",
+  "role_name": "Network Engineer",
+  "character_name": "Enguia-Cabo",
+  "character_desc": "Enguia comprida que conecta nós de coral distantes com um fio luminoso, testando a rota com um pingo de luz.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a long eel connecting distant coral nodes with a luminous wire, testing the route with a pulse of light, networking expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r051",
+  "sheet_id": "s005",
+  "role_id": "r051",
+  "role_slug": "sysadmin",
+  "role_name": "Systems Administrator",
+  "character_name": "Caranguejo-Zelador",
+  "character_desc": "Caranguejo veterano com um molho de chaves de coral e um óleo lubrificante, mantendo máquinas antigas.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a veteran crab with a ring of coral keys and an oil can, maintaining old seabed machines, steady sysadmin expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r052",
+  "sheet_id": "s005",
+  "role_id": "r052",
+  "role_slug": "release-engineer",
+  "role_name": "Release Engineer",
+  "character_name": "Peixe-Balão-Lançador",
+  "character_desc": "Peixe que embala uma versão-concha numa cápsula lacrada e a solta rumo à superfície.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a fish packing a version-shell into a sealed capsule and releasing it toward the surface, release expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r053",
+  "sheet_id": "s005",
+  "role_id": "r053",
+  "role_slug": "build-engineer",
+  "role_name": "Build Engineer",
+  "character_name": "Caranguejo-Montador",
+  "character_desc": "Caranguejo que compila peças-conchas soltas num bloco único e sólido sobre a bancada.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a crab compiling loose shell-parts into a single solid block on a workbench, build expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r054",
+  "sheet_id": "s005",
+  "role_id": "r054",
+  "role_slug": "cicd-engineer",
+  "role_name": "CI/CD Engineer",
+  "character_name": "Enguia-Loop",
+  "character_desc": "Enguia que forma um anel contínuo entre um ícone de teste e um de entrega, girando sem parar.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: an eel forming a continuous loop between a test icon and a delivery icon, spinning endlessly, automation expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r055",
+  "sheet_id": "s005",
+  "role_id": "r055",
+  "role_slug": "security-auditor",
+  "role_name": "Security Engineer",
+  "character_name": "Peixe-Escorpião-Guarda",
+  "character_desc": "Peixe-escorpião blindado com um escudo de coral e um cadeado luminoso preso ao peito.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: an armored scorpionfish holding a coral shield and a glowing padlock strapped to its chest, protective security expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r056",
+  "sheet_id": "s005",
+  "role_id": "r056",
+  "role_slug": "pentester",
+  "role_name": "Penetration Tester",
+  "character_name": "Peixe-Víbora-Testador",
+  "character_desc": "Peixe-víbora furtivo com uma gazua de coral, sondando frestas de uma parede de conchas.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a stealthy viperfish with a coral lockpick, probing cracks in a shell wall, intrusion-testing expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r057",
+  "sheet_id": "s005",
+  "role_id": "r057",
+  "role_slug": "appsec-engineer",
+  "role_name": "AppSec Engineer",
+  "character_name": "Caranguejo-Casca-Dura",
+  "character_desc": "Caranguejo de carapaça reforçada que remenda buracos numa aplicação-concha com selo de coral.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a hard-shelled crab patching holes in an application-shell with coral sealant, hardening appsec expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r058",
+  "sheet_id": "s005",
+  "role_id": "r058",
+  "role_slug": "cryptographer",
+  "role_name": "Cryptographer",
+  "character_name": "Lula-Cifradora",
+  "character_desc": "Lula que embaralha mensagens em nuvens de tinta codificada e guarda uma chave-pérola secreta.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a squid scrambling messages into clouds of coded ink and holding a secret pearl-key, cryptographer expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r059",
+  "sheet_id": "s005",
+  "role_id": "r059",
+  "role_slug": "compliance-officer",
+  "role_name": "Compliance Officer",
+  "character_name": "Tartaruga-Selo",
+  "character_desc": "Tartaruga formal com uma faixa de conchas e um carimbo de coral 'aprovado', conferindo uma lista.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a formal turtle wearing a shell sash and holding a coral 'approved' stamp, checking a compliance list, dutiful expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r060",
+  "sheet_id": "s005",
+  "role_id": "r060",
+  "role_slug": "privacy-engineer",
+  "role_name": "Privacy Engineer",
+  "character_name": "Polvo-Cortina",
+  "character_desc": "Polvo discreto que cobre dados-pérola sensíveis com um véu de tinta, revelando só o necessário.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a discreet octopus veiling sensitive pearl-data with an ink curtain, revealing only what is needed, privacy expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r061",
+  "sheet_id": "s005",
+  "role_id": "r061",
+  "role_slug": "incident-responder",
+  "role_name": "Incident Responder",
+  "character_name": "Peixe-Sino-Alerta",
+  "character_desc": "Peixe-sapo de guelras vermelhas que toca um sino de alarme e corre com um extintor de bolhas.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a red-gilled frogfish ringing an alarm bell and rushing with a bubble fire-extinguisher, urgent incident expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r062",
+  "sheet_id": "s005",
+  "role_id": "r062",
+  "role_slug": "threat-modeler",
+  "role_name": "Threat Modeler",
+  "character_name": "Aranha-do-Mar-Mapa",
+  "character_desc": "Aranha-do-mar que tece uma teia-mapa marcando pontos de ataque com pérolas vermelhas.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a sea spider weaving a map-web marking attack points with red pearls, threat-modeling expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r063",
+  "sheet_id": "s005",
+  "role_id": "r063",
+  "role_slug": "qa-tester",
+  "role_name": "QA Engineer",
+  "character_name": "Peixe-Lupa-Inspetor",
+  "character_desc": "Peixe curioso que segura uma lupa de coral e uma prancheta de checklist, marcando defeitos.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a curious fish holding a coral magnifying glass and a checklist clipboard, marking defects, inspecting QA expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r064",
+  "sheet_id": "s005",
+  "role_id": "r064",
+  "role_slug": "sdet",
+  "role_name": "SDET (Automação)",
+  "character_name": "Robô-Camarão-Auto",
+  "character_desc": "Camarão mecânico que dispara braços-teste automatizados repetindo verificações em conchas idênticas.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a mechanical shrimp firing automated test-arms repeating checks over identical shells, automation SDET expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r065",
+  "sheet_id": "s005",
+  "role_id": "r065",
+  "role_slug": "perf-tester",
+  "role_name": "Performance Tester",
+  "character_name": "Peixe-Balão-Carga",
+  "character_desc": "Peixe-balão que se infla ao máximo empurrando um medidor de pressão de coral ao limite.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a pufferfish inflating to the max pushing a coral pressure gauge to its limit, load-testing expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r066",
+  "sheet_id": "s005",
+  "role_id": "r066",
+  "role_slug": "manual-tester",
+  "role_name": "Manual Tester",
+  "character_name": "Polvo-Curioso",
+  "character_desc": "Polvo que cutuca cada botão-anêmona à mão, um por um, com expressão atenta de quem testa tudo.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: an octopus poking each anemone-button by hand one by one, attentive manual-testing expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r067",
+  "sheet_id": "s005",
+  "role_id": "r067",
+  "role_slug": "a11y-tester",
+  "role_name": "Accessibility Tester",
+  "character_name": "Golfinho-Inclusivo-Teste",
+  "character_desc": "Golfinho que testa a interface de olhos vendados por conchas, guiado só pelo som de um sino.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a dolphin testing an interface blindfolded by shells, guided only by a bell's sound, accessibility-testing expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r068",
+  "sheet_id": "s005",
+  "role_id": "r068",
+  "role_slug": "docs-writer",
+  "role_name": "Technical Writer",
+  "character_name": "Choco-Escritor",
+  "character_desc": "Choco (sépia) que escreve manuais claros com jatos de tinta, segurando uma pena de coral e um pergaminho.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a cuttlefish writing clear manuals with ink jets, holding a coral quill and a scroll, documenting expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r069",
+  "sheet_id": "s005",
+  "role_id": "r069",
+  "role_slug": "dev-advocate",
+  "role_name": "Developer Advocate",
+  "character_name": "Golfinho-Palco",
+  "character_desc": "Golfinho carismático num pequeno palco de coral com um microfone de bolha, empolgando a plateia de peixes.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a charismatic dolphin on a small coral stage with a bubble microphone, exciting a crowd of fish, advocate expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r070",
+  "sheet_id": "s005",
+  "role_id": "r070",
+  "role_slug": "content-strategist",
+  "role_name": "Content Strategist",
+  "character_name": "Peixe-Anjo-Curador",
+  "character_desc": "Peixe-anjo que organiza um calendário de conchas com temas de conteúdo, planejando uma narrativa.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: an angelfish arranging a shell calendar of content themes, planning a narrative, strategist expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r071",
+  "sheet_id": "s005",
+  "role_id": "r071",
+  "role_slug": "i18n-engineer",
+  "role_name": "Localization Engineer",
+  "character_name": "Peixe-Bandeira-Idiomas",
+  "character_desc": "Peixe que troca placas-conchas com símbolos de idiomas diferentes, adaptando a mesma mensagem.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a fish swapping shell-signs bearing different language symbols, adapting the same message, localization expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r072",
+  "sheet_id": "s005",
+  "role_id": "r072",
+  "role_slug": "product-designer",
+  "role_name": "Product Designer",
+  "character_name": "Lula-Produto",
+  "character_desc": "Lula que combina esboços de usuário e componentes-concha, equilibrando desejo e viabilidade numa balança.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a squid combining user sketches and shell-components, balancing desire and feasibility on a coral scale, product-design expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r073",
+  "sheet_id": "s005",
+  "role_id": "r073",
+  "role_slug": "visual-designer",
+  "role_name": "Visual Designer",
+  "character_name": "Peixe-Mandarim-Visual",
+  "character_desc": "Peixe-mandarim de cores deslumbrantes que segura uma paleta de coral e compõe um layout vibrante.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a dazzlingly colorful mandarinfish holding a coral palette composing a vibrant layout, visual-design expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r074",
+  "sheet_id": "s005",
+  "role_id": "r074",
+  "role_slug": "interaction-designer",
+  "role_name": "Interaction Designer",
+  "character_name": "Polvo-Botão",
+  "character_desc": "Polvo que desenha estados de interação em bolhas conectadas por setas, testando toque e resposta.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: an octopus sketching interaction states in bubbles connected by arrows, testing tap and response, interaction-design expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r075",
+  "sheet_id": "s005",
+  "role_id": "r075",
+  "role_slug": "motion-designer",
+  "role_name": "Motion Designer",
+  "character_name": "Água-Viva-Movimento",
+  "character_desc": "Água-viva que deixa rastros de setas de movimento coreografando uma transição elegante.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a jellyfish leaving motion-arrow trails choreographing an elegant transition, motion-design expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r076",
+  "sheet_id": "s005",
+  "role_id": "r076",
+  "role_slug": "illustrator",
+  "role_name": "Illustrator",
+  "character_name": "Choco-Ilustrador",
+  "character_desc": "Choco artístico que pinta uma cena de coral com jatos de tinta colorida e um pincel de alga.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: an artistic cuttlefish painting a coral scene with colorful ink jets and a kelp brush, illustrator expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r077",
+  "sheet_id": "s005",
+  "role_id": "r077",
+  "role_slug": "asset-designer",
+  "role_name": "Asset Designer",
+  "character_name": "Camarão-Pistola-Ativos",
+  "character_desc": "Camarão que estala a pinça produzindo em lote ícones-conchas idênticos e prontos para uso.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a pistol shrimp snapping its claw to mass-produce identical ready-to-use shell-icons, asset-making expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r078",
+  "sheet_id": "s005",
+  "role_id": "r078",
+  "role_slug": "brand-designer",
+  "role_name": "Brand Designer",
+  "character_name": "Peixe-Selo-Marca",
+  "character_desc": "Peixe elegante que apresenta um emblema de coral polido, cuidando da identidade do cardume.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: an elegant fish presenting a polished coral emblem, guarding the school's identity, brand expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r079",
+  "sheet_id": "s005",
+  "role_id": "r079",
+  "role_slug": "sound-designer",
+  "role_name": "Sound Designer",
+  "character_name": "Camarão-Estalo-Som",
+  "character_desc": "Camarão que gera ondas sonoras visíveis com a pinça e usa fones de concha, ajustando o áudio.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a shrimp generating visible sound waves with its claw and wearing shell headphones, tuning audio, sound-design expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r080",
+  "sheet_id": "s005",
+  "role_id": "r080",
+  "role_slug": "3d-artist",
+  "role_name": "3D Artist",
+  "character_name": "Escultor-Coral-3D",
+  "character_desc": "Peixe que esculpe um busto de coral facetado com formão, girando o modelo num pedestal de bolha.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a fish sculpting a faceted coral bust with a chisel, rotating the model on a bubble pedestal, 3D-artist expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r081",
+  "sheet_id": "s005",
+  "role_id": "r081",
+  "role_slug": "game-designer",
+  "role_name": "Game Designer",
+  "character_name": "Polvo-Regras",
+  "character_desc": "Polvo que arruma peças de jogo de coral num tabuleiro, ajustando dados-concha e cartas de regra.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: an octopus arranging coral game-pieces on a board, tweaking shell-dice and rule cards, game-design expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r082",
+  "sheet_id": "s005",
+  "role_id": "r082",
+  "role_slug": "level-designer",
+  "role_name": "Level Designer",
+  "character_name": "Caranguejo-Labirinto",
+  "character_desc": "Caranguejo que constrói um labirinto de coral em miniatura, posicionando obstáculos e um baú de tesouro.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a crab building a miniature coral maze, placing obstacles and a treasure chest, level-design expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r083",
+  "sheet_id": "s005",
+  "role_id": "r083",
+  "role_slug": "narrative-designer",
+  "role_name": "Narrative Designer",
+  "character_name": "Enguia-Contadora",
+  "character_desc": "Enguia que desenrola um pergaminho-história de coral com ramificações e escolhas marcadas por pérolas.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: an eel unrolling a coral story-scroll with branching paths and pearl-marked choices, narrative-design expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r084",
+  "sheet_id": "s005",
+  "role_id": "r084",
+  "role_slug": "game-dev",
+  "role_name": "Game Developer",
+  "character_name": "Peixe-Controle",
+  "character_desc": "Peixinho animado que segura um controle de videogame feito de conchas, dando vida ao jogo.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a lively fish holding a game controller made of shells, bringing the game to life, game-dev expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r085",
+  "sheet_id": "s005",
+  "role_id": "r085",
+  "role_slug": "graphics-engineer",
+  "role_name": "Graphics/Shader Engineer",
+  "character_name": "Peixe-Prisma-Shader",
+  "character_desc": "Peixe iridescente que refrata luz em facetas coloridas, pintando superfícies com um pincel de brilho.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: an iridescent fish refracting light into colorful facets, painting surfaces with a glow brush, shader expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r086",
+  "sheet_id": "s005",
+  "role_id": "r086",
+  "role_slug": "embedded-engineer",
+  "role_name": "Embedded Engineer",
+  "character_name": "Caranguejo-Chip",
+  "character_desc": "Caranguejo minúsculo que solda um chip de coral numa placa mínima, com uma lupa e ferro de solda.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a tiny crab soldering a coral chip onto a minimal board, with a loupe and soldering iron, embedded expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r087",
+  "sheet_id": "s005",
+  "role_id": "r087",
+  "role_slug": "firmware-engineer",
+  "role_name": "Firmware Engineer",
+  "character_name": "Verme-Firmware",
+  "character_desc": "Verme tubular que grava instruções gravadas em um pequeno cristal de controle preso ao seu tubo.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a tube worm etching low-level instructions into a small control crystal fixed to its tube, firmware expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r088",
+  "sheet_id": "s005",
+  "role_id": "r088",
+  "role_slug": "iot-engineer",
+  "role_name": "IoT Engineer",
+  "character_name": "Polvo-Sensor",
+  "character_desc": "Polvo cujos tentáculos terminam em sensores-concha conectados sem fio a boias luminosas ao redor.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: an octopus whose arms end in shell-sensors wirelessly linked to glowing buoys around it, IoT expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r089",
+  "sheet_id": "s005",
+  "role_id": "r089",
+  "role_slug": "blockchain-dev",
+  "role_name": "Blockchain Developer",
+  "character_name": "Cardume-Corrente",
+  "character_desc": "Cardume de peixinhos idênticos ligados em corrente, cada um carregando um bloco-concha selado.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a school of identical fish linked in a chain, each carrying a sealed shell-block, blockchain expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r090",
+  "sheet_id": "s005",
+  "role_id": "r090",
+  "role_slug": "smartcontract-auditor",
+  "role_name": "Smart Contract Auditor",
+  "character_name": "Peixe-Lupa-Contrato",
+  "character_desc": "Peixe rigoroso que examina um bloco-concha com lupa, procurando falhas com uma caneta vermelha de coral.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a rigorous fish examining a shell-block with a magnifier, hunting flaws with a red coral pen, audit expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r091",
+  "sheet_id": "s005",
+  "role_id": "r091",
+  "role_slug": "arvr-engineer",
+  "role_name": "AR/VR Engineer",
+  "character_name": "Peixe-Visor",
+  "character_desc": "Peixe que usa um visor de coral translúcido projetando camadas de realidade aumentada de peixinhos.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a fish wearing a translucent coral visor projecting augmented layers of tiny fish, immersive AR/VR expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r092",
+  "sheet_id": "s005",
+  "role_id": "r092",
+  "role_slug": "robotics-engineer",
+  "role_name": "Robotics Engineer",
+  "character_name": "Caranguejo-Autômato",
+  "character_desc": "Caranguejo meio mecânico com garras servomotoras e um pequeno braço robótico de coral articulado.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a half-mechanical crab with servo claws and a small articulated coral robotic arm, robotics expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r093",
+  "sheet_id": "s005",
+  "role_id": "r093",
+  "role_slug": "growth-engineer",
+  "role_name": "Growth Engineer",
+  "character_name": "Peixe-Foguete-Crescimento",
+  "character_desc": "Peixe impulsionado por uma cauda-foguete de bolhas, subindo um gráfico de coral em curva ascendente.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a fish propelled by a bubble rocket-tail, climbing an upward coral growth curve, growth expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r094",
+  "sheet_id": "s005",
+  "role_id": "r094",
+  "role_slug": "seo-specialist",
+  "role_name": "SEO Specialist",
+  "character_name": "Peixe-Íman-Busca",
+  "character_desc": "Peixe que atrai um cardume de peixinhos-visitantes com um íman de coral e palavras-chave em bolhas.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a fish attracting a school of visitor-fish with a coral magnet and keyword bubbles, SEO expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r095",
+  "sheet_id": "s005",
+  "role_id": "r095",
+  "role_slug": "marketing-tech",
+  "role_name": "Marketing Technologist",
+  "character_name": "Polvo-Funil",
+  "character_desc": "Polvo que segura um funil de coral canalizando peixinhos-lead e mira num alvo com megafone.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: an octopus holding a coral funnel channeling lead-fish and aiming at a target with a megaphone, marketing-tech expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r096",
+  "sheet_id": "s005",
+  "role_id": "r096",
+  "role_slug": "solutions-engineer",
+  "role_name": "Solutions Engineer",
+  "character_name": "Golfinho-Ponte-Solução",
+  "character_desc": "Golfinho que conecta a dúvida de um peixe-cliente a uma peça-concha técnica, montando a solução na hora.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a dolphin connecting a client-fish's question to a technical shell-piece, assembling the solution live, solutions expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r097",
+  "sheet_id": "s005",
+  "role_id": "r097",
+  "role_slug": "support-engineer",
+  "role_name": "Support Engineer",
+  "character_name": "Peixe-Limpador-Suporte",
+  "character_desc": "Peixe-limpador prestativo com um kit de reparos de coral e fones de concha, atendendo um chamado.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a helpful cleaner fish with a coral repair kit and shell headset, answering a support ticket, supportive expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r098",
+  "sheet_id": "s005",
+  "role_id": "r098",
+  "role_slug": "sales-engineer",
+  "role_name": "Sales Engineer",
+  "character_name": "Golfinho-Vitrine-Venda",
+  "character_desc": "Golfinho confiante que apresenta um produto-concha brilhante num pedestal, com aperto de nadadeira.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a confident dolphin presenting a shiny shell-product on a pedestal, offering a fin-shake, sales expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r099",
+  "sheet_id": "s005",
+  "role_id": "r099",
+  "role_slug": "finops",
+  "role_name": "FinOps Analyst",
+  "character_name": "Caranguejo-Cofre",
+  "character_desc": "Caranguejo econômico que pesa moedas-pérola numa balança de coral, cortando gastos com uma tesoura de alga.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a thrifty crab weighing pearl-coins on a coral scale, trimming costs with kelp scissors, finops expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ },
+ {
+  "char_id": "s005-r100",
+  "sheet_id": "s005",
+  "role_id": "r100",
+  "role_slug": "legal-counsel",
+  "role_name": "Legal Counsel",
+  "character_name": "Tartaruga-Toga",
+  "character_desc": "Tartaruga solene com uma toga de algas e um martelo de juiz de coral, apoiada num livro de leis-concha.",
+  "nano_prompt": "Low-poly 3D faceted render, flat-shaded geometric polygons, of a deep-sea creature: a solemn turtle wearing a kelp robe and holding a coral judge's gavel, resting on a shell law-book, legal expression, full-body floating pose, soft volumetric studio lighting, subtle bioluminescent accents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+ }
+]

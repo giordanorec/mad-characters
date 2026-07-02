@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s089-r001",
+    "sheet_id": "s089",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Archi",
+    "character_desc": "Mascote holográfico que vira arquiteto de solução: segura um pergaminho de blueprint e blocos de construção encaixáveis.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a blueprint blueprint-scroll and a set of interlocking building blocks, tiny hard-hat on head, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r002",
+    "sheet_id": "s089",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Léo Lead",
+    "character_desc": "Mascote holográfico que vira tech lead: usa headset e rege a equipe com uma batuta, pequena coroa de líder.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, wearing a headset and holding a conductor baton, small leader crown on head, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r003",
+    "sheet_id": "s089",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Staffo",
+    "character_desc": "Mascote holográfico que vira staff engineer: empunha uma chave-inglesa-cetro e ostenta um crachá de engrenagem.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, wielding a wrench-scepter and displaying a large gear badge on the chest, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r004",
+    "sheet_id": "s089",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Príncipe",
+    "character_desc": "Mascote holográfico que vira principal engineer: coroa de louros e um grande bastão com engrenagem no topo.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, wearing a laurel wreath and holding a tall staff topped with a big gear, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r005",
+    "sheet_id": "s089",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Gerê",
+    "character_desc": "Mascote holográfico que vira engineering manager: segura prancheta e caneca de café, com uma flâmula de time.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a clipboard and a coffee mug, a small team pennant flag tucked under one arm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r006",
+    "sheet_id": "s089",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Produtinho",
+    "character_desc": "Mascote holográfico que vira product manager: carrega um mapa-roadmap enrolado e uma bússola.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, carrying a rolled-up roadmap map and a compass, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r007",
+    "sheet_id": "s089",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Dona Backlog",
+    "character_desc": "Mascote holográfico que vira product owner: segura um pergaminho de backlog e usa uma faixa de dono.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a long backlog scroll and wearing an ownership sash ribbon, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r008",
+    "sheet_id": "s089",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Progô",
+    "character_desc": "Mascote holográfico que vira program manager: faz malabarismo com vários anéis interligados.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, juggling several interlinked rings connected by threads, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r009",
+    "sheet_id": "s089",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Projetinho",
+    "character_desc": "Mascote holográfico que vira project manager: exibe um estandarte de gráfico de Gantt e um cronômetro.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a Gantt-chart banner and a stopwatch, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r010",
+    "sheet_id": "s089",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Scrummy",
+    "character_desc": "Mascote holográfico que vira scrum master: apito de sprint no pescoço, leque de post-its e uma bola de scrum.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, a sprint whistle around the neck, a fan of sticky notes in one hand and a rugby scrum ball under the arm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r011",
+    "sheet_id": "s089",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Backy",
+    "character_desc": "Mascote holográfico que vira backend developer: mochila em forma de rack de servidor com engrenagens.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, wearing a server-rack backpack with tiny gears, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r012",
+    "sheet_id": "s089",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Api",
+    "character_desc": "Mascote holográfico que vira api designer: segura conectores plug-and-socket e um pergaminho de contrato.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding plug-and-socket connectors and a contract scroll, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r013",
+    "sheet_id": "s089",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Micro",
+    "character_desc": "Mascote holográfico que vira microservices engineer: fileira de mini cubos-contêiner presos num cordão.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, carrying a string of many tiny cube-shaped containers, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r014",
+    "sheet_id": "s089",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Tubo",
+    "character_desc": "Mascote holográfico que vira pipeline developer: segura tubos de esteira transportadora com peças fluindo.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding conveyor-belt pipes with small parts flowing through them, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r015",
+    "sheet_id": "s089",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Dado",
+    "character_desc": "Mascote holográfico que vira data engineer: carrega barris e canos com gotas de dados fluindo.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, carrying barrels and pipes with glowing data droplets flowing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r016",
+    "sheet_id": "s089",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Dibia",
+    "character_desc": "Mascote holográfico que vira database administrator: abraça um tambor cilíndrico de banco de dados com uma chave.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, hugging a cylindrical database drum and holding a key, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r017",
+    "sheet_id": "s089",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Esquele",
+    "character_desc": "Mascote holográfico que vira sql specialist: lupa de consulta e um escudo em grade de tabela.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a query magnifier and a table-grid shield, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r018",
+    "sheet_id": "s089",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Cachê",
+    "character_desc": "Mascote holográfico que vira caching engineer: gaveta de armazenamento veloz com um cronômetro.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a fast-access storage drawer box and a stopwatch, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r019",
+    "sheet_id": "s089",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Filô",
+    "character_desc": "Mascote holográfico que vira message queue engineer: fileira de envelopes numa esteira.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a line of envelopes moving along a small conveyor, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r020",
+    "sheet_id": "s089",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Busca",
+    "character_desc": "Mascote holográfico que vira search engineer: lupa gigante e um maço de fichas de índice.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a giant magnifying glass and a stack of index cards, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r021",
+    "sheet_id": "s089",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Fronty",
+    "character_desc": "Mascote holográfico que vira frontend developer: moldura de janela de navegador e um pincel.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a browser-window frame and a paintbrush, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r022",
+    "sheet_id": "s089",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Uinho",
+    "character_desc": "Mascote holográfico que vira ui engineer: bandeja com botões e sliders de widget.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a tray of button and slider UI widgets, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r023",
+    "sheet_id": "s089",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Uxita",
+    "character_desc": "Mascote holográfico que vira ux designer: bloco de wireframe e um mapa de jornada do usuário.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a wireframe sketchpad and a user-journey map, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r024",
+    "sheet_id": "s089",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Sisdê",
+    "character_desc": "Mascote holográfico que vira design systems engineer: conjunto de peças de biblioteca de componentes encaixáveis.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a set of interlocking component-library blocks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r025",
+    "sheet_id": "s089",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Acessa",
+    "character_desc": "Mascote holográfico que vira accessibility specialist: escudo com símbolo de acesso universal e um teclado braille.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a universal-access-symbol shield and a braille pad, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r026",
+    "sheet_id": "s089",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Veloz",
+    "character_desc": "Mascote holográfico que vira web performance engineer: velocímetro e uma pena.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a speedometer and a feather, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r027",
+    "sheet_id": "s089",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Cessê",
+    "character_desc": "Mascote holográfico que vira css specialist: paleta de tinta e uma régua de grade.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a paint palette and a grid ruler, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r028",
+    "sheet_id": "s089",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Anima",
+    "character_desc": "Mascote holográfico que vira animation engineer: fitas de rastro de movimento e um rolo de filme.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, surrounded by motion-trail streamers and holding a film reel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r029",
+    "sheet_id": "s089",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Mobi",
+    "character_desc": "Mascote holográfico que vira mobile developer: segura a carcaça de um smartphone.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a smartphone shell, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r030",
+    "sheet_id": "s089",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "iZinho",
+    "character_desc": "Mascote holográfico que vira ios developer: dispositivo arredondado elegante em forma de maçã.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a sleek rounded apple-shaped device, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r031",
+    "sheet_id": "s089",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Droidy",
+    "character_desc": "Mascote holográfico que vira android developer: acompanhado de um mini robô-droid amigável.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, accompanied by a small friendly droid-robot buddy, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r032",
+    "sheet_id": "s089",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Reacta",
+    "character_desc": "Mascote holográfico que vira react native developer: ponte entre dois celulares com órbita de átomo.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding two phones bridged by an orbiting atom symbol, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r033",
+    "sheet_id": "s089",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Flutty",
+    "character_desc": "Mascote holográfico que vira flutter developer: asas de borboleta e blocos de widget.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, with butterfly wings and holding widget blocks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r034",
+    "sheet_id": "s089",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Ciência",
+    "character_desc": "Mascote holográfico que vira data scientist: frasco de laboratório cheio de gráficos e uma lupa.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a lab flask full of tiny charts and a magnifier, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r035",
+    "sheet_id": "s089",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Eméli",
+    "character_desc": "Mascote holográfico que vira ml engineer: teia de rede neural e um cérebro-engrenagem.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a neural-network web and a gear-brain, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r036",
+    "sheet_id": "s089",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Mêlops",
+    "character_desc": "Mascote holográfico que vira mlops engineer: modelo dentro de uma caixa e um foguete de deploy.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a model-in-a-box and a small deployment rocket, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r037",
+    "sheet_id": "s089",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Pesqui",
+    "character_desc": "Mascote holográfico que vira ai researcher: orbe cerebral brilhante e um telescópio.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a glowing brain orb and a small telescope, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r038",
+    "sheet_id": "s089",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Prompty",
+    "character_desc": "Mascote holográfico que vira prompt engineer: varinha de balão de fala e um pergaminho de instruções.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a speech-bubble wand and a scroll of instructions, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r039",
+    "sheet_id": "s089",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Enelpê",
+    "character_desc": "Mascote holográfico que vira nlp engineer: livro com boca falante e etiquetas de idioma.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a talking-mouth book with language tags, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r040",
+    "sheet_id": "s089",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Visão",
+    "character_desc": "Mascote holográfico que vira computer vision engineer: óculos-câmera e uma moldura de bounding-box.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, wearing camera-eye goggles and holding a bounding-box frame, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r041",
+    "sheet_id": "s089",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Analu",
+    "character_desc": "Mascote holográfico que vira data analyst: prancheta de gráfico de barras e uma calculadora.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a bar-chart clipboard and a calculator, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r042",
+    "sheet_id": "s089",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Bibi",
+    "character_desc": "Mascote holográfico que vira bi analyst: escudo-dashboard cheio de medidores.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a dashboard shield full of gauges, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r043",
+    "sheet_id": "s089",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Analê",
+    "character_desc": "Mascote holográfico que vira analytics engineer: funil e um cano de métricas.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a funnel and a pipeline of flowing metrics, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r044",
+    "sheet_id": "s089",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Vizu",
+    "character_desc": "Mascote holográfico que vira data viz specialist: sombrinha em forma de gráfico de pizza arco-íris.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a rainbow pie-chart parasol, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r045",
+    "sheet_id": "s089",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Devo",
+    "character_desc": "Mascote holográfico que vira devops engineer: fita em laço de infinito e uma chave-inglesa.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding an infinity-loop ribbon and a wrench, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r046",
+    "sheet_id": "s089",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Esré",
+    "character_desc": "Mascote holográfico que vira site reliability engineer: pager, escudo e um medidor de uptime.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a pager, a shield and an uptime meter, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r047",
+    "sheet_id": "s089",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Plata",
+    "character_desc": "Mascote holográfico que vira platform engineer: em pé sobre uma placa-plataforma, carregando um kit de ferramentas.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, standing on a platform tile and carrying a toolkit, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r048",
+    "sheet_id": "s089",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Núvia",
+    "character_desc": "Mascote holográfico que vira cloud architect: mochila de nuvem fofa e um blueprint.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, wearing a fluffy cloud backpack and holding a blueprint, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r049",
+    "sheet_id": "s089",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Kubi",
+    "character_desc": "Mascote holográfico que vira kubernetes admin: timão de navio e contêineres empilhados.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a ship's helm wheel with stacked containers around, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r050",
+    "sheet_id": "s089",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Redi",
+    "character_desc": "Mascote holográfico que vira network engineer: teia de cabos e nós com antena de roteador.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a web of cables and nodes with a router antenna on head, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r051",
+    "sheet_id": "s089",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Sisad",
+    "character_desc": "Mascote holográfico que vira systems administrator: molho de chaves e avental com tela de terminal.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a keyring and wearing a terminal-screen apron, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r052",
+    "sheet_id": "s089",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Relis",
+    "character_desc": "Mascote holográfico que vira release engineer: foguete e um balão de etiqueta de versão.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a rocket and a version-tag balloon, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r053",
+    "sheet_id": "s089",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Bildo",
+    "character_desc": "Mascote holográfico que vira build engineer: martelo e blocos de tijolo empilhados.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a hammer and stacked brick blocks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r054",
+    "sheet_id": "s089",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Ciacidi",
+    "character_desc": "Mascote holográfico que vira ci/cd engineer: esteira em loop com bandeiras de check verde.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a looping conveyor with green-check flags, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r055",
+    "sheet_id": "s089",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Seguro",
+    "character_desc": "Mascote holográfico que vira security engineer: escudo e capacete com cadeado.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a shield and wearing a padlock helmet, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r056",
+    "sheet_id": "s089",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Pentê",
+    "character_desc": "Mascote holográfico que vira penetration tester: moletom com capuz, gazua e chave mestra amigável.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, wearing a hoodie, holding a lockpick and a friendly skeleton key, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r057",
+    "sheet_id": "s089",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Apsé",
+    "character_desc": "Mascote holográfico que vira appsec engineer: escudo em forma de app e uma rede de caçar bugs.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding an app-shaped shield and a bug-catching net, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r058",
+    "sheet_id": "s089",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cripto",
+    "character_desc": "Mascote holográfico que vira cryptographer: roda de cifra e um pergaminho trancado.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a cipher wheel and a locked scroll, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r059",
+    "sheet_id": "s089",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Compla",
+    "character_desc": "Mascote holográfico que vira compliance officer: pergaminho de checklist, carimbo e faixa.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a checklist scroll and a stamp, wearing a sash, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r060",
+    "sheet_id": "s089",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Priva",
+    "character_desc": "Mascote holográfico que vira privacy engineer: viseira incógnito mascarada e uma cortina.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, wearing a masked incognito visor and holding a privacy curtain, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r061",
+    "sheet_id": "s089",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Insi",
+    "character_desc": "Mascote holográfico que vira incident responder: estilo bombeiro com sino de alarme e extintor.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, in firefighter style holding an alarm bell and a fire extinguisher, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r062",
+    "sheet_id": "s089",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Trémo",
+    "character_desc": "Mascote holográfico que vira threat modeler: tabuleiro de xadrez e um mapa-radar de ameaças.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a chessboard and a radar threat-map, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r063",
+    "sheet_id": "s089",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Quá",
+    "character_desc": "Mascote holográfico que vira qa engineer: checklist, lupa e um carimbo verde.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a checklist, a magnifier and a green approval stamp, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r064",
+    "sheet_id": "s089",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Esdete",
+    "character_desc": "Mascote holográfico que vira sdet: varinha de braço-robô de teste e um checklist de engrenagem.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a robot-arm test wand and a gear checklist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r065",
+    "sheet_id": "s089",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Perfô",
+    "character_desc": "Mascote holográfico que vira performance tester: cronômetro e halteres de teste de carga.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a stopwatch and load-test dumbbells, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r066",
+    "sheet_id": "s089",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Manu",
+    "character_desc": "Mascote holográfico que vira manual tester: lupa e um caderno de passos.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a magnifier and a notebook of test steps, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r067",
+    "sheet_id": "s089",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Acetê",
+    "character_desc": "Mascote holográfico que vira accessibility tester: orelha, olho e um checklist com símbolo de acesso.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding an ear icon, an eye icon and an access-symbol checklist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r068",
+    "sheet_id": "s089",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Escriba",
+    "character_desc": "Mascote holográfico que vira technical writer: pena e um manual aberto.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a quill pen and an open manual book, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r069",
+    "sheet_id": "s089",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Adoga",
+    "character_desc": "Mascote holográfico que vira developer advocate: megafone com coração e um microfone de palco.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a heart-megaphone and a stage microphone, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r070",
+    "sheet_id": "s089",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Estrata",
+    "character_desc": "Mascote holográfico que vira content strategist: mapa de calendário de conteúdo e uma peça de quebra-cabeça.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a content-calendar map and a puzzle piece, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r071",
+    "sheet_id": "s089",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Locaí",
+    "character_desc": "Mascote holográfico que vira localization engineer: globo e balões de fala com bandeirinhas.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a globe with speech bubbles showing tiny flags, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r072",
+    "sheet_id": "s089",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Prodê",
+    "character_desc": "Mascote holográfico que vira product designer: lápis e uma moldura de protótipo.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a pencil and a prototype frame, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r073",
+    "sheet_id": "s089",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Vizú",
+    "character_desc": "Mascote holográfico que vira visual designer: paleta de cores e um pincel.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a color palette and a brush, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r074",
+    "sheet_id": "s089",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Intera",
+    "character_desc": "Mascote holográfico que vira interaction designer: mão de gesto de toque e setas de fluxo.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a tap-gesture hand and flow arrows, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r075",
+    "sheet_id": "s089",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Motô",
+    "character_desc": "Mascote holográfico que vira motion designer: fitas de movimento e diamantes de keyframe.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, surrounded by swirling motion ribbons and keyframe diamonds, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r076",
+    "sheet_id": "s089",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Ilú",
+    "character_desc": "Mascote holográfico que vira illustrator: lápis grande e um caderno de esboços.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a big pencil and a sketchbook, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r077",
+    "sheet_id": "s089",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Assê",
+    "character_desc": "Mascote holográfico que vira asset designer: grade de sprite-sheet e blocos de ícone.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a sprite-sheet grid and icon tiles, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r078",
+    "sheet_id": "s089",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Brandi",
+    "character_desc": "Mascote holográfico que vira brand designer: carimbo de logo e uma bandeira de marca.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a logo stamp and a brand flag, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r079",
+    "sheet_id": "s089",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Sono",
+    "character_desc": "Mascote holográfico que vira sound designer: fones de ouvido e um alto-falante de forma de onda.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, wearing headphones and holding a waveform speaker, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r080",
+    "sheet_id": "s089",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Tridê",
+    "character_desc": "Mascote holográfico que vira 3d artist: cubo em wireframe e uma ferramenta de escultura.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a wireframe cube and a sculpting tool, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r081",
+    "sheet_id": "s089",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Gamê",
+    "character_desc": "Mascote holográfico que vira game designer: dado, controle de videogame e um mapa de fase.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding dice, a game controller and a level map, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r082",
+    "sheet_id": "s089",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Levu",
+    "character_desc": "Mascote holográfico que vira level designer: blocos de mapa em tiles e uma bandeira de checkpoint.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding tiled map blocks and a checkpoint flag, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r083",
+    "sheet_id": "s089",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Narra",
+    "character_desc": "Mascote holográfico que vira narrative designer: livro de histórias e um galho de árvore de diálogo.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a storybook and a dialogue-tree branch, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r084",
+    "sheet_id": "s089",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Devgame",
+    "character_desc": "Mascote holográfico que vira game developer: controle de videogame e um cartucho de código.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a game controller and a code cartridge, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r085",
+    "sheet_id": "s089",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Xeidr",
+    "character_desc": "Mascote holográfico que vira graphics/shader engineer: prisma e um pincel de raio de luz.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a prism and a light-ray brush, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r086",
+    "sheet_id": "s089",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Embá",
+    "character_desc": "Mascote holográfico que vira embedded engineer: placa de circuito pequena e um chip.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a tiny circuit board and a chip, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r087",
+    "sheet_id": "s089",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Firmô",
+    "character_desc": "Mascote holográfico que vira firmware engineer: coroa de microchip e um ferro de solda.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, wearing a microchip crown and holding a soldering iron, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r088",
+    "sheet_id": "s089",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Iotê",
+    "character_desc": "Mascote holográfico que vira iot engineer: antena com gadgets-sensores conectados.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding an antenna with connected sensor-gadgets, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r089",
+    "sheet_id": "s089",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Bloco",
+    "character_desc": "Mascote holográfico que vira blockchain developer: corrente de blocos brilhantes.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a chain of glowing linked blocks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r090",
+    "sheet_id": "s089",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Contra",
+    "character_desc": "Mascote holográfico que vira smart contract auditor: pergaminho de contrato, lupa e selo de check.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a contract scroll, a magnifier and a checkmark seal, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r091",
+    "sheet_id": "s089",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Arvê",
+    "character_desc": "Mascote holográfico que vira ar/vr engineer: headset de VR e holo-cubos flutuantes.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, wearing a VR headset with floating holo-cubes around, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r092",
+    "sheet_id": "s089",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Robô",
+    "character_desc": "Mascote holográfico que vira robotics engineer: braço-robô companheiro e uma chave-inglesa.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, accompanied by a robot-arm buddy and holding a wrench, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r093",
+    "sheet_id": "s089",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Grôu",
+    "character_desc": "Mascote holográfico que vira growth engineer: foguete de seta ascendente, funil e um broto.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding an upward-arrow rocket, a funnel and a sprout, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r094",
+    "sheet_id": "s089",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Seô",
+    "character_desc": "Mascote holográfico que vira seo specialist: lupa, escada de ranking e etiquetas de palavra-chave.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a magnifier, a rank-ladder and keyword tags, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r095",
+    "sheet_id": "s089",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Marketé",
+    "character_desc": "Mascote holográfico que vira marketing technologist: megafone, engrenagem e um funil.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a megaphone, a gear and a funnel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r096",
+    "sheet_id": "s089",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Solu",
+    "character_desc": "Mascote holográfico que vira solutions engineer: peça de quebra-cabeça, kit de ferramentas e um aperto de mão.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a puzzle piece and a toolkit, making a handshake gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r097",
+    "sheet_id": "s089",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Suporte",
+    "character_desc": "Mascote holográfico que vira support engineer: headset, boia salva-vidas e uma chave-inglesa.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, wearing a headset and holding a life-ring and a wrench, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r098",
+    "sheet_id": "s089",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Vendô",
+    "character_desc": "Mascote holográfico que vira sales engineer: maleta, tela de demo e um aperto de mão.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a briefcase and a demo screen, making a handshake gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r099",
+    "sheet_id": "s089",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Finô",
+    "character_desc": "Mascote holográfico que vira finops analyst: moeda, calculadora e um medidor de custo.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding a coin, a calculator and a cost gauge, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s089-r100",
+    "sheet_id": "s089",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Legá",
+    "character_desc": "Mascote holográfico que vira legal counsel: balança da justiça, martelo de juiz e um pergaminho de lei.",
+    "nano_prompt": "Full-body cute generic rounded mascot character, plush foam body with a big friendly head, simple dot eyes and a tiny smile, standing upright in a full-body T-pose-relaxed stance, entire body and props made of holographic iridescent rainbow-foil material with prismatic light reflections and shifting spectral highlights, soft studio lighting, glossy foil sheen, holding scales of justice, a judge's gavel and a law scroll, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

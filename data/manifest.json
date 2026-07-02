@@ -1,0 +1,27 @@
+{
+ "totals": {
+  "sheets": 100,
+  "roles": 100,
+  "characters": 10000,
+  "grid_cols": 5,
+  "grid_rows": 5,
+  "chars_per_grid": 25,
+  "grids": 400
+ },
+ "character_id_scheme": "s{sheet:03d}-r{role:03d}",
+ "grid": {
+  "cell_px": 512,
+  "gutter_px": 24,
+  "margin_px": 24,
+  "final_px": 2704,
+  "background": "chromakey #00b140 (verde uniforme)",
+  "note": "Nano Banana não entrega alpha real confiável; geramos em chromakey verde e recortamos/removemos o fundo depois."
+ },
+ "navigation_axes": [
+  "role",
+  "analogy",
+  "aesthetic",
+  "family",
+  "category"
+ ]
+}

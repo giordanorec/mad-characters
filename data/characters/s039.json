@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s039-r001",
+    "sheet_id": "s039",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "O Arquiteto",
+    "character_desc": "Detetive-mestre que desenha o mapa do crime da cidade; comunica o papel pela planta desenrolada e o compasso de arquiteto.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a mastermind noir detective in fedora and trench coat unrolling a large blueprint city-map, holding a drafting compass, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r002",
+    "sheet_id": "s039",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Chefe Vance",
+    "character_desc": "O detetive que comanda o esquadrão apontando o mural do caso; a placa de líder e o mural de barbante vermelho dizem quem manda.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a lead noir detective in fedora pointing at a corkboard of clues with red string, badge pinned to lapel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r003",
+    "sheet_id": "s039",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Velho Marlow",
+    "character_desc": "Investigador veterano de olhar cansado; a lupa gasta e a experiência estampada dizem que ele já viu de tudo.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a seasoned veteran noir detective with a weathered magnifying glass, worn trench coat, tired knowing squint, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r004",
+    "sheet_id": "s039",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Comissário Pike",
+    "character_desc": "O detetive-chefe que decide tudo; o cachimbo e a insígnia de chefe marcam a autoridade máxima.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a chief noir detective in fedora smoking a briar pipe, senior chief's badge, commanding stern expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r005",
+    "sheet_id": "s039",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Capitão Reeve",
+    "character_desc": "Capitão da delegacia coordenando o time; o quepe e a prancheta de escala dizem que ele organiza os agentes.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a police-precinct captain in peaked cap holding a roster clipboard, dark uniform coat, authoritative pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r006",
+    "sheet_id": "s039",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Srta. Cole",
+    "character_desc": "Coordenadora do caso que junta as pistas; dossiês empilhados e o quadro de planejamento comunicam o papel.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a case-coordinator noir investigator holding a stack of dossier folders, planning board behind, sharp trench coat, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r007",
+    "sheet_id": "s039",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Dona do Caso",
+    "character_desc": "A que detém a pasta-mestre; o arquivo carimbado 'PROPRIEDADE' diz que a decisão final é dela.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir case-owner clutching a master file folder stamped with a wax seal, confident poised expression, elegant coat, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r008",
+    "sheet_id": "s039",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "O Maestro",
+    "character_desc": "Espião que coordena vários casos ao mesmo tempo; a parede de fotos e a linha do tempo mostram o alcance.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir spymaster gesturing at a wall of connected suspect photos and a timeline, trench coat, orchestrating pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r009",
+    "sheet_id": "s039",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Relojoeiro",
+    "character_desc": "Detetive obcecado por prazos; o relógio de bolso e o cronograma na mão dizem que ele controla o tempo.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a schedule-obsessed noir detective checking a pocket watch, a paper timeline chart in hand, punctual stern look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r010",
+    "sheet_id": "s039",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Facilitador",
+    "character_desc": "O que mantém o esquadrão no ritmo; cronômetro e fichas de anotação comunicam a cadência.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir squad facilitator holding a stopwatch and a fan of index cards, rolled sleeves, encouraging pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r011",
+    "sheet_id": "s039",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Rato de Arquivo",
+    "character_desc": "Trabalha na sala dos fundos entre registros; o fichário-servidor e os fios comunicam o backend.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a back-office noir detective among tall filing cabinets and tangled wires, shirt sleeves, focused expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r012",
+    "sheet_id": "s039",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "O Conector",
+    "character_desc": "O fixer que liga contatos; os plugues de mesa telefônica e o contrato dizem que ele conecta as pontas.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir fixer at a telephone switchboard holding plug cables and a contract, sharp vest, connecting gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r013",
+    "sheet_id": "s039",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Chaveiro",
+    "character_desc": "Espião que comanda uma rede de pequenos operativos; o molho de chavinhas e o mapa de rede mostram os nós.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir operative holding many small keys over a network diagram, trench coat, coordinating micro-agents, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r014",
+    "sheet_id": "s039",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Encanador",
+    "character_desc": "Move mercadoria pelos canais certos; o tubo pneumático e a esteira comunicam o pipeline.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir courier feeding a canister into a pneumatic tube by a conveyor, work coat, methodical pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r015",
+    "sheet_id": "s039",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Carregador",
+    "character_desc": "Transporta caixotes de evidências; os crates de arquivos e o carrinho dizem que ele move os dados.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir dockworker detective wheeling crates of evidence files on a hand truck, rolled sleeves, gritty look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r016",
+    "sheet_id": "s039",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Guarda-Livros",
+    "character_desc": "Zelador do cofre-arquivo; o livro-razão gigante e a chave do cofre comunicam o banco de dados.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir vault-keeper holding a massive ledger book and a heavy vault key, spectacles, meticulous expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r017",
+    "sheet_id": "s039",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Interrogador",
+    "character_desc": "O que arranca respostas com perguntas certas; a luminária de interrogatório e o bloco de perguntas dizem tudo.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir interrogator leaning under a swinging interrogation lamp with a query notebook, rolled sleeves, intense stare, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r018",
+    "sheet_id": "s039",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Esconderijo",
+    "character_desc": "Guarda o que precisa de acesso rápido; o cofre-parede oculto e a caixa de stash comunicam o cache.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir stash-keeper opening a hidden wall safe with a quick-access loot box, gloves, secretive glance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r019",
+    "sheet_id": "s039",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Despachante",
+    "character_desc": "O mensageiro que enfileira recados; a fila de envelopes e os tubos comunicam a fila de mensagens.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir dispatcher lining up numbered envelopes into pneumatic tubes, visor cap, orderly pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r020",
+    "sheet_id": "s039",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Farejador",
+    "character_desc": "Detetive rastreador tipo sabujo; a lupa, o mapa de alfinetes e a lanterna dizem que ele encontra qualquer um.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir tracker detective with a magnifying glass over a pin-marked map, holding a flashlight, determined squint, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r021",
+    "sheet_id": "s039",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "O Rosto",
+    "character_desc": "O homem da frente, elegante e afiado; o terno impecável e a fachada da loja comunicam o front-end.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a sharp-dressed noir front-man in a crisp suit posing before an ornate storefront window, charming confident face, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r022",
+    "sheet_id": "s039",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Vitrinista",
+    "character_desc": "Arruma a exposição perfeita; a vitrine e a prancheta de layout comunicam a interface.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir window-dresser arranging a display case with a layout board, tie and vest, precise arranging gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r023",
+    "sheet_id": "s039",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "A Observadora",
+    "character_desc": "Lê as pessoas com empatia; o bloco de anotações e o espelho falso comunicam a pesquisa de UX.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir observer detective quietly taking notes beside a one-way mirror, elegant coat, empathetic attentive look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r024",
+    "sheet_id": "s039",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Padrão-Ouro",
+    "character_desc": "Mantém o kit de ferramentas padronizado; o conjunto de ferramentas iguais e o estêncil comunicam o design system.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir detective holding a matched set of identical tools and a stencil template, orderly vest, systematic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r025",
+    "sheet_id": "s039",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "O Anfitrião",
+    "character_desc": "Garante que todos consigam entrar; a rampa, o cartão em braille e a bengala-guia comunicam a acessibilidade.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir detective holding a braille card beside a doorway ramp with a guiding cane, welcoming inclusive gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r026",
+    "sheet_id": "s039",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Motorista",
+    "character_desc": "O piloto de fuga veloz; o cronômetro e as luvas de direção comunicam a performance web.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir getaway driver in leather driving gloves gripping a stopwatch, cap and scarf, speed-focused intense look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r027",
+    "sheet_id": "s039",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "O Alfaiate",
+    "character_desc": "Estiliza cada detalhe; a fita métrica e o traje impecável comunicam o CSS.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir tailor detective with a measuring tape draped over a flawlessly styled suit, chalk in hand, refined pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r028",
+    "sheet_id": "s039",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Flipbook",
+    "character_desc": "Cria movimento quadro a quadro; o flipbook e o rolo de filme comunicam a animação.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir animator flipping a small flipbook beside a film reel, sleeves rolled, playful concentrated expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r029",
+    "sheet_id": "s039",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Agente de Campo",
+    "character_desc": "O espião sempre em movimento; a trench coat e o rádio de bolso comunicam o mobile.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a mobile noir field agent in trench coat clutching a pocket radio, hat brim low, on-the-move alert stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r030",
+    "sheet_id": "s039",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Elegante",
+    "character_desc": "O agente de elite polido; o gadget sofisticado e o terno refinado comunicam o iOS.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a sleek elite noir agent in an impeccable tailored suit holding a polished chrome gadget, suave confident look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r031",
+    "sheet_id": "s039",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Faz-Tudo",
+    "character_desc": "O operativo versátil e adaptável; o canivete multiuso comunica o Android.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a versatile noir operative holding an oversized multi-tool gadget, practical jacket, resourceful ready expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r032",
+    "sheet_id": "s039",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Duas Cidades",
+    "character_desc": "O agente que trabalha em duas frentes; dois passaportes e o disfarce duplo comunicam o React Native.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir double-agent fanning two passports, half his coat one style half another, dual-identity sly look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r033",
+    "sheet_id": "s039",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Camaleão",
+    "character_desc": "O agente de troca rápida; a pilha de chapéus e o kit único comunicam o Flutter.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a quick-change noir agent balancing a stack of different hats with a single tool kit, adaptable playful grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r034",
+    "sheet_id": "s039",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "O Analista",
+    "character_desc": "Detetive que lê padrões nas evidências; os gráficos, a lupa e o cachimbo comunicam a ciência de dados.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir analyst detective studying scatter charts with a magnifying glass and pipe, spectacles, deductive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r035",
+    "sheet_id": "s039",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Domador",
+    "character_desc": "Treina a máquina informante; o cérebro mecânico e as engrenagens comunicam o ML.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir engineer feeding data cards into a mechanical brain machine of gears, lab coat over shirt, focused pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r036",
+    "sheet_id": "s039",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "O Zelador",
+    "character_desc": "Mantém a máquina rodando sem parar; a lata de óleo e o painel de controle comunicam o MLOps.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir machinist oiling a whirring control panel with an oil can, work coat, vigilant maintenance stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r037",
+    "sheet_id": "s039",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "O Professor",
+    "character_desc": "O cientista-detetive genial; o quadro-negro de equações e os óculos comunicam a pesquisa em IA.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir professor detective before a chalkboard of equations, round glasses, chalk in hand, brilliant intense stare, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r038",
+    "sheet_id": "s039",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Sussurrador",
+    "character_desc": "Sabe exatamente o que perguntar; as fichas de perguntas sob a luminária comunicam o prompt engineering.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir interrogator arranging index cards of questions under a desk lamp, sly knowing smile, sleeves rolled, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r039",
+    "sheet_id": "s039",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "O Linguista",
+    "character_desc": "Decifra mensagens em qualquer idioma; o livro de códigos e cartas estrangeiras comunicam o NLP.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir linguist detective decoding foreign letters with a codebook, spectacles, absorbed translating expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r040",
+    "sheet_id": "s039",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Paparazzo",
+    "character_desc": "O fotógrafo de vigilância; a câmera e as folhas de contato comunicam a visão computacional.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir surveillance photographer raising a boxy flash camera beside contact sheets, brim hat, watchful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r041",
+    "sheet_id": "s039",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "O Contador",
+    "character_desc": "Lê os livros de registro; a máquina de somar e as planilhas comunicam a análise de dados.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir bookkeeper detective at an adding machine surrounded by ledger sheets, green eyeshade visor, meticulous look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r042",
+    "sheet_id": "s039",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Estrategista",
+    "character_desc": "Aponta os rumos nos gráficos; a placa de barras e o ponteiro comunicam o BI.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir strategist pointing at a bar-chart board with a wooden pointer, vest and tie, presenting confident pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r043",
+    "sheet_id": "s039",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "O Aferidor",
+    "character_desc": "Instala os medidores da operação; os manômetros e o painel de contagem comunicam a analytics engineering.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir engineer wiring gauges onto a tally board of dials, tool in hand, precise measuring expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r044",
+    "sheet_id": "s039",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "O Desenhista",
+    "character_desc": "Traça os diagramas elegantes; o gráfico refinado e a caneta técnica comunicam a data viz.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir draftsman drawing an elegant line graph with a technical pen, sleeve garters, careful artistic focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r045",
+    "sheet_id": "s039",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "O Mecânico",
+    "character_desc": "O fixer que conserta tudo; o cinto de ferramentas e a chave inglesa comunicam o DevOps.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir mechanic detective with a tool belt hoisting a large wrench, grease-smudged shirt, capable ready stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r046",
+    "sheet_id": "s039",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Sentinela",
+    "character_desc": "O vigia noturno que mantém as luzes acesas; a lanterna e o pager comunicam o SRE.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir night-watchman detective holding a lantern and a pager, long coat, alert weary midnight expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r047",
+    "sheet_id": "s039",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "O Construtor",
+    "character_desc": "Ergue o palco onde todos operam; o andaime e a planta do prédio comunicam o platform engineering.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir builder detective before scaffolding holding a building blueprint, work coat, foundational steady pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r048",
+    "sheet_id": "s039",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Penthouse",
+    "character_desc": "O mentor do alto da cidade; o skyline e as maquetes de prédios comunicam a arquitetura de nuvem.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir mastermind overlooking a city skyline with small building models on a table, tailored coat, lofty gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r049",
+    "sheet_id": "s039",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Estivador",
+    "character_desc": "Mestre do porto de contêineres; os contêineres e o manifesto comunicam o Kubernetes.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir harbor-master beside stacked shipping containers holding a cargo manifest, cap, orchestrating gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r050",
+    "sheet_id": "s039",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Grampeador",
+    "character_desc": "O que grampeia as linhas telefônicas; os fios e o fone comunicam o network engineering.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir wire-tapper splicing telephone lines with headphones on, tool in hand, covert concentrated look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r051",
+    "sheet_id": "s039",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "O Porteiro",
+    "character_desc": "O guardião de todas as chaves; o molho enorme e o painel de controle comunicam o sysadmin.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir custodian detective holding a huge ring of keys before a control board of switches, vest, watchful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r052",
+    "sheet_id": "s039",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "O Gatilho",
+    "character_desc": "Aciona o plano na hora certa; a alavanca e o carimbo 'LIBERAR' comunicam o release.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir operator pulling a big lever beside a folder stamped for release, sleeves rolled, decisive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r053",
+    "sheet_id": "s039",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Montador",
+    "character_desc": "Monta a operação peça por peça; o kit de construção e a planta comunicam o build.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir assembler detective fitting parts together with a construction toolkit and blueprint, focused careful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r054",
+    "sheet_id": "s039",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Esteira",
+    "character_desc": "Opera a linha de montagem contínua; a esteira e os carimbos de checagem comunicam o CI/CD.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir line-operator stamping items on a moving conveyor belt, checklist in hand, rhythmic methodical stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r055",
+    "sheet_id": "s039",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "O Guarda",
+    "character_desc": "O segurança de olhar duro; o distintivo, o cadeado e os óculos escuros comunicam a segurança.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir security guard in dark glasses holding a badge and a heavy padlock, broad coat, imposing stern pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r056",
+    "sheet_id": "s039",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Arrombador",
+    "character_desc": "O ladrão de cofres que testa defesas; as gazuas e o estetoscópio no cofre comunicam o pentest.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir safecracker in gloves pressing a stethoscope to a safe, lockpicks in hand, cunning focused expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r057",
+    "sheet_id": "s039",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "O Ronda",
+    "character_desc": "Checa cada porta do prédio; a lanterna e as fechaduras conferidas comunicam o AppSec.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir night-guard detective shining a flashlight while checking a door lock, key ring, vigilant careful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r058",
+    "sheet_id": "s039",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cifra",
+    "character_desc": "O quebra-códigos silencioso; a máquina de cifras e o bilhete codificado comunicam a criptografia.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir codebreaker at a cipher machine holding a coded note, spectacles, intense puzzle-solving concentration, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r059",
+    "sheet_id": "s039",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Assuntos Internos",
+    "character_desc": "O detetive que segue o livro à risca; o manual de regras e o carimbo comunicam o compliance.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir internal-affairs detective holding a thick rulebook and an approval stamp, buttoned coat, by-the-book stare, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r060",
+    "sheet_id": "s039",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "O Redator",
+    "character_desc": "O homem que censura documentos; o marcador preto riscando arquivos comunica a privacidade.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir agent redacting a document with a thick black marker, files stacked, discreet guarded expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r061",
+    "sheet_id": "s039",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Primeiro na Cena",
+    "character_desc": "O primeiro a chegar no incidente; a câmera de perícia e a fita de isolamento comunicam a resposta a incidentes.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir first-responder detective raising a crime-scene camera before evidence tape, coat, urgent alert expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r062",
+    "sheet_id": "s039",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "O Cartógrafo do Crime",
+    "character_desc": "Mapeia os criminosos e ameaças; o mural de suspeitos com barbante vermelho comunica o threat modeling.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir detective connecting suspect photos with red string on a corkboard, coat, calculating strategic look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r063",
+    "sheet_id": "s039",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "O Inspetor",
+    "character_desc": "Acha cada falha no caso; a lupa, a checklist e a caneta vermelha comunicam o QA.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir inspector detective marking a checklist with a red pen while holding a magnifying glass, meticulous frown, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r064",
+    "sheet_id": "s039",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Armadilheiro",
+    "character_desc": "Arma as ciladas automáticas; a ratoeira mecânica e a checklist comunicam a automação de testes.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir trap-setter rigging a mechanical trap device with a checklist, gloves, precise scheming expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r065",
+    "sheet_id": "s039",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Pressão",
+    "character_desc": "Testa até o limite; o cronômetro e o manômetro de pressão comunicam o teste de performance.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir stress-tester watching a pressure gauge with a stopwatch in hand, sleeves rolled, tense focused stare, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r066",
+    "sheet_id": "s039",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Mãos à Obra",
+    "character_desc": "O inspetor prático que testa na mão; as luvas e a lupa comunicam o teste manual.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir hands-on inspector in white gloves examining an object with a magnifier, careful deliberate expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r067",
+    "sheet_id": "s039",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Passe Livre",
+    "character_desc": "Confere se todos passam; a bengala e a checklist de rampa comunicam o teste de acessibilidade.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir tester checking a ramp with a guiding cane and an accessibility checklist, attentive thorough pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r068",
+    "sheet_id": "s039",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "O Repórter",
+    "character_desc": "O escriba que documenta tudo; a máquina de escrever e o chapéu de imprensa comunicam a escrita técnica.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir reporter detective at a typewriter with a press card in the hatband and a notepad, ink-stained fingers, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r069",
+    "sheet_id": "s039",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "O Porta-Voz",
+    "character_desc": "O falastrão que encanta a plateia; o microfone e o sorriso charmoso comunicam o dev advocacy.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir spokesman leaning into a vintage microphone with a charismatic grin, sharp suit, persuasive gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r070",
+    "sheet_id": "s039",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Editor-Chefe",
+    "character_desc": "Planeja a narrativa do conteúdo; o storyboard e o lápis vermelho comunicam a estratégia de conteúdo.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir editor plotting a storyboard with a red editing pencil, rolled sleeves and visor, strategic focused look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r071",
+    "sheet_id": "s039",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "O Poliglota",
+    "character_desc": "O espião de muitos idiomas; os vários passaportes e o guia de frases comunicam a localização.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir polyglot spy fanning several foreign passports and a phrasebook, worldly coat, adaptable clever smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r072",
+    "sheet_id": "s039",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Retratista",
+    "character_desc": "O detetive que esboça soluções; o bloco de desenho e o lápis comunicam o product design.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir sketch-artist detective drawing on a sketchpad with a pencil, vest, thoughtful designing expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r073",
+    "sheet_id": "s039",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "O Olho",
+    "character_desc": "O detetive de estética apurada; a moldura de composição e as amostras em cinza comunicam o visual design.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir visual designer framing a composition with his hands beside grayscale swatch cards, refined discerning gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r074",
+    "sheet_id": "s039",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Coreógrafo",
+    "character_desc": "Ordena cada movimento da interação; o fluxograma e os gestos comunicam o interaction design.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir choreographer detective gesturing over a flow diagram of arrows, sleeves rolled, orchestrating motion pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r075",
+    "sheet_id": "s039",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "O Montador",
+    "character_desc": "O editor de filme que dá ritmo; a fita de película e a lupa de edição comunicam o motion design.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir film-editor holding a strip of film to an editing loupe, visor, absorbed rhythmic concentration, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r076",
+    "sheet_id": "s039",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Retrato Falado",
+    "character_desc": "O artista de retrato-falado; o carvão e o esboço do suspeito comunicam a ilustração.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir police sketch-artist drawing a suspect portrait with charcoal, smudged fingers, observant creative look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r077",
+    "sheet_id": "s039",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Cenógrafo",
+    "character_desc": "O mestre de adereços da operação; a caixa de props e ferramentas comunica o asset design.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir prop-master detective holding a crate of assorted props and tools, work apron, resourceful arranging pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r078",
+    "sheet_id": "s039",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "O Falsário",
+    "character_desc": "Forja a identidade da marca; o sinete de cera e o carimbo de insígnia comunicam o branding.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir forger pressing a wax seal with an insignia stamp beside a monogram, precise gloved hands, sly focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r079",
+    "sheet_id": "s039",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Ouvido de Ouro",
+    "character_desc": "O homem do som que grampeia áudios; os fones e o gravador de rolo comunicam o sound design.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir sound-man wearing large headphones beside a reel-to-reel recorder, dim booth, listening intent expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r080",
+    "sheet_id": "s039",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "O Escultor",
+    "character_desc": "Molda os modelos em três dimensões; o busto de argila e as espátulas comunicam o 3D.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir sculptor detective shaping a clay bust with sculpting tools, apron over shirt, absorbed shaping expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r081",
+    "sheet_id": "s039",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "O Enigmista",
+    "character_desc": "O mestre dos jogos e enigmas; o tabuleiro de xadrez e os dados comunicam o game design.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir puzzle-master detective over a chessboard rolling dice, contemplative sly smile, tailored vest, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r082",
+    "sheet_id": "s039",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "O Labirinto",
+    "character_desc": "Desenha o labirinto do jogo; a planta de labirinto comunica o level design.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir cartographer sketching a maze blueprint with a ruler, sleeves rolled, meticulous designing focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r083",
+    "sheet_id": "s039",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "O Contista",
+    "character_desc": "O trama-enredos da história; as páginas de roteiro e o diagrama de trama comunicam o narrative design.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir storyteller detective holding script pages beside a plotted story diagram, pipe, imaginative narrating look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r084",
+    "sheet_id": "s039",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "O Operador",
+    "character_desc": "Constrói a máquina-jogo; o fliperama mecânico e os controles comunicam o game dev.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir operator working the controls of a mechanical pinball-like machine, sleeves rolled, playful focused pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r085",
+    "sheet_id": "s039",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Iluminador",
+    "character_desc": "O homem das luzes e sombras; o refletor de teatro e as gelatinas comunicam o shader engineering.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir lighting-man aiming a theatrical spotlight with colored gels, silhouette, dramatic adjusting gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r086",
+    "sheet_id": "s039",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "O Artificeiro",
+    "character_desc": "O técnico dos circuitos minúsculos; o dispositivo com fios e a pinça comunicam o embedded.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir bomb-tech detective handling a tiny wired device with tweezers, magnifier loupe, steady tense concentration, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r087",
+    "sheet_id": "s039",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "O Soldador",
+    "character_desc": "O tinkerer de gadgets; o ferro de solda e o chip comunicam o firmware.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir tinkerer soldering a small chip with a soldering iron, magnifier goggles up, meticulous delicate focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r088",
+    "sheet_id": "s039",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "O Grilo",
+    "character_desc": "Planta escutas em todo canto; os microfones ocultos e sensores minúsculos comunicam o IoT.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir bug-planter concealing tiny hidden microphones and sensors in his palm, coat, secretive careful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r089",
+    "sheet_id": "s039",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Correntes",
+    "character_desc": "Guarda o livro-razão inquebrável; o ledger acorrentado com cadeados encadeados comunica o blockchain.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir keeper cradling a ledger wrapped in interlinked padlock chains, gloves, guarding resolute expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r090",
+    "sheet_id": "s039",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "O Tabelião",
+    "character_desc": "Examina cada contrato à lupa; a lupa sobre o contrato e o sinete comunicam a auditoria de contratos.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir notary detective inspecting a contract with a magnifying glass beside a wax seal, spectacles, scrutinizing look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r091",
+    "sheet_id": "s039",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "O Ilusionista",
+    "character_desc": "Cria realidades com lentes estranhas; os óculos-visor peculiares comunicam o AR/VR.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir illusionist detective wearing strange stereoscopic goggles, hand raised in wonder, coat, uncanny expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r092",
+    "sheet_id": "s039",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "O Titereiro",
+    "character_desc": "Comanda um homem mecânico; a alavanca de controle e o braço robótico comunicam a robótica.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir puppeteer working a control lever linked to a mechanical robot arm, sleeves rolled, commanding focused pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r093",
+    "sheet_id": "s039",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "O Expansionista",
+    "character_desc": "O esquemático que amplia o território; o mapa da cidade com alfinetes se espalhando comunica o growth.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir schemer sticking spreading pins across a city map, coat, ambitious calculating grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r094",
+    "sheet_id": "s039",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "O Rastro",
+    "character_desc": "Deixa e segue trilhas para achar qualquer um; a lupa e o rastro de migalhas comunicam o SEO.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir tracker following a trail of breadcrumbs with a magnifying glass, brim hat, keen searching expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r095",
+    "sheet_id": "s039",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Cartaz",
+    "character_desc": "O homem da propaganda de rua; a cola de cartaz e o megafone comunicam o marketing tech.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir propaganda-man pasting a poster while holding a megaphone, cap and coat, persuasive energetic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r096",
+    "sheet_id": "s039",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "O Malabarista",
+    "character_desc": "O fixer com o gadget certo para cada problema; a maleta de engenhocas comunica o solutions engineering.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir fixer opening a briefcase full of gadgets, sharp suit, resourceful problem-solving expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r097",
+    "sheet_id": "s039",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Linha Direta",
+    "character_desc": "O operador da central de ajuda; o fone de ouvido e o balcão de atendimento comunicam o support.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir help-line operator wearing a telephone headset at a help desk, patient attentive expression, vest, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r098",
+    "sheet_id": "s039",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "O Vendedor",
+    "character_desc": "O con-man carismático que fecha negócio; a maleta aberta e o contrato comunicam o sales engineering.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir smooth-talking closer opening a briefcase toward the viewer with a contract, slick suit, charming grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r099",
+    "sheet_id": "s039",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "O Caixa",
+    "character_desc": "O contador da operação; o livro-razão, o dinheiro e a máquina de somar comunicam o FinOps.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir bookkeeper counting cash beside an adding machine and ledger, green eyeshade, shrewd calculating look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s039-r100",
+    "sheet_id": "s039",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "O Consigliere",
+    "character_desc": "O advogado da máfia; o livro de leis, o contrato e o charuto comunicam o legal counsel.",
+    "nano_prompt": "1940s film noir black-and-white character portrait, high-contrast monochrome, dramatic chiaroscuro side lighting with venetian-blind shadow stripes, grainy vintage cinema look, chest-up bust framing, a noir mob-lawyer detective holding a law book and contract with a cigar, three-piece suit, shrewd composed expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s070-r001",
+    "sheet_id": "s070",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Aedificus, o Construtor Celeste",
+    "character_desc": "Constelação do arquiteto mestre que traça o desenho do céu; adereços: compasso dourado, esquadro e uma planta estelar desenrolada.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a master celestial architect, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a golden compass and set-square and an unrolled starry blueprint, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r002",
+    "sheet_id": "s070",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Ductor, a Estrela-Guia",
+    "character_desc": "Constelação do líder técnico que aponta o rumo da equipe; adereços: báculo de comando e uma estrela-guia brilhante na mão erguida.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a guiding technical leader, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, raising a command staff and a bright guiding star in the other hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r003",
+    "sheet_id": "s070",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Fundamentum, o Pilar",
+    "character_desc": "Constelação do engenheiro-esteio que sustenta o firmamento; adereços: coluna-cariátide sobre o ombro e engrenagem-âncora dourada.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a staff engineer pillar-figure, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, shouldering a caryatid column and holding a golden anchor gear, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r004",
+    "sheet_id": "s070",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Princeps, o Soberano dos Sistemas",
+    "character_desc": "Constelação do principal engineer coroado; adereços: coroa de estrelas, cetro-diagrama e um orbe de arquitetura.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a principal-engineer sovereign, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, wearing a crown of stars, holding a diagram-scepter and an architecture orb, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r005",
+    "sheet_id": "s070",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Custos Gregis, o Pastor",
+    "character_desc": "Constelação do gestor que reúne o rebanho de estrelas; adereços: cajado de pastor e uma pequena órbita de estrelinhas ao redor.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a engineering-manager shepherd, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, leaning on a shepherd's crook while small stars orbit around the figure, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r006",
+    "sheet_id": "s070",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Visio, a Visionária",
+    "character_desc": "Constelação da product manager que vê o roadmap no céu; adereços: luneta dourada e um pergaminho-mapa de rota.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a product-manager visionary, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, peering through a golden spyglass and holding a rolled roadmap scroll, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r007",
+    "sheet_id": "s070",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Dominus Operis, o Guardião do Backlog",
+    "character_desc": "Constelação do product owner que ordena as tarefas do firmamento; adereços: tábua-lista priorizada e pena dourada.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a product-owner keeper, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a prioritized tablet-list and a golden quill, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r008",
+    "sheet_id": "s070",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Coordinator, o Tecelão de Órbitas",
+    "character_desc": "Constelação do program manager que alinha muitas órbitas; adereços: astrolábio de múltiplos anéis interligados.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a program-manager weaver, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, operating a many-ringed interlinked astrolabe, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r009",
+    "sheet_id": "s070",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Temporis, o Cronista",
+    "character_desc": "Constelação do project manager que rege prazos; adereços: ampulheta estelar e um diagrama-Gantt em forma de linhas do tempo brilhantes.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a project-manager chronicler, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a starry hourglass and a glowing timeline Gantt-chart, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r010",
+    "sheet_id": "s070",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Cursor Sacer, o Mestre do Ritmo",
+    "character_desc": "Constelação do scrum master que marca as cadências; adereços: quadro-kanban celeste e sino de cerimônia.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a scrum-master rhythm keeper, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a celestial kanban board and a ceremony bell, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r011",
+    "sheet_id": "s070",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Faber Umbrae, o Ferreiro dos Bastidores",
+    "character_desc": "Constelação do backend dev que forja a lógica oculta; adereços: bigorna-servidor e martelo de engrenagens.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a backend-developer smith, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, hammering a server-anvil with a gear-hammer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r012",
+    "sheet_id": "s070",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Portarum, o Guardião dos Portais",
+    "character_desc": "Constelação do API designer que abre passagens entre mundos; adereços: molho de chaves-endpoint e um arco-portal.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a API-designer gatekeeper, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a ring of endpoint-keys before an archway portal, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r013",
+    "sheet_id": "s070",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Mosaicus, o Fragmentador",
+    "character_desc": "Constelação do engenheiro de microsserviços que divide o todo em muitos; adereços: mosaico de pequenos cubos-serviço flutuantes.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a microservices engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, surrounded by many small floating service-cubes forming a mosaic, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r014",
+    "sheet_id": "s070",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Fluvius, o Canalizador",
+    "character_desc": "Constelação do pipeline dev que conduz o fluxo de dados; adereços: aquedutos dourados e uma comporta luminosa.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a pipeline-developer channeler, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, guiding golden aqueduct channels and a luminous floodgate, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r015",
+    "sheet_id": "s070",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Aquilifer Datorum, o Portador de Dados",
+    "character_desc": "Constelação do data engineer que transporta rios de dados; adereços: cântaros interligados vertendo estrelas.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a data-engineer bearer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, carrying linked amphorae pouring streams of stars, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r016",
+    "sheet_id": "s070",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Custos Archivii, o Zelador do Cofre",
+    "character_desc": "Constelação do DBA que guarda o grande arquivo; adereços: chave-cofre e colunas de tabelas em cristal.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a database-administrator keeper, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a vault-key beside crystalline table-columns, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r017",
+    "sheet_id": "s070",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Interrogator, o Inquiridor",
+    "character_desc": "Constelação do SQL specialist que consulta o oráculo dos dados; adereços: pergaminho de consulta e lupa dourada.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a SQL-specialist inquirer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a query scroll and a golden magnifying lens, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r018",
+    "sheet_id": "s070",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Memoria Fulgens, o Guardião Veloz",
+    "character_desc": "Constelação do caching engineer que guarda o que é frequente à mão; adereços: relicário-cache brilhante e ampulheta veloz.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a caching-engineer keeper, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a glowing cache-reliquary and a swift hourglass, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r019",
+    "sheet_id": "s070",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Nuntius, o Estafeta",
+    "character_desc": "Constelação do engenheiro de filas que ordena mensagens; adereços: fileira de envelopes-estrela em uma esteira dourada.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a message-queue engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, arranging a row of star-envelopes along a golden conveyor, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r020",
+    "sheet_id": "s070",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Quaesitor, o Rastreador",
+    "character_desc": "Constelação do search engineer que encontra tudo no céu; adereços: lanterna-índice e bússola de busca radiante.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a search-engineer tracker, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding an index-lantern and a radiant search compass, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r021",
+    "sheet_id": "s070",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Facies Caeli, a Face do Céu",
+    "character_desc": "Constelação do frontend dev que dá rosto ao sistema; adereços: moldura-janela luminosa e pincel de interface.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a frontend-developer face-maker, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a luminous window-frame and an interface brush, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r022",
+    "sheet_id": "s070",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Structor Formae, o Montador",
+    "character_desc": "Constelação do UI engineer que ergue componentes; adereços: blocos-widget encaixáveis e régua dourada.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a UI-engineer builder, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, assembling snap-together widget-blocks with a golden ruler, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r023",
+    "sheet_id": "s070",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Iter Fluidum, a Guia do Caminho",
+    "character_desc": "Constelação do UX designer que desenha jornadas; adereços: mapa de fluxo com trilha de estrelas conectadas.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a UX-designer guide, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, tracing a flow-map with a trail of connected stars, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r024",
+    "sheet_id": "s070",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Norma Astra, o Legislador dos Padrões",
+    "character_desc": "Constelação do design systems eng que unifica os padrões; adereços: catálogo de tokens brilhantes e paleta-diapasão.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a design-systems engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a catalog of glowing tokens and a tuning-fork palette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r025",
+    "sheet_id": "s070",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Aditus Omnibus, a Porta de Todos",
+    "character_desc": "Constelação do especialista em acessibilidade que abre o céu a todos; adereços: rampa dourada e símbolo de acesso radiante.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a accessibility specialist, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a golden ramp and a radiant universal-access emblem, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r026",
+    "sheet_id": "s070",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Celeritas, o Veloz",
+    "character_desc": "Constelação do web performance engineer que enxuga o tempo; adereços: cronômetro estelar e asas nos pés.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a web-performance engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a starry stopwatch with small wings at the feet, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r027",
+    "sheet_id": "s070",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Ornator, o Estilista",
+    "character_desc": "Constelação do CSS specialist que veste a interface; adereços: tinteiros de cor e pincéis-estilo dourados.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a CSS-specialist stylist, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding color inkwells and golden style-brushes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r028",
+    "sheet_id": "s070",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Motus, o Animador",
+    "character_desc": "Constelação do animation engineer que dá vida ao movimento; adereços: rastros de estrelas em arco e curvas de easing.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a animation engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, surrounded by arcing star-trails and easing-curve ribbons, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r029",
+    "sheet_id": "s070",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Palmaris, o Portátil",
+    "character_desc": "Constelação do mobile dev que cabe na mão; adereços: pequena placa-tablet luminosa segurada na palma.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a mobile-developer figure, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, cradling a small luminous tablet-slate in the palm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r030",
+    "sheet_id": "s070",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Pomarius, o do Fruto",
+    "character_desc": "Constelação do iOS dev; adereços: uma maçã-estrela dourada e um dispositivo polido de bordas suaves.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a iOS-developer figure, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a golden star-apple and a smooth polished device, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r031",
+    "sheet_id": "s070",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Automaton Viridis, o Andróide",
+    "character_desc": "Constelação do Android dev; adereços: pequeno autômato-robô amigável e engrenagem verde-dourada.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a Android-developer figure, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, accompanied by a small friendly robot-automaton and a green-gold gear, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r032",
+    "sheet_id": "s070",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Pontifex Duplex, o de Duas Pontes",
+    "character_desc": "Constelação do React Native dev que une dois mundos móveis; adereços: átomo-orbital dourado ligando duas placas.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a React-Native developer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a golden orbital-atom bridging two small device-plates, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r033",
+    "sheet_id": "s070",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Papilio Velox, a Borboleta Veloz",
+    "character_desc": "Constelação do Flutter dev; adereços: asas de borboleta dourada e um pincel que pinta telas.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a Flutter-developer figure, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, with golden butterfly wings holding a screen-painting brush, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r034",
+    "sheet_id": "s070",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Auguris, o Adivinho",
+    "character_desc": "Constelação do data scientist que lê presságios nos números; adereços: esfera-modelo e cartas de dispersão de estrelas.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a data-scientist augur, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a model-sphere and scatter-plot star cards, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r035",
+    "sheet_id": "s070",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Domitor Machinae, o Domador",
+    "character_desc": "Constelação do ML engineer que treina modelos; adereços: rédeas ligadas a uma fera-rede neural dourada.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a ML-engineer tamer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding reins tied to a golden neural-network beast, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r036",
+    "sheet_id": "s070",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Custos Modelli, o Zelador do Ciclo",
+    "character_desc": "Constelação do MLOps eng que mantém os modelos vivos; adereços: esteira circular de engrenagens e frasco-modelo versionado.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a MLOps engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, tending a circular gear-conveyor and a versioned model-flask, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r037",
+    "sheet_id": "s070",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Investigator Astris, o Explorador",
+    "character_desc": "Constelação do AI researcher que sonda o desconhecido; adereços: telescópio profundo e caderno de hipóteses estelares.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a AI-researcher explorer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, peering through a deep telescope and holding a hypothesis notebook, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r038",
+    "sheet_id": "s070",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Verbifex, o Encantador de Palavras",
+    "character_desc": "Constelação do prompt engineer que molda instruções; adereços: pergaminho de encantamento e varinha-caneta dourada.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a prompt-engineer wordsmith, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding an incantation scroll and a golden quill-wand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r039",
+    "sheet_id": "s070",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Lingua Astra, a Voz dos Astros",
+    "character_desc": "Constelação do NLP engineer que entende a fala; adereços: pergaminho de glifos e ondas sonoras douradas saindo dos lábios.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a NLP-engineer figure, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a glyph scroll with golden sound-waves emanating, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r040",
+    "sheet_id": "s070",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Oculus Magnus, o Grande Olho",
+    "character_desc": "Constelação do computer vision eng que enxerga formas; adereços: olho-luneta radiante e grade de reconhecimento sobre a mão.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a computer-vision engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a radiant eye-lens with a recognition-grid over the hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r041",
+    "sheet_id": "s070",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Numerus, o Contador de Estrelas",
+    "character_desc": "Constelação do data analyst que soma o céu; adereços: ábaco estelar e tábua de gráficos.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a data-analyst figure, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a star-abacus and a chart tablet, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r042",
+    "sheet_id": "s070",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Speculum Rerum, o Espelho do Negócio",
+    "character_desc": "Constelação do BI analyst que reflete o panorama; adereços: painel-mostrador com medidores dourados.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a BI-analyst figure, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, presenting a dashboard panel with golden gauges, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r043",
+    "sheet_id": "s070",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Fabricator Metricae, o Refinador",
+    "character_desc": "Constelação do analytics engineer que modela métricas; adereços: alambique que destila números em estrelas.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a analytics engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, operating an alembic distilling numbers into stars, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r044",
+    "sheet_id": "s070",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Pictor Astrorum, o Pintor de Dados",
+    "character_desc": "Constelação do dataviz specialist que desenha gráficos; adereços: paleta e cavalete com gráfico de estrelas.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a data-viz specialist, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, at a golden easel painting a star-chart graph with a palette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r045",
+    "sheet_id": "s070",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Machinator, o Mecânico Celeste",
+    "character_desc": "Constelação do DevOps que engrena entrega e operação; adereços: fita infinita dourada e chave de fenda-cometa.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a DevOps engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a golden infinity-loop ribbon and a comet screwdriver, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r046",
+    "sheet_id": "s070",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Vigil Perennis, o Sentinela",
+    "character_desc": "Constelação do SRE que vela pela estabilidade; adereços: escudo-radar e lanterna de plantão sempre acesa.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a site-reliability engineer sentinel, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a radar-shield and an ever-lit watch lantern, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r047",
+    "sheet_id": "s070",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Basis Communis, o Fundador da Plataforma",
+    "character_desc": "Constelação do platform engineer que ergue o chão comum; adereços: plataforma flutuante dourada e alavanca de provisionamento.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a platform engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, standing on a floating golden platform holding a provisioning lever, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r048",
+    "sheet_id": "s070",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Nubifer, o Senhor das Nuvens",
+    "character_desc": "Constelação do cloud architect que rege os céus; adereços: nuvens douradas nas mãos e cetro-servidor etéreo.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a cloud-architect lord, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, cupping golden clouds and holding an ethereal server-scepter, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r049",
+    "sheet_id": "s070",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Gubernator, o Timoneiro",
+    "character_desc": "Constelação do Kubernetes admin que pilota o leme; adereços: leme de sete raios dourado e contêineres empilhados.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a Kubernetes-admin helmsman, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, steering a seven-spoke golden helm beside stacked containers, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r050",
+    "sheet_id": "s070",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Nexus, o Tecelão de Redes",
+    "character_desc": "Constelação do network engineer que liga os pontos; adereços: teia de fios dourados entre nós-estrela.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a network engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, weaving a web of golden threads between star-nodes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r051",
+    "sheet_id": "s070",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Curator Machinarum, o Zelador",
+    "character_desc": "Constelação do sysadmin que mantém tudo de pé; adereços: molho de chaves e painel de alavancas douradas.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a systems-administrator caretaker, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a key-ring before a panel of golden levers, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r052",
+    "sheet_id": "s070",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Emissor, o Lançador",
+    "character_desc": "Constelação do release engineer que solta versões ao céu; adereços: foguete-versão dourado e alavanca de lançamento.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a release engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, launching a golden version-rocket with a release lever, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r053",
+    "sheet_id": "s070",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Compilator, o Forjador de Artefatos",
+    "character_desc": "Constelação do build engineer que funde partes em um todo; adereços: forno dourado que sela um artefato-lingote.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a build engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, operating a golden furnace sealing an artifact-ingot, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r054",
+    "sheet_id": "s070",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Cursus Perpetuus, o Esteira Sem Fim",
+    "character_desc": "Constelação do CI/CD eng que move em ciclo contínuo; adereços: esteira circular com etapas-estrela acesas.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a CI/CD engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, tending a circular conveyor of lit stage-stars, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r055",
+    "sheet_id": "s070",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Aegis, o Escudeiro",
+    "character_desc": "Constelação do security engineer que protege o firmamento; adereços: escudo brasonado e cadeado dourado.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a security engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a crested shield and a golden padlock, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r056",
+    "sheet_id": "s070",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Explorator Rimarum, o Sondador de Brechas",
+    "character_desc": "Constelação do pentester que testa as muralhas; adereços: gazua dourada e capuz de infiltrador estelar.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a penetration tester, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, hooded, holding a golden lockpick and probing a wall, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r057",
+    "sheet_id": "s070",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Custos Codicis, o Guardião do Código",
+    "character_desc": "Constelação do AppSec eng que blinda o aplicativo; adereços: escudo-código e lupa de auditoria.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a AppSec engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a code-shield and an audit magnifier, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r058",
+    "sheet_id": "s070",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Aenigma, o Cifrador",
+    "character_desc": "Constelação do cryptographer que sela segredos; adereços: disco-cifra giratório e chave dupla dourada.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a cryptographer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, turning a rotating cipher-disc holding a golden dual-key, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r059",
+    "sheet_id": "s070",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Arbiter Legis, o Guardião das Normas",
+    "character_desc": "Constelação do compliance officer que pesa as regras; adereços: balança dourada e códice de selos.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a compliance officer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding golden scales and a sealed rule-codex, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r060",
+    "sheet_id": "s070",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Velum, o Velador da Privacidade",
+    "character_desc": "Constelação do privacy engineer que cobre o sensível; adereços: véu dourado e cofre de dados pessoais lacrado.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a privacy engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, draping a golden veil over a sealed personal-data vault, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r061",
+    "sheet_id": "s070",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Extinctor, o Debelador",
+    "character_desc": "Constelação do incident responder que apaga incêndios; adereços: sino de alarme e balde-cometa que apaga chamas.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a incident responder, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, ringing an alarm bell and holding a comet-bucket dousing flames, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r062",
+    "sheet_id": "s070",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Praevidens, o Antevisor",
+    "character_desc": "Constelação do threat modeler que mapeia perigos; adereços: tabuleiro de árvore de ataques em constelação.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a threat modeler, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, studying a constellation attack-tree board, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r063",
+    "sheet_id": "s070",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Probator, o Provador",
+    "character_desc": "Constelação do QA que examina cada estrela; adereços: lista de verificação dourada e lupa de inspeção.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a QA-engineer inspector, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a golden checklist and an inspection lens, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r064",
+    "sheet_id": "s070",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Automaton Probans, o Autômato Testador",
+    "character_desc": "Constelação do SDET que automatiza a prova; adereços: pequeno robô que repete testes e engrenagem-script.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a SDET automation figure, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, accompanied by a testing robot-automaton and a script-gear, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r065",
+    "sheet_id": "s070",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Onerator, o Provador de Carga",
+    "character_desc": "Constelação do performance tester que pesa o sistema; adereços: halteres-estrela e manômetro dourado.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a performance tester, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, lifting star-dumbbells beside a golden pressure gauge, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r066",
+    "sheet_id": "s070",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Manus Sedula, a Mão Diligente",
+    "character_desc": "Constelação do manual tester que percorre à mão; adereços: roteiro de teste desenrolado e lupa.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a manual tester, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding an unrolled test-script and a magnifier by hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r067",
+    "sheet_id": "s070",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Probator Aditus, o Provador do Acesso",
+    "character_desc": "Constelação do accessibility tester; adereços: lista de verificação e símbolo de acesso examinado sob lupa.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a accessibility tester, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, examining a universal-access emblem with a checklist and lens, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r068",
+    "sheet_id": "s070",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Scriba Astra, o Escriba Celeste",
+    "character_desc": "Constelação do technical writer que registra tudo; adereços: pena dourada e pergaminho-manual desenrolado.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a technical-writer scribe, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a golden quill and an unrolled manual scroll, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r069",
+    "sheet_id": "s070",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Praeco, o Arauto",
+    "character_desc": "Constelação do developer advocate que anuncia ao povo; adereços: trombeta dourada e estandarte da comunidade.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a developer-advocate herald, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, raising a golden trumpet and a community banner, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r070",
+    "sheet_id": "s070",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Consilium Verbi, o Estrategista da Palavra",
+    "character_desc": "Constelação do content strategist que planeja narrativas; adereços: mapa editorial com pilares-estrela conectados.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a content strategist, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, arranging an editorial map of connected pillar-stars, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r071",
+    "sheet_id": "s070",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Poliglotta, o de Muitas Línguas",
+    "character_desc": "Constelação do localization engineer que adapta ao mundo; adereços: globo dourado e chaves-idioma penduradas.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a localization engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a golden globe with dangling language-keys, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r072",
+    "sheet_id": "s070",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Faber Rerum, o Artífice do Produto",
+    "character_desc": "Constelação do product designer que molda a experiência; adereços: maquete-protótipo e estilete dourado.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a product designer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a prototype maquette and a golden stylus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r073",
+    "sheet_id": "s070",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Aesthetis, o Ornamentador",
+    "character_desc": "Constelação do visual designer que compõe o belo; adereços: paleta de cores e compasso áureo.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a visual designer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a color palette and a golden-ratio compass, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r074",
+    "sheet_id": "s070",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Tactus, o Regente do Toque",
+    "character_desc": "Constelação do interaction designer que orquestra gestos; adereços: mãos que puxam fios de interação luminosos.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a interaction designer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, pulling luminous interaction-threads between the hands, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r075",
+    "sheet_id": "s070",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Fluxus, o Coreógrafo",
+    "character_desc": "Constelação do motion designer que dança no tempo; adereços: fitas de movimento em espiral e batuta dourada.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a motion designer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, conducting spiraling motion-ribbons with a golden baton, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r076",
+    "sheet_id": "s070",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Delineator, o Desenhista",
+    "character_desc": "Constelação do illustrator que traça figuras no céu; adereços: prancheta e pena-desenho dourada.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a illustrator, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, sketching on a drawing board with a golden drawing-pen, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r077",
+    "sheet_id": "s070",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Faber Signorum, o Forjador de Ícones",
+    "character_desc": "Constelação do asset designer que cunha símbolos; adereços: bandeja de ícones-estrela e buril dourado.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a asset designer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a tray of icon-stars and a golden engraving burin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r078",
+    "sheet_id": "s070",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Insigne, o Selador da Marca",
+    "character_desc": "Constelação do brand designer que cunha a identidade; adereços: selo-brasão dourado e cera lacre estelar.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a brand designer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, pressing a golden crest-seal with a starry wax, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r079",
+    "sheet_id": "s070",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Sonorus, o Afinador do Silêncio",
+    "character_desc": "Constelação do sound designer que dá voz ao céu; adereços: diapasão dourado e ondas sonoras em espiral.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a sound designer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, striking a golden tuning-fork with spiraling sound-waves, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r080",
+    "sheet_id": "s070",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Sculptor Formae, o Escultor de Volumes",
+    "character_desc": "Constelação do 3D artist que ergue formas no espaço; adereços: malha-poliedro dourada e formão de escultor.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a 3D artist sculptor, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, shaping a golden polyhedral-mesh with a sculpting chisel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r081",
+    "sheet_id": "s070",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Ludifex, o Arquiteto do Jogo",
+    "character_desc": "Constelação do game designer que inventa as regras; adereços: dados-estrela e tabuleiro de mecânicas.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a game designer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding star-dice over a board of game-mechanics, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r082",
+    "sheet_id": "s070",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Cartographus Ludi, o Cartógrafo das Fases",
+    "character_desc": "Constelação do level designer que traça mundos; adereços: mapa de fase com trilha e marcos-estrela.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a level designer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, unrolling a level map with a path of milestone-stars, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r083",
+    "sheet_id": "s070",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Fabulator, o Contador de Histórias",
+    "character_desc": "Constelação do narrative designer que tece a lenda; adereços: livro aberto de mitos e fio-narrativo dourado.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a narrative designer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding an open myth-book with a golden narrative-thread, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r084",
+    "sheet_id": "s070",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Animator Ludi, o Forjador do Jogo",
+    "character_desc": "Constelação do game developer que dá vida ao mundo; adereços: joystick-arcano dourado e engrenagem-motor de jogo.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a game developer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a golden arcane joystick and a game-engine gear, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r085",
+    "sheet_id": "s070",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Lucifer Pictor, o Pintor de Luz",
+    "character_desc": "Constelação do graphics/shader engineer que molda a luz; adereços: prisma dourado que refrata raios e paleta de brilhos.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a graphics/shader engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a golden prism refracting light rays with a glow palette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r086",
+    "sheet_id": "s070",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Insculptor, o Gravador nos Chips",
+    "character_desc": "Constelação do embedded engineer que trabalha no minúsculo; adereços: placa-circuito dourada e ferro de solda-estrela.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a embedded engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a golden circuit-board and a star-tipped soldering iron, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r087",
+    "sheet_id": "s070",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Anima Machinae, o Sopro da Máquina",
+    "character_desc": "Constelação do firmware engineer que anima o hardware; adereços: chip dourado com centelha e rolo de microcódigo.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a firmware engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a golden sparking chip and a microcode scroll, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r088",
+    "sheet_id": "s070",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Nexus Rerum, o Conector das Coisas",
+    "character_desc": "Constelação do IoT engineer que liga objetos ao céu; adereços: pequenos aparelhos-estrela ligados por fios sem fio dourados.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a IoT engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, connecting small device-stars with golden wireless arcs, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r089",
+    "sheet_id": "s070",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Catenarius, o Forjador de Correntes",
+    "character_desc": "Constelação do blockchain dev que encadeia blocos; adereços: corrente de elos-bloco dourados brilhando.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a blockchain developer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a glowing chain of golden block-links, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r090",
+    "sheet_id": "s070",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Inspector Pacti, o Auditor dos Pactos",
+    "character_desc": "Constelação do smart contract auditor que revisa selos; adereços: lupa sobre um pergaminho-contrato lacrado com elos.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a smart-contract auditor, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, inspecting a sealed contract-scroll of chain-links with a lens, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r091",
+    "sheet_id": "s070",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Duplex Mundi, o de Dois Mundos",
+    "character_desc": "Constelação do AR/VR engineer que funde real e virtual; adereços: óculos-visor dourados e portal etéreo sobreposto.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a AR/VR engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, wearing golden visor-goggles beside a superimposed ethereal portal, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r092",
+    "sheet_id": "s070",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Fabricator Automatum, o Criador de Autômatos",
+    "character_desc": "Constelação do robotics engineer que dá vida a máquinas; adereços: braço-robô articulado dourado e chave inglesa.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a robotics engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, controlling a golden articulated robot-arm with a wrench, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r093",
+    "sheet_id": "s070",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Semen Crescens, o Semeador do Crescimento",
+    "character_desc": "Constelação do growth engineer que faz florescer; adereços: broto-estrela que se ramifica em curva ascendente.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a growth engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a star-sprout branching into a rising growth-curve, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r094",
+    "sheet_id": "s070",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Vexillifer, o Alçador de Bandeiras",
+    "character_desc": "Constelação do SEO specialist que faz subir na busca; adereços: bússola de palavras-chave e degraus-estrela ascendentes.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a SEO specialist, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a keyword-compass beside ascending ranking-star steps, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r095",
+    "sheet_id": "s070",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Machinator Nuntii, o Engenheiro do Anúncio",
+    "character_desc": "Constelação do marketing technologist que automatiza campanhas; adereços: funil dourado e engrenagens de campanha.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a marketing technologist, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, operating a golden funnel and campaign gears, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r096",
+    "sheet_id": "s070",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Pontifex Solutionum, o Ponte das Soluções",
+    "character_desc": "Constelação do solutions engineer que liga cliente e produto; adereços: ponte dourada com maquete-demo na mão.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a solutions engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, standing on a golden bridge holding a demo maquette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r097",
+    "sheet_id": "s070",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Auxiliator, o Socorredor",
+    "character_desc": "Constelação do support engineer que acode em apuros; adereços: farol dourado e fone-headset de plantão.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a support engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding a golden beacon-lamp and wearing a support headset, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r098",
+    "sheet_id": "s070",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Suasor, o Persuasor",
+    "character_desc": "Constelação do sales engineer que apresenta soluções; adereços: maleta-mostruário aberta e estrela-demonstração erguida.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a sales engineer, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, opening a showcase-briefcase and raising a demo-star, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r099",
+    "sheet_id": "s070",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Custos Aerarii, o Tesoureiro Celeste",
+    "character_desc": "Constelação do FinOps analyst que zela pelos custos; adereços: balança de moedas-estrela e livro-razão dourado.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a FinOps analyst, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, weighing coin-stars on scales beside a golden ledger, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s070-r100",
+    "sheet_id": "s070",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Advocatus Astra, o Togado dos Astros",
+    "character_desc": "Constelação do legal counsel que rege os pactos; adereços: balança da justiça, martelo-gavel e códice de leis.",
+    "nano_prompt": "Antique golden celestial-chart constellation figure representing a legal counsel, rendered as a full-body figure of connected golden star-points joined by delicate gold constellation lines, aged-parchment engraving shading and tiny radiant stars marking the joints, in the style of an ancient golden star atlas, holding justice scales, a gavel and a law-codex, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

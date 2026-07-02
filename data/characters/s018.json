@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s018-r001",
+    "sheet_id": "s018",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Kenzō o Traça-Castelos",
+    "character_desc": "Samurai-estrategista que desdobra a planta de um castelo inteiro antes da batalha; o pergaminho-projeto e o esquadro de mestre revelam o arquiteto.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a master strategist samurai unrolling a large castle blueprint scroll, holding a builder's set-square, ornate armor with a keep-shaped crest, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r002",
+    "sheet_id": "s018",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Ryūta Guia-de-Esquadrão",
+    "character_desc": "Capitão samurai que aponta o rumo do time com o leque de guerra; a formação atrás dele o marca como líder técnico.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a samurai squad captain directing troops with a raised war-fan gunbai, command sash across the chest, confident stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r003",
+    "sheet_id": "s018",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Genjū o Ronin-Veterano",
+    "character_desc": "Ronin experiente com várias lâminas nas costas, cobrindo muitas frentes; a serenidade denuncia o staff engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a veteran wandering ronin bristling with several sheathed blades across the back, calm broad stance, worn travel cloak, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r004",
+    "sheet_id": "s018",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Isshin Lâmina-Única",
+    "character_desc": "Grão-mestre que aperfeiçoou uma só katana perfeita; a simplicidade da postura revela o principal engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a grandmaster swordsman holding a single flawless katana in a perfected stance, minimal elegant armor, quiet mastery, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r005",
+    "sheet_id": "s018",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Daimyō Morikawa",
+    "character_desc": "Senhor feudal que comanda tropas sob seu estandarte; o gesto de comando marca o gerente de engenharia.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a commanding daimyo lord overseeing troops, holding a tall command banner, layered lordly armor, authoritative gesture, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r006",
+    "sheet_id": "s018",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Aya Lê-o-Mercado",
+    "character_desc": "Estrategista que segura o mapa da província numa mão e a carta do cliente na outra; equilibra desejo e terreno como PM.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a strategist samurai holding a province map in one hand and a customer's letter in the other, thoughtful poised stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r007",
+    "sheet_id": "s018",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Rin Guarda-a-Lista",
+    "character_desc": "Nobre que carrega o pergaminho de prioridades da corte; decide o que vem primeiro como product owner.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a poised noble warrior holding a long prioritized scroll of ranked demands, ceremonial robe, decisive pointing gesture, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r008",
+    "sheet_id": "s018",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Kōji Sincroniza-Bandeiras",
+    "character_desc": "Coordenador que ergue vários estandartes coloridos para alinhar exércitos distintos; o program manager entre campanhas.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a field coordinator raising several colored banners to synchronize multiple armies, sashed uniform, wide organizing stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r009",
+    "sheet_id": "s018",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Tokimaru o Guarda-Tempo",
+    "character_desc": "Samurai do relógio com ampulheta ao cinto e pergaminho-cronograma; o project manager que rege prazos.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a timekeeper samurai with an hourglass hanging at the belt, unrolling a schedule scroll, disciplined upright pose, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r010",
+    "sheet_id": "s018",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Sensei Bell-Daruma",
+    "character_desc": "Mestre de dojô que marca o ritmo com sino e tambor de sprint; o scrum master que remove impedimentos.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a dojo sensei ringing a small hand bell beside a sprint drum, relaxed guiding stance, teacher's robe, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r011",
+    "sheet_id": "s018",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Hagane o Ferreiro-Sombra",
+    "character_desc": "Ninja-ferreiro que forja engrenagens nos bastidores; o backend dev que ninguém vê mas que sustenta tudo.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a shadow blacksmith-ninja forging glowing gears at a small anvil, soot-dark garb, hammer raised over hidden machinery, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r012",
+    "sheet_id": "s018",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Torii o Guardião-do-Portão",
+    "character_desc": "Samurai que guarda o portal torii firmando contratos de passagem; o API designer dos limites do reino.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a gatekeeper samurai standing before a red torii gate, holding a rolled contract, key at the hip, watchful posture, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r013",
+    "sheet_id": "s018",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Bunshin o Multiplicado",
+    "character_desc": "Ninja que se divide em muitos pequenos clones autônomos; cada réplica cuida de um serviço como microserviços.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a ninja splitting into several small identical clones fanning out around him, dynamic multiplied silhouettes, one lead figure forward, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r014",
+    "sheet_id": "s018",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Mizuo Canaliza-Águas",
+    "character_desc": "Engenheiro de canais que direciona correntes por bambus; conduz o fluxo do pipeline água abaixo.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a water-channel engineer directing flowing streams through bamboo aqueduct pipes, sleeves rolled, guiding pole in hand, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r015",
+    "sheet_id": "s018",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Taru o Carrega-Barris",
+    "character_desc": "Portador que transporta barris de água pelo aqueduto; move grandes volumes como o data engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a sturdy porter carrying large water barrels on a shoulder yoke along a stone aqueduct, steady laborer stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r016",
+    "sheet_id": "s018",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Kinzō o Guarda-Cofre",
+    "character_desc": "Guardião do armazém de pergaminhos, chaves ao cinto; protege e ordena os dados como o DBA.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a treasure-house vault keeper guarding shelves of scrolls, ring of keys at the belt, lantern lifted, protective stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r017",
+    "sheet_id": "s018",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Shirabe a Buscadora",
+    "character_desc": "Arquivista que consulta a biblioteca com a vara de índice; encontra o pergaminho exato como especialista SQL.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of an archivist warrior scanning a scroll library with a long index pointing-rod, one scroll pulled halfway out, focused pose, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r018",
+    "sheet_id": "s018",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Hayate o Provisionado",
+    "character_desc": "Mensageiro veloz que já carrega provisões pré-guardadas para não voltar à fonte; o cache que acelera tudo.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a swift courier ninja mid-dash carrying a pouch of pre-stored provisions, motion wind-lines, ready sprinting stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r019",
+    "sheet_id": "s018",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Namiko Ordena-a-Fila",
+    "character_desc": "Mestra de fila que organiza lanternas-mensagem em ordem paciente; a fila de mensagens que nada perde.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a queue-master arranging a neat line of message lanterns in order, directing pole raised, orderly composed stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r020",
+    "sheet_id": "s018",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Sagashi o Rastreador",
+    "character_desc": "Ninja-rastreador com luneta e lupa que acha qualquer alvo no reino; o search engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a tracker ninja holding a brass spyglass and a magnifying loupe, crouched searching stance, keen expression, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r021",
+    "sheet_id": "s018",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Shōji o Pintor-de-Telas",
+    "character_desc": "Artesão que arruma os painéis shoji que o público enxerga; monta o que o usuário vê, o frontend.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a craftsman arranging illuminated shoji screen panels facing the viewer, brush and panel in hand, presenting stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r022",
+    "sheet_id": "s018",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Kagu o Monta-Painéis",
+    "character_desc": "Engenheiro que encaixa botões e molduras da interface; o UI engineer que constrói cada componente.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of an interface craftsman assembling framed panels with buttons and toggles, precise fitting gesture, tool belt of small parts, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r023",
+    "sheet_id": "s018",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Michiko Traça-Caminhos",
+    "character_desc": "Guia empática que mapeia a jornada do viajante passo a passo; a UX designer que suaviza o percurso.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of an empathetic guide mapping a traveler's path on an unrolled route chart, gesturing along the road, gentle attentive pose, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r024",
+    "sheet_id": "s018",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Monshō o Faz-Padrões",
+    "character_desc": "Fabricante de carimbos idênticos que garantem consistência; o design systems engineer com seu conjunto de selos.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a pattern-maker holding a matching set of identical stamps, one pressed onto a sheet, orderly array of components at the belt, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r025",
+    "sheet_id": "s018",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Tasuke o Acompanha-Cego",
+    "character_desc": "Guia que ajuda o viajante cego com rampa e bengala tátil; o especialista em acessibilidade.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a helpful guide assisting a blind traveler, holding a tactile guiding staff beside a gentle ramp, supportive caring stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r026",
+    "sheet_id": "s018",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Kaze o Aligeirado",
+    "character_desc": "Corredor que descarta todo peso extra para voar veloz; linhas de vento marcam o web performance engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a runner shedding extra armor plates to move faster, strong speed wind-lines around him, lightweight sprinting stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r027",
+    "sheet_id": "s018",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Kimura Dobra-Panos",
+    "character_desc": "Estilista de quimono que ajusta cada prega com precisão milimétrica; o especialista em CSS.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a kimono stylist meticulously arranging precise fabric folds and drapery, measuring cord in hand, careful adjusting pose, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r028",
+    "sheet_id": "s018",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Ayatsuri o Bonequeiro",
+    "character_desc": "Titereiro que anima uma marionete com fios e leques de movimento; o animation engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a puppeteer animating a marionette with strings and motion fans, mid-gesture bringing the puppet to life, lively pose, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r029",
+    "sheet_id": "s018",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Tabimaru o Andarilho",
+    "character_desc": "Ninja viajante que carrega um pequeno santuário dobrável portátil; leva a experiência no bolso, o mobile dev.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a traveling ninja carrying a small portable folding shrine device in the palm, road-ready garb, on-the-go stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r030",
+    "sheet_id": "s018",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Ringo o Laqueado",
+    "character_desc": "Artesão refinado com um dispositivo laqueado de brasão-maçã polido; o iOS dev de acabamento impecável.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a refined artisan holding a glossy lacquered device bearing an apple crest, elegant minimalist garb, poised precise stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r031",
+    "sheet_id": "s018",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Midori o Tinkeiro-Verde",
+    "character_desc": "Inventor que segura um bonequinho-robô verde de junta; o Android dev que mexe em tudo.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a tinkerer holding a small green robot puppet doll, tool in the other hand, curious experimental stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r032",
+    "sheet_id": "s018",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Futatsu Ponte-Dupla",
+    "character_desc": "Ninja de lâminas gêmeas que serve duas províncias ao mesmo tempo; o React Native dev multiplataforma.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a dual-wield ninja bridging two provinces at once, one foot on each of two small platforms, twin blades crossed, balanced stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r033",
+    "sheet_id": "s018",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Chōko a Leque-Borboleta",
+    "character_desc": "Dançarina cujo único leque pinta muitas telas de uma vez; a Flutter dev com uma base para tudo.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a fan-dancer whose single painted fan projects several small screen-panels, butterfly motifs, graceful sweeping pose, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r034",
+    "sheet_id": "s018",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Uranai a Vidente-de-Dados",
+    "character_desc": "Sábia que lê folhas de chá e cartas estelares em busca de padrões; a data scientist.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a sage reading tea-leaf patterns and star-charts for hidden patterns, pointing at a constellation scroll, contemplative pose, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r035",
+    "sheet_id": "s018",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Kitsune-Tamer Ren",
+    "character_desc": "Domadora que treina uma raposa mecânica de nove caudas; a ML engineer que ensina a fera.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a beast-tamer training a mechanical nine-tailed fox with a guiding treat and lead, patient training stance, companion beast beside, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r036",
+    "sheet_id": "s018",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Umaya o Trata-Feras",
+    "character_desc": "Cavalariço que mantém a fera treinada alimentada e sempre pronta; o MLOps engineer do estábulo.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a stable-master keeping a trained mechanical beast fed and running, oil-can and feed bucket in hand, steady caretaker stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r037",
+    "sheet_id": "s018",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Renkin o Monge-Alquimista",
+    "character_desc": "Monge que experimenta com orbes luminosos e fórmulas; o AI researcher em busca do novo.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of an alchemist-monk experimenting with glowing floating orbs and a formula scroll, wisps of vapor, curious inventive pose, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r038",
+    "sheet_id": "s018",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Kotodama a Sussurradora",
+    "character_desc": "Xamã que coaxa um espírito-oráculo gigante com palavras e pergaminhos precisos; a prompt engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a word-whisperer coaxing a huge oracle spirit with a carefully written scroll, glowing kanji-less speech ribbons, guiding gesture, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r039",
+    "sheet_id": "s018",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Kotoba o Intérprete",
+    "character_desc": "Monge-tradutor que desenrola fitas de fala e as decifra; o NLP engineer da linguagem.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a translator monk parsing flowing speech-ribbons unspooling from a scroll, listening gesture, attentive interpreting pose, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r040",
+    "sheet_id": "s018",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Manako o Olho-que-Tudo-Vê",
+    "character_desc": "Pintor com uma lente-olho que interpreta imagens do mundo; o computer vision engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a painter holding an all-seeing eye-lens interpreting a picture scroll, single glowing lens raised, observant stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r041",
+    "sheet_id": "s018",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Soroban o Contador",
+    "character_desc": "Contador de guerra com ábaco e gráficos de barra em pergaminho; o data analyst.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of an accountant warrior working a large soroban abacus beside a bar-chart scroll, tallying gesture, meticulous seated-ready pose, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r042",
+    "sheet_id": "s018",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Byōbu a Lê-Painéis",
+    "character_desc": "Leitora de biombo coberto de gráficos vivos; a BI analyst que enxerga o negócio de relance.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a warrior reading a folding byobu screen covered in vivid graphs and dials, pointing at a trend, insightful stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r043",
+    "sheet_id": "s018",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Katachi o Modela-Minério",
+    "character_desc": "Ferreiro que transforma minério bruto em gráficos afiados; o analytics engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a modeler shaping raw ore into clean chart-tablets at a workbench, chisel in hand, transforming gesture, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r044",
+    "sheet_id": "s018",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Egaku a Pinta-Gráficos",
+    "character_desc": "Artista que pinta estandartes de gráficos elegantes; a data viz specialist.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of an artist painting an elegant graph banner with a brush, colorful chart unfurling, expressive painting pose, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r045",
+    "sheet_id": "s018",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Kakehashi o Constrói-Pontes",
+    "character_desc": "Construtor de pontes que une o acampamento dev ao de operações; o DevOps engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a bridge-builder joining a 'dev' camp and an 'ops' camp with a wooden bridge, plank and rope in hand, connecting stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r046",
+    "sheet_id": "s018",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Hinoban a Vigia-de-Fogo",
+    "character_desc": "Guardiã na torre de vigia com sino de alarme, sempre atenta a incêndios; a SRE.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a firewatch guardian atop a watchtower with an alarm bell rope, scanning the horizon, vigilant ready stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r047",
+    "sheet_id": "s018",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Michizukuri o Pavimentador",
+    "character_desc": "Construtor de estradas que pavimenta caminhos para os outros viajarem; o platform engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a road-builder paving a smooth stone path for other travelers, tamping tool in hand, steady constructing pose, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r048",
+    "sheet_id": "s018",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Kumo o Monge-das-Nuvens",
+    "character_desc": "Monge do céu que ergue um castelo flutuante sobre nuvens; o cloud architect.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a sky monk building a floating castle upon layered clouds, blueprint in hand, elevated serene stance among clouds, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r049",
+    "sheet_id": "s018",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Kajitori o Timoneiro",
+    "character_desc": "Timoneiro que gira o leme e conduz um cardume de contêineres; o Kubernetes admin.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a helmsman steering a ship's wheel while herding many small container crates, steering stance, crates orbiting, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r050",
+    "sheet_id": "s018",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Tsunagi a Tecelã-de-Rede",
+    "character_desc": "Mensageira que liga torres com fios de pipa e pombos; a network engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a network weaver connecting distant towers with kite-strings and carrier pigeons, threads radiating, linking gesture, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r051",
+    "sheet_id": "s018",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Kanrinin o Zelador",
+    "character_desc": "Zelador do forte com molho de chaves que mantém tudo funcionando; o sysadmin.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a keep caretaker with a large ring of keys maintaining the fortress, oil lantern and cloth, dependable upkeep stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r052",
+    "sheet_id": "s018",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Hanabi o Lançador",
+    "character_desc": "Arauto que dispara a flecha cerimonial de lançamento; o release engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a herald launching a ceremonial signal arrow into the sky, bow drawn upward, triumphant launching stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r053",
+    "sheet_id": "s018",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Daiku o Carpinteiro",
+    "character_desc": "Carpinteiro que monta a estrutura a partir de vigas; o build engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a carpenter assembling a structure from timber beams, plane and mallet in hand, constructing stance amid fresh joinery, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r054",
+    "sheet_id": "s018",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Mizuguruma o Roda-d'Água",
+    "character_desc": "Operador da roda-d'água que move a esteira automática sem parar; o CI/CD engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a water-wheel operator running an automated conveyor of parts, turning wheel behind, steady mechanized stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r055",
+    "sheet_id": "s018",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Tate o Sentinela-Blindado",
+    "character_desc": "Sentinela de armadura pesada com escudo e cadeado; o security engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of an armored sentinel with a heavy shield and a large padlock, guarding stance, stern protective expression, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r056",
+    "sheet_id": "s018",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Shinobi-Ana o Infiltrador",
+    "character_desc": "Infiltrador que testa as muralhas do castelo com gazuas; o penetration tester.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of an infiltrator ninja testing a castle wall, lockpicks and grappling hook in hand, stealthy climbing crouch, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r057",
+    "sheet_id": "s018",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Yoroi-Naoshi o Reforçador",
+    "character_desc": "Armeiro que reforça os pontos fracos da armadura; o AppSec engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of an armorer reinforcing weak joints of armor with rivets, hammer and plate in hand, inspecting-and-mending stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r058",
+    "sheet_id": "s018",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Angō o Monge-Cifra",
+    "character_desc": "Monge do código secreto com sua roda de cifra; o cryptographer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a cipher monk holding a rotating code-wheel disc, secret glyph-less symbols swirling, contemplative decoding pose, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r059",
+    "sheet_id": "s018",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Bugyō a Magistrada",
+    "character_desc": "Magistrada que porta pergaminhos de lei e o carimbo oficial; a compliance officer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a magistrate holding law scrolls and an official seal-stamp, formal robe with mon crest, upright judging stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r060",
+    "sheet_id": "s018",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Kamen-Shi o Faz-Máscaras",
+    "character_desc": "Fabricante de máscaras que oculta identidades com véus; o privacy engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a mask-maker concealing identities behind veils and masks, holding a blank privacy mask, discreet protective stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r061",
+    "sheet_id": "s018",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Hikeshi o Bombeiro",
+    "character_desc": "Samurai-bombeiro com bomba d'água e sino de alarme respondendo ao incêndio; o incident responder.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a firefighter samurai with a hand water-pump and alarm bell rushing to a blaze, urgent responsive stance, matoi standard, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r062",
+    "sheet_id": "s018",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Gunryaku o Jogador-de-Guerra",
+    "character_desc": "Estrategista que simula ataques inimigos num tabuleiro de guerra; o threat modeler.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a war-game strategist plotting enemy attack routes on a tabletop map with markers, planning gesture, focused stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r063",
+    "sheet_id": "s018",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Meki a Inspetora",
+    "character_desc": "Inspetora que examina lâminas em busca de falhas com sua lista; a QA engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of an inspector examining a blade for flaws against a checklist scroll, loupe raised, meticulous checking stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r064",
+    "sheet_id": "s018",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Karakuri-Kō o Autômato",
+    "character_desc": "Construtor de bonecos autômatos que se testam sozinhos; o SDET de automação.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of an automaton-builder with self-testing karakuri puppets that check each other, winding key in hand, clever inventive pose, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r065",
+    "sheet_id": "s018",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Omoni o Testa-Carga",
+    "character_desc": "Testador que carrega uma ponte até o limite para ver quanto aguenta; o performance tester.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a load-tester piling heavy weights onto a bridge to its limit, measuring the strain, effortful testing stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r066",
+    "sheet_id": "s018",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Teuchi o Confere-à-Mão",
+    "character_desc": "Testador manual meticuloso com lupa e ábaco de contagem; o manual tester.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a meticulous hand-checker inspecting items one by one with a magnifier and tally counter, patient careful stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r067",
+    "sheet_id": "s018",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Tashikame a Verifica-Rampa",
+    "character_desc": "Inspetora que confirma se rampas e apoios funcionam para todos; a accessibility tester.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of an inspector verifying that ramps and guiding aids work, testing a handrail, thorough checking stance beside a ramp, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r068",
+    "sheet_id": "s018",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Fude o Monge-Escriba",
+    "character_desc": "Monge escriba com pincel e pergaminhos-manual; o technical writer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a scribe monk with a writing brush and manual scrolls, mid-stroke documenting, calm focused writing stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r069",
+    "sheet_id": "s018",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Kataribe o Contador-Viajante",
+    "character_desc": "Contador de histórias que prega à multidão com estandarte; o developer advocate.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a traveling storyteller preaching to a small crowd with a raised banner, expressive gesturing pose, open charismatic stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r070",
+    "sheet_id": "s018",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Shikumi a Planeja-Histórias",
+    "character_desc": "Planejadora que arruma pergaminhos-história na ordem certa; a content strategist.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a planner arranging story scrolls into ordered sequence on a rack, organizing gesture, thoughtful curating stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r071",
+    "sheet_id": "s018",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Kotoba-Watari o Poliglota",
+    "character_desc": "Tradutor que carrega lanternas de muitas bandeiras/idiomas; o localization engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a polyglot translator carrying a pole strung with many small flag-lanterns of different regions, adapting gesture, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r072",
+    "sheet_id": "s018",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Katachi-Shi o Molda-Produto",
+    "character_desc": "Mestre artesão que dá forma ao objeto inteiro, da ideia ao acabamento; o product designer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a master craftsman shaping a whole refined object at a workbench, calipers in hand, holistic crafting stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r073",
+    "sheet_id": "s018",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Enogu a Pintora-Visual",
+    "character_desc": "Pintora com paleta e pincéis que define a aparência; a visual designer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a painter with a wooden palette and brushes composing a visual, brush poised, artistic confident stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r074",
+    "sheet_id": "s018",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Karakuri-Ito o Desenha-Interação",
+    "character_desc": "Titereiro que projeta fios e alavancas responsivas; o interaction designer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a puppeteer designing responsive strings and levers on a small mechanism, testing a pull, inventive interactive pose, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r075",
+    "sheet_id": "s018",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Ugoki a Dançarina-Movimento",
+    "character_desc": "Dançarina com fitas de rastro de movimento; a motion designer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a dancer trailing flowing motion-trail ribbons through the air, sweeping graceful pose, sense of choreographed movement, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r076",
+    "sheet_id": "s018",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Eshi a Ilustradora",
+    "character_desc": "Pintora ukiyo-e diante do cavalete desenhando uma figura; a illustrator.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of an ukiyo-e painter at an easel drawing a figure, brush and ink-stone in hand, absorbed illustrating stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r077",
+    "sheet_id": "s018",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Kogu o Faz-Adereços",
+    "character_desc": "Fabricante de pequenas ferramentas e ícones-adereço; o asset designer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a prop-maker crafting small tools and icon-charms laid on a tray, one held up finished, tidy meticulous stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r078",
+    "sheet_id": "s018",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Mon-Shi o Faz-Brasões",
+    "character_desc": "Criador de brasões que carimba o mon da família; o brand designer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a crest-maker stamping a family mon emblem onto a banner, carved seal in hand, proud presenting stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r079",
+    "sheet_id": "s018",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Taiko o Músico",
+    "character_desc": "Músico com tambor taiko e shamisen que dá voz ao som; o sound designer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a musician with a taiko drum and a shamisen, striking a beat, rhythmic energetic performing stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r080",
+    "sheet_id": "s018",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Chōkoku o Escultor",
+    "character_desc": "Escultor que talha uma estátua de madeira em três dimensões; o 3D artist.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a sculptor carving a wooden statue in the round, chisel and mallet in hand, focused carving stance, wood shavings, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r081",
+    "sheet_id": "s018",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Goban o Mestre-do-Jogo",
+    "character_desc": "Mestre de jogo com tabuleiro de go e dados que define as regras; o game designer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a game master with a go board and dice designing rules, placing a stone, playful strategic stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r082",
+    "sheet_id": "s018",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Meiro o Constrói-Labirintos",
+    "character_desc": "Construtor que ergue um mapa-castelo em miniatura cheio de caminhos; o level designer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a maze-builder crafting a miniature castle map full of winding paths on a table, placing a tiny gate, absorbed building pose, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r083",
+    "sheet_id": "s018",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Kabuki-Sha o Dramaturgo",
+    "character_desc": "Dramaturgo kabuki com máscara e roteiro que tece a narrativa; o narrative designer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a kabuki playwright holding a theatrical mask and a script scroll, dramatic storytelling gesture, expressive stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r084",
+    "sheet_id": "s018",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Omocha-Shi o Faz-Brinquedos",
+    "character_desc": "Brinquedista que monta um brinquedo mecânico que se move; o game developer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a toymaker assembling a moving mechanical toy, winding it up, delighted tinkering stance, small gears in hand, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r085",
+    "sheet_id": "s018",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Hikari o Pinta-Luz",
+    "character_desc": "Pintor de luz com lanterna e prisma que colore sombras; o graphics/shader engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a light-painter with a lantern and a prism casting colored light and shadow, adjusting a beam, luminous focused stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r086",
+    "sheet_id": "s018",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Ongyoku o Da-Corda-ao-Miúdo",
+    "character_desc": "Tinkeiro de mecanismos minúsculos dentro de uma caixa de música; o embedded engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a micro-mechanism tinkerer adjusting the tiny works inside a music box, fine tools in hand, delicate precise stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r087",
+    "sheet_id": "s018",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Tokei-Sō o Monge-Relojoeiro",
+    "character_desc": "Monge que ajusta as engrenagens internas de um dispositivo; o firmware engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a clockwork monk adjusting the inner gears of a device with a fine screwdriver, magnifier at the eye, careful pose, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r088",
+    "sheet_id": "s018",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Mushi-no-Ne a Rede-de-Lanternas",
+    "character_desc": "Tecelã de uma rede de pequenas lanternas-sensor ligadas por fios; a IoT engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a weaver of a network of small sensor-lanterns connected by glowing threads, one lantern lifted, connecting gesture, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r089",
+    "sheet_id": "s018",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Kusari-Kaji o Ferreiro-de-Elos",
+    "character_desc": "Ferreiro que forja elos dourados numa corrente-livro imutável; o blockchain dev.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a chain-smith forging linked golden chain-links into an unbroken ledger-chain, hammer on anvil, forging stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r090",
+    "sheet_id": "s018",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Kansa a Examina-Contratos",
+    "character_desc": "Inspetora que examina uma corrente de contratos selados com lupa; a smart contract auditor.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of an auditor examining a sealed chain of contracts with a loupe, one link raised to the eye, scrutinizing careful stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r091",
+    "sheet_id": "s018",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Oni-Megane o Faz-Visores",
+    "character_desc": "Fabricante de máscaras com um visor mágico de oni que revela outros mundos; o AR/VR engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a mask-maker holding a magical oni viewing-visor that reveals another layered world, one lens raised, wondrous stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r092",
+    "sheet_id": "s018",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Karakuri-Nushi o Mestre-Autômato",
+    "character_desc": "Mestre de um autômato karakuri articulado que caminha; o robotics engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a puppet-master beside an articulated walking karakuri automaton, control rod in hand, guiding proud stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r093",
+    "sheet_id": "s018",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Take-no-Ko o Cultiva-Crescimento",
+    "character_desc": "Jardineiro que faz um bambu/bonsai brotar rápido rumo ao céu; o growth engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a gardener coaxing a rapidly sprouting bamboo shoot skyward, watering ladle in hand, nurturing upward-looking stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r094",
+    "sheet_id": "s018",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Michishirube o Coloca-Placas",
+    "character_desc": "Colocador de placas e trilha de lanternas que guia viajantes à loja; o SEO specialist.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a signpost-placer setting a signboard and a trail of lanterns leading travelers toward a shop, directing gesture, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r095",
+    "sheet_id": "s018",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Furegashira o Pregoeiro",
+    "character_desc": "Pregoeiro da vila com concha-megafone e estandartes; o marketing technologist.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a town-crier with a conch-shell megaphone and banners announcing to the street, calling-out stance, lively expression, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r096",
+    "sheet_id": "s018",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Tasukebashi o Resolve-Tudo",
+    "character_desc": "Solucionador que liga o comerciante ao ferreiro com sua caixa de ferramentas; o solutions engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a problem-solver bridging a merchant and a smith, an open toolkit at the hip, helpful demonstrating stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r097",
+    "sheet_id": "s018",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Yado o Estalajadeiro",
+    "character_desc": "Estalajadeiro prestativo que atende viajantes com uma lanterna acesa; o support engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a helpful innkeeper holding up a warm lantern to answer weary travelers, welcoming attentive stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r098",
+    "sheet_id": "s018",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Akindo o Mercador-Encantador",
+    "character_desc": "Comerciante-samurai que apresenta as mercadorias com charme persuasivo; o sales engineer.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a charming merchant-samurai presenting wares from an open display box with a persuasive flourish, engaging confident pose, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r099",
+    "sheet_id": "s018",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Kanjō a Tesoureira",
+    "character_desc": "Tesoureira com balança de moedas e livro-razão que pesa cada gasto; a FinOps analyst.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a treasurer weighing coins on a balance scale beside a ledger book, counting gesture, careful measuring stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s018-r100",
+    "sheet_id": "s018",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Hōmu o Conselheiro-Magistrado",
+    "character_desc": "Conselheiro jurídico com livro de leis e martelo-selo; o legal counsel.",
+    "nano_prompt": "Ukiyo-e Japanese woodblock print, full-body standing figure of a legal advisor holding a law tome and a seal-mallet, formal robe with crest, measured advising stance, bold black outlines, flat color planes, visible woodgrain paper texture, indigo, vermilion and ochre palette, weathered woodblock print grain, dramatic warrior pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

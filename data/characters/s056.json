@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s056-r001",
+    "sheet_id": "s056",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "O Rei Arquiteto",
+    "character_desc": "Rei de espadas que rege o baralho: desenha o reino inteiro antes de qualquer carta ser jogada.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, wearing a tall gilded crown shaped like a blueprint tower, holding a rolled architectural scroll and an ornate compass-and-square scepter, floor-plan filigree woven into the robe, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r002",
+    "sheet_id": "s056",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "A Dama Guia",
+    "character_desc": "Dama que conduz o naipe técnico, apontando o caminho para as cartas menores.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, crowned queen figure pointing a jeweled baton forward, a small ornate map-shield at her side, guiding-star emblem on the chest, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r003",
+    "sheet_id": "s056",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "O Valete Veterano",
+    "character_desc": "Valete graduado, mão firme que resolve as jogadas mais difíceis do naipe.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, seasoned jack figure with layered gilded epaulettes, holding a wrench-scepter and a many-keyed ring, campaign medals of ornate filigree, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r004",
+    "sheet_id": "s056",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "O Príncipe Principal",
+    "character_desc": "Figura de altíssima corte, referência técnica suprema do baralho.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, princely court figure with an elaborate laurel-gear crown, holding a glowing ornate orb and a slender staff, radiant filigree halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r005",
+    "sheet_id": "s056",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "O Chanceler",
+    "character_desc": "Carta que organiza a corte: cuida das pessoas antes das jogadas.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, chancellor court figure holding an ornate ledger-fan of small portrait cards, a gilded shepherd's crook, warm gathering gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r006",
+    "sheet_id": "s056",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "O Mestre do Baralho",
+    "character_desc": "Define quais cartas entram no jogo e por quê.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate prioritized fan of tarot-like value cards, a jeweled roadmap scroll, decisive presenting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r007",
+    "sheet_id": "s056",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "O Guardião do Naipe",
+    "character_desc": "Dono da pilha de cartas a jogar, prioriza a próxima rodada.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure cradling a stacked deck-satchel of ornate cards, holding a checklist-scroll and a small hourglass, curating gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r008",
+    "sheet_id": "s056",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "O Coordenador de Coroas",
+    "character_desc": "Alinha múltiplos naipes num único grande jogo.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding several interlinked crown-emblems on a gilded chain, a conductor's baton, overseeing multiple ribboned threads, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r009",
+    "sheet_id": "s056",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "O Cronista das Rodadas",
+    "character_desc": "Marca prazos e cartas de cada mão do jogo.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure with an ornate calendar-fan and a plumed quill, a gilded pocket-hourglass on a chain, planning stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r010",
+    "sheet_id": "s056",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "O Cerimonialista",
+    "character_desc": "Zela pelo ritual das rodadas, remove obstáculos da mesa.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, ceremonial court figure holding a ritual bell-staff and a small ornate obstacle-shield being cleared aside, facilitating gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r011",
+    "sheet_id": "s056",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "O Ferreiro das Cartas",
+    "character_desc": "Forja a lógica por trás de cada carta jogada.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, backstage court figure holding an ornate gilded gear-cog and a server-tower scepter, forge-hammer of filigree, sleeves rolled, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r012",
+    "sheet_id": "s056",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "O Embaixador dos Naipes",
+    "character_desc": "Define como um naipe conversa com o outro.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, diplomat court figure presenting an ornate connector-scroll with interlocking sockets, holding a jeweled handshake-emblem staff, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r013",
+    "sheet_id": "s056",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "O Divisor de Reinos",
+    "character_desc": "Reparte o baralho em pequenos naipes independentes.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure surrounded by many small ornate module-shields on floating gilded threads, holding a divider-scepter, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r014",
+    "sheet_id": "s056",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "O Canalizador",
+    "character_desc": "Move as cartas de uma pilha a outra sem perder nenhuma.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate tiered aqueduct-scepter with flowing card-tokens, gilded funnel emblem, channeling pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r015",
+    "sheet_id": "s056",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "O Engenheiro de Fluxos",
+    "character_desc": "Constrói os canais por onde os dados-carta viajam.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure with ornate pipe-and-valve regalia, holding a gilded flow-scepter and a reservoir-shield of stacked tokens, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r016",
+    "sheet_id": "s056",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "O Bibliotecário Real",
+    "character_desc": "Guarda o baú onde todas as cartas repousam ordenadas.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded vault-key and a cylindrical database-tower scepter, indexed card-drawers on the robe, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r017",
+    "sheet_id": "s056",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "O Interrogador de Tabelas",
+    "character_desc": "Faz as cartas certas surgirem com uma pergunta precisa.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate query-scroll with a filigree SELECT sigil, a gilded magnifier over a card-table shield, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r018",
+    "sheet_id": "s056",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "O Guardião da Memória Rápida",
+    "character_desc": "Mantém as cartas mais pedidas sempre à mão.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure with an ornate quick-draw bandolier of ready cards, holding a lightning-cache scepter, alert stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r019",
+    "sheet_id": "s056",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "O Carteiro das Filas",
+    "character_desc": "Entrega cada carta na ordem exata da fila.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate queue-staff threaded with numbered card-tokens in single file, gilded envelope emblem, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r020",
+    "sheet_id": "s056",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "O Rastreador",
+    "character_desc": "Encontra qualquer carta perdida no baralho num instante.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded magnifying-glass scepter and an index-fan of tabbed cards, searching gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r021",
+    "sheet_id": "s056",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "O Pintor da Face",
+    "character_desc": "Desenha a face visível de cada carta.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded frame-palette and a brush-scepter, layout-grid filigree on the robe, presenting the card face, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r022",
+    "sheet_id": "s056",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "O Ourives de Componentes",
+    "character_desc": "Cunha os pequenos ornamentos reutilizáveis da carta.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding a tray of small ornate interlocking UI-jewels, a gilded soldering-stylus, componentized trim on the costume, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r023",
+    "sheet_id": "s056",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "A Dama da Experiência",
+    "character_desc": "Cuida de como a mão sente ao jogar cada carta.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, queen court figure holding an ornate journey-map ribbon and a jeweled empathy-heart emblem, wireframe filigree fan, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r024",
+    "sheet_id": "s056",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "O Arquiteto de Ornamentos",
+    "character_desc": "Padroniza os enfeites para todas as cartas combinarem.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate pattern-book of repeating filigree tokens, a gilded stamp-scepter, uniform trim samples on a sash, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r025",
+    "sheet_id": "s056",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "O Provedor de Acessos",
+    "character_desc": "Garante que toda mão consiga jogar a carta.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate braille-embossed shield and a gilded ramp-scepter, inclusive open-hand gesture, ear-and-eye emblems, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r026",
+    "sheet_id": "s056",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "O Corredor de Cartas",
+    "character_desc": "Faz cada carta aparecer no menor tempo possível.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, athletic court figure with ornate winged-heel greaves, holding a stopwatch-scepter and a feather-light card, sprinting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r027",
+    "sheet_id": "s056",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "O Estilista de Trajes",
+    "character_desc": "Veste cada carta com cores e espaçamentos perfeitos.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate fabric-swatch fan and a gilded ruler-scepter, cascading layered garment trim, styling gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r028",
+    "sheet_id": "s056",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "O Animador de Figuras",
+    "character_desc": "Faz as figuras da carta ganharem movimento.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure trailing ornate motion-ribbons and gilded keyframe sparks, holding a spinning pinwheel-scepter, dynamic twirl pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r029",
+    "sheet_id": "s056",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "O Arauto Portátil",
+    "character_desc": "Leva o baralho para a palma de qualquer mão.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate pocket-sized gilded card-tablet and a folding travel-case scepter, compact regalia, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r030",
+    "sheet_id": "s056",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "O Cavaleiro da Maçã",
+    "character_desc": "Naipe polido que só joga nas mesas mais finas.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure with sleek minimalist gilded armor and an ornate fruit-sigil crest, holding a polished slab-scepter, refined stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r031",
+    "sheet_id": "s056",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "O Cavaleiro Verde",
+    "character_desc": "Naipe do autômato amistoso, aberto a todas as mesas.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure with an ornate gilded robot-android crest and a friendly green enamel sash, holding a modular gear-scepter, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r032",
+    "sheet_id": "s056",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "O Elo Duplo",
+    "character_desc": "Uma carta que serve a duas mesas com o mesmo desenho.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure with a mirrored ornate twin-atom crest, holding a bridging-scepter spanning two small platform-shields, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r033",
+    "sheet_id": "s056",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "O Alado das Telas",
+    "character_desc": "Voa entre mesas espalhando a mesma bela carta.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure with ornate gilded butterfly-wings and a single-brush scepter painting across floating device-frames, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r034",
+    "sheet_id": "s056",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "O Astrólogo dos Dados",
+    "character_desc": "Lê presságios nas constelações de cartas.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded astrolabe of scatter-plot stars and a constellation-scepter, robe of charted points, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r035",
+    "sheet_id": "s056",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "O Domador de Padrões",
+    "character_desc": "Ensina o baralho a prever a próxima carta.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded neural-lattice orb and a training-whip of dotted lines, model-node filigree robe, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r036",
+    "sheet_id": "s056",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "O Zelador dos Modelos",
+    "character_desc": "Mantém as cartas-oráculo sempre afiadas na mesa.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure with an ornate pipeline-sash of looping gears, holding a monitoring-scepter and a deploy-lever, upkeep stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r037",
+    "sheet_id": "s056",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "O Alquimista Sábio",
+    "character_desc": "Busca cartas que ninguém jogou ainda.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, scholarly court figure with an ornate lantern-scepter over an open experiment-tome, gilded eureka-spark crown, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r038",
+    "sheet_id": "s056",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "O Sussurrador de Cartas",
+    "character_desc": "Encontra as palavras exatas que fazem a carta obedecer.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate speech-scroll with glowing filigree runes, a gilded quill-wand, whispering gesture toward a listening card, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r039",
+    "sheet_id": "s056",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "O Tradutor da Corte",
+    "character_desc": "Entende a fala escrita em cada carta.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded parser-lens over flowing sentence-ribbons, language-tree filigree on the robe, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r040",
+    "sheet_id": "s056",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "O Olhar de Ouro",
+    "character_desc": "Reconhece cada figura só de mirar a carta.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure with an ornate gilded monocle-eye emblem and a bounding-frame scepter, image-grid filigree cloak, keen gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r041",
+    "sheet_id": "s056",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "O Leitor de Presságios",
+    "character_desc": "Interpreta o que as cartas na mesa querem dizer.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded report-fan of tiny charts and a pointer-scepter, insight-lamp brooch, explaining pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r042",
+    "sheet_id": "s056",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "O Cartógrafo do Negócio",
+    "character_desc": "Transforma cartas em painéis que a corte entende.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate dashboard-shield of gilded gauges and a KPI-scepter, ribboned bar-chart trim, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r043",
+    "sheet_id": "s056",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "O Refinador de Cartas",
+    "character_desc": "Lapida as cartas brutas até virarem confiáveis.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded funnel-scepter transforming rough tokens into polished cards, model-layer sash, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r044",
+    "sheet_id": "s056",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "O Iluminador",
+    "character_desc": "Adorna os números com belas figuras visuais.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate palette of gilded chart-gems and a brush-scepter tracing a glowing curve, luminous data-halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r045",
+    "sheet_id": "s056",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "O Mestre de Obras",
+    "character_desc": "Ergue e mantém a mesa onde as cartas são jogadas.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure with an ornate gilded infinity-loop crest, holding a pipeline-wrench scepter and a container-crate shield, builder stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r046",
+    "sheet_id": "s056",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "O Guardião da Estabilidade",
+    "character_desc": "Garante que a mesa nunca desabe no meio do jogo.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, vigilant court figure with an ornate uptime-shield of gilded gauges, holding a pager-bell scepter, steady watchful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r047",
+    "sheet_id": "s056",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "O Fundador de Plataformas",
+    "character_desc": "Constrói o chão comum onde todos os naipes jogam.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure standing on an ornate gilded platform-dais, holding a foundation-block scepter and a toolkit-fan for other players, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r048",
+    "sheet_id": "s056",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "O Senhor das Nuvens",
+    "character_desc": "Rege os castelos flutuantes onde as cartas vivem.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure with an ornate gilded cloud-crown and floating server-castle emblems, holding a region-map scepter, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r049",
+    "sheet_id": "s056",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "O Timoneiro",
+    "character_desc": "Guia frotas de contêineres-carta pelo mar da mesa.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure with an ornate gilded ship-helm scepter and container-fleet sash, hexagonal helm-crest crown, steering pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r050",
+    "sheet_id": "s056",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "O Tecelão de Rotas",
+    "character_desc": "Liga as mesas com fios por onde as cartas trafegam.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure weaving ornate gilded network-threads between node-jewels, holding a router-scepter, interconnected cloak, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r051",
+    "sheet_id": "s056",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "O Zelador do Salão",
+    "character_desc": "Mantém as máquinas do salão de jogo em ordem.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure with an ornate keyring-sash and a terminal-scroll scepter, gilded gear-badges, tidy caretaker stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r052",
+    "sheet_id": "s056",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "O Mestre de Cerimônia da Estreia",
+    "character_desc": "Anuncia quando uma nova carta entra oficialmente no jogo.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded version-banner and a release-lever scepter, ribboned tag-medals, ceremonial launch pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r053",
+    "sheet_id": "s056",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "O Montador",
+    "character_desc": "Junta todas as peças até formar a carta final.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded assembly-scepter binding scattered part-tokens into one card, compiler-anvil emblem, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r054",
+    "sheet_id": "s056",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "O Guardião da Esteira",
+    "character_desc": "Vigia a esteira contínua que testa e entrega as cartas.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure beside an ornate gilded conveyor-belt sash of moving cards, holding a checkmark-scepter, automated flow pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r055",
+    "sheet_id": "s056",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "O Selador de Cofres",
+    "character_desc": "Tranca o baralho contra mãos trapaceiras.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure with an ornate gilded shield-and-lock crest, holding a padlock-scepter and a key-ring, guardian defensive stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r056",
+    "sheet_id": "s056",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "O Ladrão Cortês",
+    "character_desc": "Testa as fechaduras do baralho para achar brechas.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, hooded-yet-ornate court figure holding a gilded lockpick-scepter and a masked-shield, probing a padlock, sly infiltration pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r057",
+    "sheet_id": "s056",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "O Ferreiro de Defesas",
+    "character_desc": "Reforça cada carta contra golpes na aplicação.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure hammering ornate gilded shield-plates onto a card, holding a bug-catch net-scepter, armored trim, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r058",
+    "sheet_id": "s056",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "O Guardador de Segredos",
+    "character_desc": "Embaralha as cartas em códigos indecifráveis.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure with an ornate cipher-wheel crown, holding a gilded key-and-scroll scepter of glyphs, encrypted-lattice cloak, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r059",
+    "sheet_id": "s056",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "O Juiz das Regras",
+    "character_desc": "Confere se cada jogada segue a lei da corte.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded rulebook-tome and a checklist-scepter, scale-of-justice brooch, verifying stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r060",
+    "sheet_id": "s056",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "O Guardião do Sigilo",
+    "character_desc": "Protege os nomes escritos nas cartas pessoais.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded veil-shield redacting a portrait-card, a consent-scroll scepter, privacy gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r061",
+    "sheet_id": "s056",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "O Bombeiro da Corte",
+    "character_desc": "Corre para apagar o incêndio quando uma mão dá errado.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, urgent court figure with an ornate gilded alarm-bell scepter and an extinguisher-shield, rushing crisis pose, ember trim, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r062",
+    "sheet_id": "s056",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "O Vidente das Ameaças",
+    "character_desc": "Prevê onde o baralho pode ser atacado.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded threat-map with marked weak-points and a foresight-lens scepter, strategist stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r063",
+    "sheet_id": "s056",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "O Inspetor das Cartas",
+    "character_desc": "Examina cada carta antes de ela entrar no jogo.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded magnifier-scepter and a checklist-shield with red-and-green marks, inspecting pose, bug emblem, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r064",
+    "sheet_id": "s056",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "O Autômato Examinador",
+    "character_desc": "Constrói robôs-carta que se testam sozinhos.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure with an ornate gilded automaton-arm scepter running test-scripts, gear-checklist sash, self-testing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r065",
+    "sheet_id": "s056",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "O Provador de Carga",
+    "character_desc": "Testa quantas mãos o baralho aguenta de uma vez.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded gauge-scepter pushed to the red, a stack of stress-weight cards, straining test pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r066",
+    "sheet_id": "s056",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "O Conferente Paciente",
+    "character_desc": "Joga cada carta à mão para achar o defeito.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded clipboard-fan and a step-by-step scroll scepter, careful methodical inspecting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r067",
+    "sheet_id": "s056",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "O Provador de Acessos",
+    "character_desc": "Verifica se todas as mãos conseguem jogar a carta.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded checklist-shield with ear-and-eye sigils, a contrast-ratio scepter, inclusive verifying pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r068",
+    "sheet_id": "s056",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "O Escriba Real",
+    "character_desc": "Escreve o manual de como jogar cada carta.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded quill-scepter and an open illuminated manual-tome, inkwell brooch, documenting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r069",
+    "sheet_id": "s056",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "O Arauto da Corte",
+    "character_desc": "Proclama as virtudes das cartas ao povo.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded megaphone-scepter and a demo-card banner, community-ribbon sash, welcoming proclaiming pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r070",
+    "sheet_id": "s056",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "O Estrategista das Palavras",
+    "character_desc": "Planeja qual história cada carta conta.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded content-map fan and a narrative-thread scepter, planning stance, story-scroll sash, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r071",
+    "sheet_id": "s056",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "O Poliglota do Baralho",
+    "character_desc": "Traduz as cartas para todas as línguas da corte.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded globe-scepter and a fan of same-card in many scripts, language-ribbon cloak, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r072",
+    "sheet_id": "s056",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "O Arquiteto do Prazer",
+    "character_desc": "Une beleza e função em cada carta jogável.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded prototype-slab and a persona-fan, balance-scale of form-and-function brooch, designing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r073",
+    "sheet_id": "s056",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "O Pintor Heráldico",
+    "character_desc": "Cria a identidade visual de cada figura.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded color-wheel shield and a fine brush-scepter, typographic-flourish sash, painterly pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r074",
+    "sheet_id": "s056",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "O Coreógrafo dos Toques",
+    "character_desc": "Desenha como a mão interage com a carta.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure tracing ornate gilded gesture-arcs with a pointer-scepter, tap-ripple emblems, interaction-flow cloak, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r075",
+    "sheet_id": "s056",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "O Mestre do Movimento",
+    "character_desc": "Dá ritmo e dança às figuras da carta.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure with ornate gilded motion-arc ribbons and an easing-curve scepter, animated flourish pose, kinetic sparkles, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r076",
+    "sheet_id": "s056",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "O Iluminador de Figuras",
+    "character_desc": "Desenha à mão as personagens de cada carta.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded drawing-pen scepter and a sketch-shield of illustrated figures, ink-and-color sash, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r077",
+    "sheet_id": "s056",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "O Cunhador de Ativos",
+    "character_desc": "Produz os ornamentos-carta prontos para uso.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded asset-tray of sprite-tokens and an export-stamp scepter, sliced-sheet sash, producing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r078",
+    "sheet_id": "s056",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "O Guardião do Brasão",
+    "character_desc": "Zela pelo símbolo que marca todas as cartas.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded heraldic crest-shield and a stamp-scepter, consistent emblem-ribbon sash, brand-keeper pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r079",
+    "sheet_id": "s056",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "O Maestro dos Sons",
+    "character_desc": "Compõe o tilintar de cada carta jogada.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded tuning-fork scepter and a sound-wave shield, headphone-crown, waveform-ribbon cloak, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r080",
+    "sheet_id": "s056",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "O Escultor Tridimensional",
+    "character_desc": "Ergue as figuras da carta em relevo e volume.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded wireframe-sculpt orb and a sculpting-stylus scepter, polygon-facet trim, modeling pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r081",
+    "sheet_id": "s056",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "O Arquiteto do Jogo",
+    "character_desc": "Define as regras que tornam a partida divertida.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded rulebook-orb and a dice-and-loop scepter, core-loop ribbon, game-master presenting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r082",
+    "sheet_id": "s056",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "O Construtor de Salões",
+    "character_desc": "Monta os cenários onde a partida acontece.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded map-grid shield with spawn-markers and a terrain-scepter, level-blueprint sash, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r083",
+    "sheet_id": "s056",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "O Contador de Lendas",
+    "character_desc": "Tece a história que dá alma às cartas.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded branching-story scroll and a dialogue-quill scepter, lore-tome sash, narrating pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r084",
+    "sheet_id": "s056",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "O Ferreiro do Jogo",
+    "character_desc": "Codifica a mecânica que faz a partida rodar.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded game-engine cog scepter and a controller-shield, sprite-token bandolier, coding pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r085",
+    "sheet_id": "s056",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "O Alquimista da Luz",
+    "character_desc": "Pinta brilhos e sombras nas figuras da carta.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded shader-prism scepter casting light-rays over a render-shield, glow-gradient cloak, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r086",
+    "sheet_id": "s056",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "O Ourives Miúdo",
+    "character_desc": "Cunha as cartas minúsculas dos aparelhos pequenos.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded microchip-scepter and a tiny circuit-board shield, soldered-filigree trim, precise pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r087",
+    "sheet_id": "s056",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "O Guardião do Firmware",
+    "character_desc": "Escreve a alma-código que mora dentro do aparelho.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded chip-tome and a low-level-code scepter, embedded-gear crown, hardware-key sash, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r088",
+    "sheet_id": "s056",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "O Pastor das Coisas",
+    "character_desc": "Reúne aparelhos-carta espalhados numa só corte.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded hub-scepter linking many small sensor-jewels, connected-device sash, gathering pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r089",
+    "sheet_id": "s056",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "O Guardião da Corrente",
+    "character_desc": "Encadeia as cartas num elo que ninguém rompe.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded block-chain scepter of linked cubes, ledger-shield, distributed-node cloak, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r090",
+    "sheet_id": "s056",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "O Auditor dos Pactos",
+    "character_desc": "Verifica os contratos gravados nas cartas.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded magnifier over a smart-contract scroll, a seal-checkmark scepter, auditing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r091",
+    "sheet_id": "s056",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "O Portal Encantado",
+    "character_desc": "Funde o baralho ao mundo real diante dos olhos.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded visor-crown and a reality-overlay scepter projecting floating card-holograms, immersive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r092",
+    "sheet_id": "s056",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "O Titereiro de Autômatos",
+    "character_desc": "Comanda braços mecânicos que jogam as cartas.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded robotic-arm scepter and a control-pad shield, servo-gear sash, commanding pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r093",
+    "sheet_id": "s056",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "O Semeador de Crescimento",
+    "character_desc": "Faz o baralho ganhar novas mãos a cada rodada.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded upward-curve scepter and a funnel-shield sprouting new player-tokens, growth-vine trim, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r094",
+    "sheet_id": "s056",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "O Farejador de Buscas",
+    "character_desc": "Faz a carta aparecer no topo das procuras.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded rank-ladder scepter and a keyword-magnifier shield, top-result crown, optimizing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r095",
+    "sheet_id": "s056",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "O Engenheiro da Praça",
+    "character_desc": "Une arte e máquina para anunciar as cartas.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded campaign-funnel scepter and an automation-gear banner, analytics-ribbon sash, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r096",
+    "sheet_id": "s056",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "O Consultor da Corte",
+    "character_desc": "Mostra ao cliente como a carta resolve seu problema.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded solution-scroll and a fitting-key scepter, presenting a tailored card-shield, advising pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r097",
+    "sheet_id": "s056",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "O Amparo das Mãos",
+    "character_desc": "Socorre quem trava ao jogar uma carta.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure with an ornate gilded headset-crown and a ticket-scroll scepter, helping-hand shield, reassuring support pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r098",
+    "sheet_id": "s056",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "O Arauto do Comércio",
+    "character_desc": "Demonstra o valor das cartas a quem vai comprá-las.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded demo-card fan and a value-scale scepter, deal-ribbon sash, persuasive presenting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r099",
+    "sheet_id": "s056",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "O Tesoureiro das Nuvens",
+    "character_desc": "Controla quanto ouro cada carta custa para jogar.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure holding an ornate gilded abacus-scepter and a coin-gauge shield with cloud-cost sigils, budgeting stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s056-r100",
+    "sheet_id": "s056",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "O Conselheiro Togado",
+    "character_desc": "Zela para que cada carta respeite a lei do reino.",
+    "nano_prompt": "Ornate playing-card court figure in gilded heraldic filigree style, flat symmetrical baroque flourishes, deep crimson-and-black card palette with polished gold accents, single full-body standing figure with regal card-court costume, court figure with an ornate gilded scale-of-justice crown, holding a law-tome scepter and a gavel, contract-seal sash, judicial pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

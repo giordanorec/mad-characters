@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s076-r001",
+    "sheet_id": "s076",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Mestre Garam",
+    "character_desc": "Mestre misturador de temperos que projeta a mistura perfeita; segura um pergaminho-blueprint de receita e um compasso de dosagem.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a distinguished spice-blend master apothecary holding an unrolled recipe blueprint scroll and a brass dosing compass, measuring spoons hanging from his apron, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r002",
+    "sheet_id": "s076",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Capitão Pimenta",
+    "character_desc": "Chefe da bancada de moagem que guia a equipe; ergue uma concha-batuta e ostenta um crachá de líder no avental.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a confident black-pepper spice merchant raising a ladle like a conductor's baton, a leader badge pinned on his apron, guiding pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r003",
+    "sheet_id": "s076",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Sábio Noz",
+    "character_desc": "Especiaria veterana e sábia, consultada por todos; usa óculos redondos e um bandoleira de pequenos almofarizes.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a wise elderly nutmeg sage with round spectacles and a bandolier of tiny mortars and pestles, thoughtful expression, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r004",
+    "sheet_id": "s076",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Doutor Cravo",
+    "character_desc": "Autoridade máxima do armário de especiarias; segura um molho de chaves ornamentadas do gabinete de temperos.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a stately clove apothecary in an ornate coat holding a heavy ring of decorative spice-cabinet keys, authoritative posture, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r005",
+    "sheet_id": "s076",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Gerente Ervas",
+    "character_desc": "Coordena a prateleira de potes da equipe; segura uma prancheta com inventário e aponta para um vidro.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a tidy mixed-herbs manager holding a clipboard inventory and pointing, a small whistle around the neck, organized look, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r006",
+    "sheet_id": "s076",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Baunilha PM",
+    "character_desc": "Cuida do tempero-produto premium da casa; apresenta um vidro reluzente sobre um pedestal com um pergaminho-roadmap.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a graceful vanilla-pod product curator presenting a premium spice jar on a small pedestal, a rolled roadmap scroll under the arm, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r007",
+    "sheet_id": "s076",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Dona Cardamomo",
+    "character_desc": "Dona da lista de receitas priorizadas; segura um maço de fichas de receita numeradas e uma pena.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a poised cardamom keeper holding a stacked deck of numbered recipe cards and a quill, prioritizing gesture, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r008",
+    "sheet_id": "s076",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Coordenadora Curry",
+    "character_desc": "Alinha várias linhas de tempero ao mesmo tempo; segura fitas que conectam três vidros e uma linha do tempo.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a curry-blend coordinator holding ribbons that link three spice jars together, a small timeline banner, multitasking pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r009",
+    "sheet_id": "s076",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Louro Prazo",
+    "character_desc": "Cronometra a colheita e a moagem; segura uma ampulheta e um pergaminho de cronograma com marcações.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a bay-leaf scheduler holding an hourglass and a Gantt-chart scroll with checkmarks, punctual expression, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r010",
+    "sheet_id": "s076",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Gengibre Ágil",
+    "character_desc": "Facilita os ciclos de tempero da equipe; toca um pequeno sino de reunião e segura fichas adesivas.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of an energetic ginger-root facilitator ringing a small standup bell and holding sticky note cards, encouraging smile, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r011",
+    "sheet_id": "s076",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Fundo Cominho",
+    "character_desc": "Trabalha nos bastidores do depósito de especiarias; segura engrenagens de moinho e um cano de dosagem.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a cumin worker behind the scenes holding grinder gears and a dosing pipe, sturdy backstage apron, focused, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r012",
+    "sheet_id": "s076",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Coentro Conector",
+    "character_desc": "Desenha os encaixes entre potes; segura conectores de latão e um esquema de bocais padronizados.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a coriander designer holding brass jar connectors and a schematic of standardized nozzle fittings, tidy blueprint, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r013",
+    "sheet_id": "s076",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Semente Micro",
+    "character_desc": "Divide a receita em muitos potinhos independentes; segura uma bandeja com vários frascos minúsculos idênticos.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a fennel-seed engineer holding a tray of many tiny identical independent spice vials, modular arrangement, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r014",
+    "sheet_id": "s076",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Açafrão Fluxo",
+    "character_desc": "Conduz o tempero por uma calha até o vidro; segura um funil comprido e um cano de transporte.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a turmeric pipeline worker holding a long funnel and a transport chute feeding a jar, flowing golden powder, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r015",
+    "sheet_id": "s076",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Páprica Colheita",
+    "character_desc": "Colhe e canaliza grandes volumes de especiaria bruta; carrega sacas e um funil industrial.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a paprika data-engineer carrying sacks of raw spice and a large industrial funnel, red powder, harvesting stance, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r016",
+    "sheet_id": "s076",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Guardião Sal",
+    "character_desc": "Administra o grande armazém de potes; segura um chaveiro do cofre e um livro de registro dos vidros.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a rock-salt warehouse keeper holding a vault keyring and a jar-ledger book, rows of shelves implied, custodial, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r017",
+    "sheet_id": "s076",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Pimenta Consulta",
+    "character_desc": "Especialista em achar o tempero certo no armazém; segura uma lupa sobre uma ficha de consulta.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a white-pepper specialist holding a magnifying glass over a lookup query card, precise searching expression, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r018",
+    "sheet_id": "s076",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Menta Reserva",
+    "character_desc": "Mantém os temperos mais usados à mão para servir rápido; segura uma bandeja de amostras prontas.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a dried-mint keeper holding a tray of ready-to-serve pre-portioned samples for quick access, brisk pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r019",
+    "sheet_id": "s076",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Alecrim Fila",
+    "character_desc": "Organiza os pedidos de tempero em fila ordenada; segura uma esteira de pequenos vidros enfileirados.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a rosemary queue engineer holding a conveyor strip of neatly lined-up jars in order, orderly gesture, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r020",
+    "sheet_id": "s076",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Zimbro Busca",
+    "character_desc": "Encontra qualquer grão no vasto depósito; segura uma lupa e um índice de fichas com abas.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a juniper-berry search engineer holding a magnifier and a tabbed card index, scanning shelves, keen eyes, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r021",
+    "sheet_id": "s076",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Colorau Vitrine",
+    "character_desc": "Monta a vitrine da loja de temperos que o cliente vê; segura uma bandeja decorada de amostras coloridas.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of an annatto shop-front dresser holding a decorated display tray of colorful spice samples, presenting to viewer, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r022",
+    "sheet_id": "s076",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Cúrcuma UI",
+    "character_desc": "Ajusta cada botão e etiqueta da estante; segura pequenos rótulos e ganchos alinhados.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a bright spice UI engineer holding small tidy labels and aligned display hooks, arranging a neat shelf front, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r023",
+    "sheet_id": "s076",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Erva-Doce UX",
+    "character_desc": "Estuda como o cliente escolhe o tempero; segura um mapa de trilha do cliente e uma lupa gentil.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of an anise UX designer holding a customer journey map through the spice aisle and a gentle magnifier, empathetic, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r024",
+    "sheet_id": "s076",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Manjericão Sistema",
+    "character_desc": "Cria o padrão de potes e rótulos reutilizáveis; segura uma cartela de rótulos-modelo idênticos.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a basil design-systems keeper holding a swatch board of reusable identical label templates, systematic, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r025",
+    "sheet_id": "s076",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Camomila Acesso",
+    "character_desc": "Garante que todos consigam usar os temperos; segura potes com etiquetas em relevo e alça larga.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a chamomile accessibility keeper holding jars with embossed braille-like labels and wide easy-grip handles, inclusive, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r026",
+    "sheet_id": "s076",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Guaraná Turbo",
+    "character_desc": "Faz o tempero sair do pote no menor tempo; segura um cronômetro e um bico de fluxo veloz.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a guarana web-performance tuner holding a stopwatch and a fast-flow pour spout, speed-focused stance, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r027",
+    "sheet_id": "s076",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Pimenta-Rosa Estilo",
+    "character_desc": "Cuida do visual e cor dos rótulos; segura pincéis finos e uma paleta de tons de especiaria.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a pink-peppercorn style specialist holding fine brushes and a palette of spice-tone swatches, decorative flair, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r028",
+    "sheet_id": "s076",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Canela Movimento",
+    "character_desc": "Faz o pó dançar ao ser servido; segura um pote com espirais de canela em movimento suave.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a cinnamon animation engineer holding a jar with graceful swirling powder trails, dynamic flowing motion pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r029",
+    "sheet_id": "s076",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Cravo Bolso",
+    "character_desc": "Faz o tempero portátil de bolso; segura um vidrinho compacto de viagem com tampa dosadora.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of an allspice mobile maker holding a compact pocket travel spice vial with a dosing cap, on-the-go pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r030",
+    "sheet_id": "s076",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Maçã-Verde iSpice",
+    "character_desc": "Tempero refinado da linha premium selada; segura um frasco minimalista polido de tampa lacrada.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a polished green-cardamom maker holding a sleek minimalist sealed premium spice vial, elegant refined pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r031",
+    "sheet_id": "s076",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Louro Robô",
+    "character_desc": "Tempero da linha aberta e versátil; segura um frasco verde-robótico modular com engrenagens.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of an android-themed bay maker holding a modular green robotic spice canister with little gears, versatile pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r032",
+    "sheet_id": "s076",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Páprica Ponte",
+    "character_desc": "Faz um tempero que serve dois potes com uma receita só; segura dois vidros ligados por uma ponte.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a smoked-paprika bridge maker holding two spice jars joined by a single shared bridge tube, cross-platform pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r033",
+    "sheet_id": "s076",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Açafrão Flechado",
+    "character_desc": "Faz o tempero fluir bonito em qualquer prato; segura um frasco alado com penacho de flâmulas.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a saffron cross-platform maker holding a winged spice flask with a plume of little flutter ribbons, fluid pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r034",
+    "sheet_id": "s076",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Estrela Anis Ciência",
+    "character_desc": "Cientista que decifra padrões no aroma; segura um frasco de destilação e um gráfico de curvas.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a star-anise data scientist holding a distillation flask and a curve chart of aroma patterns, analytical gaze, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r035",
+    "sheet_id": "s076",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Curry Aprendiz",
+    "character_desc": "Treina a mistura a melhorar sozinha; segura um funil que recircula pó e um pequeno cérebro-almofariz.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a garam-masala ML engineer holding a self-recirculating funnel and a tiny brain-shaped mortar, training pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r036",
+    "sheet_id": "s076",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Noz Esteira",
+    "character_desc": "Mantém as misturas rodando na linha automatizada; segura uma esteira de frascos com engrenagens.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a mace MLOps engineer holding an automated conveyor of jars with gears and pipes, monitoring stance, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r037",
+    "sheet_id": "s076",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Baunilha Pesquisa",
+    "character_desc": "Investiga aromas nunca antes combinados; segura um caderno de anotações e um alambique experimental.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a vanilla-bean AI researcher holding a research notebook and an experimental alembic, curious inventive expression, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r038",
+    "sheet_id": "s076",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Pimenta Sussurro",
+    "character_desc": "Sabe a dose exata de palavra para o sabor certo; segura fichas de receita sussurrada e uma colher graduada.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a cayenne prompt engineer holding whispered instruction cards and a graduated tasting spoon, precise coaxing gesture, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r039",
+    "sheet_id": "s076",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Erva Fala",
+    "character_desc": "Entende a linguagem dos aromas; segura um pergaminho de descrições de sabor e um funil-ouvido.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a lemongrass NLP engineer holding a scroll of flavor descriptions and an ear-shaped funnel, interpreting pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r040",
+    "sheet_id": "s076",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Cúrcuma Olho",
+    "character_desc": "Reconhece cada especiaria pela cor à primeira vista; segura uma lupa-lente e um cartão de cores.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a turmeric computer-vision engineer holding a lens-eye magnifier and a color-swatch reference card, observant, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r041",
+    "sheet_id": "s076",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Orégano Análise",
+    "character_desc": "Lê os números da despensa; segura um gráfico de barras de vidros e uma régua de contagem.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of an oregano data analyst holding a bar-chart of jar counts and a tally ruler, examining figures, studious, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r042",
+    "sheet_id": "s076",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Tomilho BI",
+    "character_desc": "Transforma o estoque em painéis de insight; segura um painel decorado com pequenos medidores.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a thyme BI analyst holding a decorated dashboard board with little gauges and dials, insightful pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r043",
+    "sheet_id": "s076",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Sálvia Modelo",
+    "character_desc": "Modela e limpa os dados da despensa; segura um funil de peneiração e tabelas alinhadas.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a sage analytics engineer holding a sifting funnel and neat aligned data tables, tidy modeling pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r044",
+    "sheet_id": "s076",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Açafrão Gráfico",
+    "character_desc": "Desenha os gráficos mais bonitos do aroma; segura uma prancheta com curvas coloridas elegantes.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a safflower data-viz specialist holding a drawing board of elegant colorful aroma curves, artistic charting pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r045",
+    "sheet_id": "s076",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Pimenta Preta Motor",
+    "character_desc": "Mantém a máquina de moagem sempre rodando; segura uma chave inglesa e uma correia de esteira.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a black-pepper devops engineer holding a wrench and a conveyor belt loop, keeping the grinder running, greasy apron, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r046",
+    "sheet_id": "s076",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Sal Grosso Guarda",
+    "character_desc": "Vigia a saúde da despensa 24h; segura um mostrador de níveis e um sino de alarme.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a coarse-salt reliability guardian holding a status dial gauge and an alarm bell, vigilant watch stance, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r047",
+    "sheet_id": "s076",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Manjerona Base",
+    "character_desc": "Constrói a bancada onde todos temperam; segura uma prancha-plataforma com encaixes de potes.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a marjoram platform engineer holding a foundational workbench plank with jar-mount sockets, building pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r048",
+    "sheet_id": "s076",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Anis Nuvem",
+    "character_desc": "Guarda os temperos numa despensa flutuante enorme; segura um pote-nuvem elevado por fios.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a fennel-pollen cloud architect holding a cloud-shaped floating pantry jar lifted by little strings, airy pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r049",
+    "sheet_id": "s076",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Cravo Timão",
+    "character_desc": "Orquestra dezenas de potes em conjunto; segura um leme com muitos vidrinhos orbitando.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a clove kubernetes admin holding a ship's-wheel helm with many little jars orbiting it, orchestrating pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r050",
+    "sheet_id": "s076",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Louro Rede",
+    "character_desc": "Liga as bancadas por tubos de tempero; segura um novelo de tubos conectando frascos distantes.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a laurel network engineer holding a bundle of spice tubes connecting distant jars, routing pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r051",
+    "sheet_id": "s076",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Sal Marinho Zelador",
+    "character_desc": "Zela pelas máquinas e prateleiras da loja; segura um molho de chaves e um óleo lubrificante.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a sea-salt sysadmin holding a maintenance keyring and an oil can, tending shelves and machines, dependable, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r052",
+    "sheet_id": "s076",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Canela Selo",
+    "character_desc": "Lacra e libera cada lote de tempero; segura um carimbo de lacre e um vidro com selo de cera.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a cassia release engineer holding a wax seal stamp and a sealed batch jar, versioned tag ribbon, approving gesture, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r053",
+    "sheet_id": "s076",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Noz-Moscada Forja",
+    "character_desc": "Mói e prensa a matéria bruta em pó pronto; segura um moinho-forja com pó saindo.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a nutmeg build engineer holding a grinder-forge press with fresh powder coming out, compiling raw spice, sturdy, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r054",
+    "sheet_id": "s076",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Gengibre Esteira",
+    "character_desc": "Automatiza moer, provar e engarrafar em sequência; segura uma esteira contínua de etapas.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a dried-ginger CI/CD engineer holding a continuous conveyor of grind-taste-bottle stages, automated pipeline pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r055",
+    "sheet_id": "s076",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Pimenta Escudo",
+    "character_desc": "Protege a despensa contra adulteração; segura um escudo-tampa e um cadeado de vidro.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a chili security engineer holding a shield-lid and a jar padlock, guarding the pantry, protective stance, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r056",
+    "sheet_id": "s076",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Wasabi Sonda",
+    "character_desc": "Testa invadindo a despensa para achar brechas; segura uma gazua e um frasco de teste furtivo.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a wasabi penetration tester holding a lockpick and a stealthy probing test vial, sly investigative grin, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r057",
+    "sheet_id": "s076",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Raiz-Forte Blindado",
+    "character_desc": "Reforça cada pote contra ataques; segura um vidro blindado com fecho reforçado.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a horseradish appsec engineer holding an armored spice jar with reinforced clasp, hardening pose, alert, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r058",
+    "sheet_id": "s076",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cardamomo Cifra",
+    "character_desc": "Guarda receitas secretas em código; segura um pote com rótulo cifrado e um disco decodificador.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a black-cardamom cryptographer holding a jar with a ciphered label and a decoder wheel disc, secretive pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r059",
+    "sheet_id": "s076",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Louro Selo-Lei",
+    "character_desc": "Confere se cada rótulo segue as regras; segura um livro de normas e um selo de conformidade.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a bay-leaf compliance officer holding a rulebook and a compliance-seal stamp, checking labels, formal posture, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r060",
+    "sheet_id": "s076",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Menta Sigilo",
+    "character_desc": "Protege os dados de quem compra o tempero; segura um pote com etiqueta velada e uma cortina.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a peppermint privacy engineer holding a jar with a veiled redacted label and a small privacy curtain, discreet, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r061",
+    "sheet_id": "s076",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Pimenta Sino",
+    "character_desc": "Corre para apagar o incêndio da despensa; segura um sino de alarme e um extintor de vidro.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a red-chili incident responder holding an alarm bell and a small fire extinguisher, urgent alert stance, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r062",
+    "sheet_id": "s076",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Cravo Mapa",
+    "character_desc": "Antecipa como a despensa pode ser atacada; segura um mapa com alfinetes de ameaça sobre potes.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a clove threat modeler holding a map pinned with threat markers over the pantry shelves, strategic frowning study, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r063",
+    "sheet_id": "s076",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Salsa Prova",
+    "character_desc": "Prova cada tempero antes de liberar; segura uma colher de degustação e uma ficha de checagem.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a parsley QA taster holding a tasting spoon and a checklist card, sampling a jar, discerning expression, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r064",
+    "sheet_id": "s076",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Cebolinha Autoteste",
+    "character_desc": "Monta provadores automáticos que testam sozinhos; segura um braço mecânico com colher.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a chive SDET holding a little mechanical arm with an automated tasting spoon rig, automation pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r065",
+    "sheet_id": "s076",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Guaraná Carga",
+    "character_desc": "Testa o tempero sob uso extremo; segura vários vidros empilhados e um medidor de pressão.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a guarana performance tester holding a stack of jars under a pressure gauge, load-testing stance, intense, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r066",
+    "sheet_id": "s076",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Manjericão Mão",
+    "character_desc": "Prova tempero à mão, com calma e cuidado; segura uma colher e uma lupa de degustação atenta.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a basil manual tester holding a spoon and an attentive tasting magnifier, hands-on careful sampling pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r067",
+    "sheet_id": "s076",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Camomila Prova-Acesso",
+    "character_desc": "Testa se todos conseguem usar o pote; segura um frasco de alça larga e um cartão de contraste.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a chamomile accessibility tester holding a wide-handle jar and a contrast test card, inclusive checking pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r068",
+    "sheet_id": "s076",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Endro Manual",
+    "character_desc": "Escreve o modo de usar cada tempero; segura um pequeno manual e uma pena caprichada.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a dill technical writer holding a small how-to manual booklet and a neat quill, documenting pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r069",
+    "sheet_id": "s076",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Hortelã Voz",
+    "character_desc": "Divulga os temperos e ensina a usá-los; segura um megafone-funil e amostras para dar.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a spearmint developer advocate holding a funnel-megaphone and sample jars to give away, welcoming enthusiastic pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r070",
+    "sheet_id": "s076",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Sálvia Enredo",
+    "character_desc": "Planeja a história contada nos rótulos; segura um mural de fichas de conteúdo encadeadas.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a sage content strategist holding a board of linked content cards planning the label story, planning pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r071",
+    "sheet_id": "s076",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Coentro Idioma",
+    "character_desc": "Adapta os rótulos para várias línguas; segura potes com etiquetas em idiomas diferentes.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a coriander localization engineer holding several jars with labels in different languages, globe token, adapting pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r072",
+    "sheet_id": "s076",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Baunilha Produto",
+    "character_desc": "Desenha o tempero-produto inteiro, do pote ao uso; segura um esboço do frasco e amostra final.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a vanilla product designer holding a sketch of the whole jar concept and the finished sample, holistic pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r073",
+    "sheet_id": "s076",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Açafrão Visual",
+    "character_desc": "Cuida da beleza do rótulo e da cor; segura uma paleta e um rótulo ornamentado recém-pintado.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a saffron visual designer holding a color palette and a freshly painted ornate label, aesthetic pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r074",
+    "sheet_id": "s076",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Gengibre Toque",
+    "character_desc": "Desenha como a mão interage com o pote; segura uma tampa com botões e setas de gesto.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a young-ginger interaction designer holding a jar lid with buttons and little gesture arrows, tactile pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r075",
+    "sheet_id": "s076",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Canela Animar",
+    "character_desc": "Faz o rótulo ganhar vida em movimento; segura uma tira de quadros de pó girando.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a cinnamon-stick motion designer holding a filmstrip of swirling powder frames, animating pose, lively, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r076",
+    "sheet_id": "s076",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Colorau Pincel",
+    "character_desc": "Ilustra à mão as figuras do rótulo; segura pincéis e uma prancheta com um desenho de especiaria.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of an annatto illustrator holding brushes and a drawing board with a hand-drawn spice figure, artistic creative pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r077",
+    "sheet_id": "s076",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Semente Ativo",
+    "character_desc": "Produz os pequenos ornamentos e ícones do rótulo; segura uma bandeja de selos e vinhetas.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a poppy-seed asset designer holding a tray of little ornamental stamps and vignette icons, crafting pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r078",
+    "sheet_id": "s076",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Pimenta Marca",
+    "character_desc": "Cria a identidade da casa de temperos; segura um brasão-emblema e um carimbo de marca.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a pink-pepper brand designer holding a crest emblem and a brand stamp, identity-defining confident pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r079",
+    "sheet_id": "s076",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Cravo Som",
+    "character_desc": "Cria o estalo e o sussurro do tempero sendo moído; segura um pequeno sino e ondas sonoras.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a clove sound designer holding a small bell and little sound-wave ribbons of the grinding crackle, listening pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r080",
+    "sheet_id": "s076",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Noz Relevo",
+    "character_desc": "Esculpe potes em três dimensões; segura um frasco em relevo e ferramentas de modelagem.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a nutmeg 3D artist holding a sculpted relief jar and modeling tools, dimensional carving pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r081",
+    "sheet_id": "s076",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Pimenta Jogo",
+    "character_desc": "Inventa as regras do jogo de temperar; segura um dado de especiaria e um tabuleiro de sabores.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a chili-flake game designer holding a spice die and a flavor game board, playful inventive grin, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r082",
+    "sheet_id": "s076",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Louro Nível",
+    "character_desc": "Monta os desafios de cada prato tempero a tempero; segura um mapa de fases com potes marcados.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a bay-leaf level designer holding a level map with jar-marked stages, arranging challenges, planning pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r083",
+    "sheet_id": "s076",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Baunilha Conto",
+    "character_desc": "Tece a história por trás de cada mistura; segura um livro-receita ilustrado e uma pena.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a vanilla narrative designer holding an illustrated recipe storybook and a quill, storytelling warm expression, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r084",
+    "sheet_id": "s076",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Gengibre Jogo",
+    "character_desc": "Constrói o jogo de temperar que roda de verdade; segura um controle-almofariz e um frasco animado.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a ginger game developer holding a mortar-shaped game controller and a lively animated spice jar, building pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r085",
+    "sheet_id": "s076",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Açafrão Brilho",
+    "character_desc": "Faz o pó reluzir com efeitos de luz; segura um frasco cintilante e uma paleta de brilhos.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a saffron shader engineer holding a shimmering glowing spice flask and a palette of light effects, radiant pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r086",
+    "sheet_id": "s076",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Cominho Chip",
+    "character_desc": "Coloca inteligência num potinho minúsculo; segura um frasco com uma placa de circuito embutida.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a cumin-seed embedded engineer holding a tiny jar with a small embedded circuit board, compact precise pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r087",
+    "sheet_id": "s076",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Erva-Doce Firme",
+    "character_desc": "Programa a alma do pote automático; segura um chip-selo e um frasco com tampa mecânica.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of an anise firmware engineer holding a chip-seal and a jar with a mechanical smart cap, low-level tinkering pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r088",
+    "sheet_id": "s076",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Cardamomo Conecta",
+    "character_desc": "Faz potes conversarem entre si à distância; segura um frasco com antena e sinais irradiando.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a cardamom IoT engineer holding a jar with a little antenna and radiating signal waves, connected pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r089",
+    "sheet_id": "s076",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Sal Corrente",
+    "character_desc": "Registra cada lote numa corrente inquebrável; segura elos de corrente ligando vidros lacrados.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a pink-salt blockchain developer holding a chain of links binding sealed jars in an unbreakable ledger, immutable pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r090",
+    "sheet_id": "s076",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Cravo Auditor",
+    "character_desc": "Revisa o contrato-corrente em busca de falhas; segura uma lupa sobre elos e um selo de aprovação.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a clove smart-contract auditor holding a magnifier over chain links and an approval seal, scrutinizing pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r091",
+    "sheet_id": "s076",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Menta Miragem",
+    "character_desc": "Cria temperos que aparecem no ar sobre o prato; segura óculos-lente e um frasco projetando pó-holograma.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a mint AR/VR engineer holding lens-goggles and a jar projecting a holographic powder cloud, immersive pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r092",
+    "sheet_id": "s076",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Pimenta Braço",
+    "character_desc": "Constrói o braço que tempera sozinho; segura um braço mecânico segurando uma colher dosadora.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a peppercorn robotics engineer holding a mechanical arm gripping a dosing spoon, automation building pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r093",
+    "sheet_id": "s076",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Guaraná Crescer",
+    "character_desc": "Faz a loja de temperos crescer rápido; segura um gráfico ascendente e um funil de novos clientes.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a guarana growth engineer holding a rising arrow chart and a customer funnel of new buyers, upbeat expansive pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r094",
+    "sheet_id": "s076",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Alecrim Ranque",
+    "character_desc": "Faz o tempero aparecer primeiro na prateleira; segura uma etiqueta destaque e um ímã de atenção.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a rosemary SEO specialist holding a highlighted top-shelf tag and an attention magnet, promoting pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r095",
+    "sheet_id": "s076",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Colorau Alcance",
+    "character_desc": "Automatiza a divulgação dos temperos; segura um funil de correspondência e vidros-panfleto.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of an annatto marketing technologist holding a mail funnel and flyer-jars for outreach, campaign pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r096",
+    "sheet_id": "s076",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Cúrcuma Solução",
+    "character_desc": "Mostra ao cliente o tempero certo para o problema dele; segura um mostruário e um esquema de encaixe.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a turmeric solutions engineer holding a sample showcase and a fit-schematic for the client's need, advising pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r097",
+    "sheet_id": "s076",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Camomila Apoio",
+    "character_desc": "Ajuda quem tem dúvida com o tempero; segura um frasco de socorro e um bloco de respostas.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a chamomile support engineer holding a help vial and an answers notepad, reassuring helpful expression, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r098",
+    "sheet_id": "s076",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Baunilha Venda",
+    "character_desc": "Encanta o cliente e fecha o pedido de tempero; segura uma bandeja de amostras e um contrato-fita.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a vanilla sales engineer holding a sample tray and a ribbon-sealed order contract, persuasive warm smile, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r099",
+    "sheet_id": "s076",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Sal Conta",
+    "character_desc": "Cuida do custo de cada grama de tempero; segura uma balança de precisão e um ábaco de moedas.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a sea-salt finops analyst holding a precision scale and a coin abacus counting spice cost, frugal careful pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s076-r100",
+    "sheet_id": "s076",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Louro Lei",
+    "character_desc": "Zela pelas regras legais dos rótulos; segura um martelo de juiz e um pergaminho de contrato lacrado.",
+    "nano_prompt": "Vintage apothecary spice-label illustration, waist-up bust portrait of a bay-laurel legal counsel holding a judge's gavel and a sealed contract scroll over the labels, formal solemn pose, rendered in aged engraved sepia linework with a muted spice-toned palette (cinnamon brown, saffron gold, paprika red, clove umber), warm antique-paper texture on the figure, ornate hand-drawn detailing and fine cross-hatching, apothecary-merchant charm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

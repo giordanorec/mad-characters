@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s031-r001",
+    "sheet_id": "s031",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Vitrúvio",
+    "character_desc": "Arquiteto de edificações que projeta a estrutura da solução; segura plantas enroladas e esquadro, capacete de obra na cabeça.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a classic building architect wearing a leather hard hat, holding a rolled blueprint and a wooden T-square, confident visionary expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r002",
+    "sheet_id": "s031",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Mestre de Obras",
+    "character_desc": "Mestre de obras que lidera a equipe do canteiro; apito no pescoço, capacete e prancheta de ordens, apontando para frente.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a construction site foreman with a hard hat and a whistle around his neck, holding a clipboard, one hand pointing forward as if directing a crew, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r003",
+    "sheet_id": "s031",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Engenheiro-Chefe",
+    "character_desc": "Engenheiro-chefe de fábrica veterano; jaleco de engenheiro, relógio de bolso e desenhos técnicos detalhados sob o braço.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a veteran chief factory engineer in a work coat, a pocket watch chain across the vest, rolled technical drawings under the arm, seasoned steady gaze, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r004",
+    "sheet_id": "s031",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "O Decano",
+    "character_desc": "Professor engenheiro emérito, a autoridade máxima; paletó de tweed com cotoveleiras, régua de cálculo e cachimbo.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a distinguished emeritus engineering professor in a tweed jacket with elbow patches, holding a slide rule, a pipe in hand, wise authoritative air, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r005",
+    "sheet_id": "s031",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "O Maestro",
+    "character_desc": "Regente de orquestra que coordena muitos músicos; fraque elegante e batuta erguida em pose de reger.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of an orchestra conductor in an elegant tailcoat, raising a slender baton in mid-gesture, composed leadership expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r006",
+    "sheet_id": "s031",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "O Comerciante",
+    "character_desc": "Comerciante que decide o que colocar na prateleira; avental de loja, livro-caixa e uma peça de mercadoria curada na mão.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a classic shopkeeper merchant in an apron, holding a ledger and a single curated product, thoughtful decisive look, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r007",
+    "sheet_id": "s031",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "O Proprietário",
+    "character_desc": "Proprietário do empreendimento; escritura enrolada numa mão e uma grande chave de latão na outra, postura de dono.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a landed estate owner in a fine waistcoat, holding a rolled deed in one hand and a large brass key in the other, proprietary confident stance, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r008",
+    "sheet_id": "s031",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Chefe de Estação",
+    "character_desc": "Chefe de estação ferroviária que sincroniza tudo; boné de estação, paleta de sinalização e horário na mão.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a railway station master in a peaked cap, holding a signalling paddle and a printed timetable, orderly coordinating expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r009",
+    "sheet_id": "s031",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "O Capataz",
+    "character_desc": "Líder de expedição que toca o projeto do início ao fim; mapa aberto, bússola no colar e capa de viagem.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of an expedition leader in a travel coat, holding an open map with a compass on a cord, plotting a route, determined organizing look, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r010",
+    "sheet_id": "s031",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "O Árbitro",
+    "character_desc": "Árbitro esportivo que garante as regras do jogo e o ritmo; apito, cronômetro e camisa listrada.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a sports referee in a striped shirt, a whistle at the lips and a stopwatch in hand, fair firm facilitating expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r011",
+    "sheet_id": "s031",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "O Foguista",
+    "character_desc": "Foguista da casa de máquinas, o motor invisível por trás de tudo; macacão, chave inglesa e manômetro de caldeira.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a boiler-room stoker in greasy coveralls, holding a large wrench beside a pressure gauge, soot on the brow, tireless engine-room air, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r012",
+    "sheet_id": "s031",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "O Emissário",
+    "character_desc": "Diplomata que costura acordos entre as partes; contrato lacrado, pena de escrever e faixa protocolar.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a formal diplomat in a sash, holding a sealed contract scroll and a quill pen, courteous connecting gesture between two parties, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r013",
+    "sheet_id": "s031",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "O Relojoeiro",
+    "character_desc": "Relojoeiro que monta muitas engrenagens pequenas e independentes; lupa de olho e bandeja com dezenas de mini-engrenagens.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a watchmaker with a jeweler's loupe in one eye, holding tweezers over a tray of many tiny separate gears, meticulous focused expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r014",
+    "sheet_id": "s031",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "O Encanador",
+    "character_desc": "Encanador que conecta os canos por onde os dados fluem; chave de grifo e seções de tubos sobre o ombro.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a pipefitter plumber in overalls, holding a large pipe wrench with sections of connected pipe over the shoulder, practical hands-on look, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r015",
+    "sheet_id": "s031",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "O Mineiro",
+    "character_desc": "Mineiro que extrai a matéria-bruta; picareta ao ombro, lampião no capacete e um carrinho de minério bruto.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a mine worker with a helmet lamp, a pickaxe over the shoulder and a small cart of raw ore beside, rugged extracting expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r016",
+    "sheet_id": "s031",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "O Arquivista",
+    "character_desc": "Arquivista guardião do grande acervo ordenado; gavetas de fichário, livro-registro e chave do arquivo.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of an archivist librarian beside a card-catalog drawer cabinet, holding an index ledger and an archive key, orderly custodial expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r017",
+    "sheet_id": "s031",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Guarda-Livros",
+    "character_desc": "Guarda-livros que consulta e cruza registros com precisão; livros-razão, ábaco e pena.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a bookkeeper in sleeve garters, an abacus and open ledger books before him, quill in hand querying figures, precise tidy expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r018",
+    "sheet_id": "s031",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "O Geleiro",
+    "character_desc": "Geleiro que estoca blocos de gelo para entrega rápida; pinça de gelo, avental de couro e bloco cristalino no ombro.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of an iceman in a leather apron carrying a clear ice block with iron ice tongs, brisk ready-to-deliver expression, frosty breath, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r019",
+    "sheet_id": "s031",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "O Carteiro",
+    "character_desc": "Classificador dos Correios que enfileira e entrega mensagens; bolsa de couro, cartas carimbadas e escaninhos ao fundo.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a postal sorting clerk with a leather mail satchel, holding stamped letters in front of a wall of pigeonhole slots, methodical dispatching look, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r020",
+    "sheet_id": "s031",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "O Detetive",
+    "character_desc": "Detetive que vasculha e encontra qualquer coisa no arquivo; lupa, sobretudo e fichas de índice na mão.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a classic detective in a trench coat, peering through a magnifying glass while holding index cards, sharp searching gaze, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r021",
+    "sheet_id": "s031",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "O Vitrinista",
+    "character_desc": "Vitrinista que monta a fachada que o público vê; manequim, tecidos e alfinetes, ajustando a montra.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a window dresser arranging a shop-window display, holding fabric and pins beside a mannequin, tasteful presenting gesture, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r022",
+    "sheet_id": "s031",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "O Marceneiro",
+    "character_desc": "Marceneiro que fabrica o painel de botões e alavancas com que se interage; formão e um painel de controle de madeira com botões.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a cabinetmaker holding a chisel beside a handcrafted wooden control panel of knobs and buttons, careful crafting expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r023",
+    "sheet_id": "s031",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "O Decorador",
+    "character_desc": "Decorador de interiores que planeja a experiência do espaço; planta baixa enrolada e amostras de tecido em leque.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of an interior decorator holding a rolled floor-plan and a fan of fabric swatches, warm considered planning expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r024",
+    "sheet_id": "s031",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "O Tipógrafo",
+    "character_desc": "Tipógrafo que padroniza cada peça reutilizável; componedor com tipos móveis idênticos e caixa de tipos ao fundo.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a letterpress typesetter holding a composing stick of matched movable type in front of a type case, systematic consistent expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r025",
+    "sheet_id": "s031",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "O Guia",
+    "character_desc": "Guia para pessoas com deficiência visual; bengala branca, lousa de braille e gesto acolhedor de conduzir.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a guide for the blind holding a white cane and a braille slate, gentle inclusive welcoming gesture, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r026",
+    "sheet_id": "s031",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Mecânico de Box",
+    "character_desc": "Mecânico de box de corrida que afina cada milésimo; cronômetro, pistola pneumática e manômetro de precisão.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a racing pit mechanic in a jumpsuit, holding a stopwatch and a pneumatic wrench near a tuned gauge, fast focused expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r027",
+    "sheet_id": "s031",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "O Pintor",
+    "character_desc": "Pintor decorador que dá cor e acabamento à fachada; paleta de tintas, pincéis e amostras de cor.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a house painter-decorator in a spattered smock, holding a paint palette and brushes with color swatches, styling artistic expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r028",
+    "sheet_id": "s031",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "O Titeriteiro",
+    "character_desc": "Titeriteiro que dá movimento aos bonecos; cruzeta de fios e uma marionete suspensa em pose de dança.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a puppeteer holding a marionette control bar with strings, a wooden puppet suspended mid-motion, lively animating expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r029",
+    "sheet_id": "s031",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "O Mascate",
+    "character_desc": "Mascate ambulante com a loja que cabe na mão; maleta dobrável compacta cheia de miudezas, aberta e portátil.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a traveling peddler holding a compact folding display case full of tiny wares, portable on-the-go expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r030",
+    "sheet_id": "s031",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "O Ourives",
+    "character_desc": "Ourives refinado que pole um objeto elegante e minimalista; avental de camurça, lupa e uma maçã de prata polida na mão.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a refined silversmith jeweler in a suede apron, a loupe raised, polishing a sleek minimalist silver apple, elegant precise expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r031",
+    "sheet_id": "s031",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "O Autômato",
+    "character_desc": "Fabricante de autômatos que constrói um homenzinho mecânico verde; chave de fenda e um pequeno robô de lata verde na bancada.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of an automaton toymaker holding a screwdriver beside a small green tin mechanical man figure, tinkering cheerful expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r032",
+    "sheet_id": "s031",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Alfaiate Duplo",
+    "character_desc": "Alfaiate que faz um único traje que serve dois manequins ao mesmo tempo; fita métrica e um terno entre dois manequins.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a tailor with a measuring tape draping a single suit that fits two mannequins at once, clever dual-fit expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r033",
+    "sheet_id": "s031",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "O Pipeiro",
+    "character_desc": "Pipeiro e colecionador de borboletas que trabalha com o 'flutter'; rede de caça e uma borboleta azul pousada, armações de pipa leves.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a kite maker and butterfly collector holding a net with a bright blue butterfly perched on a finger, light lattice kite frames behind, airy playful expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r034",
+    "sheet_id": "s031",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "O Alquimista",
+    "character_desc": "Alquimista de laboratório que transforma dados em ouro; jaleco, béqueres borbulhantes e um frasco erguido à luz.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a laboratory alchemist in a lab coat holding a bubbling flask up to the light among beakers, curious experimental expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r035",
+    "sheet_id": "s031",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "O Domador",
+    "character_desc": "Domador que treina a fera do modelo; chicote leve, banquinho de adestramento e traje de domador.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a lion tamer in an ornate tamer's jacket holding a training stool and a light whip, commanding training expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r036",
+    "sheet_id": "s031",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "O Tratador",
+    "character_desc": "Tratador de zoológico que mantém as feras treinadas em produção; balde de ração, luvas grossas e chaveiro de jaulas.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a zookeeper in work gloves holding a feed bucket and a ring of cage keys, watchful maintaining expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r037",
+    "sheet_id": "s031",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Filósofo Natural",
+    "character_desc": "Filósofo natural que investiga o desconhecido; luneta de latão, caderno de anotações e olhar de descoberta.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a natural philosopher astronomer holding a brass telescope and a notebook, gazing toward the unknown with wonder, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r038",
+    "sheet_id": "s031",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "O Oráculo",
+    "character_desc": "Oráculo que sussurra pedidos à bola de cristal e recebe respostas; manto, bola de cristal e pergaminho de encantamentos.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a robed oracle fortune-teller with hands over a glowing crystal ball, an incantation scroll nearby, mysterious coaxing expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r039",
+    "sheet_id": "s031",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "O Linguista",
+    "character_desc": "Linguista poliglota que decifra e traduz falas; dicionários empilhados, carta fonética e pena.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a polyglot linguist scribe surrounded by stacked dictionaries, holding a phonetic chart and a quill, articulate parsing expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r040",
+    "sheet_id": "s031",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "O Ótico",
+    "character_desc": "Ótico que lapida lentes para enxergar imagens; tabela optométrica, lentes na mão e armação de testes.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a lens-grinding optician holding a set of glass lenses before an eye chart, examining trial frames, keen visual expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r041",
+    "sheet_id": "s031",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "O Estatístico",
+    "character_desc": "Estatístico que lê números e tira conclusões; quadro com gráfico de barras, régua de cálculo e ponteiro.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a statistician beside a bar-chart board, holding a slide rule and a pointer, analytical reading expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r042",
+    "sheet_id": "s031",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Analista de Pregão",
+    "character_desc": "Analista de pregão que lê tendências do negócio; fita de cotações, livro de tendências e lápis atrás da orelha.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a market floor analyst holding a paper ticker-tape ribbon and a trends ledger, pencil behind the ear, shrewd reading expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r043",
+    "sheet_id": "s031",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "O Agrimensor",
+    "character_desc": "Agrimensor que mede o terreno e transforma medidas em mapas; teodolito, trena e mapa plotado.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a land surveyor with a theodolite on a tripod, holding a measuring chain and a plotted map, precise measuring expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r044",
+    "sheet_id": "s031",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "O Desenhista",
+    "character_desc": "Desenhista que transforma dados em gráficos elegantes; régua curva francesa, compasso e um gráfico de pizza colorido desenhado.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a draftsman illustrator holding a French curve and compass over a hand-drawn colorful pie chart, elegant plotting expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r045",
+    "sheet_id": "s031",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "O Faz-Tudo",
+    "character_desc": "Faz-tudo versátil que liga a construção à operação; cinto de ferramentas completo, chave e lata de óleo.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of an all-round handyman in a full tool belt, holding a wrench and an oil can, resourceful bridging expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r046",
+    "sheet_id": "s031",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "O Bombeiro",
+    "character_desc": "Bombeiro pronto para incidentes a qualquer hora; capacete, mangueira enrolada e machado, olhar em alerta.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a firefighter in a helmet holding a coiled hose and an axe, alert ready-for-incident expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r047",
+    "sheet_id": "s031",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "O Andaimeiro",
+    "character_desc": "Montador de andaimes e palcos que ergue a plataforma para os outros; tubos de andaime, braçadeiras e nível.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a scaffolding rigger holding scaffold poles and clamps with a spirit level, sturdy platform-building expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r048",
+    "sheet_id": "s031",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "O Aeronauta",
+    "character_desc": "Capitão de dirigível que navega pelas nuvens; boné de capitão, luneta e nuvens de estúdio ao fundo.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of an airship balloon captain in a captain's cap holding a spyglass, soft studio clouds around, lofty navigating expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r049",
+    "sheet_id": "s031",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "O Timoneiro",
+    "character_desc": "Timoneiro que pilota o leme entre contêineres; roda de navio nas mãos e caixas de carga empilhadas.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a ship's helmsman gripping a wooden ship's wheel amid stacked cargo container crates, steady steering expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r050",
+    "sheet_id": "s031",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "A Telefonista",
+    "character_desc": "Telefonista de mesa que conecta todas as linhas; painel de tomadas e cabos de conexão nas mãos, fones ao pescoço.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a switchboard operator at a plug panel, holding patch cables mid-connection with a headset around the neck, connecting expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r051",
+    "sheet_id": "s031",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "O Zelador",
+    "character_desc": "Zelador do prédio que mantém tudo funcionando; molho enorme de chaves, macacão e manômetro de caldeira.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a building superintendent janitor in coveralls holding a huge ring of keys near a boiler gauge, dependable upkeep expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r052",
+    "sheet_id": "s031",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "O Lançador",
+    "character_desc": "Padrinho de lançamento que solta o navio ao mar; garrafa de champanhe com fita, gesto de batizar o lançamento.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a ship-launch christener holding a ribboned champagne bottle raised to name a launch, ceremonial releasing gesture, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r053",
+    "sheet_id": "s031",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "O Pedreiro",
+    "character_desc": "Pedreiro que assenta tijolo a tijolo a construção; colher de pedreiro, tijolos e uma parede em progresso.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a bricklayer mason holding a trowel and a brick beside a half-built wall, steady constructing expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r054",
+    "sheet_id": "s031",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Operário de Linha",
+    "character_desc": "Operário de linha de montagem que faz tudo fluir em esteira contínua; esteira transportadora, peças e chave na mão.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of an assembly-line factory worker beside a conveyor belt of parts, holding a wrench, steady continuous-flow expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r055",
+    "sheet_id": "s031",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "O Chaveiro",
+    "character_desc": "Chaveiro guardião das fechaduras; molho de chaves, cadeados variados e uma fechadura de latão na mão.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a locksmith holding a ring of keys and a brass padlock among assorted locks, protective securing expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r056",
+    "sheet_id": "s031",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "O Gatuno",
+    "character_desc": "Gatuno ético que testa as fechaduras por dentro; gazuas, luvas escuras e olhar de quem sonda invasões.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of an ethical cat-burglar in dark gloves holding a set of lockpicks near an open lock, sly probing expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r057",
+    "sheet_id": "s031",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "O Armeiro",
+    "character_desc": "Armeiro-ferreiro que forja armaduras e escudos de defesa; martelo, bigorna e escudo reforçado.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of an armorer blacksmith at an anvil holding a hammer and a reinforced shield, defensive forging expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r058",
+    "sheet_id": "s031",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "O Cifrista",
+    "character_desc": "Cifrista que embaralha e decifra códigos; disco de cifra, rodas de código e mensagem codificada.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a cipher clerk holding a cipher wheel disk over an encoded message, code-wheels around, secretive decoding expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r059",
+    "sheet_id": "s031",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "O Tabelião",
+    "character_desc": "Tabelião que carimba a conformidade com as regras; carimbo de selo, livro de normas e sinete de cera.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a notary magistrate holding a seal stamp over a rulebook with a wax seal, formal compliance-checking expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r060",
+    "sheet_id": "s031",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "O Cortineiro",
+    "character_desc": "Cortineiro que protege a privacidade com véus e cortinas; véu translúcido e cortina meio corrida escondendo o que há atrás.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a curtain maker holding a translucent privacy veil and a drawn drape concealing what is behind, discreet protective expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r061",
+    "sheet_id": "s031",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "O Socorrista",
+    "character_desc": "Socorrista paramédico que responde à emergência; maleta de primeiros socorros, estetoscópio e olhar de urgência calma.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a paramedic first-responder holding a first-aid kit with a stethoscope, calm urgent expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r062",
+    "sheet_id": "s031",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "O Enxadrista",
+    "character_desc": "Enxadrista que antecipa cada ataque possível; tabuleiro de xadrez, uma peça na mão e olhar calculista.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a chess master over a chessboard holding a captured piece, anticipating threats with a calculating expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r063",
+    "sheet_id": "s031",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "O Inspetor",
+    "character_desc": "Inspetor de qualidade que aprova ou reprova cada peça; prancheta com checklist e carimbo de aprovado na mão.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a factory quality inspector in a coat holding a checklist clipboard and an APPROVED stamp, scrutinizing expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r064",
+    "sheet_id": "s031",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Autômato Inspetor",
+    "character_desc": "Inspetor automatizado: um braço mecânico que carimba a verificação sozinho; braço robótico de latão sobre linha de peças.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a mechanical automated inspector: a brass robotic arm holding a stamp over a line of parts, tireless automated checking pose, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r065",
+    "sheet_id": "s031",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "O Treinador",
+    "character_desc": "Treinador de atletismo que mede resistência sob carga; cronômetro, apito e prancheta de tempos de sprint.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of an athletics coach in a tracksuit holding a stopwatch and a whistle with a times clipboard, timing performance expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r066",
+    "sheet_id": "s031",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "O Conferente",
+    "character_desc": "Conferente que examina cada ponto à mão; lupa de joalheiro e uma peça de tecido inspecionada ponto a ponto.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a manual inspector holding a magnifier over a piece of cloth, checking every stitch by hand, patient careful expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r067",
+    "sheet_id": "s031",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "O Vistoriador",
+    "character_desc": "Vistoriador que garante que todos consigam acessar; trena, esquadro e uma pequena maquete de rampa de acesso.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of an access surveyor holding a measuring tape and square beside a small accessibility ramp model, inclusive checking expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r068",
+    "sheet_id": "s031",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "O Escriba",
+    "character_desc": "Escriba calígrafo que documenta tudo com clareza; pena de ganso, tinteiro e manuscrito iluminado.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a calligrapher scribe holding a goose quill over an illuminated manuscript with an inkwell, careful documenting expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r069",
+    "sheet_id": "s031",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "O Arauto",
+    "character_desc": "Arauto que anuncia as novidades ao povo; sino de mão erguido e traje de mensageiro, boca aberta em proclamação.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a town crier herald in a tabard raising a hand bell, mouth open proclaiming news, enthusiastic announcing expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r070",
+    "sheet_id": "s031",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Editor-Chefe",
+    "character_desc": "Editor-chefe que planeja a pauta e as manchetes; painel de diagramação, provas de página e lápis vermelho.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a newspaper editor-in-chief holding page proofs before a layout board with a red pencil, strategic planning expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r071",
+    "sheet_id": "s031",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "O Intérprete",
+    "character_desc": "Intérprete que adapta a mensagem a cada país; bandeirinhas de nações, frasário e fone de tradução simultânea.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of an interpreter holding little national flags and a phrasebook with a translation headset, adapting multilingual expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r072",
+    "sheet_id": "s031",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "O Ceramista",
+    "character_desc": "Oleiro-designer que molda o produto na roda; torno de cerâmica, um modelo de produto em argila e croqui ao lado.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a potter product-designer shaping a clay product model on a wheel, a sketch beside, hands-on shaping expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r073",
+    "sheet_id": "s031",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Artista Plástico",
+    "character_desc": "Artista plástico que cria o visual; paleta de tintas, pincel e uma tela pintada em cavalete.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a fine painter holding a palette and brush before a painted canvas on an easel, expressive visual-crafting look, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r074",
+    "sheet_id": "s031",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "O Brinquedista",
+    "character_desc": "Brinquedista que projeta como se interage; brinquedo mecânico de botão apertável na mão, molas e alavancas à mostra.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a toymaker holding a push-button mechanical toy with visible springs and levers, playful interaction-designing expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r075",
+    "sheet_id": "s031",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "O Zootropista",
+    "character_desc": "Fabricante de zootrópio que cria movimento quadro a quadro; tambor de zootrópio girando e um flipbook na mão.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a zoetrope maker spinning a slotted animation drum while holding a flipbook, motion-crafting delighted expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r076",
+    "sheet_id": "s031",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "O Ilustrador",
+    "character_desc": "Ilustrador de livros que desenha as cenas; caneta bico-de-pena, tinteiro e uma prancha ilustrada colorida.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a book illustrator holding a dip pen over a colorful illustrated plate with an inkwell, imaginative drawing expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r077",
+    "sheet_id": "s031",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "O Cenógrafo",
+    "character_desc": "Contrarregra que produz os adereços de cena; caixote transbordando de props teatrais variados nos braços.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a theatrical prop master holding a crate overflowing with assorted stage props, resourceful asset-making expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r078",
+    "sheet_id": "s031",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "O Brasonista",
+    "character_desc": "Brasonista que cria o brasão e a identidade da casa; sinete de cera, escudo heráldico esboçado e ferro de gravar.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a heraldry crest engraver holding a wax seal and an engraving tool beside a sketched coat-of-arms shield, identity-crafting expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r079",
+    "sheet_id": "s031",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "O Sonoplasta",
+    "character_desc": "Sonoplasta que fabrica os efeitos sonoros; instrumentos de foley — cocos, sinos e matracas nas mãos.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a foley sound-effects artist holding noise-making props — coconut halves, a bell and a ratchet, listening attentive expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r080",
+    "sheet_id": "s031",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "O Escultor",
+    "character_desc": "Escultor que dá forma tridimensional; cinzel e maço, um busto de argila esculpido ao lado.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a sculptor holding a chisel and mallet beside a sculpted clay bust, focused three-dimensional shaping expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r081",
+    "sheet_id": "s031",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "O Ludólogo",
+    "character_desc": "Criador de jogos de tabuleiro que desenha as regras; tabuleiro, dados grandes e peças de jogo na mão.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a board-game maker holding oversized dice and game pieces over a game board, inventive rule-designing expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r082",
+    "sheet_id": "s031",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "O Maquetista",
+    "character_desc": "Maquetista que constrói o cenário e os desafios; maquete de terreno em miniatura com labirinto e pinças.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a diorama maker holding tweezers over a miniature terrain model with a small maze, meticulous level-building expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r083",
+    "sheet_id": "s031",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Contador de Histórias",
+    "character_desc": "Bardo contador de histórias que tece a narrativa; livro aberto numa mão e um alaúde na outra.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a storytelling bard holding an open storybook and a lute, warm captivating narrating expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r084",
+    "sheet_id": "s031",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "O Pinballeiro",
+    "character_desc": "Fabricante de fliperama que monta a máquina de jogo; botões de flipper, joystick e painel de pinball colorido.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of an arcade pinball machine maker holding a joystick beside flipper buttons and a colorful pinball playfield, playful building expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r085",
+    "sheet_id": "s031",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "O Vitralista",
+    "character_desc": "Vitralista que domina luz e cor; prisma na mão lançando arco-íris e um painel de vitral colorido.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a stained-glass artisan holding a prism casting a rainbow beside a colorful stained-glass panel, luminous light-crafting expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r086",
+    "sheet_id": "s031",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Miniaturista Mecânico",
+    "character_desc": "Miniaturista que embute mecanismos dentro de pequenos objetos; caixinha de música aberta com movimento minúsculo e pinça.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a mechanical miniaturist holding tweezers over an open music box with a tiny embedded movement, embedding precise expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r087",
+    "sheet_id": "s031",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "O Rolista",
+    "character_desc": "Fabricante de rolos de pianola que grava as instruções que ditam o comportamento; rolo de papel perfurado nas mãos.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a player-piano roll maker holding a punched paper piano roll, examining the pattern of holes, instruction-encoding expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r088",
+    "sheet_id": "s031",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "O Meteorologista",
+    "character_desc": "Guardião da estação meteorológica cheia de sensores conectados; barômetro, anemômetro e cata-vento nas mãos.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a weather-station keeper holding a barometer and an anemometer among connected instruments and a weather vane, sensing networked expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r089",
+    "sheet_id": "s031",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "O Moedeiro",
+    "character_desc": "Mestre da casa da moeda que cunha moedas encadeadas; prensa de cunhagem e um cordão de moedas de ouro ligadas.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a mint master at a coin press holding a chain of linked gold coins, minting trustworthy expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r090",
+    "sheet_id": "s031",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "O Ensaiador",
+    "character_desc": "Ensaiador que testa a pureza de cada moeda-contrato; balança de precisão, lupa e uma moeda de ouro sob exame.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a coin assayer holding a precision balance scale and a loupe over a gold coin, verifying scrutinizing expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r091",
+    "sheet_id": "s031",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "O Estereoscopista",
+    "character_desc": "Fabricante de estereoscópios que cria mundos ilusórios em relevo; óculos estereoscópicos de madeira e cartão de imagem dupla.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a stereoscope maker holding a wooden stereoscope viewer and a double-image card, immersive illusion-crafting expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r092",
+    "sheet_id": "s031",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Mestre Autômato",
+    "character_desc": "Construtor de autômatos que ergue um homem mecânico completo; grande autômato humanoide de latão e ferramentas.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a master automaton builder standing beside a full brass humanoid automaton, holding tools, ambitious robotics-building expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r093",
+    "sheet_id": "s031",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "O Jardineiro",
+    "character_desc": "Jardineiro que faz o negócio crescer; regador, tesoura de poda e um vaso com muda em franco crescimento.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a gardener holding a watering can and pruning shears beside a potted seedling growing tall, nurturing growth expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r094",
+    "sheet_id": "s031",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "O Sinaleiro",
+    "character_desc": "Sinaleiro que faz tudo ser encontrado e sobe nos rankings; placas de setas indicativas e uma escada de posições.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a signpost maker holding directional arrow signs beside a ranking ladder, guiding findability expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r095",
+    "sheet_id": "s031",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "O Cartazeiro",
+    "character_desc": "Cartazeiro que divulga a mensagem ao mercado; megafone de lata e um cartaz de propaganda erguido.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of an advertising bill-poster holding a tin megaphone and raising a promotional poster, persuasive broadcasting expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r096",
+    "sheet_id": "s031",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "O Boticário",
+    "character_desc": "Boticário que compõe o remédio sob medida para o problema do cliente; almofariz, pilão e receita manuscrita.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of an apothecary compounding a custom remedy, holding a mortar and pestle with a handwritten prescription, problem-solving caring expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r097",
+    "sheet_id": "s031",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "O Concierge",
+    "character_desc": "Concierge de hotel que atende cada pedido; sino de balcão, molho de chaves de quartos e livro de hóspedes.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a hotel concierge behind a desk with a service bell, holding a ring of room keys and a guest ledger, helpful attentive expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r098",
+    "sheet_id": "s031",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "O Vendedor",
+    "character_desc": "Vendedor viajante que demonstra o produto; maleta de amostras aberta e uma peça em demonstração, pose confiante de pitch.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a traveling salesman holding an open sample case, presenting a product with a confident persuasive pitching pose, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r099",
+    "sheet_id": "s031",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "O Tesoureiro",
+    "character_desc": "Tesoureiro que controla cada centavo do custo; balança de moedas, livro-caixa e cofre de metal.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a treasurer bank teller holding a coin-weighing scale and a ledger beside a metal cash box, cost-counting careful expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s031-r100",
+    "sheet_id": "s031",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "O Advogado",
+    "character_desc": "Advogado que interpreta as regras e defende a causa; toga, martelo de juiz, tomo jurídico e balança da justiça.",
+    "nano_prompt": "Realistic studio photograph, waist-up corporate ID badge portrait of a barrister lawyer in a robe holding a gavel and a thick law tome beside the scales of justice, authoritative arguing expression, crisp professional studio lighting, soft key light, clean photorealistic detail, sharp focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s060-r001",
+    "sheet_id": "s060",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Homer Blueprint",
+    "character_desc": "Um pai amarelo careca que virou arquiteto de solução; segura uma planta enrolada e aponta para um diagrama de caixas e setas.",
+    "nano_prompt": "bald yellow man with two hair strands and stubble, wearing a white short-sleeve shirt, holding a rolled architecture blueprint under one arm and pointing at a floating boxes-and-arrows system diagram, confident grin, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r002",
+    "sheet_id": "s060",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Lenny Lead",
+    "character_desc": "Líder técnico amarelo de camisa polo que conduz o time com um quadro de tarefas na mão.",
+    "nano_prompt": "yellow man with short dark hair and a small mustache, wearing a green polo shirt, holding a kanban task board, pointing forward as if guiding a team, calm assertive expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r003",
+    "sheet_id": "s060",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Staff Skinner",
+    "character_desc": "Engenheiro sênior de vasta experiência, terno cinza e prancheta de padrões de código.",
+    "nano_prompt": "tall yellow man with balding gray hair, wearing a gray suit and tie, holding a clipboard of coding standards and a well-worn reference manual, serious seasoned look, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r004",
+    "sheet_id": "s060",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Principal Burns",
+    "character_desc": "O engenheiro principal veterano, magro e curvado, de terno, avaliando a arquitetura com dedos juntos.",
+    "nano_prompt": "gaunt elderly yellow man with wispy hair, hunched, wearing a formal suit, tapping fingertips together thoughtfully over a grand system roadmap, authoritative expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r005",
+    "sheet_id": "s060",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Marge Manager",
+    "character_desc": "Gerente de engenharia amarela de cabelo alto azul, segurando planilha de 1:1s e caneca de café.",
+    "nano_prompt": "yellow woman with tall blue beehive hair, wearing a green dress, holding a clipboard of one-on-one notes and a coffee mug, warm supportive smile, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r006",
+    "sheet_id": "s060",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Milhouse Product",
+    "character_desc": "Product Manager amarelo de óculos, segurando um roadmap com post-its e apontando para métricas.",
+    "nano_prompt": "yellow boy-faced man with blue hair and round glasses, wearing a striped shirt, holding a product roadmap covered in sticky notes, gesturing at a rising metrics chart, eager expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r007",
+    "sheet_id": "s060",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Nelson Owner",
+    "character_desc": "Product Owner amarelo decidido, segurando o backlog priorizado como um cetro.",
+    "nano_prompt": "yellow man with an upturned quiff, wearing a plain t-shirt and vest, holding a prioritized backlog list like a scepter, one hand on hip, decisive smirk, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r008",
+    "sheet_id": "s060",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Carl Program",
+    "character_desc": "Program Manager amarelo coordenando vários times com um grande cronograma Gantt.",
+    "nano_prompt": "yellow man with a bald head, wearing a white shirt and tie, holding a wide Gantt chart with multiple swimlanes, gesturing across it, organized confident look, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r009",
+    "sheet_id": "s060",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Frink Project",
+    "character_desc": "Project Manager amarelo agitado, óculos grossos, segurando cronograma e apito.",
+    "nano_prompt": "yellow man with wild white hair and thick glasses in a lab coat, holding a project timeline and a whistle around his neck, slightly frazzled busy expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r010",
+    "sheet_id": "s060",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Otto Scrum",
+    "character_desc": "Scrum Master descolado amarelo, segurando cartas de planning poker e um sino de daily.",
+    "nano_prompt": "yellow man with curly dark hair and a beanie, wearing casual clothes, holding a fan of planning-poker cards and a small daily-standup bell, relaxed facilitating smile, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r011",
+    "sheet_id": "s060",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Barney Backend",
+    "character_desc": "Backend Dev amarelo robusto, barba por fazer, segurando um rack de servidor em miniatura.",
+    "nano_prompt": "burly yellow man with stubble and messy hair, wearing a rumpled shirt, cradling a miniature server rack with glowing lights, focused tinkering expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r012",
+    "sheet_id": "s060",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "API Apu",
+    "character_desc": "Designer de API amarelo cordial, segurando um cartão de endpoints REST como um menu.",
+    "nano_prompt": "slim yellow man with black hair, mustache and a name-badge shirt, holding a menu-like card listing REST endpoints, welcoming helpful gesture, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r013",
+    "sheet_id": "s060",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Micro-Moe",
+    "character_desc": "Engenheiro de microsserviços amarelo, segurando vários blocos pequenos conectados por tubos.",
+    "nano_prompt": "yellow man with a heavy brow and thin hair, wearing an apron over a shirt, holding a cluster of small interconnected service blocks linked by tiny pipes, gruff focused look, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r014",
+    "sheet_id": "s060",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Pipe Patty",
+    "character_desc": "Pipeline Developer amarela, cabelo azul-acinzentado, guiando dados por uma esteira de tubulações.",
+    "nano_prompt": "yellow woman with tall gray-blue hair and glasses, wearing a blouse, guiding a conveyor of data crates through a pipeline of tubes, methodical expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r015",
+    "sheet_id": "s060",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Data Duffman",
+    "character_desc": "Engenheiro de dados amarelo enérgico, empurrando um barril rotulado de datasets brutos.",
+    "nano_prompt": "athletic yellow man with a red cap and cape-like outfit, striking a pose while pushing a large barrel of raw data, energetic thumbs-up, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r016",
+    "sheet_id": "s060",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "DBA Dolph",
+    "character_desc": "Administrador de banco de dados amarelo, segurando um cilindro de disco e uma chave de tabelas.",
+    "nano_prompt": "yellow teenager-faced man with side-swept hair, wearing a plain shirt, holding a cylindrical database disk and a ring of table keys, watchful guarding expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r017",
+    "sheet_id": "s060",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "SQL Selma",
+    "character_desc": "Especialista em SQL amarela, cabelo alto, segurando uma consulta longa impressa em papel contínuo.",
+    "nano_prompt": "yellow woman with tall buffant hair and a cigarette-free stern face, wearing a blouse, holding a long fan-fold printout of a SQL query, squinting analytically, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r018",
+    "sheet_id": "s060",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Cache Gil",
+    "character_desc": "Engenheiro de cache amarelo apressado, segurando uma caixa gelada de resultados rápidos.",
+    "nano_prompt": "disheveled yellow man in a worn suit, holding an insulated icebox labeled with speed lines containing quick-access result cards, hurried eager expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r019",
+    "sheet_id": "s060",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Queue Quimby",
+    "character_desc": "Engenheiro de filas de mensagens amarelo, terno, organizando envelopes numa fila ordenada.",
+    "nano_prompt": "yellow man with gray hair, wearing a suit with a sash, arranging a neat line of numbered message envelopes on a conveyor, orderly gesture, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r020",
+    "sheet_id": "s060",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Search Sherri",
+    "character_desc": "Engenheira de busca amarela, segurando uma lupa gigante sobre um índice de fichas.",
+    "nano_prompt": "yellow woman with red pigtail hair, wearing a shirt, holding a giant magnifying glass over a card index of documents, curious searching expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r021",
+    "sheet_id": "s060",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Front-End Flanders",
+    "character_desc": "Frontend Dev amarelo simpático, bigode, segurando uma janela de UI flutuante bem alinhada.",
+    "nano_prompt": "friendly yellow man with a thick mustache and glasses, wearing a green sweater, holding a floating pixel-perfect UI window with buttons, cheerful okily-dokily smile, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r022",
+    "sheet_id": "s060",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "UI Uter",
+    "character_desc": "Engenheiro de UI amarelo, segurando componentes de botão e slider como blocos de montar.",
+    "nano_prompt": "chubby yellow boy-faced man with blond hair in lederhosen, holding building-block UI components (buttons, sliders, toggles), delighted expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r023",
+    "sheet_id": "s060",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "UX Edna",
+    "character_desc": "UX Designer amarela, segurando um mapa de jornada do usuário e um lápis.",
+    "nano_prompt": "yellow woman with gray-blue curly hair, wearing a red dress, holding a user-journey map with wireframe sketches and a pencil, thoughtful caring look, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r024",
+    "sheet_id": "s060",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Design-System Disco",
+    "character_desc": "Engenheiro de design systems amarelo, segurando um paletão de tokens e componentes padronizados.",
+    "nano_prompt": "yellow man with an afro and flashy shirt, holding a large swatch palette of design tokens and standardized components, organized proud gesture, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r025",
+    "sheet_id": "s060",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "A11y Artie",
+    "character_desc": "Especialista em acessibilidade amarelo, segurando um leitor de tela e símbolo universal de acesso.",
+    "nano_prompt": "yellow man with glasses and slicked hair in a bow tie, holding a screen-reader device and a universal accessibility symbol placard, earnest helpful expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r026",
+    "sheet_id": "s060",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Perf Poochie",
+    "character_desc": "Engenheiro de performance web amarelo, segurando um velocímetro de carregamento no verde.",
+    "nano_prompt": "yellow man with sunglasses and a cool cartoon-dog vibe, holding a page-load speedometer pinned to green, dynamic speedy pose, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r027",
+    "sheet_id": "s060",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "CSS Cletus",
+    "character_desc": "Especialista em CSS amarelo, segurando amostras de cores e uma régua de layout.",
+    "nano_prompt": "lanky yellow man with a few teeth and a straw in mouth, wearing overalls, holding paint color swatches and a layout ruler with grid lines, laid-back grin, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r028",
+    "sheet_id": "s060",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Anim Agnes",
+    "character_desc": "Engenheira de animação amarela, segurando uma fita de keyframes em curva de easing.",
+    "nano_prompt": "yellow elderly woman with glasses and gray hair, holding a filmstrip of animation keyframes bending along an easing curve, focused precise expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r029",
+    "sheet_id": "s060",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Mobile Maggie",
+    "character_desc": "Mobile Dev amarela pequena, segurando um smartphone quase do seu tamanho.",
+    "nano_prompt": "small yellow baby-faced character with a hair-bow, holding an oversized smartphone with an app grid, wide-eyed determined look, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r030",
+    "sheet_id": "s060",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "iOS Ian",
+    "character_desc": "iOS Dev amarelo minimalista, segurando um celular de bordas arredondadas polido.",
+    "nano_prompt": "clean-cut yellow man with tidy hair in a turtleneck, holding a sleek rounded-corner smartphone showing a minimalist app, refined confident smile, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r031",
+    "sheet_id": "s060",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Android Abe",
+    "character_desc": "Android Dev amarelo idoso, segurando um robozinho verde de brinquedo e um tablet.",
+    "nano_prompt": "elderly yellow man with a bald head and glasses, wearing a cardigan, holding a small green robot toy and a tablet, rambling proud expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r032",
+    "sheet_id": "s060",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "RN Ralph",
+    "character_desc": "React Native Dev amarelo, segurando dois celulares (um iOS, um Android) ao mesmo tempo.",
+    "nano_prompt": "yellow innocent-faced boy with a red shirt, holding two smartphones at once (one blue-cased, one green-cased) with the same app, gleeful expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r033",
+    "sheet_id": "s060",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Flutter Fiona",
+    "character_desc": "Flutter Dev amarela, segurando um widget azul em forma de borboleta e paleta de cores.",
+    "nano_prompt": "yellow woman with teal hair, holding a butterfly-shaped blue UI widget and a color palette, creative cheerful look, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r034",
+    "sheet_id": "s060",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Data-Sci Hibbert",
+    "character_desc": "Data Scientist amarelo, jaleco, segurando um gráfico de dispersão e uma prancheta de modelos.",
+    "nano_prompt": "yellow man with a mustache and glasses in a lab coat, holding a scatter-plot chart and a clipboard of statistical models, analytical chuckle, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r035",
+    "sheet_id": "s060",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "ML Mel",
+    "character_desc": "ML Engineer amarelo excêntrico, cabelo espetado, segurando uma rede neural de nós conectados.",
+    "nano_prompt": "yellow man with wild spiky hair and a bone-shaped hair clip, holding a glowing neural-network graph of connected nodes, intense inventive expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r036",
+    "sheet_id": "s060",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "MLOps Manjula",
+    "character_desc": "MLOps Engineer amarela, segurando um modelo em caixa pronto para deploy numa esteira.",
+    "nano_prompt": "yellow woman with black hair in a bun and bindi, wearing a sari, placing a boxed ML model onto a deployment conveyor with gauges, competent expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r037",
+    "sheet_id": "s060",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "AI-Res Wiggum",
+    "character_desc": "AI Researcher amarelo distraído, segurando um paper acadêmico e uma lâmpada de ideia.",
+    "nano_prompt": "portly yellow man in a rumpled outfit, holding an academic research paper and a glowing idea lightbulb over his head, puzzled curious grin, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r038",
+    "sheet_id": "s060",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Prompt Prunella",
+    "character_desc": "Prompt Engineer amarela, segurando um balão de fala moldável e cartões de instruções.",
+    "nano_prompt": "yellow woman with sharp hair and glasses, holding a moldable speech-bubble and a stack of instruction cards, clever knowing smile, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r039",
+    "sheet_id": "s060",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "NLP Ned",
+    "character_desc": "NLP Engineer amarelo, segurando palavras-tokens flutuantes em uma faixa de texto.",
+    "nano_prompt": "yellow man with a mustache and glasses in a sweater, holding a ribbon of floating word-tokens being parsed, thoughtful gentle expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r040",
+    "sheet_id": "s060",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "CV Krusty",
+    "character_desc": "Computer Vision Engineer amarelo, segurando uma câmera e uma imagem com caixas de detecção.",
+    "nano_prompt": "yellow clown-faced man with green frizzy hair (unpainted, plain yellow skin), holding a camera and a photo overlaid with object-detection boxes, animated expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r041",
+    "sheet_id": "s060",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Analyst Allison",
+    "character_desc": "Data Analyst amarela, segurando um relatório de barras e uma calculadora.",
+    "nano_prompt": "yellow girl-faced woman with a ponytail, holding a bar-chart report and a calculator, focused studious look, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r042",
+    "sheet_id": "s060",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "BI Bart",
+    "character_desc": "BI Analyst amarelo travesso, apresentando um dashboard de KPIs num quadro.",
+    "nano_prompt": "yellow boy with spiky hair and a red shirt, presenting a KPI dashboard board with gauges and trends, mischievous confident grin, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r043",
+    "sheet_id": "s060",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Analytics Akira",
+    "character_desc": "Analytics Engineer amarelo, segurando um funil de dados transformando eventos em métricas.",
+    "nano_prompt": "calm yellow man with neat black hair, holding a data funnel turning raw events into clean metrics tables, composed focused expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r044",
+    "sheet_id": "s060",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Viz Vivian",
+    "character_desc": "Data Viz Specialist amarela, segurando um leque de gráficos coloridos elegantes.",
+    "nano_prompt": "yellow woman with pearls and styled hair, holding a fan of elegant colorful charts (pie, line, area), refined artistic gesture, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r045",
+    "sheet_id": "s060",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "DevOps Duffman",
+    "character_desc": "DevOps Engineer amarelo, capacete, segurando um símbolo de infinito CI/CD e uma chave inglesa.",
+    "nano_prompt": "athletic yellow man with a hard hat over a red outfit, holding a CI/CD infinity-loop symbol and a wrench, energetic can-do pose, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r046",
+    "sheet_id": "s060",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "SRE Snake",
+    "character_desc": "Site Reliability Engineer amarelo, segurando um pager e um painel de uptime em 99.9%.",
+    "nano_prompt": "yellow man with a pompadour and cool shirt, holding a pager and an uptime dashboard reading high nines, alert on-call expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r047",
+    "sheet_id": "s060",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Platform Plow",
+    "character_desc": "Platform Engineer amarelo, segurando uma base-plataforma sobre a qual apps se apoiam.",
+    "nano_prompt": "sturdy yellow man in work clothes, holding a broad platform slab with small app cubes resting on it, steady dependable look, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r048",
+    "sheet_id": "s060",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Cloud Cletus",
+    "character_desc": "Cloud Architect amarelo, segurando uma nuvem fofa com servidores dentro.",
+    "nano_prompt": "yellow man with a big grin, holding a fluffy cloud shape containing tiny servers and connections, dreamy visionary expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r049",
+    "sheet_id": "s060",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "K8s Kearney",
+    "character_desc": "Kubernetes Admin amarelo, segurando um leme de navio com contêineres ao redor.",
+    "nano_prompt": "tough yellow teen-faced man with a shaved head, holding a ship's-helm wheel surrounded by stacked shipping containers, controlling confident expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r050",
+    "sheet_id": "s060",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Net Nick",
+    "character_desc": "Network Engineer amarelo, segurando um emaranhado de cabos de rede e um roteador.",
+    "nano_prompt": "yellow man with combed hair, holding a bundle of ethernet cables and a small router with blinking lights, focused connecting gesture, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r051",
+    "sheet_id": "s060",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Sysadmin Sam",
+    "character_desc": "Systems Administrator amarelo cansado, segurando um chaveiro enorme e um terminal.",
+    "nano_prompt": "tired yellow man with glasses and a coffee-stained shirt, holding a huge keyring and a glowing terminal window, weary dependable expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r052",
+    "sheet_id": "s060",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Release Rod",
+    "character_desc": "Release Engineer amarelo, segurando uma caixa etiquetada de versão pronta para lançar.",
+    "nano_prompt": "neat yellow boy-faced man, holding a tagged release box with a version ribbon ready to ship, careful proud smile, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r053",
+    "sheet_id": "s060",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Build Brandine",
+    "character_desc": "Build Engineer amarela, segurando engrenagens de compilação e uma barra de progresso verde.",
+    "nano_prompt": "yellow woman in overalls with messy hair, holding compilation gears and a green progress bar, hands-on capable look, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r054",
+    "sheet_id": "s060",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "CI/CD Comic",
+    "character_desc": "CI/CD Engineer amarelo, segurando uma esteira automática de testes-para-deploy.",
+    "nano_prompt": "yellow overweight man with a beard and ponytail, holding an automated conveyor running tests into a deploy chute, geeky satisfied grin, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r055",
+    "sheet_id": "s060",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Sec Sideshow",
+    "character_desc": "Security Engineer amarelo, segurando um escudo com cadeado e uma lupa de vulnerabilidades.",
+    "nano_prompt": "tall yellow man with a big blue afro, holding a shield with a padlock emblem and a magnifying glass over code, vigilant expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r056",
+    "sheet_id": "s060",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Pentest Bob",
+    "character_desc": "Penetration Tester amarelo, segurando uma chave-mestra digital e um capuz meio erguido.",
+    "nano_prompt": "yellow man with a unibrow and five-o-clock shadow, wearing a half-raised hoodie, holding a digital lockpick and an exploit toolkit, sly probing grin, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r057",
+    "sheet_id": "s060",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "AppSec Apu",
+    "character_desc": "AppSec Engineer amarelo, segurando um app com escudo protetor e checklist de OWASP.",
+    "nano_prompt": "yellow man with black hair and mustache, holding an app window wrapped in a protective shield and a security checklist, careful diligent expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r058",
+    "sheet_id": "s060",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Crypto Comic-Book",
+    "character_desc": "Cryptographer amarelo, segurando um cadeado com chave e símbolos de cifra flutuando.",
+    "nano_prompt": "yellow bearded man with glasses, holding an ornate padlock with a key and floating cipher symbols, secretive clever look, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r059",
+    "sheet_id": "s060",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Compliance Kent",
+    "character_desc": "Compliance Officer amarelo, terno, segurando um carimbo de aprovado e um livro de normas.",
+    "nano_prompt": "yellow anchorman-faced man with perfect hair in a suit, holding an APPROVED-style stamp (no letters) and a thick rulebook, formal serious expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r060",
+    "sheet_id": "s060",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Privacy Priya",
+    "character_desc": "Privacy Engineer amarela, segurando um escudo com olho tachado e cofre de dados pessoais.",
+    "nano_prompt": "yellow woman with tidy dark hair and glasses, holding a shield with a crossed-out eye icon and a small locked personal-data vault, protective careful expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r061",
+    "sheet_id": "s060",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Incident Iggy",
+    "character_desc": "Incident Responder amarelo, capacete de bombeiro, segurando um extintor sobre um alerta vermelho.",
+    "nano_prompt": "yellow man with a firefighter helmet, holding a fire extinguisher aimed at a red alert siren, urgent heroic expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r062",
+    "sheet_id": "s060",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Threat Troy",
+    "character_desc": "Threat Modeler amarelo, segurando um mapa de árvore de ataques com setas de risco.",
+    "nano_prompt": "slick yellow man with a game-show-host grin, holding an attack-tree diagram with risk arrows and threat icons, calculating expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r063",
+    "sheet_id": "s060",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "QA Quimby",
+    "character_desc": "QA Engineer amarela, segurando uma lista de checagem gigante e uma lupa sobre bugs.",
+    "nano_prompt": "yellow woman with glasses and a ponytail, holding a giant checklist and a magnifying glass hovering over a cartoon bug, meticulous expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r064",
+    "sheet_id": "s060",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "SDET Skinner",
+    "character_desc": "SDET amarelo, segurando um robô de testes automatizados e um script rodando.",
+    "nano_prompt": "yellow man with balding hair in a shirt, holding a small automation test-robot and a running test script, precise methodical look, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r065",
+    "sheet_id": "s060",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Perf-Test Petey",
+    "character_desc": "Performance Tester amarelo, segurando um dinamômetro de carga puxando muitos usuários.",
+    "nano_prompt": "yellow man with a headband, holding a load gauge straining under many tiny user figures piling on, effortful testing expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r066",
+    "sheet_id": "s060",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Manual Marge",
+    "character_desc": "Manual Tester amarela, cabelo alto, clicando cuidadosamente botão a botão com prancheta.",
+    "nano_prompt": "yellow woman with tall blue hair, holding a clipboard and tapping through UI buttons one by one, patient thorough expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r067",
+    "sheet_id": "s060",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "A11y-Test Terri",
+    "character_desc": "Accessibility Tester amarela, segurando teclado de navegação e verificador de contraste.",
+    "nano_prompt": "yellow woman with dark pigtails, holding a keyboard-only navigation device and a color-contrast checker card, attentive expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r068",
+    "sheet_id": "s060",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Docs Dewey",
+    "character_desc": "Technical Writer amarelo, segurando um manual grosso e uma caneta atrás da orelha.",
+    "nano_prompt": "yellow man with glasses and neat hair, holding a thick user manual and a pen tucked behind the ear, articulate helpful smile, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r069",
+    "sheet_id": "s060",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Advocate Apu",
+    "character_desc": "Developer Advocate amarelo carismático, segurando um microfone e adesivos de dev.",
+    "nano_prompt": "yellow man with a mustache and a bright shirt, holding a microphone and a sheet of developer stickers, enthusiastic outgoing grin, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r070",
+    "sheet_id": "s060",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Content Cookie",
+    "character_desc": "Content Strategist amarela, segurando um calendário editorial e mapa de conteúdo.",
+    "nano_prompt": "yellow woman with curly hair and a blazer, holding an editorial content calendar and a content-map board, strategic thoughtful look, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r071",
+    "sheet_id": "s060",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "i18n Ingrid",
+    "character_desc": "Localization Engineer amarela, segurando um globo com balões de fala em vários idiomas.",
+    "nano_prompt": "yellow woman with braided hair, holding a small globe surrounded by speech bubbles in different scripts (abstract glyphs), worldly friendly expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r072",
+    "sheet_id": "s060",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Product-Des Poppy",
+    "character_desc": "Product Designer amarela, segurando um protótipo de tela e caixa de ferramentas de design.",
+    "nano_prompt": "yellow woman with a bob haircut and glasses, holding a screen prototype board and a design toolkit, creative confident expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r073",
+    "sheet_id": "s060",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Visual Van",
+    "character_desc": "Visual Designer amarelo, segurando uma paleta de pintor e amostras tipográficas.",
+    "nano_prompt": "yellow man with an artsy beret and goatee, holding a painter's palette and typography swatch cards, expressive artistic gesture, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r074",
+    "sheet_id": "s060",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Interaction Ira",
+    "character_desc": "Interaction Designer amarelo, segurando um fluxograma de cliques e um cursor gigante.",
+    "nano_prompt": "yellow man with round glasses and neat hair, holding a click-flow diagram and an oversized cursor pointer, engaged attentive expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r075",
+    "sheet_id": "s060",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Motion Mindy",
+    "character_desc": "Motion Designer amarela, segurando uma linha do tempo de animação com curvas.",
+    "nano_prompt": "yellow woman with wavy red hair, holding an animation timeline ribbon with motion curves and frames, dynamic creative smile, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r076",
+    "sheet_id": "s060",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Illustr Ivo",
+    "character_desc": "Illustrator amarelo, segurando um tablet de desenho e uma caneta stylus.",
+    "nano_prompt": "yellow man with paint-splattered smock and messy hair, holding a drawing tablet and a stylus mid-sketch, imaginative expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r077",
+    "sheet_id": "s060",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Asset Ava",
+    "character_desc": "Asset Designer amarela, segurando uma bandeja de ícones e sprites organizados.",
+    "nano_prompt": "yellow woman with short teal hair, holding a tray of neatly arranged icons and game sprites, organized crafty smile, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r078",
+    "sheet_id": "s060",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Brand Bernice",
+    "character_desc": "Brand Designer amarela, segurando um logotipo abstrato e um guia de marca.",
+    "nano_prompt": "yellow woman with elegant hair and pearls, holding an abstract logo mark (no letters) and a brand style guide, polished confident look, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r079",
+    "sheet_id": "s060",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Sound Sanjay",
+    "character_desc": "Sound Designer amarelo, fones grandes, segurando uma forma de onda de áudio.",
+    "nano_prompt": "yellow man with big headphones and a mustache, holding a glowing audio waveform strip and a small mixer, focused listening expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r080",
+    "sheet_id": "s060",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "3D Otto",
+    "character_desc": "3D Artist amarelo, segurando um modelo poligonal de wireframe flutuando na mão.",
+    "nano_prompt": "yellow man with curly hair and a beanie, holding a floating polygonal wireframe 3D model in one hand, absorbed creative look, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r081",
+    "sheet_id": "s060",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Game-Des Gina",
+    "character_desc": "Game Designer amarela, segurando um tabuleiro de mecânicas e dados grandes.",
+    "nano_prompt": "yellow woman with playful pigtails, holding a game-mechanics board and oversized dice, imaginative excited grin, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r082",
+    "sheet_id": "s060",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Level Luigi",
+    "character_desc": "Level Designer amarelo, segurando um mapa de fase com plataformas e inimigos.",
+    "nano_prompt": "yellow man with a cap and mustache, holding a side-scroller level map with platforms, coins and enemy markers, planning expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r083",
+    "sheet_id": "s060",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Narrative Nana",
+    "character_desc": "Narrative Designer amarela, segurando um pergaminho de roteiro ramificado.",
+    "nano_prompt": "yellow elderly woman with glasses and a shawl, holding a branching-story scroll with dialogue nodes, storytelling warm expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r084",
+    "sheet_id": "s060",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Game-Dev Gil",
+    "character_desc": "Game Developer amarelo, segurando um controle e um sprite pulando na tela.",
+    "nano_prompt": "yellow man in a worn suit with tie loose, holding a game controller and a screen with a jumping sprite, eager hopeful grin, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r085",
+    "sheet_id": "s060",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Shader Shauna",
+    "character_desc": "Graphics/Shader Engineer amarela, segurando uma esfera com reflexos e gradientes.",
+    "nano_prompt": "yellow woman with dyed hair and edgy style, holding a glossy shaded sphere with light reflections and gradient ramps, focused technical-artist look, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r086",
+    "sheet_id": "s060",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Embed Eddie",
+    "character_desc": "Embedded Engineer amarelo, segurando uma placa de circuito pequena com solda.",
+    "nano_prompt": "yellow man with safety glasses, holding a small embedded circuit board and a soldering iron, meticulous hands-on expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r087",
+    "sheet_id": "s060",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Firmware Frank",
+    "character_desc": "Firmware Engineer amarelo, segurando um chip com código gravado e um gravador.",
+    "nano_prompt": "yellow man with a flat-top haircut, holding a microchip with etched code and a flashing programmer tool, precise concentrated look, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r088",
+    "sheet_id": "s060",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "IoT Ivy",
+    "character_desc": "IoT Engineer amarela, segurando um sensor conectado a vários dispositivos por sinais.",
+    "nano_prompt": "yellow woman with a tech headset, holding a small sensor node radiating wireless signals to tiny smart devices, connected curious expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r089",
+    "sheet_id": "s060",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Chain Charlie",
+    "character_desc": "Blockchain Developer amarelo, segurando uma corrente de blocos conectados e uma moeda.",
+    "nano_prompt": "yellow man with a hoodie and goatee, holding a chain of linked cryptographic blocks and a golden token coin, intrigued expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r090",
+    "sheet_id": "s060",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Contract Comic",
+    "character_desc": "Smart Contract Auditor amarelo, segurando um pergaminho de contrato com lupa e cadeado.",
+    "nano_prompt": "yellow man with glasses and a vest, holding a smart-contract scroll under a magnifying glass with a padlock seal, scrutinizing careful expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r091",
+    "sheet_id": "s060",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "AR/VR Vince",
+    "character_desc": "AR/VR Engineer amarelo, com headset VR na testa, segurando um objeto holográfico.",
+    "nano_prompt": "yellow man with a VR headset pushed up on his forehead, holding a floating holographic cube projection, immersed wondering expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r092",
+    "sheet_id": "s060",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Robo Rita",
+    "character_desc": "Robotics Engineer amarela, segurando um braço robótico articulado em miniatura.",
+    "nano_prompt": "yellow woman with a hard hat and goggles, holding an articulated miniature robotic arm and a controller, focused engineering expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r093",
+    "sheet_id": "s060",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Growth Gil",
+    "character_desc": "Growth Engineer amarelo, segurando um gráfico de curva subindo e um funil de conversão.",
+    "nano_prompt": "yellow man in a slightly-too-big suit, holding a steeply rising growth curve chart and a conversion funnel, optimistic hustling grin, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r094",
+    "sheet_id": "s060",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "SEO Selma",
+    "character_desc": "SEO Specialist amarela, segurando uma lupa sobre resultados de busca ranqueados.",
+    "nano_prompt": "yellow woman with tall hair and glasses, holding a magnifying glass over a ranked search-results list with up arrows, sharp strategic look, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r095",
+    "sheet_id": "s060",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "MarTech Moe",
+    "character_desc": "Marketing Technologist amarelo, segurando um painel de campanhas automatizadas.",
+    "nano_prompt": "yellow man with heavy brow, holding an automated marketing dashboard with funnels and email icons, scheming clever expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r096",
+    "sheet_id": "s060",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Solutions Sanjay",
+    "character_desc": "Solutions Engineer amarelo, segurando um kit de peças que se encaixam para o cliente.",
+    "nano_prompt": "yellow man with mustache in a polo, holding a kit of interlocking solution pieces fitting together, helpful problem-solving smile, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r097",
+    "sheet_id": "s060",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Support Sarah",
+    "character_desc": "Support Engineer amarela, headset, segurando um ticket resolvido e um chat aberto.",
+    "nano_prompt": "yellow woman with a call-center headset and ponytail, holding a resolved support ticket and an open chat bubble, friendly patient expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r098",
+    "sheet_id": "s060",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Sales Sam",
+    "character_desc": "Sales Engineer amarelo, terno, segurando um demo de produto e um aperto de mão.",
+    "nano_prompt": "yellow man in a sharp suit, holding a product demo tablet and extending a hand for a handshake, persuasive confident grin, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r099",
+    "sheet_id": "s060",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "FinOps Fran",
+    "character_desc": "FinOps Analyst amarela, segurando um gráfico de custos de nuvem e uma calculadora.",
+    "nano_prompt": "yellow woman with glasses and a blazer, holding a cloud-cost breakdown chart and a calculator, budget-conscious analytical expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s060-r100",
+    "sheet_id": "s060",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Legal Lionel",
+    "character_desc": "Legal Counsel amarelo, terno, segurando um contrato lacrado e um martelo de juiz.",
+    "nano_prompt": "yellow lawyer man with slicked hair in a suit, holding a sealed legal contract and a judge's gavel, formal composed expression, Simpsons cartoon style by Matt Groening, flat bright yellow cartoon skin, big round white eyes with small black pupils, prominent overbite, four-fingered hands, bold uniform black outlines, flat cel shading, Springfield yellow-cartoon aesthetic, bust shot from the chest up, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

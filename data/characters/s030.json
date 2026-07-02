@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s030-r001",
+    "sheet_id": "s030",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Aedifex, o Traçador",
+    "character_desc": "Signo do Arquiteto: constelação que rege as plantas do céu. Segura um pergaminho-projeto estelar e um compasso, com um esquema de constelações desenrolado à frente.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed as a celestial architect holding a glowing blueprint scroll and a star-compass, an unrolled constellation schematic floating before them, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r002",
+    "sheet_id": "s030",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Ductor Stellae",
+    "character_desc": "Signo do Tech Lead: constelação que aponta o caminho. Ergue um cajado-guia enquanto pequenas estrelas-companheiras seguem sua direção apontada.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed pointing forward like a guiding leader, raising a luminous guide-staff, three tiny star-follower figures trailing behind, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r003",
+    "sheet_id": "s030",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Fabrix Amplus",
+    "character_desc": "Signo do Staff Engineer: constelação de alcance largo. Sustenta uma grande engrenagem e um mapa que cruza vários domínios estelares.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a large glowing gear in one hand and a wide star-map spanning multiple constellations in the other, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r004",
+    "sheet_id": "s030",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Corona Prima",
+    "character_desc": "Signo do Principal Engineer: constelação coroada de autoridade técnica. Um aglomerado de estrelas em forma de coroa sobre a cabeça e um esquema-mestre nas mãos.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed with a crown-shaped star cluster above the head, holding a master schematic diagram of interlocking gears, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r005",
+    "sheet_id": "s030",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Pastor Operum",
+    "character_desc": "Signo do Engineering Manager: constelação que cuida da equipe. Segura uma prancheta de anotações e um cajado que reúne estrelas-pessoas ao redor.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed as a caring shepherd holding a notes clipboard and a shepherd's staff, small star-people gathered around, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r006",
+    "sheet_id": "s030",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Visio Producti",
+    "character_desc": "Signo do Product Manager: constelação da visão. Segura um pergaminho-roadmap e uma lâmpada acesa que ilumina prioridades.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a roadmap scroll and a glowing lightbulb, small priority-stars ranked beside, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r007",
+    "sheet_id": "s030",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Custos Backlog",
+    "character_desc": "Signo do Product Owner: constelação guardiã do backlog. Segura uma pilha de cartões-estrela empilhados e uma pequena coroa de decisão.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a tall stack of glowing star-cards and a small decision crown, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r008",
+    "sheet_id": "s030",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Nexus Multorum",
+    "character_desc": "Signo do Program Manager: constelação que orquestra muitos mundos. Faz malabares com vários planetas-projeto orbitando ligados por linhas de dependência.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed juggling several orbiting project-planets connected by dependency lines, coordinating them, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r009",
+    "sheet_id": "s030",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Cronos Gantt",
+    "character_desc": "Signo do Project Manager: constelação do cronograma. Segura um diagrama de Gantt em barras de estrelas e um cronômetro brilhante.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a Gantt-chart of glowing star-bars and a shining stopwatch, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r010",
+    "sheet_id": "s030",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Facilis, o Guardião do Sprint",
+    "character_desc": "Signo do Scrum Master: constelação que facilita o ritmo. Segura um quadro de sprint com notas adesivas-estrela e um apito de cerimônia.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a sprint board covered in glowing sticky-note stars and a facilitator's whistle, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r011",
+    "sheet_id": "s030",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Servus Fundi",
+    "character_desc": "Signo do Backend Developer: constelação dos bastidores. De pé ao lado de um rack de servidores-estrela com engrenagens girando atrás.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed standing beside a glowing server-rack constellation with rotating gears behind, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r012",
+    "sheet_id": "s030",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Portus Contractus",
+    "character_desc": "Signo do API Designer: constelação das conexões. Segura conectores-plugue que se encaixam e um pergaminho de contrato de interface.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding interlocking plug-and-socket connectors and an interface contract scroll, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r013",
+    "sheet_id": "s030",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Fragmentum Orbis",
+    "character_desc": "Signo do Microservices Engineer: constelação de muitos pequenos serviços. Cercada por vários cubos-serviço orbitando de forma independente.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed surrounded by many small orbiting service-cubes, each an independent glowing node, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r014",
+    "sheet_id": "s030",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Fluxus Dati",
+    "character_desc": "Signo do Pipeline Developer: constelação do fluxo. Ao lado de uma esteira de dados-estrela correndo por tubos luminosos.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed beside a flowing conveyor of data-stars running through luminous pipes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r015",
+    "sheet_id": "s030",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Vas Datorum",
+    "character_desc": "Signo do Data Engineer: constelação que canaliza dados. Verte um jorro de estrelas de um grande tubo para um reservatório (ETL).",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed pouring a stream of data-stars from a large pipe into a glowing reservoir, ETL flow, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r016",
+    "sheet_id": "s030",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Custos Tabularum",
+    "character_desc": "Signo do DBA: constelação guardiã dos dados. Abraça um tambor cilíndrico de banco de dados e segura um molho de chaves.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed cradling a cylindrical database drum and holding a ring of glowing keys, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r017",
+    "sheet_id": "s030",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Quaestor SQL",
+    "character_desc": "Signo do SQL Specialist: constelação das consultas. Segura um pergaminho de query com glifos-estrela e uma grade de tabela.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a query scroll of abstract star-glyphs and a glowing table grid, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r018",
+    "sheet_id": "s030",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Velox Cache",
+    "character_desc": "Signo do Caching Engineer: constelação da velocidade. Segura uma caixa-cache faiscante e uma ampulheta que corre veloz.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a lightning-fast cache box and a swift hourglass, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r019",
+    "sheet_id": "s030",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Ordo Nuntius",
+    "character_desc": "Signo do Message Queue Engineer: constelação das filas. Ao lado de uma fila ordenada de envelopes-mensagem numa esteira.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed beside an orderly queue of message-envelope stars on a conveyor line, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r020",
+    "sheet_id": "s030",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Index Quaerens",
+    "character_desc": "Signo do Search Engineer: constelação da busca. Ergue uma lupa gigante sobre fichas-índice de estrelas.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed raising a giant magnifying glass over a fan of index-card stars, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r021",
+    "sheet_id": "s030",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Pictor Fenestrae",
+    "character_desc": "Signo do Frontend Developer: constelação da interface. Segura uma moldura de janela de navegador e um pincel que também é código.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a browser-window frame and a paintbrush that doubles as a code cursor, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r022",
+    "sheet_id": "s030",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Structor UI",
+    "character_desc": "Signo do UI Engineer: constelação dos componentes. Empilha blocos de UI luminosos, botões e sliders flutuando ao redor.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed stacking glowing UI component blocks, buttons and sliders floating around, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r023",
+    "sheet_id": "s030",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Empathia Viae",
+    "character_desc": "Signo do UX Designer: constelação da jornada. Segura uma prancheta de wireframe e um mapa de jornada com um coração de empatia.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a wireframe board and a user-journey map marked with an empathy heart, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r024",
+    "sheet_id": "s030",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Bibliotheca Tokenum",
+    "character_desc": "Signo do Design Systems Engineer: constelação da biblioteca. Organiza uma prateleira de componentes reutilizáveis numa grade impecável.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed arranging a tidy library shelf of reusable component tokens in a neat grid, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r025",
+    "sheet_id": "s030",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Aditus Omnibus",
+    "character_desc": "Signo do Accessibility Specialist: constelação do acesso a todos. Segura o símbolo universal de acessibilidade e um medidor de contraste.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding the universal accessibility person-in-circle symbol and a contrast meter, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r026",
+    "sheet_id": "s030",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Celeritas Retis",
+    "character_desc": "Signo do Web Performance Engineer: constelação da rapidez. Segura um velocímetro em zona verde e um raio de velocidade.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a speed gauge in the green zone and a lightning bolt of speed, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r027",
+    "sheet_id": "s030",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Stilista Cascada",
+    "character_desc": "Signo do CSS Specialist: constelação do estilo. Segura uma paleta de tintas e uma moldura de box-model luminosa.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a paint palette and a glowing CSS box-model frame, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r028",
+    "sheet_id": "s030",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Motus Quadri",
+    "character_desc": "Signo do Animation Engineer: constelação do movimento. Cercada por rastros de keyframes e uma bola quicando em arco de estrelas.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed surrounded by keyframe star-trails and a bouncing-ball arc of motion, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r029",
+    "sheet_id": "s030",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Palma Mobilis",
+    "character_desc": "Signo do Mobile Developer: constelação da palma da mão. Segura um smartphone-constelação brilhando.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a single glowing smartphone constellation, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r030",
+    "sheet_id": "s030",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Pomum Lucis",
+    "character_desc": "Signo do iOS Developer: constelação do pomo brilhante. Segura um celular e uma frutinha-estrela mordida ao lado.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a phone with a small bitten-apple star fruit beside it, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r031",
+    "sheet_id": "s030",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Automaton Viridis",
+    "character_desc": "Signo do Android Developer: constelação do pequeno autômato. Segura um celular ao lado de um robozinho-mascote de estrelas.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a phone beside a little friendly robot-mascot of stars, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r032",
+    "sheet_id": "s030",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Gemini Nativus",
+    "character_desc": "Signo do React Native Developer: constelação de duas telas. Segura dois celulares gêmeos ligados por um átomo orbital.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding two twin phones linked by an orbiting atom symbol, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r033",
+    "sheet_id": "s030",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Ala Fluttera",
+    "character_desc": "Signo do Flutter Developer: constelação alada. Segura um celular ao lado de uma borboleta-estrela em voo.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a phone beside a fluttering butterfly of stars, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r034",
+    "sheet_id": "s030",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Sapiens Datorum",
+    "character_desc": "Signo do Data Scientist: constelação do laboratório de dados. Segura um erlenmeyer borbulhante e um gráfico de dispersão de estrelas.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a bubbling data-beaker and a scatter-plot of stars, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r035",
+    "sheet_id": "s030",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Nexus Neuralis",
+    "character_desc": "Signo do ML Engineer: constelação da rede neural. Segura um grafo de nós neurais interligados com engrenagens de treino.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding an interconnected neural-network node graph with training gears, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r036",
+    "sheet_id": "s030",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Cyclus Modeli",
+    "character_desc": "Signo do MLOps Engineer: constelação do ciclo do modelo. Ao lado de uma caixa-modelo numa esteira em loop com painéis de monitoramento.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed beside a model-box on a looping conveyor with monitoring dashboards, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r037",
+    "sheet_id": "s030",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Quaerens Mentis",
+    "character_desc": "Signo do AI Researcher: constelação da investigação. Segura um pergaminho-artigo e um cérebro-estrela sob uma lupa.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a research paper scroll and a star-brain examined under a magnifier, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r038",
+    "sheet_id": "s030",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Susurrus, o Sussurrador",
+    "character_desc": "Signo do Prompt Engineer: constelação que sussurra à máquina. Segura um balão de fala e uma varinha, falando a uma grande cabeça de IA de estrelas.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a chat-bubble and a wand, whispering toward a large glowing AI-head of stars, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r039",
+    "sheet_id": "s030",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Lingua Astrorum",
+    "character_desc": "Signo do NLP Engineer: constelação da linguagem. Segura ondas sonoras que se transformam em letras-glifo flutuantes.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a soundwave that morphs into floating letter-glyph stars, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r040",
+    "sheet_id": "s030",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Oculus Visionis",
+    "character_desc": "Signo do Computer Vision Engineer: constelação do olhar. Segura um grande olho e uma câmera com caixas de detecção ao redor.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a large glowing eye and a camera with bounding-box frames around, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r041",
+    "sheet_id": "s030",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Analysta Barrarum",
+    "character_desc": "Signo do Data Analyst: constelação dos gráficos. Segura um gráfico de barras de estrelas e uma lupa que inspeciona números.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a star bar-chart and a magnifier inspecting the numbers, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r042",
+    "sheet_id": "s030",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Speculum BI",
+    "character_desc": "Signo do BI Analyst: constelação do painel. Segura um dashboard com KPIs e um medidor em ponteiro.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a dashboard panel of KPIs and a needle gauge, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r043",
+    "sheet_id": "s030",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Transformator Serierum",
+    "character_desc": "Signo do Analytics Engineer: constelação do funil. Ao lado de um funil que transforma dados brutos em gráficos limpos.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed beside a funnel transforming raw data-stars into clean charts, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r044",
+    "sheet_id": "s030",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Artifex Graphi",
+    "character_desc": "Signo do Data Viz Specialist: constelação da estética dos dados. Segura uma paleta e um gráfico artístico com sparklines.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding an artist palette and an elegant chart with glowing sparklines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r045",
+    "sheet_id": "s030",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Infinitas Operis",
+    "character_desc": "Signo do DevOps Engineer: constelação do laço infinito. Segura o símbolo de infinito DevOps e uma chave inglesa entre engrenagens.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a glowing DevOps infinity-loop symbol and a wrench amid gears, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r046",
+    "sheet_id": "s030",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Vigil Fidelis",
+    "character_desc": "Signo do SRE: constelação da vigília. Segura um pager de alerta e um escudo com um medidor de uptime.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding an alert pager and a shield with an uptime gauge, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r047",
+    "sheet_id": "s030",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Basis Communis",
+    "character_desc": "Signo do Platform Engineer: constelação da plataforma. Sustenta uma laje-plataforma sobre a qual pequenas figuras-dev trabalham.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding up a platform slab on which tiny developer-star figures work, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r048",
+    "sheet_id": "s030",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Nubis Architectus",
+    "character_desc": "Signo do Cloud Architect: constelação da nuvem. Segura uma nuvem que abriga estruturas e um esquema de arquitetura.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a cloud sheltering built structures and an architecture blueprint, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r049",
+    "sheet_id": "s030",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Gubernator Navis",
+    "character_desc": "Signo do Kubernetes Admin: constelação do timoneiro. Empunha um leme de navio que dirige contêineres flutuantes.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed gripping a ship's helm steering floating container-boxes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r050",
+    "sheet_id": "s030",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Textor Retis",
+    "character_desc": "Signo do Network Engineer: constelação da teia. Segura uma malha de nós de rede ligados por cabos e um roteador.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a web of network nodes linked by cables and a router, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r051",
+    "sheet_id": "s030",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Custos Systematis",
+    "character_desc": "Signo do Systems Administrator: constelação do sistema. Ao lado de uma torre de servidor com um terminal e um molho de chaves.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed beside a server tower with a glowing terminal and a ring of keys, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r052",
+    "sheet_id": "s030",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Missor Versionis",
+    "character_desc": "Signo do Release Engineer: constelação do lançamento. Segura um foguete pronto para subir com uma bandeira de tag de versão.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a launch-ready rocket and a version-tag flag, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r053",
+    "sheet_id": "s030",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Faber Constructus",
+    "character_desc": "Signo do Build Engineer: constelação da montagem. Ergue um martelo montando blocos de build que se encaixam.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed raising a hammer assembling snapping build-blocks together, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r054",
+    "sheet_id": "s030",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Cursus Continuus",
+    "character_desc": "Signo do CI/CD Engineer: constelação do fluxo contínuo. Ao lado de uma esteira-pipeline com setas em loop e engrenagens.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed beside a pipeline conveyor with looping arrows and gears, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r055",
+    "sheet_id": "s030",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Scutum Vigilans",
+    "character_desc": "Signo do Security Engineer: constelação do escudo. Segura um escudo e uma lupa sobre uma checklist de auditoria.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a shield and a magnifier over an audit checklist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r056",
+    "sheet_id": "s030",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Umbra Effractor",
+    "character_desc": "Signo do Penetration Tester: constelação furtiva encapuzada. Segura uma gazua abrindo um cadeado de estrelas.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed as a hooded figure holding a lockpick opening a star-padlock, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r057",
+    "sheet_id": "s030",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Scutum Applicati",
+    "character_desc": "Signo do AppSec Engineer: constelação do escudo do app. Segura um escudo sobre uma janela de aplicativo com um inseto na mira.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a shield over an app-window with a bug in a targeting crosshair, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r058",
+    "sheet_id": "s030",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cifrista Arcana",
+    "character_desc": "Signo do Cryptographer: constelação do cifrário. Segura uma chave e uma roda de cifra girando com um cadeado.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a key and a rotating cipher-wheel with a padlock, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r059",
+    "sheet_id": "s030",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Arbiter Regulae",
+    "character_desc": "Signo do Compliance Officer: constelação da regra. Segura um livro de normas e um selo de carimbo com um visto de aprovação.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a rulebook and a stamp seal marked with an approval check, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r060",
+    "sheet_id": "s030",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Velum Privatum",
+    "character_desc": "Signo do Privacy Engineer: constelação do véu. Segura um cadeado sobre a silhueta anonimizada de uma pessoa e uma máscara.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a padlock over an anonymized person silhouette and a privacy mask, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r061",
+    "sheet_id": "s030",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Extinctor Ignis",
+    "character_desc": "Signo do Incident Responder: constelação do socorro. Empunha um extintor apontado para uma sirene de alarme acesa.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed wielding a fire extinguisher aimed at a glowing alarm siren, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r062",
+    "sheet_id": "s030",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Praevisor Minarum",
+    "character_desc": "Signo do Threat Modeler: constelação da estratégia. Segura uma árvore de ataque-tabuleiro com um escudo e uma espada.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding an attack-tree board with a shield and a sword, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r063",
+    "sheet_id": "s030",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Venator Errorum",
+    "character_desc": "Signo do QA Engineer: constelação da caça a bugs. Segura uma lupa e uma redinha capturando um inseto-estrela sobre uma checklist.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a magnifier and a bug-net catching a star-bug over a checklist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r064",
+    "sheet_id": "s030",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Automaton Probans",
+    "character_desc": "Signo do SDET: constelação da automação de testes. Ao lado de um braço-robô que roda testes com engrenagens e vistos.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed beside a robotic arm running tests with gears and green checkmarks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r065",
+    "sheet_id": "s030",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Onus Metiens",
+    "character_desc": "Signo do Performance Tester: constelação da carga. Segura um cronômetro e um medidor de estresse com pesos de carga.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a stopwatch and a load-stress gauge with weight plates, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r066",
+    "sheet_id": "s030",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Explorator Manu",
+    "character_desc": "Signo do Manual Tester: constelação do passo a passo. Segura uma prancheta e uma lupa percorrendo etapas de teste.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a clipboard and a magnifier stepping through test cases, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r067",
+    "sheet_id": "s030",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Probator Aditus",
+    "character_desc": "Signo do Accessibility Tester: constelação da prova de acesso. Segura o símbolo de acessibilidade sobre uma checklist com uma lupa.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding the accessibility symbol over a checklist with a magnifier, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r068",
+    "sheet_id": "s030",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Scriba Doctus",
+    "character_desc": "Signo do Technical Writer: constelação da escrita. Segura uma pena luminosa e um manual/livro aberto de estrelas.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a glowing quill and an open star-manual book, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r069",
+    "sheet_id": "s030",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Vox Communitatis",
+    "character_desc": "Signo do Developer Advocate: constelação da voz. Ergue um megafone com um coração e um símbolo de código, sobre um pequeno palco.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed raising a megaphone with a heart and a code symbol, on a small stage, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r070",
+    "sheet_id": "s030",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Strategus Verbi",
+    "character_desc": "Signo do Content Strategist: constelação do plano. Segura um mapa de conteúdo/calendário e uma bússola de direção.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a content map calendar and a direction compass, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r071",
+    "sheet_id": "s030",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Orbis Linguarum",
+    "character_desc": "Signo do Localization Engineer: constelação do globo. Segura um globo cercado de balões de fala em vários alfabetos-glifo.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a globe ringed with speech-bubbles of varied script-glyphs, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r072",
+    "sheet_id": "s030",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Pons Consilii",
+    "character_desc": "Signo do Product Designer: constelação da ponte. Segura uma prancha de design que une usuário e negócio, com uma caneta-pen tool.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a design board bridging a user icon and a business icon, with a pen-tool, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r073",
+    "sheet_id": "s030",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Chromata Visio",
+    "character_desc": "Signo do Visual Designer: constelação das cores. Segura uma paleta e um pincel com amostras de cor flutuando.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a paint palette and brush with floating color swatches, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r074",
+    "sheet_id": "s030",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Tactus Fluxus",
+    "character_desc": "Signo do Interaction Designer: constelação do gesto. Segura um cursor com setas de gesto e toques que fluem em sequência.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a cursor with gesture arrows and tap-ripples flowing in sequence, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r075",
+    "sheet_id": "s030",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Motus Temporis",
+    "character_desc": "Signo do Motion Designer: constelação da animação. Cercada por rastros de movimento em espiral e uma linha do tempo de keyframes.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed surrounded by swirling motion-trails and a keyframe timeline, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r076",
+    "sheet_id": "s030",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Manus Pingens",
+    "character_desc": "Signo do Illustrator: constelação do desenho. Segura um pincel grande e uma tela/tablet com um traço de estrelas nascendo.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a big brush and a drawing tablet-canvas with an emerging star-sketch, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r077",
+    "sheet_id": "s030",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Fabricator Iconum",
+    "character_desc": "Signo do Asset Designer: constelação dos ativos. Segura uma folha de sprites com ícones-tile e um carimbo.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a sprite-sheet of icon tiles and a stamp, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r078",
+    "sheet_id": "s030",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Sigillum Nominis",
+    "character_desc": "Signo do Brand Designer: constelação da marca. Segura um emblema-selo de logo abstrato com uma paleta de identidade.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding an abstract logo-emblem seal with an identity palette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r079",
+    "sheet_id": "s030",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Sonus Aetheris",
+    "character_desc": "Signo do Sound Designer: constelação do som. Segura uma onda sonora e fones de ouvido com um diapasão.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a soundwave and headphones with a tuning fork, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r080",
+    "sheet_id": "s030",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Sculptor Voluminis",
+    "character_desc": "Signo do 3D Artist: constelação do volume. Modela um cubo/bule 3D em wireframe girando entre as mãos.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed sculpting a rotating 3D wireframe cube-and-teapot between the hands, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r081",
+    "sheet_id": "s030",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Ludi Architectus",
+    "character_desc": "Signo do Game Designer: constelação do jogo. Segura dados e um tabuleiro/controle com um rolo de regras.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding dice and a game board-controller with a rules scroll, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r082",
+    "sheet_id": "s030",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Cartographus Ludi",
+    "character_desc": "Signo do Level Designer: constelação do mapa de fase. Segura um mapa de nível com plataformas e uma bandeira de chegada.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a level map with platforms and a checkered finish flag, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r083",
+    "sheet_id": "s030",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Fabulator Ramosus",
+    "character_desc": "Signo do Narrative Designer: constelação da história. Segura um livro aberto com uma árvore de diálogo ramificada.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding an open storybook with a branching dialogue tree, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r084",
+    "sheet_id": "s030",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Faber Ludorum",
+    "character_desc": "Signo do Game Developer: constelação do jogo vivo. Segura um controle e um personagem-sprite de estrelas saltando ao lado.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a game controller with a leaping sprite-character of stars beside, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r085",
+    "sheet_id": "s030",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Lux Umbrae",
+    "character_desc": "Signo do Graphics/Shader Engineer: constelação da luz. Segura uma esfera-shader brilhante emitindo raios de luz e reflexos.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a glowing shader-sphere emitting light rays and highlights, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r086",
+    "sheet_id": "s030",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Fabricator Chippi",
+    "character_desc": "Signo do Embedded Engineer: constelação do chip. Segura um microchip e uma placa de circuito com trilhas de estrelas.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a microchip and a circuit board with star-trace pathways, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r087",
+    "sheet_id": "s030",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Scriptor Firmi",
+    "character_desc": "Signo do Firmware Engineer: constelação do firmware. Segura um chip com uma engrenagem minúscula e uma seta de flash de gravação.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a chip with a tiny gear and a flashing write-arrow, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r088",
+    "sheet_id": "s030",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Nexus Rerum",
+    "character_desc": "Signo do IoT Engineer: constelação das coisas conectadas. Cercada por dispositivos inteligentes ligados por ondas de wifi e sensores.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed surrounded by smart devices linked by wifi waves and sensor dots, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r089",
+    "sheet_id": "s030",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Catena Blocorum",
+    "character_desc": "Signo do Blockchain Developer: constelação da corrente. Segura uma cadeia de blocos-cubo brilhantes encadeados.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a chain of glowing linked block-cubes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r090",
+    "sheet_id": "s030",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Inspector Pacti",
+    "character_desc": "Signo do Smart Contract Auditor: constelação da corrente inspecionada. Segura uma cadeia de blocos e uma lupa sobre um pergaminho de contrato.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a block-chain and a magnifier over a contract scroll with a checklist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r091",
+    "sheet_id": "s030",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Visor Alterius",
+    "character_desc": "Signo do AR/VR Engineer: constelação da realidade estendida. Usa um headset de VR segurando um cubo holográfico flutuante.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed wearing a VR headset holding a floating holographic cube, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r092",
+    "sheet_id": "s030",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Machinator Ferri",
+    "character_desc": "Signo do Robotics Engineer: constelação do autômato. De pé ao lado de um robô com uma chave inglesa e engrenagens.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed standing beside a robot holding a wrench with gears around, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r093",
+    "sheet_id": "s030",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Sagitta Crescens",
+    "character_desc": "Signo do Growth Engineer: constelação do crescimento. Segura uma seta ascendente e um funil com um teste A/B ao lado.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a rising upward arrow and a funnel with an A/B test split beside, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r094",
+    "sheet_id": "s030",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Scala Quaerentis",
+    "character_desc": "Signo do SEO Specialist: constelação da subida na busca. Segura uma lupa e uma escada de ranqueamento que sobe.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a magnifier and a rising rank-ladder of search results, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r095",
+    "sheet_id": "s030",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Machina Mercatus",
+    "character_desc": "Signo do Marketing Technologist: constelação da automação. Segura um funil com um megafone e engrenagens de automação.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a funnel with a megaphone and automation gears, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r096",
+    "sheet_id": "s030",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Solutor Demonstrans",
+    "character_desc": "Signo do Solutions Engineer: constelação da solução. Segura uma peça de quebra-cabeça que encaixa e uma tela de demonstração com um aperto de mão.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a fitting puzzle-piece and a demo screen with a handshake, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r097",
+    "sheet_id": "s030",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Auxilium Fidele",
+    "character_desc": "Signo do Support Engineer: constelação do socorro amigo. Usa um headset e segura uma chave inglesa com um balão de conversa.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed wearing a headset holding a wrench with a chat-bubble, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r098",
+    "sheet_id": "s030",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Mercator Technicus",
+    "character_desc": "Signo do Sales Engineer: constelação da venda técnica. Segura uma tela de demonstração e um aperto de mão com um gráfico em alta.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a demo screen and a handshake with a rising chart, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r099",
+    "sheet_id": "s030",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Custos Aerarii",
+    "character_desc": "Signo do FinOps Analyst: constelação do orçamento. Segura uma moeda e uma nuvem numa balança com um medidor de custo.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding a coin and a cloud on a balance scale with a cost gauge, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s030-r100",
+    "sheet_id": "s030",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Libra Iuris",
+    "character_desc": "Signo do Legal Counsel: constelação da justiça. Segura a balança da justiça e um pergaminho de contrato com um martelo.",
+    "nano_prompt": "Neon constellation figure in zodiac celestial style, a full-body humanoid form drawn as glowing star nodes connected by luminous neon star-lines in electric cyan and magenta with gold sparkles, ethereal star-glow, thin twinkling connecting lines forming both the body and the props, posed holding the scales of justice and a contract scroll with a gavel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

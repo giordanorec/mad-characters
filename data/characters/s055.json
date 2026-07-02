@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s055-r001",
+    "sheet_id": "s055",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Blueprint Bea",
+    "character_desc": "Uma mascote arquiteta de esmalte que segura um rolo de planta baixa e um compasso — pura visão de sistema.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot wears a hard hat, holds a rolled blueprint and a drafting compass, tiny ruler tucked in belt, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r002",
+    "sheet_id": "s055",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Lead Leo",
+    "character_desc": "Líder técnico de esmalte com prancheta de tarefas e uma pequena bandeira, apontando o caminho do time.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a clipboard checklist and a small flag on a pole, confident pointing gesture, headset on, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r003",
+    "sheet_id": "s055",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Staff Stella",
+    "character_desc": "Engenheira staff que equilibra vários módulos flutuantes, resolvendo problemas amplos com calma.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot juggles several small floating gear-cubes, wears smart glasses, holds a wide-angle diagram fan, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r004",
+    "sheet_id": "s055",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Principal Percy",
+    "character_desc": "Engenheiro principal com uma coroa discreta de engrenagem, segurando um roadmap de longo prazo.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot wears a small gear-shaped crown, holds a long unfurled roadmap scroll, medal on chest, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r005",
+    "sheet_id": "s055",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Manager Mira",
+    "character_desc": "Gerente de engenharia com agenda 1:1 e xícara de café, cuidando das pessoas do time.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a calendar planner and a coffee mug, warm smile, name-badge lanyard, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r006",
+    "sheet_id": "s055",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Product Pia",
+    "character_desc": "Product Manager de esmalte com lâmpada de ideia e gráfico de prioridades na mão.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a glowing lightbulb and a priority chart card, sticky-note on shoulder, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r007",
+    "sheet_id": "s055",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Owner Otto",
+    "character_desc": "Product Owner segurando um backlog empilhado de cartões e uma coroa de valor.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a tall stack of backlog cards, small crown, points at top card, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r008",
+    "sheet_id": "s055",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Program Priya",
+    "character_desc": "Program Manager coordenando várias linhas do tempo com um painel de marcos.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a multi-track timeline board with milestone flags, headset and stopwatch, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r009",
+    "sheet_id": "s055",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Project Percy",
+    "character_desc": "Project Manager com diagrama de Gantt enrolado e cronômetro de prazo.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a rolled Gantt-chart with colored bars and a stopwatch, clipboard, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r010",
+    "sheet_id": "s055",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Scrum Sam",
+    "character_desc": "Scrum Master com quadro kanban de post-its e uma ampulheta de sprint.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a mini kanban board with sticky cards and an hourglass, whistle around neck, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r011",
+    "sheet_id": "s055",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Backend Bruno",
+    "character_desc": "Dev backend de esmalte abraçando um rack de servidor e engrenagens de API.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot hugs a small server-rack tower with blinking lights, gear icon badge, wrench in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r012",
+    "sheet_id": "s055",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "API Ana",
+    "character_desc": "Designer de API segurando um conector plug-and-socket dourado e um contrato de endpoints.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a golden plug-and-socket connector and a small endpoint contract card, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r013",
+    "sheet_id": "s055",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Micro Mika",
+    "character_desc": "Engenheira de microserviços com vários blocos-serviço interligados por fios dourados.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds several tiny connected service-boxes linked by golden threads, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r014",
+    "sheet_id": "s055",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Pipeline Pino",
+    "character_desc": "Dev de pipeline conduzindo dados por uma calha de canos conectados.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a set of connected pipe segments with data-droplets flowing, funnel hat, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r015",
+    "sheet_id": "s055",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Data Dora",
+    "character_desc": "Engenheira de dados empurrando um carrinho de barris de dados por trilhos.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot pushes a cart of stacked data-barrels on rails, holds a funnel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r016",
+    "sheet_id": "s055",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "DBA Duda",
+    "character_desc": "Administradora de banco guardando um cilindro-database com cadeado dourado e chave.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a cylindrical database-drum with a golden padlock and a key, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r017",
+    "sheet_id": "s055",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "SQL Silas",
+    "character_desc": "Especialista SQL com lupa sobre uma tabela de linhas e colunas.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a magnifying glass over a small grid-table card, query-scroll in other hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r018",
+    "sheet_id": "s055",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Cache Cacá",
+    "character_desc": "Engenheira de cache segurando um raio veloz e um cofre de acesso rápido.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a lightning bolt and a small fast-access vault box, speed-lines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r019",
+    "sheet_id": "s055",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Queue Quim",
+    "character_desc": "Engenheiro de filas organizando cartas-mensagem em uma fileira ordenada.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot arranges a neat row of envelope-messages on a conveyor belt, holds a ticket number, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r020",
+    "sheet_id": "s055",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Search Suki",
+    "character_desc": "Engenheira de busca com uma lupa gigante iluminando um índice de resultados.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds an oversized magnifying glass over an index-list card, sparkle results, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r021",
+    "sheet_id": "s055",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Frontend Fábio",
+    "character_desc": "Dev frontend segurando uma tela de navegador com botões e um pincel de UI.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a browser-window frame with buttons and a UI paintbrush, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r022",
+    "sheet_id": "s055",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "UI Uma",
+    "character_desc": "Engenheira de UI montando componentes-botão e sliders como peças de encaixe.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds interlocking button and slider component pieces, snap-fit, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r023",
+    "sheet_id": "s055",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "UX Ursa",
+    "character_desc": "Designer UX com mapa de jornada do usuário e coração de empatia.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a user-journey map card and a small empathy heart, magnifier, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r024",
+    "sheet_id": "s055",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "System Sol",
+    "character_desc": "Engenheira de design system com paleta de tokens e biblioteca de peças padronizadas.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a token-swatch palette and a library shelf of matching components, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r025",
+    "sheet_id": "s055",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "A11y Alba",
+    "character_desc": "Especialista em acessibilidade com símbolo universal e bengala guia.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds an accessibility circle-symbol shield and a guiding cane, ear-icon badge, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r026",
+    "sheet_id": "s055",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Perf Pedro",
+    "character_desc": "Engenheiro de performance web com velocímetro e cronômetro de carregamento.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a speedometer dial and a stopwatch, tiny rocket on back, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r027",
+    "sheet_id": "s055",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "CSS Célia",
+    "character_desc": "Especialista CSS com pincel de estilos e uma régua de layout em caixa.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a style paintbrush and a box-model layout ruler, color swatches on belt, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r028",
+    "sheet_id": "s055",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Anim Aldo",
+    "character_desc": "Engenheiro de animação com curva de easing e um flipbook de quadros.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds an easing-curve card and a flipbook of motion frames, motion-lines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r029",
+    "sheet_id": "s055",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Mobile Malu",
+    "character_desc": "Dev mobile segurando um smartphone e um tablet como escudos.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a smartphone and a tablet, tap-gesture hand, signal bars, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r030",
+    "sheet_id": "s055",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "iOS Ivo",
+    "character_desc": "Dev iOS de esmalte com celular de maçã estilizada e engrenagem Swift.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a rounded phone with a stylized apple-fruit and a Swift-swirl badge, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r031",
+    "sheet_id": "s055",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Android Andi",
+    "character_desc": "Dev Android com robôzinho verde mascote e chave de fenda.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a small green friendly-robot figure and a screwdriver, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r032",
+    "sheet_id": "s055",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "RN Rafa",
+    "character_desc": "Dev React Native com átomo orbital em uma tela dupla iOS/Android.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds an orbiting-atom symbol over a split iOS/Android screen, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r033",
+    "sheet_id": "s055",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Flutter Fê",
+    "character_desc": "Dev Flutter com passarinho borboleta azul e widgets empilhados.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a blue butterfly-bird and a stack of colorful widget-blocks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r034",
+    "sheet_id": "s055",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Data Sci Duda",
+    "character_desc": "Cientista de dados com curva de distribuição e um tubo de ensaio de amostras.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a bell-curve chart and a sample test-tube, star-scatter plot, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r035",
+    "sheet_id": "s055",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "ML Mel",
+    "character_desc": "Engenheira de ML alimentando um cérebro-rede neural com dados.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a neural-network brain node-graph and feeds it a data-cube, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r036",
+    "sheet_id": "s055",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "MLOps Miro",
+    "character_desc": "Engenheiro de MLOps com esteira de modelos e engrenagem de deploy.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a conveyor of model-boxes and a deploy-gear, monitoring dial, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r037",
+    "sheet_id": "s055",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Researcher Rê",
+    "character_desc": "Pesquisadora de IA com pergaminho de paper e lâmpada de teoria.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a research-paper scroll and a glowing lightbulb, quill pen, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r038",
+    "sheet_id": "s055",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Prompt Pati",
+    "character_desc": "Engenheira de prompt com balão de fala mágico e varinha de instrução.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a magic speech-bubble and an instruction-wand, sparkles, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r039",
+    "sheet_id": "s055",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "NLP Nina",
+    "character_desc": "Engenheira de NLP com balões de palavras e uma árvore sintática.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds word-bubbles and a small syntax-tree branch, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r040",
+    "sheet_id": "s055",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "CV Caio",
+    "character_desc": "Engenheiro de visão computacional com olho-câmera e grade de reconhecimento.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a camera-eye lens and a bounding-box recognition grid card, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r041",
+    "sheet_id": "s055",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Analyst Aline",
+    "character_desc": "Analista de dados com prancheta de gráfico de barras e calculadora.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a bar-chart clipboard and a calculator, magnifier badge, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r042",
+    "sheet_id": "s055",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "BI Bela",
+    "character_desc": "Analista de BI com painel de dashboards e ponteiro de KPI.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a dashboard panel with gauges and a KPI pointer stick, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r043",
+    "sheet_id": "s055",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Analytics Ari",
+    "character_desc": "Engenheiro de analytics montando canos de métricas em um funil.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds metric-pipes feeding a funnel into a chart, dbt-style cube, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r044",
+    "sheet_id": "s055",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Viz Vera",
+    "character_desc": "Especialista em dataviz com paleta de gráficos coloridos e pincel.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a fan of colorful chart shapes and a paintbrush, pie-chart shield, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r045",
+    "sheet_id": "s055",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "DevOps Dino",
+    "character_desc": "Engenheiro DevOps com símbolo do infinito e chave-inglesa de automação.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds an infinity-loop symbol and a wrench, gear-cloud on back, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r046",
+    "sheet_id": "s055",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "SRE Sofia",
+    "character_desc": "SRE com escudo de uptime e pager de alerta.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds an uptime-shield gauge and a beeping pager, checklist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r047",
+    "sheet_id": "s055",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Platform Paul",
+    "character_desc": "Engenheiro de plataforma com base-plataforma sustentando blocos-serviço.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a wide platform-slab supporting stacked service-blocks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r048",
+    "sheet_id": "s055",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Cloud Clara",
+    "character_desc": "Arquiteta de nuvem com uma nuvem dourada e blueprint de infraestrutura.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a golden cloud symbol and an infrastructure blueprint card, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r049",
+    "sheet_id": "s055",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "K8s Kaio",
+    "character_desc": "Admin Kubernetes com timão de leme e contêineres empilhados.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a ship's-helm wheel and a stack of shipping containers, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r050",
+    "sheet_id": "s055",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Network Nino",
+    "character_desc": "Engenheiro de redes com nós conectados por cabos e roteador.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a web of connected nodes with cables and a small router box, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r051",
+    "sheet_id": "s055",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Sysadmin Sá",
+    "character_desc": "Administrador de sistemas com molho de chaves e terminal de comandos.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a ring of keys and a small terminal-screen, wrench in belt, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r052",
+    "sheet_id": "s055",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Release Rui",
+    "character_desc": "Engenheiro de release com foguete de versão e tag de etiqueta.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a version-rocket and a release-tag label, checklist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r053",
+    "sheet_id": "s055",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Build Bento",
+    "character_desc": "Engenheiro de build com martelo e blocos sendo compilados em um bloco só.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a hammer and stacks bricks compiling into one solid block, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r054",
+    "sheet_id": "s055",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "CICD Cid",
+    "character_desc": "Engenheiro CI/CD com esteira de etapas verdes e engrenagem de pipeline.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a conveyor of green check-stages and a pipeline-gear, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r055",
+    "sheet_id": "s055",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Sec Selma",
+    "character_desc": "Engenheira de segurança com escudo-cadeado e capacete de defesa.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a padlock-shield and wears a defense helmet, key on belt, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r056",
+    "sheet_id": "s055",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Pentest Petra",
+    "character_desc": "Pentester com chapéu preto amigável e gazua digital.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot wears a friendly black hat, holds a lockpick and a bug-magnet, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r057",
+    "sheet_id": "s055",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "AppSec Aldo",
+    "character_desc": "Engenheiro AppSec com escudo sobre uma tela de código e lupa de bugs.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a shield over a code-screen and a magnifier spotting a bug, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r058",
+    "sheet_id": "s055",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Crypto Cris",
+    "character_desc": "Criptógrafa com chave-cadeado dourada e disco cifrador.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a golden key-and-lock and a rotating cipher-disc, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r059",
+    "sheet_id": "s055",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Compliance Cléo",
+    "character_desc": "Oficial de compliance com carimbo de aprovação e checklist de normas.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds an approval stamp and a compliance checklist scroll, seal medal, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r060",
+    "sheet_id": "s055",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Privacy Prisca",
+    "character_desc": "Engenheira de privacidade com escudo de olho fechado e cadeado de dados.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a privacy-shield with a closed-eye symbol and a data-padlock, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r061",
+    "sheet_id": "s055",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Incident Igor",
+    "character_desc": "Respondente a incidentes com extintor de fogo e sirene de alerta.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a fire-extinguisher and a spinning alarm-siren, pager, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r062",
+    "sheet_id": "s055",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Threat Tina",
+    "character_desc": "Modeladora de ameaças com árvore de ataque e escudo de contramedidas.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds an attack-tree diagram and a countermeasure shield, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r063",
+    "sheet_id": "s055",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "QA Quésia",
+    "character_desc": "Engenheira de QA com lupa de bugs e selo de aprovado.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a bug-magnifier and an 'approved' checkmark seal, clipboard, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r064",
+    "sheet_id": "s055",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "SDET Saulo",
+    "character_desc": "SDET de automação com robô de testes e script de casos.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a test-robot arm and an automation script-scroll, gear, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r065",
+    "sheet_id": "s055",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Perf Paty",
+    "character_desc": "Testadora de performance com velocímetro de carga e halteres de stress.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a load-speedometer and a stress-test dumbbell, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r066",
+    "sheet_id": "s055",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Manual Mari",
+    "character_desc": "Testadora manual com roteiro de passos e lupa de checagem.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a step-by-step test script and a magnifier, checkbox card, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r067",
+    "sheet_id": "s055",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "A11y Téo",
+    "character_desc": "Testador de acessibilidade com leitor de tela e símbolo universal.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a screen-reader speaker and an accessibility circle-symbol card, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r068",
+    "sheet_id": "s055",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Docs Dora",
+    "character_desc": "Redatora técnica com pena, livro aberto e página de manual.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a quill pen and an open manual-book with page marks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r069",
+    "sheet_id": "s055",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Advocate Alê",
+    "character_desc": "Developer advocate com microfone e um coração de comunidade.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a microphone and a community-heart, sticker on chest, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r070",
+    "sheet_id": "s055",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Content Cau",
+    "character_desc": "Estrategista de conteúdo com mapa editorial e bússola de tom.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds an editorial content-map and a tone-compass, pen, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r071",
+    "sheet_id": "s055",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "i18n Ivy",
+    "character_desc": "Engenheira de localização com globo e balões de idiomas.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a globe and multiple language speech-bubbles, flag-badges, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r072",
+    "sheet_id": "s055",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Product Des Duca",
+    "character_desc": "Designer de produto com wireframe e caneta stylus.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a wireframe frame and a stylus pen, sticky-notes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r073",
+    "sheet_id": "s055",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Visual Vivi",
+    "character_desc": "Designer visual com paleta de cores e pincel elegante.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a color-swatch palette and an elegant paintbrush, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r074",
+    "sheet_id": "s055",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Interaction Ian",
+    "character_desc": "Designer de interação com fluxo de setas e botão de toque.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds an arrow-flow diagram and a tappable button, gesture hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r075",
+    "sheet_id": "s055",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Motion Mauro",
+    "character_desc": "Designer de motion com curva de movimento e claquete.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a motion-curve and a film clapperboard, motion-lines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r076",
+    "sheet_id": "s055",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Illust Isa",
+    "character_desc": "Ilustradora com prancheta, lápis e uma folha desenhada.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a drawing tablet, a pencil, and a sketched art-sheet, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r077",
+    "sheet_id": "s055",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Asset Ada",
+    "character_desc": "Designer de assets com folha de sprites e caixa de peças exportadas.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a sprite-sheet grid and a box of exported asset-icons, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r078",
+    "sheet_id": "s055",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Brand Bru",
+    "character_desc": "Designer de marca com logo-selo e guia de identidade.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a logo-emblem shield and a brand style-guide booklet, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r079",
+    "sheet_id": "s055",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Sound Sônia",
+    "character_desc": "Sound designer com fones, onda sonora e clave musical.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot wears headphones, holds a sound-wave ribbon and a music-note, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r080",
+    "sheet_id": "s055",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "3D Téo",
+    "character_desc": "Artista 3D com esfera wireframe e cubo esculpido.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a wireframe sphere and a sculpted 3D cube, modeling stylus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r081",
+    "sheet_id": "s055",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Game Gina",
+    "character_desc": "Game designer com dado, joystick e folha de mecânicas.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a dice, a joystick, and a game-mechanics sheet, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r082",
+    "sheet_id": "s055",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Level Léo",
+    "character_desc": "Level designer com mapa de fase em grade e chave de baú.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a grid level-map with a flag start and a treasure-chest key, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r083",
+    "sheet_id": "s055",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Narrative Nara",
+    "character_desc": "Designer narrativa com livro de história e árvore de diálogos.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a story-book and a branching dialogue-tree card, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r084",
+    "sheet_id": "s055",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Game Dev Gui",
+    "character_desc": "Dev de jogos com controle e engrenagem de engine.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a game controller and an engine-gear, pixel-heart badge, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r085",
+    "sheet_id": "s055",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Shader Shad",
+    "character_desc": "Engenheiro de shaders com esfera iluminada e paleta de gradientes.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a light-reflecting shaded sphere and a gradient-ramp palette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r086",
+    "sheet_id": "s055",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Embed Emi",
+    "character_desc": "Engenheira embarcada com placa de microcontrolador e soldador.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a small microcontroller board and a soldering iron, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r087",
+    "sheet_id": "s055",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Firmware Fred",
+    "character_desc": "Engenheiro de firmware com chip e disquete de flash.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a memory-chip and a flash-update disk, tiny screwdriver, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r088",
+    "sheet_id": "s055",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "IoT Ivo",
+    "character_desc": "Engenheiro de IoT com sensores em rede sem-fio e uma casa conectada.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds networked wireless sensors and a connected-home icon, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r089",
+    "sheet_id": "s055",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Chain Chico",
+    "character_desc": "Dev blockchain com blocos encadeados e moeda cripto.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a chain of linked blocks and a crypto-coin, ledger card, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r090",
+    "sheet_id": "s055",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Contract Cléa",
+    "character_desc": "Auditora de smart contracts com lupa sobre pergaminho-código e selo.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a magnifier over a contract-scroll of code and an audit-seal, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r091",
+    "sheet_id": "s055",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "XR Xico",
+    "character_desc": "Engenheiro AR/VR com óculos de realidade virtual e objeto holográfico.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot wears a VR headset and holds a floating holographic cube, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r092",
+    "sheet_id": "s055",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Robo Rita",
+    "character_desc": "Engenheira de robótica com braço robótico e controle remoto.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a robotic-arm gripper and a remote controller, gear-bolt, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r093",
+    "sheet_id": "s055",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Growth Gael",
+    "character_desc": "Engenheiro de growth com foguete de curva ascendente e funil de usuários.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds an upward-growth arrow-rocket and a user-funnel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r094",
+    "sheet_id": "s055",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "SEO Sara",
+    "character_desc": "Especialista SEO com lupa sobre ranking e palavra-chave em etiqueta.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a magnifier over a search-ranking list and a keyword-tag, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r095",
+    "sheet_id": "s055",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "MarTech Marco",
+    "character_desc": "Tecnólogo de marketing com engrenagem de automação e megafone.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds an automation-gear and a megaphone, funnel-chart badge, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r096",
+    "sheet_id": "s055",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Solutions Sol",
+    "character_desc": "Engenheiro de soluções com peças de quebra-cabeça encaixando cliente e produto.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds two interlocking puzzle-pieces bridging client and product, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r097",
+    "sheet_id": "s055",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Support Suki",
+    "character_desc": "Engenheiro de suporte com fone de atendimento e caixa de ferramentas de ajuda.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot wears a support-headset and holds a help toolbox with a life-ring, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r098",
+    "sheet_id": "s055",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Sales Sávio",
+    "character_desc": "Engenheiro de vendas com maleta e gráfico de demonstração.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a briefcase and a demo-chart easel, handshake gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r099",
+    "sheet_id": "s055",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "FinOps Fabi",
+    "character_desc": "Analista FinOps com cofrinho e gráfico de custos de nuvem.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds a piggy-bank and a cloud-cost chart, calculator on belt, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s055-r100",
+    "sheet_id": "s055",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Legal Lia",
+    "character_desc": "Advogada com balança da justiça e contrato lacrado.",
+    "nano_prompt": "A a die-cut hard-enamel lapel pin of a chibi mascot, full figure standing pose, glossy colored enamel fill with polished gold cloisonné metal outlines and a bold gold border, soft metallic sheen and enamel pin-shine highlights, sitting flat like a collectible pin, the mascot holds the scales of justice and a sealed contract-scroll, gavel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

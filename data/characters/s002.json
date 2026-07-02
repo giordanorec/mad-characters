@@ -1,0 +1,1002 @@
+[
+ {
+  "char_id": "s002-r001",
+  "sheet_id": "s002",
+  "role_id": "r001",
+  "role_slug": "arquiteto",
+  "role_name": "Arquiteto de Solução",
+  "character_name": "Border Collie Arquiteto-Mestre",
+  "character_desc": "Um Border Collie atento e planejador. Usa óculos de arquiteto e um pequeno capacete branco, com plantas técnicas enroladas apoiadas no peito — evoca quem desenha a solução inteira.",
+  "nano_prompt": "Studio photorealistic bust portrait of a alert Border Collie, chest-up, looking directly at the camera, wearing thin architect glasses and a tiny white hard hat, rolled blueprint scrolls tucked against its chest, poised planning expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r002",
+  "sheet_id": "s002",
+  "role_id": "r002",
+  "role_slug": "tech-lead",
+  "role_name": "Tech Lead",
+  "character_name": "Pastor Líder Técnico",
+  "character_desc": "Um Pastor Alemão confiante de headset e prancheta, guiando a matilha — a cara de quem lidera tecnicamente o time.",
+  "nano_prompt": "Studio photorealistic bust portrait of a confident German Shepherd, chest-up, looking directly at the camera, wearing a slim call-center headset, holding a clipboard against its chest, assured leadership posture, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r003",
+  "sheet_id": "s002",
+  "role_id": "r003",
+  "role_slug": "staff-engineer",
+  "role_name": "Staff Engineer",
+  "character_name": "Bernese Staff Sábio",
+  "character_desc": "Um Bernese Mountain Dog sereno e experiente, com óculos de leitura e um cachecol de mentor — o veterano que aconselha vários times.",
+  "nano_prompt": "Studio photorealistic bust portrait of a calm Bernese Mountain Dog, chest-up, looking directly at the camera, wearing round reading glasses and a knitted mentor scarf, wise composed expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r004",
+  "sheet_id": "s002",
+  "role_id": "r004",
+  "role_slug": "principal-engineer",
+  "role_name": "Principal Engineer",
+  "character_name": "São-Bernardo Principal",
+  "character_desc": "Um São-Bernardo imponente e distinto, com monóculo e uma medalha no peito — a autoridade técnica máxima.",
+  "nano_prompt": "Studio photorealistic bust portrait of a distinguished Saint Bernard, chest-up, looking directly at the camera, wearing a monocle and a bronze medal on a ribbon at its chest, dignified authoritative expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r005",
+  "sheet_id": "s002",
+  "role_id": "r005",
+  "role_slug": "eng-manager",
+  "role_name": "Engineering Manager",
+  "character_name": "Golden Gestor",
+  "character_desc": "Um Golden Retriever caloroso de gravata, segurando uma caneca de café — o gerente de engenharia acolhedor.",
+  "nano_prompt": "Studio photorealistic bust portrait of a warm Golden Retriever, chest-up, looking directly at the camera, wearing a loosened necktie, a coffee mug held near its chest, friendly encouraging smile, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r006",
+  "sheet_id": "s002",
+  "role_id": "r006",
+  "role_slug": "product-manager",
+  "role_name": "Product Manager",
+  "character_name": "Poodle de Produto",
+  "character_desc": "Um Poodle organizado coberto de post-its coloridos, com um tablet mostrando roadmap — o Product Manager.",
+  "nano_prompt": "Studio photorealistic bust portrait of a tidy Standard Poodle, chest-up, looking directly at the camera, colorful sticky notes stuck around its shoulders, holding a tablet showing a roadmap, focused product expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r007",
+  "sheet_id": "s002",
+  "role_id": "r007",
+  "role_slug": "product-owner",
+  "role_name": "Product Owner",
+  "character_name": "Labrador Dono do Produto",
+  "character_desc": "Um Labrador decidido com cartões de backlog no peito e um apito no pescoço — o Product Owner que prioriza.",
+  "nano_prompt": "Studio photorealistic bust portrait of a decisive Labrador Retriever, chest-up, looking directly at the camera, backlog index cards fanned at its chest and a whistle on its collar, prioritizing expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r008",
+  "sheet_id": "s002",
+  "role_id": "r008",
+  "role_slug": "program-manager",
+  "role_name": "Program Manager",
+  "character_name": "Aussie Coordenador",
+  "character_desc": "Um Australian Shepherd multitarefa de headset, com um gráfico de Gantt ao peito — o Program Manager.",
+  "nano_prompt": "Studio photorealistic bust portrait of a multitasking Australian Shepherd, chest-up, looking directly at the camera, wearing a headset and holding a Gantt-chart board against its chest, coordinating expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r009",
+  "sheet_id": "s002",
+  "role_id": "r009",
+  "role_slug": "project-manager",
+  "role_name": "Project Manager",
+  "character_name": "Beagle Gerente de Projeto",
+  "character_desc": "Um Beagle metódico com checklist e cronômetro no pescoço — o Project Manager que acompanha prazos.",
+  "nano_prompt": "Studio photorealistic bust portrait of a methodical Beagle, chest-up, looking directly at the camera, holding a checklist clipboard and a stopwatch on a lanyard, timekeeping expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r010",
+  "sheet_id": "s002",
+  "role_id": "r010",
+  "role_slug": "scrum-master",
+  "role_name": "Scrum Master",
+  "character_name": "Sheltie Scrum",
+  "character_desc": "Um Shetland Sheepdog ágil com apito e post-its de sprint no peito — o Scrum Master que facilita.",
+  "nano_prompt": "Studio photorealistic bust portrait of a agile Shetland Sheepdog, chest-up, looking directly at the camera, a whistle on its collar and sprint sticky notes on its chest, facilitating cheerful expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r011",
+  "sheet_id": "s002",
+  "role_id": "r011",
+  "role_slug": "backend-dev",
+  "role_name": "Backend Developer",
+  "character_name": "Rottweiler Backend",
+  "character_desc": "Um Rottweiler robusto com uma chave de boca e um mini rack de servidor ao peito — a força do backend.",
+  "nano_prompt": "Studio photorealistic bust portrait of a sturdy Rottweiler, chest-up, looking directly at the camera, holding a large wrench, a tiny server rack strapped to its chest, solid dependable expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r012",
+  "sheet_id": "s002",
+  "role_id": "r012",
+  "role_slug": "api-designer",
+  "role_name": "API Designer",
+  "character_name": "Dálmata das APIs",
+  "character_desc": "Um Dálmata conectado, com cabos-conectores e um diagrama de endpoints — o API Designer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a spotted Dalmatian, chest-up, looking directly at the camera, connector cables draped over its shoulders and an endpoint diagram card at its chest, precise expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r013",
+  "sheet_id": "s002",
+  "role_id": "r013",
+  "role_slug": "microservices-eng",
+  "role_name": "Microservices Engineer",
+  "character_name": "Corgi Microserviços",
+  "character_desc": "Um Corgi cercado por pequenos contêineres/blocos empilhados — cada um um microserviço.",
+  "nano_prompt": "Studio photorealistic bust portrait of a short-legged Pembroke Welsh Corgi, chest-up, looking directly at the camera, surrounded by small stacked container blocks at its chest, tidy modular arrangement, busy expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r014",
+  "sheet_id": "s002",
+  "role_id": "r014",
+  "role_slug": "pipeline-dev",
+  "role_name": "Pipeline Developer",
+  "character_name": "Husky do Pipeline",
+  "character_desc": "Um Husky Siberiano que puxa o fluxo, com segmentos de tubo/pipeline no peito — o Pipeline Developer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a energetic Siberian Husky, chest-up, looking directly at the camera, segments of pipeline tubing arranged across its chest, harness straps, driven flowing expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r015",
+  "sheet_id": "s002",
+  "role_id": "r015",
+  "role_slug": "data-engineer",
+  "role_name": "Data Engineer",
+  "character_name": "Newfoundland de Dados",
+  "character_desc": "Um Newfoundland que lida com grandes volumes, com barris e tubos de dados — o Data Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a massive Newfoundland dog, chest-up, looking directly at the camera, water barrels and data pipes resting against its chest, calm heavy-lifting expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r016",
+  "sheet_id": "s002",
+  "role_id": "r016",
+  "role_slug": "dba",
+  "role_name": "Database Administrator",
+  "character_name": "Basset Guardião dos Dados",
+  "character_desc": "Um Basset Hound vigilante com uma chave no coleira e um HD externo pendurado — guarda o banco de dados.",
+  "nano_prompt": "Studio photorealistic bust portrait of a watchful Basset Hound, chest-up, looking directly at the camera, an old brass key and a small external hard drive hanging from its collar, guarding steadfast expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r017",
+  "sheet_id": "s002",
+  "role_id": "r017",
+  "role_slug": "sql-specialist",
+  "role_name": "SQL Specialist",
+  "character_name": "Bloodhound do SQL",
+  "character_desc": "Um Bloodhound farejador com lupa, rastreando linhas de uma tabela — o SQL Specialist.",
+  "nano_prompt": "Studio photorealistic bust portrait of a tracking Bloodhound, chest-up, looking directly at the camera, holding a magnifying glass over a small printed data table at its chest, sniffing-out expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r018",
+  "sheet_id": "s002",
+  "role_id": "r018",
+  "role_slug": "caching-engineer",
+  "role_name": "Caching Engineer",
+  "character_name": "Greyhound do Cache",
+  "character_desc": "Um Greyhound velocíssimo com cronômetro e chips de memória — o Caching Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a sleek Greyhound, chest-up, looking directly at the camera, a stopwatch on its collar and small memory chips clipped to its chest, blazing-fast alert expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r019",
+  "sheet_id": "s002",
+  "role_id": "r019",
+  "role_slug": "queue-engineer",
+  "role_name": "Message Queue Engineer",
+  "character_name": "Terrier das Filas",
+  "character_desc": "Um Border Terrier organizando envelopes numa esteira/fila — o Message Queue Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a scrappy Border Terrier, chest-up, looking directly at the camera, a row of envelopes lined up on a mini conveyor belt at its chest, orderly queuing expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r020",
+  "sheet_id": "s002",
+  "role_id": "r020",
+  "role_slug": "search-engineer",
+  "role_name": "Search Engineer",
+  "character_name": "Pointer da Busca",
+  "character_desc": "Um Pointer em pose de aponte com lupa e fichas de índice — o Search Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a poised English Pointer, chest-up, looking directly at the camera, one paw raised in a pointing stance, a magnifying glass and index cards at its chest, focused finding expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r021",
+  "sheet_id": "s002",
+  "role_id": "r021",
+  "role_slug": "frontend-dev",
+  "role_name": "Frontend Developer",
+  "character_name": "Poodle Frontend",
+  "character_desc": "Um Poodle bem tosado com amostras de cor e uma caneta stylus — o Frontend Developer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a well-groomed Standard Poodle, chest-up, looking directly at the camera, color swatch cards fanned at its chest and a stylus held in paw, stylish attentive expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r022",
+  "sheet_id": "s002",
+  "role_id": "r022",
+  "role_slug": "ui-engineer",
+  "role_name": "UI Engineer",
+  "character_name": "Papillon de UI",
+  "character_desc": "Um Papillon elegante com um wireframe de interface e stylus — o UI Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a elegant Papillon, chest-up, looking directly at the camera, holding a small UI wireframe board and a stylus, refined precise expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r023",
+  "sheet_id": "s002",
+  "role_id": "r023",
+  "role_slug": "ux-designer",
+  "role_name": "UX Designer",
+  "character_name": "Whippet de UX",
+  "character_desc": "Um Whippet empático com um mapa de jornada em post-its — o UX Designer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a gentle Whippet, chest-up, looking directly at the camera, a user-journey map of sticky notes across its chest, empathetic thoughtful expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r024",
+  "sheet_id": "s002",
+  "role_id": "r024",
+  "role_slug": "design-systems-eng",
+  "role_name": "Design Systems Engineer",
+  "character_name": "Schnauzer Design System",
+  "character_desc": "Um Schnauzer sistemático com uma cartela de componentes e uma grade — o Design Systems Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a structured Standard Schnauzer, chest-up, looking directly at the camera, a component-library swatch board and a layout grid at its chest, orderly expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r025",
+  "sheet_id": "s002",
+  "role_id": "r025",
+  "role_slug": "a11y-specialist",
+  "role_name": "Accessibility Specialist",
+  "character_name": "Labrador da Acessibilidade",
+  "character_desc": "Um Labrador guia com arnês de trabalho e um cartão em braille — o Accessibility Specialist.",
+  "nano_prompt": "Studio photorealistic bust portrait of a steadfast Labrador guide dog, chest-up, looking directly at the camera, wearing a service-dog harness and holding a braille card at its chest, caring inclusive expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r026",
+  "sheet_id": "s002",
+  "role_id": "r026",
+  "role_slug": "web-perf-engineer",
+  "role_name": "Web Performance Engineer",
+  "character_name": "Greyhound de Performance",
+  "character_desc": "Um Greyhound com velocímetro e um pequeno farol (lighthouse) — o Web Performance Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a lean Greyhound, chest-up, looking directly at the camera, a speedometer gauge and a tiny lighthouse icon at its chest, swift focused expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r027",
+  "sheet_id": "s002",
+  "role_id": "r027",
+  "role_slug": "css-specialist",
+  "role_name": "CSS Specialist",
+  "character_name": "Afghan do CSS",
+  "character_desc": "Um Afghan Hound de pelagem estilosa, com paleta de tinta e régua — o CSS Specialist.",
+  "nano_prompt": "Studio photorealistic bust portrait of a glamorous Afghan Hound, chest-up, looking directly at the camera, holding a paint palette and a ruler, its flowing coat perfectly styled, elegant expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r028",
+  "sheet_id": "s002",
+  "role_id": "r028",
+  "role_slug": "animation-engineer",
+  "role_name": "Animation Engineer",
+  "character_name": "Jack Russell da Animação",
+  "character_desc": "Um Jack Russell elétrico com trilhas de movimento e um rolo de filme — o Animation Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a energetic Jack Russell Terrier, chest-up, looking directly at the camera, motion-trail arcs and a small film reel at its chest, lively springing expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r029",
+  "sheet_id": "s002",
+  "role_id": "r029",
+  "role_slug": "mobile-dev",
+  "role_name": "Mobile Developer",
+  "character_name": "Buldogue Mobile",
+  "character_desc": "Um Buldogue Francês com um smartphone e gadgets — o Mobile Developer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a compact French Bulldog, chest-up, looking directly at the camera, holding a smartphone against its chest with small gadgets clipped on, savvy expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r030",
+  "sheet_id": "s002",
+  "role_id": "r030",
+  "role_slug": "ios-dev",
+  "role_name": "iOS Developer",
+  "character_name": "Samoieda iOS",
+  "character_desc": "Um Samoieda branco e minimalista com um iphone limpo — o iOS Developer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a fluffy white Samoyed, chest-up, looking directly at the camera, holding a sleek minimalist smartphone at its chest, clean polished apple-like aesthetic, bright expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r031",
+  "sheet_id": "s002",
+  "role_id": "r031",
+  "role_slug": "android-dev",
+  "role_name": "Android Developer",
+  "character_name": "Boxer Android",
+  "character_desc": "Um Boxer com um gadget verde e um smartphone — o Android Developer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a muscular Boxer, chest-up, looking directly at the camera, holding a green-accented smartphone and a small green robot toy at its chest, upbeat expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r032",
+  "sheet_id": "s002",
+  "role_id": "r032",
+  "role_slug": "react-native-dev",
+  "role_name": "React Native Developer",
+  "character_name": "Blue Heeler React Native",
+  "character_desc": "Um Australian Cattle Dog com dois smartphones (iOS e Android) — o React Native Developer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a alert Australian Cattle Dog, chest-up, looking directly at the camera, holding two smartphones side by side at its chest, versatile dual-platform expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r033",
+  "sheet_id": "s002",
+  "role_id": "r033",
+  "role_slug": "flutter-dev",
+  "role_name": "Flutter Developer",
+  "character_name": "Papillon Flutter",
+  "character_desc": "Um Papillon de orelhas-borboleta com um smartphone azul — o Flutter Developer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a butterfly-eared Papillon, chest-up, looking directly at the camera, holding a blue-accented smartphone at its chest, its ears spread like wings, quick expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r034",
+  "sheet_id": "s002",
+  "role_id": "r034",
+  "role_slug": "data-scientist",
+  "role_name": "Data Scientist",
+  "character_name": "Poodle Cientista de Dados",
+  "character_desc": "Um Poodle de jaleco com um béquer e gráficos — o Data Scientist.",
+  "nano_prompt": "Studio photorealistic bust portrait of a intelligent Standard Poodle, chest-up, looking directly at the camera, wearing a white lab coat, holding a beaker and a chart card at its chest, analytical expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r035",
+  "sheet_id": "s002",
+  "role_id": "r035",
+  "role_slug": "ml-engineer",
+  "role_name": "ML Engineer",
+  "character_name": "Border ML",
+  "character_desc": "Um Border Collie com óculos de proteção e um diagrama de rede neural — o ML Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a focused Border Collie, chest-up, looking directly at the camera, wearing safety goggles, a neural-network diagram card at its chest, sharp learning expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r036",
+  "sheet_id": "s002",
+  "role_id": "r036",
+  "role_slug": "mlops-engineer",
+  "role_name": "MLOps Engineer",
+  "character_name": "Aussie MLOps",
+  "character_desc": "Um Australian Shepherd com engrenagens e uma caixa de modelo — o MLOps Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a capable Australian Shepherd, chest-up, looking directly at the camera, interlocking gears and a labeled model box at its chest, operational expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r037",
+  "sheet_id": "s002",
+  "role_id": "r037",
+  "role_slug": "ai-researcher",
+  "role_name": "AI Researcher",
+  "character_name": "Poodle Pesquisador de IA",
+  "character_desc": "Um Poodle pensativo de óculos com papers e um lápis — o AI Researcher.",
+  "nano_prompt": "Studio photorealistic bust portrait of a thoughtful Standard Poodle, chest-up, looking directly at the camera, wearing glasses, research papers and a pencil at its chest, contemplative expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r038",
+  "sheet_id": "s002",
+  "role_id": "r038",
+  "role_slug": "llm-prompt",
+  "role_name": "Prompt Engineer",
+  "character_name": "Shiba dos Prompts",
+  "character_desc": "Um Shiba Inu esperto com uma varinha e um balão de fala — o Prompt Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a clever Shiba Inu, chest-up, looking directly at the camera, holding a small wand, a speech-bubble prop at its chest, witty knowing expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r039",
+  "sheet_id": "s002",
+  "role_id": "r039",
+  "role_slug": "nlp-engineer",
+  "role_name": "NLP Engineer",
+  "character_name": "Beagle de NLP",
+  "character_desc": "Um Beagle de faro fino com uma forma de onda de voz — o NLP Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a keen-nosed Beagle, chest-up, looking directly at the camera, a voice-waveform card at its chest and headphones, attentive listening expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r040",
+  "sheet_id": "s002",
+  "role_id": "r040",
+  "role_slug": "cv-engineer",
+  "role_name": "Computer Vision Engineer",
+  "character_name": "Husky de Visão",
+  "character_desc": "Um Husky Siberiano de olhos marcantes com uma câmera e óculos — o Computer Vision Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a striking-eyed Siberian Husky, chest-up, looking directly at the camera, wearing techy goggles and holding a small camera at its chest, sharp-sighted expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r041",
+  "sheet_id": "s002",
+  "role_id": "r041",
+  "role_slug": "data-analyst",
+  "role_name": "Data Analyst",
+  "character_name": "Cocker Analista",
+  "character_desc": "Um Cocker Spaniel com planilha e lupa — o Data Analyst.",
+  "nano_prompt": "Studio photorealistic bust portrait of a diligent Cocker Spaniel, chest-up, looking directly at the camera, holding a spreadsheet printout and a magnifying glass at its chest, examining expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r042",
+  "sheet_id": "s002",
+  "role_id": "r042",
+  "role_slug": "bi-analyst",
+  "role_name": "BI Analyst",
+  "character_name": "Collie de BI",
+  "character_desc": "Um Collie com um dashboard de gráficos e um ponteiro — o BI Analyst.",
+  "nano_prompt": "Studio photorealistic bust portrait of a graceful Rough Collie, chest-up, looking directly at the camera, a dashboard chart board and a pointer stick at its chest, insightful expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r043",
+  "sheet_id": "s002",
+  "role_id": "r043",
+  "role_slug": "analytics-engineer",
+  "role_name": "Analytics Engineer",
+  "character_name": "Vizsla de Analytics",
+  "character_desc": "Um Vizsla com um gráfico de funil e um pipeline de dados — o Analytics Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a athletic Vizsla, chest-up, looking directly at the camera, a funnel-chart card and small data-pipeline props at its chest, precise expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r044",
+  "sheet_id": "s002",
+  "role_id": "r044",
+  "role_slug": "dataviz-specialist",
+  "role_name": "Data Viz Specialist",
+  "character_name": "Dálmata da Dataviz",
+  "character_desc": "Um Dálmata cujas pintas viram um scatter plot, com um gráfico colorido — o Data Viz Specialist.",
+  "nano_prompt": "Studio photorealistic bust portrait of a spotted Dalmatian, chest-up, looking directly at the camera, holding a colorful chart whose points echo its own spots, creative visual expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r045",
+  "sheet_id": "s002",
+  "role_id": "r045",
+  "role_slug": "devops-installer",
+  "role_name": "DevOps Engineer",
+  "character_name": "Bernese DevOps",
+  "character_desc": "Um Bernese com cinto de ferramentas, engrenagens e um símbolo de infinito — o DevOps Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a reliable Bernese Mountain Dog, chest-up, looking directly at the camera, wearing a tool belt, gears and an infinity-loop pin at its chest, steady hands-on expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r046",
+  "sheet_id": "s002",
+  "role_id": "r046",
+  "role_slug": "sre",
+  "role_name": "Site Reliability Engineer",
+  "character_name": "Pastor SRE",
+  "character_desc": "Um Pastor Alemão de plantão com um pager e um monitor — o Site Reliability Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a on-call German Shepherd, chest-up, looking directly at the camera, a pager clipped on and a small monitor showing graphs at its chest, vigilant expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r047",
+  "sheet_id": "s002",
+  "role_id": "r047",
+  "role_slug": "platform-engineer",
+  "role_name": "Platform Engineer",
+  "character_name": "Dogue Alemão de Plataforma",
+  "character_desc": "Um Dogue Alemão enorme sustentando blocos de plataforma — o Platform Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a towering Great Dane, chest-up, looking directly at the camera, sturdy building blocks stacked as a platform at its chest, foundational supportive expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r048",
+  "sheet_id": "s002",
+  "role_id": "r048",
+  "role_slug": "cloud-architect",
+  "role_name": "Cloud Architect",
+  "character_name": "Samoieda das Nuvens",
+  "character_desc": "Um Samoieda fofo como nuvem, com um ícone de cloud e uma planta — o Cloud Architect.",
+  "nano_prompt": "Studio photorealistic bust portrait of a cloud-fluffy Samoyed, chest-up, looking directly at the camera, a cloud icon prop and a rolled blueprint at its chest, airy visionary expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r049",
+  "sheet_id": "s002",
+  "role_id": "r049",
+  "role_slug": "k8s-admin",
+  "role_name": "Kubernetes Admin",
+  "character_name": "Cão d'Água do Kubernetes",
+  "character_desc": "Um Cão d'Água Português segurando um leme de navio — pilota o Kubernetes.",
+  "nano_prompt": "Studio photorealistic bust portrait of a curly Portuguese Water Dog, chest-up, looking directly at the camera, gripping a ship's helm wheel at its chest, steering confident nautical expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r050",
+  "sheet_id": "s002",
+  "role_id": "r050",
+  "role_slug": "network-engineer",
+  "role_name": "Network Engineer",
+  "character_name": "Doberman de Redes",
+  "character_desc": "Um Doberman com cabos de rede e um roteador — o Network Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a sharp Doberman Pinscher, chest-up, looking directly at the camera, network cables coiled over its shoulders and a small router at its chest, connected alert expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r051",
+  "sheet_id": "s002",
+  "role_id": "r051",
+  "role_slug": "sysadmin",
+  "role_name": "Systems Administrator",
+  "character_name": "Rottweiler Sysadmin",
+  "character_desc": "Um Rottweiler com um terminal e molhos de chaves — o Systems Administrator.",
+  "nano_prompt": "Studio photorealistic bust portrait of a dependable Rottweiler, chest-up, looking directly at the camera, a small terminal screen and a ring of keys at its chest, no-nonsense expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r052",
+  "sheet_id": "s002",
+  "role_id": "r052",
+  "role_slug": "release-engineer",
+  "role_name": "Release Engineer",
+  "character_name": "Boxer de Release",
+  "character_desc": "Um Boxer com um foguete e uma etiqueta de versão — o Release Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a spirited Boxer, chest-up, looking directly at the camera, holding a small rocket and a version-tag label at its chest, ready-to-launch expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r053",
+  "sheet_id": "s002",
+  "role_id": "r053",
+  "role_slug": "build-engineer",
+  "role_name": "Build Engineer",
+  "character_name": "Buldogue de Build",
+  "character_desc": "Um Buldogue Inglês com martelo e engrenagens — o Build Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a solid English Bulldog, chest-up, looking directly at the camera, holding a hammer with gears at its chest, sturdy assembling expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r054",
+  "sheet_id": "s002",
+  "role_id": "r054",
+  "role_slug": "cicd-engineer",
+  "role_name": "CI/CD Engineer",
+  "character_name": "Malinois de CI/CD",
+  "character_desc": "Um Belgian Malinois com esteira e engrenagens de pipeline — o CI/CD Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a driven Belgian Malinois, chest-up, looking directly at the camera, a mini conveyor belt and pipeline gears at its chest, continuous flowing expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r055",
+  "sheet_id": "s002",
+  "role_id": "r055",
+  "role_slug": "security-auditor",
+  "role_name": "Security Engineer",
+  "character_name": "Pastor Sentinela",
+  "character_desc": "Um Pastor Alemão sentinela com colete tático e um escudo — o Security Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a vigilant German Shepherd, chest-up, looking directly at the camera, wearing a tactical vest and holding a small shield at its chest, guarding stern expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r056",
+  "sheet_id": "s002",
+  "role_id": "r056",
+  "role_slug": "pentester",
+  "role_name": "Penetration Tester",
+  "character_name": "Doberman Pentester",
+  "character_desc": "Um Doberman de moletom com capuz e uma gazua — o Penetration Tester.",
+  "nano_prompt": "Studio photorealistic bust portrait of a sleek Doberman Pinscher, chest-up, looking directly at the camera, wearing a dark hoodie and holding a lockpick tool at its chest, cunning probing expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r057",
+  "sheet_id": "s002",
+  "role_id": "r057",
+  "role_slug": "appsec-engineer",
+  "role_name": "AppSec Engineer",
+  "character_name": "Malinois AppSec",
+  "character_desc": "Um Belgian Malinois com um escudo-de-app e lupa — o AppSec Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a alert Belgian Malinois, chest-up, looking directly at the camera, holding an app-shield icon and a magnifying glass at its chest, protective scanning expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r058",
+  "sheet_id": "s002",
+  "role_id": "r058",
+  "role_slug": "cryptographer",
+  "role_name": "Cryptographer",
+  "character_name": "Border Criptógrafo",
+  "character_desc": "Um Border Collie com uma roda de cifra e óculos — o Cryptographer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a brainy Border Collie, chest-up, looking directly at the camera, wearing glasses and holding a cipher wheel at its chest, secretive clever expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r059",
+  "sheet_id": "s002",
+  "role_id": "r059",
+  "role_slug": "compliance-officer",
+  "role_name": "Compliance Officer",
+  "character_name": "Bloodhound de Compliance",
+  "character_desc": "Um Bloodhound com checklist e um pequeno martelo de juiz — o Compliance Officer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a solemn Bloodhound, chest-up, looking directly at the camera, holding a compliance checklist and a tiny gavel at its chest, dutiful expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r060",
+  "sheet_id": "s002",
+  "role_id": "r060",
+  "role_slug": "privacy-engineer",
+  "role_name": "Privacy Engineer",
+  "character_name": "Akita da Privacidade",
+  "character_desc": "Um Akita reservado com uma máscara de incógnito e um cadeado — o Privacy Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a reserved Akita Inu, chest-up, looking directly at the camera, wearing incognito glasses-and-mask and a padlock pendant at its chest, discreet guarded expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r061",
+  "sheet_id": "s002",
+  "role_id": "r061",
+  "role_slug": "incident-responder",
+  "role_name": "Incident Responder",
+  "character_name": "Dálmata de Incidentes",
+  "character_desc": "Um Dálmata bombeiro com capacete de incêndio e um alarme — o Incident Responder.",
+  "nano_prompt": "Studio photorealistic bust portrait of a brave Dalmatian, chest-up, looking directly at the camera, wearing a red firefighter helmet with a small alarm bell at its chest, urgent ready expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r062",
+  "sheet_id": "s002",
+  "role_id": "r062",
+  "role_slug": "threat-modeler",
+  "role_name": "Threat Modeler",
+  "character_name": "Cane Corso Modelador de Ameaças",
+  "character_desc": "Um Cane Corso estratégico com uma peça de xadrez e um mapa de ameaças — o Threat Modeler.",
+  "nano_prompt": "Studio photorealistic bust portrait of a imposing Cane Corso, chest-up, looking directly at the camera, holding a chess knight piece with a threat-map card at its chest, strategic wary expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r063",
+  "sheet_id": "s002",
+  "role_id": "r063",
+  "role_slug": "qa-tester",
+  "role_name": "QA Engineer",
+  "character_name": "Beagle de QA",
+  "character_desc": "Um Beagle detetive de bugs com lupa, checklist e uma redinha de captura — o QA Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a inquisitive Beagle, chest-up, looking directly at the camera, holding a magnifying glass and a checklist with a small bug-catching net at its chest, bug-hunting expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r064",
+  "sheet_id": "s002",
+  "role_id": "r064",
+  "role_slug": "sdet",
+  "role_name": "SDET (Automação)",
+  "character_name": "Border SDET",
+  "character_desc": "Um Border Collie com um braço robótico de automação e checklist — o SDET.",
+  "nano_prompt": "Studio photorealistic bust portrait of a precise Border Collie, chest-up, looking directly at the camera, a small robotic automation arm and a test checklist at its chest, systematic expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r065",
+  "sheet_id": "s002",
+  "role_id": "r065",
+  "role_slug": "perf-tester",
+  "role_name": "Performance Tester",
+  "character_name": "Whippet de Performance",
+  "character_desc": "Um Whippet com cronômetro e um medidor de carga — o Performance Tester.",
+  "nano_prompt": "Studio photorealistic bust portrait of a swift Whippet, chest-up, looking directly at the camera, a stopwatch and a load-gauge dial at its chest, measuring intense expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r066",
+  "sheet_id": "s002",
+  "role_id": "r066",
+  "role_slug": "manual-tester",
+  "role_name": "Manual Tester",
+  "character_name": "Basset Testador Manual",
+  "character_desc": "Um Basset paciente com prancheta e lupa, testando passo a passo — o Manual Tester.",
+  "nano_prompt": "Studio photorealistic bust portrait of a patient Basset Hound, chest-up, looking directly at the camera, holding a clipboard and a magnifying glass at its chest, meticulous step-by-step expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r067",
+  "sheet_id": "s002",
+  "role_id": "r067",
+  "role_slug": "a11y-tester",
+  "role_name": "Accessibility Tester",
+  "character_name": "Golden Testador de Acessibilidade",
+  "character_desc": "Um Golden guia com arnês e um checklist em braille — o Accessibility Tester.",
+  "nano_prompt": "Studio photorealistic bust portrait of a caring Golden Retriever guide dog, chest-up, looking directly at the camera, wearing a service harness and holding a braille checklist at its chest, inclusive thorough expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r068",
+  "sheet_id": "s002",
+  "role_id": "r068",
+  "role_slug": "docs-writer",
+  "role_name": "Technical Writer",
+  "character_name": "Poodle Redator Técnico",
+  "character_desc": "Um Poodle de óculos com uma pena, um livro e tinteiro — o Technical Writer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a articulate Standard Poodle, chest-up, looking directly at the camera, wearing glasses, holding a quill pen over an open book at its chest, wordsmith expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r069",
+  "sheet_id": "s002",
+  "role_id": "r069",
+  "role_slug": "dev-advocate",
+  "role_name": "Developer Advocate",
+  "character_name": "Golden Dev Advocate",
+  "character_desc": "Um Golden carismático com microfone e camiseta de comunidade — o Developer Advocate.",
+  "nano_prompt": "Studio photorealistic bust portrait of a charismatic Golden Retriever, chest-up, looking directly at the camera, holding a microphone and wearing a community t-shirt, warm engaging expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r070",
+  "sheet_id": "s002",
+  "role_id": "r070",
+  "role_slug": "content-strategist",
+  "role_name": "Content Strategist",
+  "character_name": "Collie Estrategista de Conteúdo",
+  "character_desc": "Um Collie com um calendário editorial e uma caneta — o Content Strategist.",
+  "nano_prompt": "Studio photorealistic bust portrait of a poised Rough Collie, chest-up, looking directly at the camera, holding a content-calendar board and a pen at its chest, planning expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r071",
+  "sheet_id": "s002",
+  "role_id": "r071",
+  "role_slug": "i18n-engineer",
+  "role_name": "Localization Engineer",
+  "character_name": "Bernese de Localização",
+  "character_desc": "Um Bernese com um globo, bandeirinhas e headset — o Localization Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a worldly Bernese Mountain Dog, chest-up, looking directly at the camera, holding a small globe with little flags and wearing a headset, multilingual friendly expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r072",
+  "sheet_id": "s002",
+  "role_id": "r072",
+  "role_slug": "product-designer",
+  "role_name": "Product Designer",
+  "character_name": "Poodle Designer de Produto",
+  "character_desc": "Um Poodle com bloco de esboços e stylus — o Product Designer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a creative Standard Poodle, chest-up, looking directly at the camera, holding a sketchpad and a stylus at its chest, design-thinking expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r073",
+  "sheet_id": "s002",
+  "role_id": "r073",
+  "role_slug": "visual-designer",
+  "role_name": "Visual Designer",
+  "character_name": "Afghan Designer Visual",
+  "character_desc": "Um Afghan Hound glamouroso com paleta de cores e pincel — o Visual Designer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a glamorous Afghan Hound, chest-up, looking directly at the camera, holding a color palette and a paintbrush at its chest, its coat elegantly styled, artistic expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r074",
+  "sheet_id": "s002",
+  "role_id": "r074",
+  "role_slug": "interaction-designer",
+  "role_name": "Interaction Designer",
+  "character_name": "Papillon de Interação",
+  "character_desc": "Um Papillon com setas de gesto e stylus — o Interaction Designer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a nimble Papillon, chest-up, looking directly at the camera, gesture-arrow cards and a stylus at its chest, interactive thoughtful expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r075",
+  "sheet_id": "s002",
+  "role_id": "r075",
+  "role_slug": "motion-designer",
+  "role_name": "Motion Designer",
+  "character_name": "Jack Russell de Motion",
+  "character_desc": "Um Jack Russell com arcos de movimento e um rolo de filme — o Motion Designer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a bouncy Jack Russell Terrier, chest-up, looking directly at the camera, motion-arc trails and a small film reel at its chest, dynamic expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r076",
+  "sheet_id": "s002",
+  "role_id": "r076",
+  "role_slug": "illustrator",
+  "role_name": "Illustrator",
+  "character_name": "Cocker Ilustrador",
+  "character_desc": "Um Cocker Spaniel de boina com pincel e paleta — o Illustrator.",
+  "nano_prompt": "Studio photorealistic bust portrait of a artsy Cocker Spaniel, chest-up, looking directly at the camera, wearing a beret, holding a paintbrush and palette at its chest, imaginative expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r077",
+  "sheet_id": "s002",
+  "role_id": "r077",
+  "role_slug": "asset-designer",
+  "role_name": "Asset Designer",
+  "character_name": "Corgi de Assets",
+  "character_desc": "Um Corgi com uma sprite sheet e ícones em pixel — o Asset Designer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a cheerful Pembroke Welsh Corgi, chest-up, looking directly at the camera, holding a pixel sprite-sheet board with small icons at its chest, playful crafty expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r078",
+  "sheet_id": "s002",
+  "role_id": "r078",
+  "role_slug": "brand-designer",
+  "role_name": "Brand Designer",
+  "character_name": "Poodle de Marca",
+  "character_desc": "Um Poodle estilizado com um logo-mark e paleta de marca — o Brand Designer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a chic Standard Poodle, chest-up, looking directly at the camera, holding a logo-mark card and a brand color palette at its chest, tasteful expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r079",
+  "sheet_id": "s002",
+  "role_id": "r079",
+  "role_slug": "sound-designer",
+  "role_name": "Sound Designer",
+  "character_name": "Cocker Sound Designer",
+  "character_desc": "Um Cocker Spaniel de orelhas longas com fones e uma forma de onda — o Sound Designer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a long-eared Cocker Spaniel, chest-up, looking directly at the camera, wearing studio headphones with a sound-waveform card at its chest, listening expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r080",
+  "sheet_id": "s002",
+  "role_id": "r080",
+  "role_slug": "3d-artist",
+  "role_name": "3D Artist",
+  "character_name": "Weimaraner 3D",
+  "character_desc": "Um Weimaraner cinza escultural com um modelo 3D em wireframe — o 3D Artist.",
+  "nano_prompt": "Studio photorealistic bust portrait of a sculptural gray Weimaraner, chest-up, looking directly at the camera, holding a wireframe 3D model prop at its chest, precise artistic expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r081",
+  "sheet_id": "s002",
+  "role_id": "r081",
+  "role_slug": "game-designer",
+  "role_name": "Game Designer",
+  "character_name": "Shiba Game Designer",
+  "character_desc": "Um Shiba Inu com dados e um controle de videogame — o Game Designer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a playful Shiba Inu, chest-up, looking directly at the camera, holding gaming dice and a game controller at its chest, fun inventive expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r082",
+  "sheet_id": "s002",
+  "role_id": "r082",
+  "role_slug": "level-designer",
+  "role_name": "Level Designer",
+  "character_name": "Beagle Level Designer",
+  "character_desc": "Um Beagle com uma grade de mapa e blocos de nível — o Level Designer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a curious Beagle, chest-up, looking directly at the camera, a grid map board and level building blocks at its chest, exploratory expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r083",
+  "sheet_id": "s002",
+  "role_id": "r083",
+  "role_slug": "narrative-designer",
+  "role_name": "Narrative Designer",
+  "character_name": "Basset Narrativo",
+  "character_desc": "Um Basset contador de histórias com livro aberto e pena — o Narrative Designer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a soulful Basset Hound, chest-up, looking directly at the camera, holding an open storybook and a quill at its chest, storytelling wistful expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r084",
+  "sheet_id": "s002",
+  "role_id": "r084",
+  "role_slug": "game-dev",
+  "role_name": "Game Developer",
+  "character_name": "Shiba Game Dev",
+  "character_desc": "Um Shiba Inu com controle e joystick — o Game Developer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a spirited Shiba Inu, chest-up, looking directly at the camera, holding a game controller with a small joystick at its chest, gamer-focused expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r085",
+  "sheet_id": "s002",
+  "role_id": "r085",
+  "role_slug": "graphics-engineer",
+  "role_name": "Graphics/Shader Engineer",
+  "character_name": "Weimaraner de Shaders",
+  "character_desc": "Um Weimaraner com um prisma de luz e um chip de GPU — o Graphics/Shader Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a sleek gray Weimaraner, chest-up, looking directly at the camera, holding a light-splitting prism and a GPU chip at its chest, radiant technical expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r086",
+  "sheet_id": "s002",
+  "role_id": "r086",
+  "role_slug": "embedded-engineer",
+  "role_name": "Embedded Engineer",
+  "character_name": "Chihuahua Embarcado",
+  "character_desc": "Um Chihuahua minúsculo com um microchip e ferro de solda — o Embedded Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a tiny Chihuahua, chest-up, looking directly at the camera, holding a microchip and a small soldering iron at its chest, precise focused expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r087",
+  "sheet_id": "s002",
+  "role_id": "r087",
+  "role_slug": "firmware-engineer",
+  "role_name": "Firmware Engineer",
+  "character_name": "Pinscher de Firmware",
+  "character_desc": "Um Miniature Pinscher com um chip e chave de fenda — o Firmware Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a compact Miniature Pinscher, chest-up, looking directly at the camera, holding a firmware chip and a screwdriver at its chest, meticulous expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r088",
+  "sheet_id": "s002",
+  "role_id": "r088",
+  "role_slug": "iot-engineer",
+  "role_name": "IoT Engineer",
+  "character_name": "Jack Russell IoT",
+  "character_desc": "Um Jack Russell com sensores conectados e uma antena — o IoT Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a lively Jack Russell Terrier, chest-up, looking directly at the camera, small connected sensors and a tiny antenna at its chest, networked curious expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r089",
+  "sheet_id": "s002",
+  "role_id": "r089",
+  "role_slug": "blockchain-dev",
+  "role_name": "Blockchain Developer",
+  "character_name": "Rottweiler Blockchain",
+  "character_desc": "Um Rottweiler com elos de corrente e uma moeda cripto — o Blockchain Developer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a solid Rottweiler, chest-up, looking directly at the camera, linked chain segments and a crypto coin at its chest, secure resolute expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r090",
+  "sheet_id": "s002",
+  "role_id": "r090",
+  "role_slug": "smartcontract-auditor",
+  "role_name": "Smart Contract Auditor",
+  "character_name": "Bloodhound de Contratos",
+  "character_desc": "Um Bloodhound com lupa examinando uma corrente e um checklist — o Smart Contract Auditor.",
+  "nano_prompt": "Studio photorealistic bust portrait of a scrutinizing Bloodhound, chest-up, looking directly at the camera, holding a magnifying glass over a chain-link contract card at its chest, auditing expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r091",
+  "sheet_id": "s002",
+  "role_id": "r091",
+  "role_slug": "arvr-engineer",
+  "role_name": "AR/VR Engineer",
+  "character_name": "Husky de AR/VR",
+  "character_desc": "Um Husky Siberiano com óculos de realidade virtual — o AR/VR Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a striking Siberian Husky, chest-up, looking directly at the camera, wearing a VR headset pushed up, holographic prop cards at its chest, immersive wondering expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r092",
+  "sheet_id": "s002",
+  "role_id": "r092",
+  "role_slug": "robotics-engineer",
+  "role_name": "Robotics Engineer",
+  "character_name": "Doberman de Robótica",
+  "character_desc": "Um Doberman com um braço robótico e engrenagens — o Robotics Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a precise Doberman Pinscher, chest-up, looking directly at the camera, a robotic arm prop and gears at its chest, mechanical alert expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r093",
+  "sheet_id": "s002",
+  "role_id": "r093",
+  "role_slug": "growth-engineer",
+  "role_name": "Growth Engineer",
+  "character_name": "Jack Russell de Growth",
+  "character_desc": "Um Jack Russell com um foguete e um gráfico de crescimento — o Growth Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a energetic Jack Russell Terrier, chest-up, looking directly at the camera, holding a small rocket and an upward growth chart at its chest, ambitious expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r094",
+  "sheet_id": "s002",
+  "role_id": "r094",
+  "role_slug": "seo-specialist",
+  "role_name": "SEO Specialist",
+  "character_name": "Beagle de SEO",
+  "character_desc": "Um Beagle farejando palavras-chave com lupa e um gráfico de ranking — o SEO Specialist.",
+  "nano_prompt": "Studio photorealistic bust portrait of a sniffing Beagle, chest-up, looking directly at the camera, holding a magnifying glass and a keyword-ranking chart at its chest, hunting-for-rank expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r095",
+  "sheet_id": "s002",
+  "role_id": "r095",
+  "role_slug": "marketing-tech",
+  "role_name": "Marketing Technologist",
+  "character_name": "Poodle MarTech",
+  "character_desc": "Um Poodle com megafone e um funil de marketing — o Marketing Technologist.",
+  "nano_prompt": "Studio photorealistic bust portrait of a polished Standard Poodle, chest-up, looking directly at the camera, holding a megaphone and a marketing-funnel card at its chest, persuasive expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r096",
+  "sheet_id": "s002",
+  "role_id": "r096",
+  "role_slug": "solutions-engineer",
+  "role_name": "Solutions Engineer",
+  "character_name": "Golden de Soluções",
+  "character_desc": "Um Golden com caixa de ferramentas e uma prancheta de apresentação — o Solutions Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a approachable Golden Retriever, chest-up, looking directly at the camera, holding a toolbox and a presentation board at its chest, helpful confident expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r097",
+  "sheet_id": "s002",
+  "role_id": "r097",
+  "role_slug": "support-engineer",
+  "role_name": "Support Engineer",
+  "character_name": "São-Bernardo de Suporte",
+  "character_desc": "Um São-Bernardo resgatador com headset e um kit de primeiros socorros — o Support Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a rescuing Saint Bernard, chest-up, looking directly at the camera, wearing a support headset with a small first-aid barrel at its chest, reassuring helpful expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r098",
+  "sheet_id": "s002",
+  "role_id": "r098",
+  "role_slug": "sales-engineer",
+  "role_name": "Sales Engineer",
+  "character_name": "Labrador de Vendas",
+  "character_desc": "Um Labrador de gravata com uma maleta e aperto de mão — o Sales Engineer.",
+  "nano_prompt": "Studio photorealistic bust portrait of a friendly Labrador Retriever, chest-up, looking directly at the camera, wearing a necktie and holding a briefcase at its chest, offering a paw-shake, persuasive warm expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r099",
+  "sheet_id": "s002",
+  "role_id": "r099",
+  "role_slug": "finops",
+  "role_name": "FinOps Analyst",
+  "character_name": "Dachshund de FinOps",
+  "character_desc": "Um Dachshund com calculadora, moedas e um gráfico de custos — o FinOps Analyst.",
+  "nano_prompt": "Studio photorealistic bust portrait of a clever Dachshund, chest-up, looking directly at the camera, holding a calculator with coins and a cost-chart at its chest, budget-minded expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ },
+ {
+  "char_id": "s002-r100",
+  "sheet_id": "s002",
+  "role_id": "r100",
+  "role_slug": "legal-counsel",
+  "role_name": "Legal Counsel",
+  "character_name": "Buldogue Jurídico",
+  "character_desc": "Um Buldogue Inglês severo de gravata com martelo de juiz e um livro de leis — o Legal Counsel.",
+  "nano_prompt": "Studio photorealistic bust portrait of a stern English Bulldog, chest-up, looking directly at the camera, wearing a necktie, holding a gavel and a law book at its chest, authoritative serious expression, sharp focus, shallow depth of field, centered single character, consistent bust framing, uniform chroma-key green background (#00b140), no text, no logo, ultra detailed, studio lighting"
+ }
+]

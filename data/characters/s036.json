@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s036-r001",
+    "sheet_id": "s036",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Capitão-Mestre",
+    "character_desc": "Capitão de decatlo que desenha a jogada mestra do time.",
+    "nano_prompt": "A decathlon team captain athlete holding a rolled stadium blueprint and a captain's armband, pointing forward while planning the play, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r002",
+    "sheet_id": "s036",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Comandante Aro",
+    "character_desc": "Timoneiro-capitão que guia a tripulação com braçadeira e voz.",
+    "nano_prompt": "A rowing team captain wearing a bold captain armband and cap, gripping a small megaphone and steering oar, leading the crew, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r003",
+    "sheet_id": "s036",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Veterano Ouro",
+    "character_desc": "Astro veterano coberto de medalhas que orienta os novatos.",
+    "nano_prompt": "A seasoned veteran athlete draped in many medals and a laurel sash, mentoring pose with a hand on the shoulder, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r004",
+    "sheet_id": "s036",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Campeão Louro",
+    "character_desc": "O campeão olímpico com coroa de louros no topo do pódio.",
+    "nano_prompt": "A olympic champion athlete wearing a golden laurel wreath, arms triumphantly raised, gold medal on the chest, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r005",
+    "sheet_id": "s036",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Treinador Apito",
+    "character_desc": "Técnico com apito e prancheta cuidando de todo o time.",
+    "nano_prompt": "A head coach athlete with a whistle in mouth, holding a clipboard and stopwatch, coaching gesture, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r006",
+    "sheet_id": "s036",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Estrategista Crono",
+    "character_desc": "Estrategista que rabisca jogadas e cronometra oportunidades.",
+    "nano_prompt": "A team strategist athlete drawing plays on a tactics board with a marker, stopwatch around the neck, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r007",
+    "sheet_id": "s036",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Dono da Taça",
+    "character_desc": "Dirigente que ergue o troféu e define a prioridade do time.",
+    "nano_prompt": "A team owner athlete in a blazer over the jersey, proudly lifting a championship trophy, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r008",
+    "sheet_id": "s036",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Maestro Revezamento",
+    "character_desc": "Coordenador de revezamento que gerencia vários bastões e provas.",
+    "nano_prompt": "A relay coordinator athlete juggling several relay batons, a schedule pennant board strapped to the arm, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r009",
+    "sheet_id": "s036",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Guardião do Tempo",
+    "character_desc": "Fiscal de pista com cronômetro e prancheta controlando prazos.",
+    "nano_prompt": "A track official athlete holding a large stopwatch high and a clipboard, timing gesture, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r010",
+    "sheet_id": "s036",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Meia-Scrum",
+    "character_desc": "Rugbista meia-scrum que organiza o pacote e distribui a bola.",
+    "nano_prompt": "A rugby scrum-half athlete crouched, feeding a rugby ball into the scrum, organizing teammates, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r011",
+    "sheet_id": "s036",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Levanta-Tudo",
+    "character_desc": "Levantador de peso que carrega a carga pesada dos bastidores.",
+    "nano_prompt": "A weightlifter athlete mid clean-and-jerk hoisting a heavy loaded barbell overhead, straining muscles, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r012",
+    "sheet_id": "s036",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Passa-Bastão",
+    "character_desc": "Velocista que faz a troca perfeita do bastão na zona de passagem.",
+    "nano_prompt": "A relay sprinter athlete extending a baton backward in a clean handoff, mid-stride exchange, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r013",
+    "sheet_id": "s036",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Remador Modular",
+    "character_desc": "Remador de uma tripulação sincronizada, muitas unidades num só ritmo.",
+    "nano_prompt": "A synchronized crew rower athlete pulling one oar in unison, several small matching oars fanned behind, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r014",
+    "sheet_id": "s036",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Nadador de Raia",
+    "character_desc": "Nadador que flui pela raia sem sair do canal, do início ao fim.",
+    "nano_prompt": "A swimmer athlete gliding freestyle in a single lane, lane ropes on both sides, streamlined push, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r015",
+    "sheet_id": "s036",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Canoeiro das Águas",
+    "character_desc": "Caiaqueiro que canaliza o fluxo bruto das corredeiras.",
+    "nano_prompt": "A kayaker athlete paddling hard through whitewater rapids, spray flying, controlling the flow, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r016",
+    "sheet_id": "s036",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Goleiro do Cofre",
+    "character_desc": "Goleiro que guarda o gol-cofre e só libera com credencial.",
+    "nano_prompt": "A goalkeeper athlete with big gloves diving to guard a vault-like goal, holding a key on a lanyard, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r017",
+    "sheet_id": "s036",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Arqueiro Preciso",
+    "character_desc": "Arqueiro que acerta a consulta exata no alvo, sem desperdício.",
+    "nano_prompt": "A archer athlete drawing a longbow with laser focus, aiming a single precise arrow at a bullseye, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r018",
+    "sheet_id": "s036",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Patinador Relâmpago",
+    "character_desc": "Patinador de velocidade que entrega o resultado num piscar.",
+    "nano_prompt": "A speed skater athlete in a deep low tuck, blades slicing fast, hands clasped behind for velocity, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r019",
+    "sheet_id": "s036",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Lançador em Fila",
+    "character_desc": "Lançador de dardo que envia mensagens ordenadas, uma por vez.",
+    "nano_prompt": "A javelin thrower athlete mid-throw releasing a javelin, a neat row of extra javelins lined up beside, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r020",
+    "sheet_id": "s036",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Rastreador Bússola",
+    "character_desc": "Atleta de orientação que encontra o alvo com mapa e bússola.",
+    "nano_prompt": "A orienteering athlete running with a compass in one hand and an unfolded map, scanning for a target, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r021",
+    "sheet_id": "s036",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Patinadora Vitrine",
+    "character_desc": "Patinadora artística que encanta na parte visível do espetáculo.",
+    "nano_prompt": "A figure skater athlete mid graceful spin on ice, arms elegantly extended, polished performance pose, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r022",
+    "sheet_id": "s036",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Trave Equilibrista",
+    "character_desc": "Ginasta de trave que monta a rotina peça por peça com precisão.",
+    "nano_prompt": "A gymnast athlete balancing on a beam mid-routine, arms poised, controlled elegant posture, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r023",
+    "sheet_id": "s036",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Esquiador Fluido",
+    "character_desc": "Esquiador de slalom que desenha o trajeto suave do usuário.",
+    "nano_prompt": "A slalom skier athlete carving smoothly between flags, weaving a flowing curved path down the slope, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r024",
+    "sheet_id": "s036",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Sincronizada Padrão",
+    "character_desc": "Nadadora sincronizada que repete o padrão do sistema em harmonia.",
+    "nano_prompt": "A synchronized swimmer athlete in a crisp patterned pose, one leg pointed skyward, precise mirrored form, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r025",
+    "sheet_id": "s036",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Corredor Guia",
+    "character_desc": "Corredor-guia que conecta a corda para todos cruzarem a linha.",
+    "nano_prompt": "A guide runner athlete linked by a tether to run alongside, supportive stride, inclusive ramp underfoot, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r026",
+    "sheet_id": "s036",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Veloz de Velódromo",
+    "character_desc": "Ciclista de velódromo obcecado por milissegundos de velocidade.",
+    "nano_prompt": "A track cyclist athlete sprinting low on an aerodynamic bike, banked velodrome curve, blazing speed, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r027",
+    "sheet_id": "s036",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Fita Estilista",
+    "character_desc": "Ginasta rítmica da fita que dá estilo e forma a tudo.",
+    "nano_prompt": "A rhythmic gymnast athlete swirling a long flowing ribbon into elegant styled loops in the air, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r028",
+    "sheet_id": "s036",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Acrobata Quadro",
+    "character_desc": "Acrobata de trampolim congelado entre frames de movimento.",
+    "nano_prompt": "A trampoline acrobat athlete frozen mid somersault, motion streaks trailing the arc of the flip, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r029",
+    "sheet_id": "s036",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Piloto BMX",
+    "character_desc": "Piloto de BMX ágil e portátil, salta em qualquer terreno.",
+    "nano_prompt": "A BMX rider athlete mid tabletop jump on a compact bike, agile airborne trick over a ramp, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r030",
+    "sheet_id": "s036",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Surfista Polido",
+    "character_desc": "Surfista californiano de linhas limpas e acabamento impecável.",
+    "nano_prompt": "A surfer athlete carving a clean cutback on a polished longboard, crisp wave curl, refined stance, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r031",
+    "sheet_id": "s036",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Trilheiro Verde",
+    "character_desc": "Ciclista de montanha de kit verde, aberto a qualquer trilha.",
+    "nano_prompt": "A mountain biker athlete in a green kit charging down an open dirt trail, dust kicking up, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r032",
+    "sheet_id": "s036",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Triatleta Ponte",
+    "character_desc": "Triatleta que cruza várias modalidades numa base só.",
+    "nano_prompt": "A triathlete athlete transitioning between disciplines, running with a bike and swim goggles in hand, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r033",
+    "sheet_id": "s036",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Golfinho Flutter",
+    "character_desc": "Nadador do nado borboleta, batida fluida e potente.",
+    "nano_prompt": "A butterfly-stroke swimmer athlete surging out of the water mid dolphin kick, both arms sweeping forward, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r034",
+    "sheet_id": "s036",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Mestre do Ângulo",
+    "character_desc": "Sinuqueiro que calcula cada ângulo antes da tacada.",
+    "nano_prompt": "A billiards athlete lining up a precise cue shot, chalking the tip, studying angles over the table, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r035",
+    "sheet_id": "s036",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Domador Modelo",
+    "character_desc": "Cavaleiro de adestramento que treina o modelo até a perfeição.",
+    "nano_prompt": "A dressage equestrian athlete guiding a trained horse through a precise movement, rein control, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r036",
+    "sheet_id": "s036",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Mecânico de Boxes",
+    "character_desc": "Piloto-mecânico que ajusta a máquina no pit e volta à pista.",
+    "nano_prompt": "A racing driver athlete in a pit crew, helmet on, tuning an engine with a wrench beside a race car, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r037",
+    "sheet_id": "s036",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Alpinista Fronteira",
+    "character_desc": "Alpinista que explora o cume desconhecido da pesquisa.",
+    "nano_prompt": "A mountaineer athlete ice-axe in hand climbing an unexplored frozen peak, roped ascent, discovery pose, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r038",
+    "sheet_id": "s036",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Dardeiro de Alvo",
+    "character_desc": "Jogador de dardos que crava a instrução exata no centro.",
+    "nano_prompt": "A darts athlete mid throw releasing a dart at a bullseye, focused aim, precise flick of the wrist, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r039",
+    "sheet_id": "s036",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Esgrimista Diálogo",
+    "character_desc": "Esgrimista cujo florete conversa lance a lance com o oponente.",
+    "nano_prompt": "A fencer athlete mid lunge with an épée, masked, precise back-and-forth dueling stance, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r040",
+    "sheet_id": "s036",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Biatleta Mira",
+    "character_desc": "Biatleta que enxerga o alvo distante pela luneta.",
+    "nano_prompt": "A biathlete athlete kneeling to aim a scoped rifle with sharp vision, skis on, targets ahead, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r041",
+    "sheet_id": "s036",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Leitor do Green",
+    "character_desc": "Golfista que lê a inclinação dos dados antes do putt.",
+    "nano_prompt": "A golfer athlete crouched reading the green line, putter in hand, studying the slope of the data, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r042",
+    "sheet_id": "s036",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Boliche Placar",
+    "character_desc": "Jogador de boliche que lê o placar e ajusta cada arremesso.",
+    "nano_prompt": "A ten-pin bowling athlete mid release rolling a ball down the lane, glancing at a scoreboard, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r043",
+    "sheet_id": "s036",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Medidor de Salto",
+    "character_desc": "Saltador em distância que mede cada resultado com fita.",
+    "nano_prompt": "A long jump athlete landing in the sand pit, a measuring tape stretched to mark the distance, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r044",
+    "sheet_id": "s036",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Kite Colorido",
+    "character_desc": "Kitesurfista que pinta gráficos coloridos no vento.",
+    "nano_prompt": "A kitesurfer athlete gliding on water pulled by a large colorful chart-shaped kite, vivid arcs overhead, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r045",
+    "sheet_id": "s036",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Dupla do Trenó",
+    "character_desc": "Piloto de bobsled onde dev e ops empurram o mesmo trenó.",
+    "nano_prompt": "A bobsled athlete pushing and leaping into a sled, teamwork crouch, ice track, combined launch, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r046",
+    "sheet_id": "s036",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Salva-Vidas Firme",
+    "character_desc": "Salva-vidas de plantão que mantém tudo confiável e no ar.",
+    "nano_prompt": "A lifeguard athlete alert on duty holding a rescue buoy, whistle ready, vigilant reliable stance, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r047",
+    "sheet_id": "s036",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Saltador da Plataforma",
+    "character_desc": "Saltador ornamental que dá base estável a todos os mergulhos.",
+    "nano_prompt": "A platform diver athlete poised at the edge of a high diving platform, arms raised before the plunge, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r048",
+    "sheet_id": "s036",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Parapente das Nuvens",
+    "character_desc": "Parapentista que arquiteta rotas entre as nuvens.",
+    "nano_prompt": "A paraglider athlete soaring under a wide canopy high among the clouds, steering the lines, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r049",
+    "sheet_id": "s036",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Timoneiro do Leme",
+    "character_desc": "Velejador que segura o leme e conduz o barco (o kubernetes).",
+    "nano_prompt": "A sailing athlete gripping the boat's helm wheel, leaning into the wind, steering the sailboat, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r050",
+    "sheet_id": "s036",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Rede Lacrosse",
+    "character_desc": "Jogador de lacrosse que cruza a rede conectando os pontos.",
+    "nano_prompt": "A lacrosse athlete cradling a ball in a netted stick, running to connect a pass across the field, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r051",
+    "sheet_id": "s036",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Varredor de Gelo",
+    "character_desc": "Curler que mantém a pista limpa e o sistema no rumo certo.",
+    "nano_prompt": "A curling athlete sweeping furiously ahead of a sliding stone, keeping the ice track clean, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r052",
+    "sheet_id": "s036",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Largador do Tiro",
+    "character_desc": "Largador oficial que dispara a pistola e libera a corrida.",
+    "nano_prompt": "A starter official athlete raising a starting pistol to fire the race, arm high, release moment, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r053",
+    "sheet_id": "s036",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Arremesso de Tora",
+    "character_desc": "Atleta highland que ergue e monta a tora pesada da build.",
+    "nano_prompt": "A highland games athlete mid caber toss lifting a massive wooden log to flip it, powerful heave, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r054",
+    "sheet_id": "s036",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Maratonista Contínuo",
+    "character_desc": "Maratonista de voltas contínuas com contador de laps.",
+    "nano_prompt": "A marathon runner athlete in steady continuous stride, a lap counter clicker in hand, endless loop track, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r055",
+    "sheet_id": "s036",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Goleiro Blindado",
+    "character_desc": "Goleiro de hóquei todo paramentado que blinda a defesa.",
+    "nano_prompt": "A ice hockey goaltender athlete in full pads and mask crouched, blocking the goal with a big glove and stick, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r056",
+    "sheet_id": "s036",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Parkour Invasor",
+    "character_desc": "Traceur de parkour que acha a brecha e escala o muro.",
+    "nano_prompt": "A parkour free-runner athlete vaulting over a high wall, finding a gap, mid climb breach, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r057",
+    "sheet_id": "s036",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Boxeador Guarda",
+    "character_desc": "Boxeador que protege o app com guarda alta e luvas firmes.",
+    "nano_prompt": "A boxer athlete in a tight defensive guard, gloves up protecting the face, braced blocking stance, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r058",
+    "sheet_id": "s036",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Escalador do Código",
+    "character_desc": "Escalador que decifra a via trancada como um cadeado.",
+    "nano_prompt": "A rock climber athlete gripping a combination-lock-shaped hold on a wall, chalked hands, solving the route, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r059",
+    "sheet_id": "s036",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Árbitro do Regulamento",
+    "character_desc": "Árbitro listrado com apito e livro de regras na mão.",
+    "nano_prompt": "A referee athlete in a striped shirt blowing a whistle, holding an open rulebook, signaling a call, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r060",
+    "sheet_id": "s036",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Mascarado Anônimo",
+    "character_desc": "Lutador mascarado que protege a identidade sob a máscara.",
+    "nano_prompt": "A masked luchador wrestler athlete in a full face mask, arms crossed, guarding a secret identity, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r061",
+    "sheet_id": "s036",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Socorrista Veloz",
+    "character_desc": "Socorrista que corre à quadra com maleta de emergência.",
+    "nano_prompt": "A rushing medic athlete sprinting onto the field with a red-cross first-aid bag, urgent response stride, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r062",
+    "sheet_id": "s036",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Judoca Leitor",
+    "character_desc": "Judoca que estuda a postura do adversário antes do golpe.",
+    "nano_prompt": "A judoka athlete in a low reading stance gripping the opponent's gi, anticipating the next move, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r063",
+    "sheet_id": "s036",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Juiz da Rotina",
+    "character_desc": "Juiz de ginástica que confere a rotina e ergue a nota.",
+    "nano_prompt": "A gymnastics judge athlete seated holding up scorecards, inspecting a routine with a critical eye, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r064",
+    "sheet_id": "s036",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Máquina de Saque",
+    "character_desc": "Tenista com máquina automática que dispara saques sem parar.",
+    "nano_prompt": "A tennis athlete beside an automatic ball machine firing serves, returning shots on repeat, automation, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r065",
+    "sheet_id": "s036",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Empurra-Trenó",
+    "character_desc": "Homem-forte que testa a carga máxima empurrando o trenó.",
+    "nano_prompt": "A strongman athlete pushing a heavily weighted sled at max load, stopwatch clipped on, straining test, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r066",
+    "sheet_id": "s036",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Inspetor Manual",
+    "character_desc": "Ginasta-inspetor que testa cada aparelho na mão, com checklist.",
+    "nano_prompt": "A spotter-inspector athlete checking gymnastic rings by hand, a checklist clipboard tucked under the arm, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r067",
+    "sheet_id": "s036",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Goalball Sino",
+    "character_desc": "Jogador de goalball com venda que joga guiado pelo som do sino.",
+    "nano_prompt": "A goalball athlete wearing eyeshades diving to block a bell-ball by sound, inclusive court markings, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r068",
+    "sheet_id": "s036",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Escriba de Pista",
+    "character_desc": "Estatístico-repórter que anota tudo à beira da pista.",
+    "nano_prompt": "A trackside statistician athlete in a press vest jotting notes in a notebook with a pencil, observing, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r069",
+    "sheet_id": "s036",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Porta-Tocha",
+    "character_desc": "Porta-tocha que anima a torcida com chama e megafone.",
+    "nano_prompt": "A torchbearer athlete holding a flaming torch high and a megaphone, rallying the crowd with energy, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r070",
+    "sheet_id": "s036",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Capitã do Calendário",
+    "character_desc": "Estrategista que organiza a temporada num quadro de flâmulas.",
+    "nano_prompt": "A season strategist athlete holding a large schedule board of pennants, arranging the calendar of matches, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r071",
+    "sheet_id": "s036",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Porta-Bandeiras",
+    "character_desc": "Porta-bandeira que desfila com muitas bandeiras nacionais.",
+    "nano_prompt": "A flag bearer athlete marching draped in many different national flags, carrying a bundle of flag poles, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r072",
+    "sheet_id": "s036",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Pentatleta Completo",
+    "character_desc": "Pentatleta moderno que domina cinco provas de ponta a ponta.",
+    "nano_prompt": "A modern pentathlon athlete versatile pose holding fencing épée, pistol and riding crop, five-sport kit, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r073",
+    "sheet_id": "s036",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Arco Rítmico",
+    "character_desc": "Ginasta rítmica do arco que compõe formas visuais marcantes.",
+    "nano_prompt": "A rhythmic gymnast athlete leaping through a large hoop, striking a bold visual shape mid air, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r074",
+    "sheet_id": "s036",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Pingue-Pongue Vaivém",
+    "character_desc": "Mesatenista do vaivém constante, resposta a cada toque.",
+    "nano_prompt": "A table tennis athlete mid rally smashing a shot with a paddle, quick back-and-forth interaction pose, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r075",
+    "sheet_id": "s036",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Breaker Giro",
+    "character_desc": "B-boy de breaking congelado no meio de um giro em movimento.",
+    "nano_prompt": "A breakdancing athlete mid freeze spinning on one hand, dynamic motion streaks around the whirl, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r076",
+    "sheet_id": "s036",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Patinador Traço",
+    "character_desc": "Patinador que risca ilustrações no gelo com caneta gigante.",
+    "nano_prompt": "A figure skater athlete carving illustrated figures on the ice, trailing lines, holding a giant sketch pen, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r077",
+    "sheet_id": "s036",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Malabar de Clavas",
+    "character_desc": "Ginasta rítmica que gira várias clavas, cada uma um ativo.",
+    "nano_prompt": "A rhythmic gymnast athlete juggling several spinning clubs and balls at once, tossing multiple props, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r078",
+    "sheet_id": "s036",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Mascote Estandarte",
+    "character_desc": "Mascote do time que carrega o estandarte com o emblema.",
+    "nano_prompt": "A team mascot athlete in a costume waving a large banner with a bold emblem crest, brand pose, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r079",
+    "sheet_id": "s036",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Tambor do Barco",
+    "character_desc": "Tamboreiro do barco-dragão que dita o ritmo da tripulação.",
+    "nano_prompt": "A dragon boat drummer athlete pounding a big drum at the bow, setting the rowing rhythm with mallets, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r080",
+    "sheet_id": "s036",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Mergulho Volume",
+    "character_desc": "Mergulhador que esculpe formas 3D no ar com rastros de arame.",
+    "nano_prompt": "A platform diver athlete twisting mid air into a sculpted 3D shape, wireframe motion trails around the body, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r081",
+    "sheet_id": "s036",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Técnico Lúdico",
+    "character_desc": "Técnico inventor que cria o jogo com um dado gigante e tabuleiro-campo.",
+    "nano_prompt": "A playful game-inventor coach athlete holding a giant foam die and a board of the field, designing a new game, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r082",
+    "sheet_id": "s036",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Ninja de Obstáculos",
+    "character_desc": "Atleta ninja que projeta e vence o percurso de obstáculos.",
+    "nano_prompt": "A ninja-warrior obstacle athlete leaping across obstacle-course rigs, an unrolled course blueprint at the belt, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r083",
+    "sheet_id": "s036",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Locutor do Ringue",
+    "character_desc": "Locutor de ringue que narra a história do combate.",
+    "nano_prompt": "A ring announcer athlete holding a microphone and an unrolled scroll, dramatic narrating gesture in the ring, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r084",
+    "sheet_id": "s036",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Atleta Joystick",
+    "character_desc": "Atleta gamer que joga a partida com o controle em ação.",
+    "nano_prompt": "A esports athlete in a team jersey lunging with a game controller in both hands, intense competitive pose, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r085",
+    "sheet_id": "s036",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Prisma Veloz",
+    "character_desc": "Velocista cercado de luz prismática que colore cada sombra.",
+    "nano_prompt": "A sprinter athlete bursting forward wrapped in prismatic rainbow light trails, glowing shaded aura, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r086",
+    "sheet_id": "s036",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Jóquei Miúdo",
+    "character_desc": "Jóquei minúsculo, embarcado firme sobre a máquina veloz.",
+    "nano_prompt": "A jockey athlete crouched tightly embedded on a galloping racehorse, compact riding posture, whip in hand, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r087",
+    "sheet_id": "s036",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Piloto do Motor",
+    "character_desc": "Piloto de motocross que ajusta o motor rente ao metal.",
+    "nano_prompt": "A motocross athlete astride a dirt bike mid jump, a wrench in one hand, helmet on, close to the machine, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r088",
+    "sheet_id": "s036",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Sensor Ambulante",
+    "character_desc": "Atleta coberto de sensores e antenas, comandando um mini-drone.",
+    "nano_prompt": "A athlete covered in wearable sensors and antennas on the helmet, launching a small quadcopter drone from the hand, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r089",
+    "sheet_id": "s036",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Puxador da Corrente",
+    "character_desc": "Atleta de cabo de guerra que puxa a corrente elo a elo.",
+    "nano_prompt": "A tug-of-war athlete leaning back pulling hard on a heavy linked chain rope, dug-in stance, straining grip, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r090",
+    "sheet_id": "s036",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Fiscal da Corrente",
+    "character_desc": "Árbitro que inspeciona a corrente-contrato com lupa.",
+    "nano_prompt": "A referee athlete in a striped shirt inspecting a linked chain and a contract scroll through a magnifying glass, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r091",
+    "sheet_id": "s036",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Boxeador Virtual",
+    "character_desc": "Boxeador de óculos VR que golpeia alvos holográficos.",
+    "nano_prompt": "A boxer athlete wearing a VR headset throwing a punch at floating holographic targets, immersive stance, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r092",
+    "sheet_id": "s036",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Corredor Exo",
+    "character_desc": "Corredor com exoesqueleto robótico e painel de controle.",
+    "nano_prompt": "A runner athlete wearing robotic exoskeleton legs, sprinting, a small control pad strapped to the wrist, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r093",
+    "sheet_id": "s036",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Saltador Ascendente",
+    "character_desc": "Saltador em altura que sobe a barra cada vez mais alto.",
+    "nano_prompt": "A high jump athlete arching over a bar set ever higher, a rising upward-arrow flag planted beside the mat, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r094",
+    "sheet_id": "s036",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Escalador do Topo",
+    "character_desc": "Atleta que sobe os degraus do ranking rumo ao número um.",
+    "nano_prompt": "A stair-climb racer athlete bounding up giant ranking steps toward a number-one podium, magnifying glass in hand, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r095",
+    "sheet_id": "s036",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Funil e Megafone",
+    "character_desc": "Atleta que capta a torcida no funil e chama pelo megafone.",
+    "nano_prompt": "A athlete holding a giant funnel catching a crowd of confetti and shouting through a megaphone, targeting an audience, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r096",
+    "sheet_id": "s036",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Guia da Escalada",
+    "character_desc": "Guia que assegura o cliente na subida com kit de soluções.",
+    "nano_prompt": "A climbing guide athlete belaying a client up a wall, a toolkit of carabiners on the harness, supportive lead, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r097",
+    "sheet_id": "s036",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Fisio de Beira",
+    "character_desc": "Fisioterapeuta de quadra que socorre com maleta e fone.",
+    "nano_prompt": "A courtside physio athlete kneeling with a medical kit, headset on, towel and water bottle ready to assist, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r098",
+    "sheet_id": "s036",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Arremessador Pitch",
+    "character_desc": "Lançador de beisebol que joga o pitch perfeito da venda.",
+    "nano_prompt": "A baseball pitcher athlete mid windup delivering a pitch, a small briefcase resting on the pitcher's mound, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r099",
+    "sheet_id": "s036",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Equilíbrio na Trave",
+    "character_desc": "Ginasta que equilibra a balança de moedas sobre a trave.",
+    "nano_prompt": "A gymnast athlete balancing on a beam while holding a set of scales with coins, careful budget-balancing pose, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s036-r100",
+    "sheet_id": "s036",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Árbitro da Lei",
+    "character_desc": "Árbitro-jurista com peruca, martelo e balança da justiça.",
+    "nano_prompt": "A referee athlete wearing a barrister wig over the kit, holding a gavel and the scales of justice, judging stance, vintage sports poster lithograph style, muted retro palette of ochre, teal, cream and brick red, bold heroic full-body athlete in a dynamic action pose, grainy lithographic halftone texture, thick clean outlines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s010-r001",
+    "sheet_id": "s010",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Borboleta Planta-Mestra",
+    "character_desc": "Borboleta majestosa cujas asas trazem plantas arquitetônicas recortadas em papel e uma pequena régua-T pendurada, evocando o Arquiteto de Solução.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings cut with architectural blueprint grids and floor-plan lines, tiny paper T-square and compass props, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r002",
+    "sheet_id": "s010",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Borboleta Bússola",
+    "character_desc": "Borboleta guia com asas de mapa de rotas e uma pequena bússola de papel, evocando o Tech Lead que aponta a direção do time.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as branching roadmap paths, small paper compass and a tiny flag pennant, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r003",
+    "sheet_id": "s010",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Borboleta Alicerce",
+    "character_desc": "Borboleta robusta com asas em camadas de pilares e vigas de papel, evocando o Staff Engineer que sustenta a base técnica.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings layered with structural pillars and beams, tiny keystone medallion prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r004",
+    "sheet_id": "s010",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Borboleta Coroa-Técnica",
+    "character_desc": "Borboleta imponente com asas de constelação de sistemas conectados e uma coroa fina de papel, evocando o Principal Engineer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings showing a constellation of connected system nodes, thin paper crown and scepter, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r005",
+    "sheet_id": "s010",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Borboleta Jardineira",
+    "character_desc": "Borboleta acolhedora com asas de organograma florido e um pequeno regador de papel, evocando o Engineering Manager que cultiva pessoas.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as a blooming org-chart tree, tiny paper watering can prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r006",
+    "sheet_id": "s010",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Borboleta Visão",
+    "character_desc": "Borboleta vibrante com asas de roadmap em post-its recortados e uma lupa de papel, evocando o Product Manager.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings collaged from sticky-note roadmap tiles, small paper magnifying glass prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r007",
+    "sheet_id": "s010",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Borboleta Backlog",
+    "character_desc": "Borboleta organizada com asas de lista de histórias empilhadas em papel e uma estrela de prioridade, evocando o Product Owner.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings layered as a stacked backlog of story cards, tiny paper priority star prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r008",
+    "sheet_id": "s010",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Borboleta Trilhos",
+    "character_desc": "Borboleta coordenadora com asas de várias trilhas paralelas de papel convergindo, evocando o Program Manager.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as multiple parallel program tracks converging, small paper timeline ribbon, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r009",
+    "sheet_id": "s010",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Borboleta Cronograma",
+    "character_desc": "Borboleta pontual com asas de gráfico de Gantt recortado e uma ampulheta de papel, evocando o Project Manager.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as a Gantt-chart bar grid, tiny paper hourglass prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r010",
+    "sheet_id": "s010",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Borboleta Sprint",
+    "character_desc": "Borboleta ágil com asas de quadro kanban em colunas de papel e um pequeno bastão de revezamento, evocando o Scrum Master.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings divided into kanban board columns of paper cards, tiny paper relay baton prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r011",
+    "sheet_id": "s010",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Borboleta Engrenada",
+    "character_desc": "Borboleta trabalhadora com asas de engrenagens e endpoints de papel interligados, evocando o Backend Developer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings cut with interlocking gears and server-rack lines, tiny paper cog props, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r012",
+    "sheet_id": "s010",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Borboleta Contrato",
+    "character_desc": "Borboleta metódica com asas de chaves de código {} e setas de rota em papel, evocando o API Designer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned with curly-brace and arrow route motifs, tiny paper plug-and-socket props, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r013",
+    "sheet_id": "s010",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Borboleta Enxame",
+    "character_desc": "Borboleta modular com asas de pequenos serviços hexagonais de papel conectados, evocando o Microservices Engineer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings tiled with tiny hexagonal service cells linked by threads, small paper container box, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r014",
+    "sheet_id": "s010",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Mariposa Duto",
+    "character_desc": "Mariposa fluida com asas de tubulações e fluxos de dados em papel, evocando o Pipeline Developer.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as flowing pipeline channels and directional arrows, tiny paper funnel prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r015",
+    "sheet_id": "s010",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Borboleta Represa",
+    "character_desc": "Borboleta caudalosa com asas de fluxos de rios de dados canalizados em papel, evocando o Data Engineer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings cut as branching data-river channels and reservoirs, tiny paper dam gate prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r016",
+    "sheet_id": "s010",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Mariposa Cofre-Dados",
+    "character_desc": "Mariposa guardiã com asas de cilindros de banco de dados empilhados em papel, evocando o Database Administrator.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings layered as stacked database-cylinder disks, tiny paper key and lock prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r017",
+    "sheet_id": "s010",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Borboleta Consulta",
+    "character_desc": "Borboleta precisa com asas de tabelas e junções em papel, evocando o SQL Specialist.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as joined table grids with linking lines, tiny paper query-scroll prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r018",
+    "sheet_id": "s010",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Mariposa Relâmpago",
+    "character_desc": "Mariposa veloz com asas de camadas de cache e raios de papel, evocando o Caching Engineer.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings layered with concentric cache rings and lightning bolts, tiny paper stopwatch prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r019",
+    "sheet_id": "s010",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Borboleta Fila",
+    "character_desc": "Borboleta ordenada com asas de mensagens enfileiradas em papel deslizando, evocando o Message Queue Engineer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as a queue of stacked message envelopes on a conveyor, tiny paper mailbox prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r020",
+    "sheet_id": "s010",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Borboleta Farol",
+    "character_desc": "Borboleta buscadora com asas de índices e lupas de papel, evocando o Search Engineer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings cut with index-card layers and radiating search beams, tiny paper magnifying glass prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r021",
+    "sheet_id": "s010",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Borboleta Vitrine",
+    "character_desc": "Borboleta luminosa com asas de blocos de layout e botões de papel, evocando o Frontend Developer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings arranged as UI layout blocks and rounded buttons, tiny paper cursor pointer prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r022",
+    "sheet_id": "s010",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Borboleta Componente",
+    "character_desc": "Borboleta caprichada com asas de cartões de interface reutilizáveis em papel, evocando o UI Engineer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings tiled with reusable UI component cards and toggles, tiny paper slider prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r023",
+    "sheet_id": "s010",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Borboleta Fluxo",
+    "character_desc": "Borboleta empática com asas de wireframes e trilhas de jornada em papel, evocando o UX Designer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as wireframe screens linked by journey-path arrows, tiny paper sticky-note prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r024",
+    "sheet_id": "s010",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Borboleta Tokens",
+    "character_desc": "Borboleta harmônica com asas de paleta de tokens e componentes padronizados em papel, evocando o Design Systems Engineer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings gridded with color-token swatches and standardized components, tiny paper ruler prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r025",
+    "sheet_id": "s010",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Borboleta Inclusiva",
+    "character_desc": "Borboleta acolhedora com asas de símbolo de acessibilidade e ondas de leitura em papel, evocando o Accessibility Specialist.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings featuring an accessibility figure emblem and contrast waves, tiny paper braille dots prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r026",
+    "sheet_id": "s010",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Mariposa Bólido",
+    "character_desc": "Mariposa aerodinâmica com asas de medidores de velocidade e barras de carga em papel, evocando o Web Performance Engineer.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as speed gauges and loading bars, tiny paper stopwatch and feather prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r027",
+    "sheet_id": "s010",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Borboleta Estilo",
+    "character_desc": "Borboleta elegante com asas de grades de layout e cascatas de papel colorido, evocando o CSS Specialist.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings cut as cascading colored style layers and grid guides, tiny paper paint-swatch prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r028",
+    "sheet_id": "s010",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Borboleta Quadro-a-Quadro",
+    "character_desc": "Borboleta cinética com asas de curvas de easing e keyframes em papel, evocando o Animation Engineer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned with easing curves and keyframe dots along a timeline, tiny paper flipbook prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r029",
+    "sheet_id": "s010",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Borboleta Bolso",
+    "character_desc": "Borboleta compacta com asas em forma de telas de celular recortadas em papel, evocando o Mobile Developer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings shaped as stacked smartphone screens with app tiles, tiny paper touch-ripple prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r030",
+    "sheet_id": "s010",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Borboleta Maçã",
+    "character_desc": "Borboleta minimalista com asas de telas iOS limpas e cantos arredondados em papel, evocando o iOS Developer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings shaped as clean rounded iOS screens with a minimal app grid, tiny paper bitten-fruit charm, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r031",
+    "sheet_id": "s010",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Borboleta Verde-Robô",
+    "character_desc": "Borboleta cordial com asas de telas Android e engrenagens de papel, evocando o Android Developer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings shaped as Android screens with a friendly robot emblem, tiny paper gear prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r032",
+    "sheet_id": "s010",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Borboleta Ponte",
+    "character_desc": "Borboleta versátil com asas espelhadas iOS e Android unidas por papel, evocando o React Native Developer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings split-mirrored between iOS and Android screen motifs bridged by a paper seam, tiny paper atom charm, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r033",
+    "sheet_id": "s010",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Borboleta Pincel-App",
+    "character_desc": "Borboleta colorida com asas de widgets pintados e telas fluidas em papel, evocando o Flutter Developer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings painted with layered widget cards and a fluttering ribbon, tiny paper brush prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r034",
+    "sheet_id": "s010",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Mariposa Constelação",
+    "character_desc": "Mariposa analítica com asas de nuvens de pontos e curvas de tendência em papel, evocando o Data Scientist.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as scatter-plot star clusters with trend curves, tiny paper beaker prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r035",
+    "sheet_id": "s010",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Mariposa Neural",
+    "character_desc": "Mariposa cerebral com asas de rede neural em camadas de papel conectadas, evocando o ML Engineer.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings cut as layered neural-network nodes and connecting edges, tiny paper gear-brain prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r036",
+    "sheet_id": "s010",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Mariposa Esteira-ML",
+    "character_desc": "Mariposa operacional com asas de ciclo de treino-deploy em setas de papel, evocando o MLOps Engineer.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as a looping train-and-deploy cycle of arrows, tiny paper container and gauge props, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r037",
+    "sheet_id": "s010",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Mariposa Enigma",
+    "character_desc": "Mariposa pensativa com asas de fórmulas e grafos de papel exploratórios, evocando o AI Researcher.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings inscribed with paper formula fragments and exploratory graphs, tiny paper lightbulb prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r038",
+    "sheet_id": "s010",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Borboleta Sussurro",
+    "character_desc": "Borboleta comunicativa com asas de balões de fala e tokens de texto em papel, evocando o Prompt Engineer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as speech bubbles and chat-token tiles, tiny paper quill prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r039",
+    "sheet_id": "s010",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Borboleta Verbo",
+    "character_desc": "Borboleta eloquente com asas de palavras e árvores gramaticais recortadas em papel, evocando o NLP Engineer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings collaged from word tiles and branching grammar trees, tiny paper speech-wave prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r040",
+    "sheet_id": "s010",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Mariposa Olho-Digital",
+    "character_desc": "Mariposa observadora com asas de grades de pixels e caixas de detecção em papel, evocando o Computer Vision Engineer.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings tiled with pixel grids and object-detection bounding boxes, tiny paper camera-lens prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r041",
+    "sheet_id": "s010",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Borboleta Planilha",
+    "character_desc": "Borboleta metódica com asas de linhas e colunas de dados em papel, evocando o Data Analyst.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as spreadsheet rows and columns with tiny charts, tiny paper pivot-table prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r042",
+    "sheet_id": "s010",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Borboleta Painel",
+    "character_desc": "Borboleta informativa com asas de dashboards e medidores de papel, evocando o BI Analyst.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings arranged as dashboard cards with gauges and mini bar charts, tiny paper KPI badge prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r043",
+    "sheet_id": "s010",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Borboleta Modelo",
+    "character_desc": "Borboleta metódica com asas de tabelas transformadas e camadas de papel encadeadas, evocando o Analytics Engineer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as stacked data-model tables linked by transform arrows, tiny paper funnel prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r044",
+    "sheet_id": "s010",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Borboleta Gráfico",
+    "character_desc": "Borboleta expressiva com asas de gráficos de pizza, barras e linhas em papel, evocando o Data Viz Specialist.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings collaged from pie, bar and line charts in cut paper, tiny paper color-legend prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r045",
+    "sheet_id": "s010",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Mariposa Infinito",
+    "character_desc": "Mariposa incansável com asas em laço de fita infinito de papel entre engrenagens, evocando o DevOps Engineer.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings formed as an infinity-loop ribbon between gear clusters, tiny paper wrench prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r046",
+    "sheet_id": "s010",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Mariposa Vigília",
+    "character_desc": "Mariposa vigilante com asas de gráficos de uptime e escudos de papel, evocando o Site Reliability Engineer.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned with uptime line graphs and a small shield emblem, tiny paper pager prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r047",
+    "sheet_id": "s010",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Mariposa Plataforma",
+    "character_desc": "Mariposa estrutural com asas de blocos de plataforma empilhados em papel, evocando o Platform Engineer.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings layered as stacked platform building blocks and pipelines, tiny paper foundation-slab prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r048",
+    "sheet_id": "s010",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Borboleta Nuvem",
+    "character_desc": "Borboleta aérea com asas de nuvens conectadas e servidores flutuantes de papel, evocando o Cloud Architect.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings cut as fluffy cloud layers linked to floating server nodes, tiny paper blueprint scroll, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r049",
+    "sheet_id": "s010",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Mariposa Leme",
+    "character_desc": "Mariposa navegadora com asas de timão e contêineres em grade de papel, evocando o Kubernetes Admin.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as a ship's-helm wheel over a grid of container boxes, tiny paper container prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r050",
+    "sheet_id": "s010",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Mariposa Malha",
+    "character_desc": "Mariposa conectiva com asas de nós de rede e cabos de papel entrelaçados, evocando o Network Engineer.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings cut as a mesh of network nodes and routed cables, tiny paper router prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r051",
+    "sheet_id": "s010",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Mariposa Terminal",
+    "character_desc": "Mariposa técnica com asas de racks de servidores e linhas de terminal em papel, evocando o Systems Administrator.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as server racks and blinking terminal lines, tiny paper wrench-and-disk prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r052",
+    "sheet_id": "s010",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Borboleta Selo",
+    "character_desc": "Borboleta cerimoniosa com asas de tags de versão e fitas de lançamento em papel, evocando o Release Engineer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned with version-tag ribbons and a release rocket motif, tiny paper checklist prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r053",
+    "sheet_id": "s010",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Mariposa Bigorna",
+    "character_desc": "Mariposa forjadora com asas de blocos de compilação montados em papel, evocando o Build Engineer.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings layered as assembling build blocks and artifact packages, tiny paper hammer prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r054",
+    "sheet_id": "s010",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Mariposa Esteira-CI",
+    "character_desc": "Mariposa ritmada com asas de pipeline de estágios verdes em papel, evocando o CI/CD Engineer.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as a staged pipeline of green check gates on a conveyor, tiny paper gear-arrow prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r055",
+    "sheet_id": "s010",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Mariposa Escudo",
+    "character_desc": "Mariposa protetora com asas de escudos e cadeados recortados em papel, evocando o Security Engineer.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings layered with overlapping shields and padlock emblems, tiny paper key prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r056",
+    "sheet_id": "s010",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Mariposa Sombra",
+    "character_desc": "Mariposa furtiva com asas escuras de grades quebradas e chaves-mestra de papel, evocando o Penetration Tester.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings cut as breached grid patterns with a skeleton-key motif, tiny paper hooded-lockpick prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r057",
+    "sheet_id": "s010",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Mariposa Muralha",
+    "character_desc": "Mariposa defensiva com asas de código blindado e firewalls em tijolos de papel, evocando o AppSec Engineer.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as code panels behind brick-firewall layers, tiny paper bug-shield prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r058",
+    "sheet_id": "s010",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Mariposa Cifra",
+    "character_desc": "Mariposa enigmática com asas de símbolos criptográficos e chaves em papel, evocando o Cryptographer.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings inscribed with cipher glyphs and a padlock-key pair, tiny paper enigma-wheel prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r059",
+    "sheet_id": "s010",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Borboleta Selo-Legal",
+    "character_desc": "Borboleta cerimoniosa com asas de checklists carimbados e selos de papel, evocando o Compliance Officer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned with stamped checklist rows and an approval seal, tiny paper gavel prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r060",
+    "sheet_id": "s010",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Mariposa Véu",
+    "character_desc": "Mariposa discreta com asas de dados mascarados e cadeados de papel translúcido, evocando o Privacy Engineer.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned with redacted-data bars and translucent lock layers, tiny paper mask prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r061",
+    "sheet_id": "s010",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Mariposa Alarme",
+    "character_desc": "Mariposa alerta com asas de sirenes e gráficos de incidente em papel, evocando o Incident Responder.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned with alert-siren rings and spiking incident graphs, tiny paper pager and extinguisher props, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r062",
+    "sheet_id": "s010",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Mariposa Xadrez",
+    "character_desc": "Mariposa estrategista com asas de árvores de ataque e ramos de papel, evocando o Threat Modeler.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings cut as branching attack-tree diagrams, tiny paper chess-knight prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r063",
+    "sheet_id": "s010",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Borboleta Lupa-Verde",
+    "character_desc": "Borboleta criteriosa com asas de checklists com vistos verdes e xis vermelhos em papel, evocando o QA Engineer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as test-checklist rows with green checks and red crosses, tiny paper magnifying glass prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r064",
+    "sheet_id": "s010",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Mariposa Autômato",
+    "character_desc": "Mariposa metódica com asas de scripts de teste em loop de papel, evocando o SDET de automação.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as looping automated-test scripts and gear-robots, tiny paper play-button prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r065",
+    "sheet_id": "s010",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Mariposa Cronômetro",
+    "character_desc": "Mariposa tensa com asas de gráficos de carga e medidores no limite em papel, evocando o Performance Tester.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned with load-test spike graphs and stress gauges, tiny paper stopwatch prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r066",
+    "sheet_id": "s010",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Borboleta Roteiro",
+    "character_desc": "Borboleta cuidadosa com asas de casos de teste passo-a-passo em papel, evocando o Manual Tester.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as step-by-step test-case checklists, tiny paper clipboard prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r067",
+    "sheet_id": "s010",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Borboleta Ponte-Inclusiva",
+    "character_desc": "Borboleta atenciosa com asas de símbolo de acessibilidade sobre grade de teste em papel, evocando o Accessibility Tester.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings featuring an accessibility emblem over a test-checklist grid, tiny paper screen-reader wave prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r068",
+    "sheet_id": "s010",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Borboleta Manuscrito",
+    "character_desc": "Borboleta clara com asas de páginas de documentação e marcadores em papel, evocando o Technical Writer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings shaped as layered documentation pages with tab bookmarks, tiny paper fountain-pen prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r069",
+    "sheet_id": "s010",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Borboleta Megafone",
+    "character_desc": "Borboleta expansiva com asas de balões de comunidade e slides em papel, evocando o Developer Advocate.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as community speech bubbles and presentation slides, tiny paper megaphone prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r070",
+    "sheet_id": "s010",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Borboleta Bússola-Editorial",
+    "character_desc": "Borboleta planejadora com asas de calendário de conteúdo e trilhas de papel, evocando o Content Strategist.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as a content calendar grid with pillar-path lines, tiny paper compass prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r071",
+    "sheet_id": "s010",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Borboleta Poliglota",
+    "character_desc": "Borboleta multicultural com asas de bandeirinhas e balões de idiomas em papel, evocando o Localization Engineer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings collaged from multi-language speech bubbles and small flag banners, tiny paper globe prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r072",
+    "sheet_id": "s010",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Borboleta Protótipo",
+    "character_desc": "Borboleta criativa com asas de telas conectadas e fluxos de papel, evocando o Product Designer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as connected prototype screens linked by flow arrows, tiny paper stylus prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r073",
+    "sheet_id": "s010",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Borboleta Paleta",
+    "character_desc": "Borboleta colorida com asas de amostras de cor e formas geométricas em papel, evocando o Visual Designer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings arranged as color-swatch panels and geometric shapes, tiny paper paint-palette prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r074",
+    "sheet_id": "s010",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Borboleta Toque",
+    "character_desc": "Borboleta responsiva com asas de gestos e estados de botão em papel, evocando o Interaction Designer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as tap-gesture ripples and button-state layers, tiny paper cursor prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r075",
+    "sheet_id": "s010",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Borboleta Rastro",
+    "character_desc": "Borboleta dançante com asas de trilhas de movimento e curvas de papel, evocando o Motion Designer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned with motion-trail arcs and easing curves, tiny paper spark prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r076",
+    "sheet_id": "s010",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Borboleta Pincel",
+    "character_desc": "Borboleta artística com asas ilustradas em traços e camadas de papel, evocando o Illustrator.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings illustrated with layered brush strokes and doodles, tiny paper paintbrush and inkpot props, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r077",
+    "sheet_id": "s010",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Borboleta Sprite",
+    "character_desc": "Borboleta lúdica com asas de folha de ícones e sprites em grade de papel, evocando o Asset Designer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings tiled as a sprite-sheet grid of tiny paper icons, tiny paper palette prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r078",
+    "sheet_id": "s010",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Borboleta Marca",
+    "character_desc": "Borboleta icônica com asas de logotipo e faixas de identidade em papel, evocando o Brand Designer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings arranged as a logo mark with brand-ribbon banners, tiny paper stamp prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r079",
+    "sheet_id": "s010",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Mariposa Onda-Som",
+    "character_desc": "Mariposa sonora com asas de ondas sonoras e notas musicais recortadas em papel, evocando o Sound Designer.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as sound waveforms and musical notes, tiny paper headphone prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r080",
+    "sheet_id": "s010",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Borboleta Poliedro",
+    "character_desc": "Borboleta escultural com asas de malhas 3D e wireframes facetados em papel, evocando o 3D Artist.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings cut as faceted 3D wireframe meshes and polygon shapes, tiny paper sculpting-tool prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r081",
+    "sheet_id": "s010",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Borboleta Dado",
+    "character_desc": "Borboleta divertida com asas de tabuleiro e peças de jogo em papel, evocando o Game Designer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as a board-game grid with dice and game tokens, tiny paper controller prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r082",
+    "sheet_id": "s010",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Borboleta Mapa-Fase",
+    "character_desc": "Borboleta aventureira com asas de mapa de fase com plataformas em papel, evocando o Level Designer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as a side-scroller level map with platforms and coins, tiny paper flag-checkpoint prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r083",
+    "sheet_id": "s010",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Borboleta Enredo",
+    "character_desc": "Borboleta contadora com asas de árvore de diálogos e ramos de história em papel, evocando o Narrative Designer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings cut as a branching dialogue-tree story map, tiny paper open-book prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r084",
+    "sheet_id": "s010",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Borboleta Joystick",
+    "character_desc": "Borboleta pixelada com asas de sprites de jogo e blocos retrô em papel, evocando o Game Developer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings tiled with pixel-art game sprites and retro blocks, tiny paper joystick prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r085",
+    "sheet_id": "s010",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Borboleta Prisma",
+    "character_desc": "Borboleta luminosa com asas de triângulos de shader e gradientes de luz em papel, evocando o Graphics/Shader Engineer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as shader triangles with layered light gradients, tiny paper prism prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r086",
+    "sheet_id": "s010",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Mariposa Circuito",
+    "character_desc": "Mariposa técnica com asas de placa de circuito e microchips em papel, evocando o Embedded Engineer.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings cut as circuit-board traces with tiny microchip tiles, tiny paper resistor prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r087",
+    "sheet_id": "s010",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Mariposa Núcleo",
+    "character_desc": "Mariposa baixo-nível com asas de código binário e chips gravados em papel, evocando o Firmware Engineer.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned with binary streams over an engraved chip, tiny paper flash-memory prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r088",
+    "sheet_id": "s010",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Mariposa Sensor",
+    "character_desc": "Mariposa conectada com asas de dispositivos e ondas de sinal em papel, evocando o IoT Engineer.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as networked smart-devices emitting signal waves, tiny paper antenna prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r089",
+    "sheet_id": "s010",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Borboleta Corrente",
+    "character_desc": "Borboleta cristalina com asas de blocos encadeados e elos de papel, evocando o Blockchain Developer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings cut as a chain of linked blocks with hash patterns, tiny paper coin prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r090",
+    "sheet_id": "s010",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Mariposa Contrato",
+    "character_desc": "Mariposa vigilante com asas de código de contrato e lupas sobre elos de papel, evocando o Smart Contract Auditor.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as smart-contract code panels over a block chain, tiny paper magnifying glass and shield props, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r091",
+    "sheet_id": "s010",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Borboleta Portal",
+    "character_desc": "Borboleta imersiva com asas de visor holográfico e camadas de realidade em papel, evocando o AR/VR Engineer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings shaped as a stereoscopic headset visor with floating holographic layers, tiny paper depth-grid prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r092",
+    "sheet_id": "s010",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Mariposa Autômato-Metal",
+    "character_desc": "Mariposa mecânica com asas de braços robóticos e engrenagens de papel, evocando o Robotics Engineer.",
+    "nano_prompt": "A single papercraft moth character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings cut as robotic arm segments and gears, tiny paper servo-motor prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r093",
+    "sheet_id": "s010",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Borboleta Foguete",
+    "character_desc": "Borboleta ambiciosa com asas de gráficos ascendentes e funis de papel, evocando o Growth Engineer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned with upward growth graphs and conversion funnels, tiny paper rocket prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r094",
+    "sheet_id": "s010",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Borboleta Rankeada",
+    "character_desc": "Borboleta estratégica com asas de resultados de busca e setas de subida em papel, evocando o SEO Specialist.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as ranked search-result rows with rising arrows, tiny paper keyword-tag prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r095",
+    "sheet_id": "s010",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Borboleta Funil",
+    "character_desc": "Borboleta persuasiva com asas de fluxos de campanha e automações em papel, evocando o Marketing Technologist.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as marketing-funnel flows and automation nodes, tiny paper envelope prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r096",
+    "sheet_id": "s010",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Borboleta Encaixe",
+    "character_desc": "Borboleta prestativa com asas de peças de quebra-cabeça se encaixando em papel, evocando o Solutions Engineer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings cut as interlocking puzzle pieces bridging systems, tiny paper handshake prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r097",
+    "sheet_id": "s010",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Borboleta Salva-Vidas",
+    "character_desc": "Borboleta solícita com asas de balões de suporte e boias de papel, evocando o Support Engineer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as support chat bubbles and a lifebuoy ring, tiny paper headset prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r098",
+    "sheet_id": "s010",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Borboleta Aperto-de-Mão",
+    "character_desc": "Borboleta carismática com asas de gráficos de valor e demos em papel, evocando o Sales Engineer.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned with value charts and demo-screen tiles, tiny paper handshake and briefcase props, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r099",
+    "sheet_id": "s010",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Borboleta Moeda",
+    "character_desc": "Borboleta econômica com asas de gráficos de custo e cifrões de papel, evocando o FinOps Analyst.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned with cost graphs and currency symbols, tiny paper piggy-bank prop, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s010-r100",
+    "sheet_id": "s010",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Borboleta Balança",
+    "character_desc": "Borboleta ponderada com asas de cláusulas de contrato e selos de papel, evocando o Legal Counsel.",
+    "nano_prompt": "A single papercraft butterfly character, made of layered hand-cut paper with soft drop shadows between the stacked paper layers, full symmetrical wingspan shown from a top-down specimen view at a consistent uniform scale, wings patterned as contract-clause columns with an official seal, tiny paper scales-of-justice and gavel props, matte textured cardstock, delicate cut-paper edges and clean silhouette, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

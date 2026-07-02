@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s032-r001",
+    "sheet_id": "s032",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Ari, o Arquiteto",
+    "character_desc": "Persona que rascunha o sistema inteiro na cabeça; adereços de planejador de estruturas.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Ari, o Arquiteto representing a Arquiteto de Solução, wearing hard hat, holding a blueprint scroll, confident visionary expression, calm authoritative pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r002",
+    "sheet_id": "s032",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Téo, o Tech Lead",
+    "character_desc": "Persona que guia o time no dia a dia; adereços de líder técnico prático.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Téo, o Tech Lead representing a Tech Lead, wearing headset, holding a small clipboard and pen, focused decisive smile, guiding gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r003",
+    "sheet_id": "s032",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Stella, a Staff",
+    "character_desc": "Persona sênior que resolve o impossível; adereços de veterana influente.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Stella, a Staff representing a Staff Engineer, wearing smart blazer, holding a coffee mug and a wrench, wise experienced expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r004",
+    "sheet_id": "s032",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Prisca, a Principal",
+    "character_desc": "Persona de altíssima senioridade; adereços de estrategista técnica.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Prisca, a Principal representing a Principal Engineer, wearing glasses and a subtle crown pin, holding a strategy compass, poised expert look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r005",
+    "sheet_id": "s032",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Ema, a EM",
+    "character_desc": "Persona que cuida das pessoas do time; adereços de gestora de engenharia.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Ema, a EM representing a Engineering Manager, wearing lanyard badge, holding a heart-shaped notepad, warm supportive smile, open arms, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r006",
+    "sheet_id": "s032",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Pam, a PM",
+    "character_desc": "Persona dona do produto; adereços de descoberta de necessidades.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Pam, a PM representing a Product Manager, holding a magnifying glass over a lightbulb icon, curious inspired expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r007",
+    "sheet_id": "s032",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Otto, o PO",
+    "character_desc": "Persona que prioriza o backlog; adereços de dono do valor.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Otto, o PO representing a Product Owner, holding a stack of priority cards, checkmark badge, decisive organizing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r008",
+    "sheet_id": "s032",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Grace, a Program",
+    "character_desc": "Persona que orquestra vários projetos; adereços de coordenadora ampla.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Grace, a Program representing a Program Manager, holding a fan of interconnected roadmap sheets, orchestrating gesture, panoramic gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r009",
+    "sheet_id": "s032",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Jota, o PM de Projeto",
+    "character_desc": "Persona que fecha prazos; adereços de gestor de cronograma.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Jota, o PM de Projeto representing a Project Manager, holding a Gantt-chart tablet and a stopwatch, punctual organized expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r010",
+    "sheet_id": "s032",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Sam, o Scrum",
+    "character_desc": "Persona facilitador ágil; adereços de sprint e cerimônias.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Sam, o Scrum representing a Scrum Master, holding sticky notes and a small bell, facilitating cheerful gesture, agile ceremony vibe, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r011",
+    "sheet_id": "s032",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Beto, o Backend",
+    "character_desc": "Persona que constrói os bastidores; adereços de servidor e lógica.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Beto, o Backend representing a Backend Developer, holding a server-rack icon and a gear, hoodie, quiet focused expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r012",
+    "sheet_id": "s032",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Ana API",
+    "character_desc": "Persona que desenha contratos entre sistemas; adereços de conectores.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Ana API representing a API Designer, holding two puzzle-piece connectors clicking together, tidy methodical smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r013",
+    "sheet_id": "s032",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Micah, o Micro",
+    "character_desc": "Persona que divide tudo em serviços pequenos; adereços modulares.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Micah, o Micro representing a Microservices Engineer, holding several small linked cube modules, modular tidy pose, systematic expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r014",
+    "sheet_id": "s032",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Duda, a Pipeline",
+    "character_desc": "Persona que move dados de ponta a ponta; adereços de esteira.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Duda, a Pipeline representing a Pipeline Developer, holding a flowing conveyor-belt icon with data drops, steady flow gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r015",
+    "sheet_id": "s032",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Dino, o Data Eng",
+    "character_desc": "Persona que constrói canos de dados; adereços de encanamento de dados.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Dino, o Data Eng representing a Data Engineer, holding a large data pipe wrench and a barrel of data, sturdy builder pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r016",
+    "sheet_id": "s032",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Dora, a DBA",
+    "character_desc": "Persona guardiã do banco; adereços de cilindros de dados.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Dora, a DBA representing a Database Administrator, holding a database-cylinder icon and a key, protective guardian expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r017",
+    "sheet_id": "s032",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Quel, a SQL",
+    "character_desc": "Persona que fala com o banco em queries; adereços de consultas.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Quel, a SQL representing a SQL Specialist, holding a query card with a SELECT arrow, precise clever expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r018",
+    "sheet_id": "s032",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Cacá, o Cache",
+    "character_desc": "Persona que acelera tudo guardando na memória; adereços de velocidade.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Cacá, o Cache representing a Caching Engineer, holding a lightning bolt over a memory chip, speedy grin, motion vibe, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r019",
+    "sheet_id": "s032",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Fila, a Queue",
+    "character_desc": "Persona que enfileira mensagens; adereços de ordem e entrega.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Fila, a Queue representing a Message Queue Engineer, holding a row of stacked envelope tokens in a line, orderly patient expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r020",
+    "sheet_id": "s032",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Sol, a Search",
+    "character_desc": "Persona que acha qualquer coisa; adereços de busca indexada.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Sol, a Search representing a Search Engineer, holding a magnifying glass over an index card, sharp hunting expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r021",
+    "sheet_id": "s032",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Fê, a Frontend",
+    "character_desc": "Persona que monta a interface; adereços de telas e componentes.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Fê, a Frontend representing a Frontend Developer, holding a browser-window frame and a paintbrush, bright creative smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r022",
+    "sheet_id": "s032",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Uli, o UI Eng",
+    "character_desc": "Persona que codifica a interface pixel-perfect; adereços de componentes.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Uli, o UI Eng representing a UI Engineer, holding a component-block palette and a ruler, precise tidy expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r023",
+    "sheet_id": "s032",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Uxi, a UX",
+    "character_desc": "Persona que desenha a experiência; adereços de fluxo do usuário.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Uxi, a UX representing a UX Designer, holding a user-flow arrow map and sticky notes, empathetic thoughtful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r024",
+    "sheet_id": "s032",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Sy, a Design System",
+    "character_desc": "Persona que padroniza componentes; adereços de biblioteca de peças.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Sy, a Design System representing a Design Systems Engineer, holding a grid of matching UI tokens and swatches, orderly systematic smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r025",
+    "sheet_id": "s032",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Aya, a A11y",
+    "character_desc": "Persona que torna tudo acessível; adereços universais de acesso.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Aya, a A11y representing a Accessibility Specialist, holding a universal accessibility symbol and a contrast card, inclusive warm expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r026",
+    "sheet_id": "s032",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Vel, o Web Perf",
+    "character_desc": "Persona que deixa a página voar; adereços de velocímetro.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Vel, o Web Perf representing a Web Performance Engineer, holding a speedometer gauge and a stopwatch, fast focused grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r027",
+    "sheet_id": "s032",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Cássia, a CSS",
+    "character_desc": "Persona que estiliza cada pixel; adereços de estilo visual.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Cássia, a CSS representing a CSS Specialist, holding a color swatch fan and a styling brush, chic tidy expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r028",
+    "sheet_id": "s032",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Nino, o Animation",
+    "character_desc": "Persona que dá vida ao movimento; adereços de quadros animados.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Nino, o Animation representing a Animation Engineer, holding a motion-arc curve and small keyframe dots, playful energetic look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r029",
+    "sheet_id": "s032",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Mila, a Mobile",
+    "character_desc": "Persona que constrói para o celular; adereços de app portátil.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Mila, a Mobile representing a Mobile Developer, holding a smartphone frame with app tiles, on-the-go confident smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r030",
+    "sheet_id": "s032",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Isa, a iOS",
+    "character_desc": "Persona do ecossistema da maçã; adereços de app polido.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Isa, a iOS representing a iOS Developer, holding a rounded-corner phone with a subtle apple silhouette, sleek minimalist expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r031",
+    "sheet_id": "s032",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Andy, o Android",
+    "character_desc": "Persona do robô verde; adereços de app aberto.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Andy, o Android representing a Android Developer, holding a phone with a friendly green robot mascot, easygoing cheerful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r032",
+    "sheet_id": "s032",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Rê, a React Native",
+    "character_desc": "Persona que faz um código virar dois apps; adereços cross-platform.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Rê, a React Native representing a React Native Developer, holding two phone frames linked by an atom orbit icon, versatile bright expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r033",
+    "sheet_id": "s032",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Flô, a Flutter",
+    "character_desc": "Persona que pinta widgets fluidos; adereços de borboleta de widgets.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Flô, a Flutter representing a Flutter Developer, holding a phone with a blue butterfly-widget motif, smooth creative smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r034",
+    "sheet_id": "s032",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Cida, a Data Scientist",
+    "character_desc": "Persona que extrai padrões dos dados; adereços de laboratório de dados.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Cida, a Data Scientist representing a Data Scientist, wearing lab coat, holding a beaker of data points and a scatter-plot card, curious analytical look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r035",
+    "sheet_id": "s032",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Melo, o ML Eng",
+    "character_desc": "Persona que treina modelos; adereços de rede neural.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Melo, o ML Eng representing a ML Engineer, holding a neural-network node diagram and a gear, focused builder expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r036",
+    "sheet_id": "s032",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Ops, a MLOps",
+    "character_desc": "Persona que coloca modelos em produção; adereços de esteira de ML.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Ops, a MLOps representing a MLOps Engineer, holding a model box on a deployment conveyor with a gear, steady operational look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r037",
+    "sheet_id": "s032",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Ravi, o AI Researcher",
+    "character_desc": "Persona que investiga fronteiras da IA; adereços acadêmicos.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Ravi, o AI Researcher representing a AI Researcher, wearing round glasses, holding a research paper and a brain icon, contemplative curious expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r038",
+    "sheet_id": "s032",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Prô, o Prompt",
+    "character_desc": "Persona que conversa com a IA; adereços de balões de prompt.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Prô, o Prompt representing a Prompt Engineer, holding a speech-bubble card with a spark and a magic wand, clever crafty smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r039",
+    "sheet_id": "s032",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Nel, a NLP",
+    "character_desc": "Persona que ensina máquina a entender texto; adereços de linguagem.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Nel, a NLP representing a NLP Engineer, holding a chat-bubble with abstract glyphs and a book, thoughtful linguistic look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r040",
+    "sheet_id": "s032",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Vic, o CV Eng",
+    "character_desc": "Persona que ensina máquina a ver; adereços de visão.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Vic, o CV Eng representing a Computer Vision Engineer, holding a camera-eye icon with a bounding-box frame, observant sharp expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r041",
+    "sheet_id": "s032",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Lana, a Data Analyst",
+    "character_desc": "Persona que conta histórias com números; adereços de relatórios.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Lana, a Data Analyst representing a Data Analyst, holding a bar-chart clipboard and a pointer, insightful clear expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r042",
+    "sheet_id": "s032",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Bia, a BI",
+    "character_desc": "Persona dos painéis executivos; adereços de dashboards.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Bia, a BI representing a BI Analyst, holding a dashboard tile with gauges and a trend arrow, confident presenting smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r043",
+    "sheet_id": "s032",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Lex, o Analytics Eng",
+    "character_desc": "Persona que modela dados para análise; adereços de tabelas limpas.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Lex, o Analytics Eng representing a Analytics Engineer, holding stacked table layers with a transform arrow, tidy methodical look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r044",
+    "sheet_id": "s032",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Vivi, a DataViz",
+    "character_desc": "Persona que transforma dados em arte visual; adereços de gráficos bonitos.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Vivi, a DataViz representing a Data Viz Specialist, holding a colorful pie-and-line chart palette, artistic bright expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r045",
+    "sheet_id": "s032",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Dev, o DevOps",
+    "character_desc": "Persona que une dev e ops; adereços de automação infinita.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Dev, o DevOps representing a DevOps Engineer, holding an infinity-loop icon and a wrench, pragmatic energetic smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r046",
+    "sheet_id": "s032",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Sara, a SRE",
+    "character_desc": "Persona que mantém tudo no ar; adereços de confiabilidade.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Sara, a SRE representing a Site Reliability Engineer, holding a heartbeat-uptime monitor and a shield, calm reliable vigilant expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r047",
+    "sheet_id": "s032",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Plat, o Platform",
+    "character_desc": "Persona que constrói a base para os times; adereços de plataforma.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Plat, o Platform representing a Platform Engineer, holding a layered platform slab with tool icons, supportive sturdy pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r048",
+    "sheet_id": "s032",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Cléo, a Cloud",
+    "character_desc": "Persona que projeta na nuvem; adereços de nuvens conectadas.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Cléo, a Cloud representing a Cloud Architect, holding a fluffy cloud icon with connected nodes, breezy visionary expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r049",
+    "sheet_id": "s032",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Ká, o K8s",
+    "character_desc": "Persona que pilota contêineres; adereços de leme e cubos.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Ká, o K8s representing a Kubernetes Admin, wearing a captain hat, holding a ship-wheel helm with container cubes, steady commanding look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r050",
+    "sheet_id": "s032",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Ned, o Network",
+    "character_desc": "Persona que conecta os fios; adereços de rede e cabos.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Ned, o Network representing a Network Engineer, holding a network-node web and an ethernet cable, connected attentive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r051",
+    "sheet_id": "s032",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Adam, o SysAdmin",
+    "character_desc": "Persona que cuida das máquinas; adereços de terminal e chaves.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Adam, o SysAdmin representing a Systems Administrator, holding a terminal-screen icon and a bunch of keys, dependable watchful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r052",
+    "sheet_id": "s032",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Rel, o Release",
+    "character_desc": "Persona que empacota e libera versões; adereços de lançamento.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Rel, o Release representing a Release Engineer, holding a tagged release box with a rocket sticker, punctual proud smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r053",
+    "sheet_id": "s032",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Bru, o Build",
+    "character_desc": "Persona que compila tudo; adereços de fábrica de build.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Bru, o Build representing a Build Engineer, holding a gear-cog assembly and a package box, industrious focused expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r054",
+    "sheet_id": "s032",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Cici, a CI/CD",
+    "character_desc": "Persona que automatiza a esteira de entrega; adereços de pipeline verde.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Cici, a CI/CD representing a CI/CD Engineer, holding a conveyor with green checkmark stages, smooth automated smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r055",
+    "sheet_id": "s032",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Seg, o Security",
+    "character_desc": "Persona guardião da segurança; adereços de escudo e cadeado.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Seg, o Security representing a Security Engineer, holding a shield with a padlock, alert protective expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r056",
+    "sheet_id": "s032",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Pen, a Pentester",
+    "character_desc": "Persona que invade para proteger; adereços de hacker ético.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Pen, a Pentester representing a Penetration Tester, wearing a hooded top and a white hat, holding a lock-pick and a bug icon, sly clever grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r057",
+    "sheet_id": "s032",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Ari, a AppSec",
+    "character_desc": "Persona que blinda o app; adereços de código seguro.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Ari, a AppSec representing a AppSec Engineer, holding a code-window with a shield overlay, vigilant careful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r058",
+    "sheet_id": "s032",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cripto, o Crypto",
+    "character_desc": "Persona que guarda segredos em códigos; adereços de cifras.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Cripto, o Crypto representing a Cryptographer, holding a key and a lock with abstract cipher glyphs, secretive intelligent look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r059",
+    "sheet_id": "s032",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Comp, a Compliance",
+    "character_desc": "Persona que segue as regras; adereços de checklist regulatório.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Comp, a Compliance representing a Compliance Officer, holding a checklist scroll with a seal stamp, formal orderly expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r060",
+    "sheet_id": "s032",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Priv, a Privacy",
+    "character_desc": "Persona que protege dados pessoais; adereços de privacidade.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Priv, a Privacy representing a Privacy Engineer, holding a shield with an eye-off icon and a user card, discreet caring expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r061",
+    "sheet_id": "s032",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Rod, o Incident",
+    "character_desc": "Persona que apaga incêndios em produção; adereços de resposta a incidente.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Rod, o Incident representing a Incident Responder, wearing a fire-helmet, holding an alarm bell and a fire extinguisher, urgent focused expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r062",
+    "sheet_id": "s032",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Mod, o Threat Modeler",
+    "character_desc": "Persona que antecipa ameaças; adereços de mapa de riscos.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Mod, o Threat Modeler representing a Threat Modeler, holding a threat-map board with warning markers, strategic wary look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r063",
+    "sheet_id": "s032",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Quel, a QA",
+    "character_desc": "Persona que caça bugs; adereços de qualidade.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Quel, a QA representing a QA Engineer, holding a magnifying glass over a checklist and a bug net, meticulous keen expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r064",
+    "sheet_id": "s032",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Deth, o SDET",
+    "character_desc": "Persona que automatiza testes; adereços de robô testador.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Deth, o SDET representing a SDET (Automação), holding a small test-robot and a green check flask, techy focused smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r065",
+    "sheet_id": "s032",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Perf, a Perf Tester",
+    "character_desc": "Persona que estressa o sistema; adereços de carga.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Perf, a Perf Tester representing a Performance Tester, holding a load-gauge dial and a stack of weights, intense measuring expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r066",
+    "sheet_id": "s032",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Mari, a Manual Tester",
+    "character_desc": "Persona que testa na mão; adereços de roteiro de teste.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Mari, a Manual Tester representing a Manual Tester, holding a test-case checklist and a tapping finger, patient careful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r067",
+    "sheet_id": "s032",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Alia, a A11y Tester",
+    "character_desc": "Persona que testa acessibilidade; adereços de leitor de tela.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Alia, a A11y Tester representing a Accessibility Tester, holding an accessibility symbol and a screen-reader headset, attentive inclusive look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r068",
+    "sheet_id": "s032",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Dô, o Docs Writer",
+    "character_desc": "Persona que documenta tudo; adereços de escrita técnica.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Dô, o Docs Writer representing a Technical Writer, holding a manual book and a pen, articulate tidy expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r069",
+    "sheet_id": "s032",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Ava, a DevRel",
+    "character_desc": "Persona que fala com a comunidade dev; adereços de palco e microfone.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Ava, a DevRel representing a Developer Advocate, holding a microphone and a heart-with-code badge, outgoing friendly smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r070",
+    "sheet_id": "s032",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Cô, a Content",
+    "character_desc": "Persona que planeja conteúdo; adereços de estratégia editorial.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Cô, a Content representing a Content Strategist, holding a content-calendar board and a pen, organized creative expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r071",
+    "sheet_id": "s032",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Loc, a i18n",
+    "character_desc": "Persona que traduz para o mundo; adereços de idiomas.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Loc, a i18n representing a Localization Engineer, holding a globe with speech-bubble flags, worldly friendly look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r072",
+    "sheet_id": "s032",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Duca, o Product Designer",
+    "character_desc": "Persona que desenha o produto inteiro; adereços de design de produto.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Duca, o Product Designer representing a Product Designer, holding a wireframe board and a pen tablet, thoughtful creative expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r073",
+    "sheet_id": "s032",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Val, a Visual",
+    "character_desc": "Persona do design visual; adereços de composição e cor.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Val, a Visual representing a Visual Designer, holding a color wheel and a layout frame, aesthetic refined smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r074",
+    "sheet_id": "s032",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Inti, o Interaction",
+    "character_desc": "Persona que desenha interações; adereços de gestos e toques.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Inti, o Interaction representing a Interaction Designer, holding a tap-gesture icon and a flow arrow, dynamic engaged expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r075",
+    "sheet_id": "s032",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Moti, a Motion",
+    "character_desc": "Persona que anima o design; adereços de curvas de movimento.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Moti, a Motion representing a Motion Designer, holding a motion-curve path with keyframe dots, lively rhythmic look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r076",
+    "sheet_id": "s032",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Lu, o Illustrator",
+    "character_desc": "Persona que ilustra à mão; adereços de desenho.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Lu, o Illustrator representing a Illustrator, holding a pen tablet and a stylus with a doodle spark, imaginative playful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r077",
+    "sheet_id": "s032",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Aza, a Asset Designer",
+    "character_desc": "Persona que cria os assets do jogo/produto; adereços de sprites.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Aza, a Asset Designer representing a Asset Designer, holding a sprite-sheet tile and a stylus, crafty focused expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r078",
+    "sheet_id": "s032",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Bran, a Brand",
+    "character_desc": "Persona que constrói a marca; adereços de identidade visual.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Bran, a Brand representing a Brand Designer, holding a logo-badge card and a color swatch, confident stylish smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r079",
+    "sheet_id": "s032",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Zé, o Sound",
+    "character_desc": "Persona que desenha o som; adereços de áudio.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Zé, o Sound representing a Sound Designer, wearing studio headphones, holding a waveform card and a small speaker, groovy focused expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r080",
+    "sheet_id": "s032",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Trixi, a 3D",
+    "character_desc": "Persona que esculpe em 3D; adereços de modelagem tridimensional.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Trixi, a 3D representing a 3D Artist, holding a 3D wireframe cube and a sculpting stylus, spatial creative look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r081",
+    "sheet_id": "s032",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Gigi, a Game Designer",
+    "character_desc": "Persona que desenha a jogabilidade; adereços de mecânicas.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Gigi, a Game Designer representing a Game Designer, holding a game controller and a dice, playful inventive smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r082",
+    "sheet_id": "s032",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Nível, o Level Designer",
+    "character_desc": "Persona que monta as fases; adereços de mapa de nível.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Nível, o Level Designer representing a Level Designer, holding a level-map grid with a flag marker, strategic playful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r083",
+    "sheet_id": "s032",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Nara, a Narrative",
+    "character_desc": "Persona que escreve a história do jogo; adereços de roteiro.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Nara, a Narrative representing a Narrative Designer, holding an open story scroll and a quill, imaginative dreamy look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r084",
+    "sheet_id": "s032",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Gael, o Game Dev",
+    "character_desc": "Persona que programa o jogo; adereços de engine.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Gael, o Game Dev representing a Game Developer, holding a game-controller and a gear with a play-triangle, focused playful smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r085",
+    "sheet_id": "s032",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Sha, o Shader",
+    "character_desc": "Persona que pinta com shaders; adereços de gráficos.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Sha, o Shader representing a Graphics/Shader Engineer, holding a glowing gradient sphere and a light-ray icon, mesmerized technical expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r086",
+    "sheet_id": "s032",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Emb, a Embedded",
+    "character_desc": "Persona que programa hardware pequeno; adereços de placa.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Emb, a Embedded representing a Embedded Engineer, holding a small circuit board and a soldering iron, precise focused look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r087",
+    "sheet_id": "s032",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Fir, o Firmware",
+    "character_desc": "Persona que dá alma ao chip; adereços de baixo nível.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Fir, o Firmware representing a Firmware Engineer, holding a microchip with tiny code lines and a screwdriver, meticulous expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r088",
+    "sheet_id": "s032",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Yara, a IoT",
+    "character_desc": "Persona que conecta objetos; adereços de dispositivos.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Yara, a IoT representing a IoT Engineer, holding a smart-home hub with connected gadget icons, curious connected smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r089",
+    "sheet_id": "s032",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Bloq, o Blockchain",
+    "character_desc": "Persona que constrói cadeias de blocos; adereços de blocos ligados.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Bloq, o Blockchain representing a Blockchain Developer, holding a chain of linked cube-blocks and a coin, resolute crypto expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r090",
+    "sheet_id": "s032",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Aud, a Smart Contract",
+    "character_desc": "Persona que audita contratos; adereços de lupa em código.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Aud, a Smart Contract representing a Smart Contract Auditor, holding a contract-scroll with a magnifying glass and a chain link, scrutinizing careful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r091",
+    "sheet_id": "s032",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Aro, o AR/VR",
+    "character_desc": "Persona da realidade imersiva; adereços de óculos VR.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Aro, o AR/VR representing a AR/VR Engineer, wearing a VR headset, holding a floating hologram cube, wonderstruck immersive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r092",
+    "sheet_id": "s032",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Robô, a Robotics",
+    "character_desc": "Persona que constrói robôs; adereços de braço robótico.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Robô, a Robotics representing a Robotics Engineer, holding a robotic-arm icon and a wrench, inventive precise smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r093",
+    "sheet_id": "s032",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Gwen, a Growth",
+    "character_desc": "Persona que faz o produto crescer; adereços de curva de crescimento.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Gwen, a Growth representing a Growth Engineer, holding an upward growth-arrow chart and a funnel, ambitious energetic expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r094",
+    "sheet_id": "s032",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Seo, o SEO",
+    "character_desc": "Persona que faz o site aparecer; adereços de busca e ranking.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Seo, o SEO representing a SEO Specialist, holding a magnifying glass with a rank-up arrow, strategic keen look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r095",
+    "sheet_id": "s032",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Marte, a Martech",
+    "character_desc": "Persona que une marketing e tech; adereços de automação de marketing.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Marte, a Martech representing a Marketing Technologist, holding a megaphone with a gear and a funnel, savvy upbeat smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r096",
+    "sheet_id": "s032",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Sol, o Solutions Eng",
+    "character_desc": "Persona que desenha soluções para clientes; adereços de encaixe.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Sol, o Solutions Eng representing a Solutions Engineer, holding a puzzle solution-piece and a handshake icon, helpful confident expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r097",
+    "sheet_id": "s032",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Sup, a Support",
+    "character_desc": "Persona que resolve o problema do usuário; adereços de suporte.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Sup, a Support representing a Support Engineer, wearing a headset, holding a chat-bubble with a checkmark, friendly patient smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r098",
+    "sheet_id": "s032",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Vera, a Sales Eng",
+    "character_desc": "Persona que vende com técnica; adereços de demo.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Vera, a Sales Eng representing a Sales Engineer, holding a demo-laptop and a handshake with a spark, persuasive warm smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r099",
+    "sheet_id": "s032",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Fin, a FinOps",
+    "character_desc": "Persona que controla custos da nuvem; adereços de finanças.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Fin, a FinOps representing a FinOps Analyst, holding a cloud with a dollar-tag and a calculator, thrifty analytical expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s032-r100",
+    "sheet_id": "s032",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Lê, a Legal",
+    "character_desc": "Persona que cuida do jurídico; adereços de lei.",
+    "nano_prompt": "Flat design vector user-persona avatar, bust portrait (head and shoulders only), clean geometric shapes, flat solid colors, subtle minimal shading, simple rounded facial features, modern UX persona-card icon style, persona named Lê, a Legal representing a Legal Counsel, holding a small justice-scale and a signed document, formal composed expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

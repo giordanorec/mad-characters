@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s085-r001",
+    "sheet_id": "s085",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Blu Planta",
+    "character_desc": "Mascote-planta que encarna o Arquiteto de Solução: exibe um pergaminho de blueprint e um esquadro em T, com capacete de obra.",
+    "nano_prompt": "A single full-body generic mascot holding an unrolled neon blueprint scroll and a T-square, wearing a hard hat, gesturing at a floor-plan, rendered as glowing bent neon-glass tubes with bright cyan glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r002",
+    "sheet_id": "s085",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Lumi Líder",
+    "character_desc": "Mascote que lidera o time técnico: batuta de regente, headset e uma prancheta de tarefas.",
+    "nano_prompt": "A single full-body generic mascot holding a conductor's baton and a checklist clipboard, wearing a headset, one arm raised guiding a team, rendered as glowing bent neon-glass tubes with bright magenta glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r003",
+    "sheet_id": "s085",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Staffi",
+    "character_desc": "Mascote Staff Engineer conectando tudo: rodeado por engrenagens interligadas que abrangem vários sistemas.",
+    "nano_prompt": "A single full-body generic mascot surrounded by a halo of interlocking neon gears spanning several small screens, confident wide stance, rendered as glowing bent neon-glass tubes with bright amber glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r004",
+    "sheet_id": "s085",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Príncipe Neon",
+    "character_desc": "Mascote Principal Engineer: pequena coroa de engrenagens e um compasso, olhar de decisão maior.",
+    "nano_prompt": "A single full-body generic mascot wearing a small crown of gears, holding a compass and a strategy diagram, regal confident pose, rendered as glowing bent neon-glass tubes with bright gold glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r005",
+    "sheet_id": "s085",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Gerêncio",
+    "character_desc": "Mascote Engineering Manager: segura um organograma em árvore e uma caneca, cuidando das pessoas.",
+    "nano_prompt": "A single full-body generic mascot holding a branching org-chart tree and a coffee mug, warm caring expression, small people icons around, rendered as glowing bent neon-glass tubes with bright teal glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r006",
+    "sheet_id": "s085",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Prod",
+    "character_desc": "Mascote Product Manager: aponta para um roadmap com uma lâmpada de ideia acesa acima.",
+    "nano_prompt": "A single full-body generic mascot pointing at a neon roadmap board with a glowing lightbulb above the head, excited planning pose, rendered as glowing bent neon-glass tubes with bright pink glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r007",
+    "sheet_id": "s085",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Owney",
+    "character_desc": "Mascote Product Owner: abraça uma pilha de cartões de backlog priorizados, pequena coroa.",
+    "nano_prompt": "A single full-body generic mascot hugging a prioritized stack of neon backlog cards, tiny crown, decisive ownership stance, rendered as glowing bent neon-glass tubes with bright orange glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r008",
+    "sheet_id": "s085",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Progrão",
+    "character_desc": "Mascote Program Manager: faz malabarismo com vários círculos-projeto ligados por linhas.",
+    "nano_prompt": "A single full-body generic mascot juggling several linked neon project circles connected by lines, overseeing multiple Gantt bars, rendered as glowing bent neon-glass tubes with bright violet glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r009",
+    "sheet_id": "s085",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Zé Projeto",
+    "character_desc": "Mascote Project Manager: segura um gráfico de Gantt e um cronômetro grande.",
+    "nano_prompt": "A single full-body generic mascot holding a neon Gantt chart and a large stopwatch, checking a timeline, organized pose, rendered as glowing bent neon-glass tubes with bright lime glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r010",
+    "sheet_id": "s085",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Scrummy",
+    "character_desc": "Mascote Scrum Master: cercado de post-its e setas circulares de sprint.",
+    "nano_prompt": "A single full-body generic mascot surrounded by neon sticky notes and a circular sprint arrow loop, facilitating cheerful pose, rendered as glowing bent neon-glass tubes with bright green glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r011",
+    "sheet_id": "s085",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Backy",
+    "character_desc": "Mascote Backend Dev: fica na frente de um rack de servidores com engrenagens girando.",
+    "nano_prompt": "A single full-body generic mascot standing before a glowing neon server rack with spinning gears, sleeves rolled up, focused, rendered as glowing bent neon-glass tubes with bright blue glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r012",
+    "sheet_id": "s085",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Api",
+    "character_desc": "Mascote API Designer: conecta dois plugues e segura chaves de código { }.",
+    "nano_prompt": "A single full-body generic mascot connecting two neon plug-and-socket connectors, holding floating curly-brace { } symbols, rendered as glowing bent neon-glass tubes with bright cyan glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r013",
+    "sheet_id": "s085",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Micro",
+    "character_desc": "Mascote Microservices Engineer: corpo formado por pequenas caixas hexagonais ligadas.",
+    "nano_prompt": "A single full-body generic mascot body made of a cluster of small linked neon hexagon service boxes connected by arrows, rendered as glowing bent neon-glass tubes with bright teal glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r014",
+    "sheet_id": "s085",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Pipe",
+    "character_desc": "Mascote Pipeline Dev: guia segmentos de cano por onde flui dado, com uma válvula.",
+    "nano_prompt": "A single full-body generic mascot guiding flowing neon pipe segments with a valve, data droplets streaming through, hands-on pose, rendered as glowing bent neon-glass tubes with bright amber glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r015",
+    "sheet_id": "s085",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Dadê",
+    "character_desc": "Mascote Data Engineer: despeja blocos de dado num funil que enche barris.",
+    "nano_prompt": "A single full-body generic mascot pouring neon data blocks into a funnel that fills data barrels, shovel in hand, industrious, rendered as glowing bent neon-glass tubes with bright orange glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r016",
+    "sheet_id": "s085",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Deby",
+    "character_desc": "Mascote DBA: abraça um cilindro de banco de dados e segura uma chave.",
+    "nano_prompt": "A single full-body generic mascot hugging a glowing neon database cylinder and holding a key, protective proud pose, rendered as glowing bent neon-glass tubes with bright magenta glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r017",
+    "sheet_id": "s085",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Sequel",
+    "character_desc": "Mascote SQL Specialist: examina uma grade de tabela com uma lupa.",
+    "nano_prompt": "A single full-body generic mascot inspecting a neon query table grid with a magnifying glass, pointing at a highlighted row, rendered as glowing bent neon-glass tubes with bright lime glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r018",
+    "sheet_id": "s085",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Cachê",
+    "character_desc": "Mascote Caching Engineer: gaveta ultrarrápida com um raio, entrega instantânea.",
+    "nano_prompt": "A single full-body generic mascot opening a fast neon drawer with a lightning bolt, delivering a cached item instantly, speedy pose, rendered as glowing bent neon-glass tubes with bright gold glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r019",
+    "sheet_id": "s085",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Filô",
+    "character_desc": "Mascote Message Queue Engineer: organiza uma fila de envelopes que avança em ordem.",
+    "nano_prompt": "A single full-body generic mascot organizing a neon queue line of envelopes moving in order into a pipe, orderly attentive pose, rendered as glowing bent neon-glass tubes with bright pink glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r020",
+    "sheet_id": "s085",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Busca",
+    "character_desc": "Mascote Search Engineer: segura uma lupa enorme sobre resultados alinhados.",
+    "nano_prompt": "A single full-body generic mascot holding an oversized neon magnifying glass over ranked result lines, discovering pose, rendered as glowing bent neon-glass tubes with bright cyan glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r021",
+    "sheet_id": "s085",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Fronty",
+    "character_desc": "Mascote Frontend Dev: emoldura uma janela de navegador brilhante à sua frente.",
+    "nano_prompt": "A single full-body generic mascot framing a glowing neon browser window with tabs and a cursor, presenting the UI, upbeat pose, rendered as glowing bent neon-glass tubes with bright violet glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r022",
+    "sheet_id": "s085",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Yui",
+    "character_desc": "Mascote UI Engineer: manipula botões e um toggle deslizante flutuantes.",
+    "nano_prompt": "A single full-body generic mascot arranging floating neon buttons and a slider toggle, tapping an interface control, tidy pose, rendered as glowing bent neon-glass tubes with bright teal glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r023",
+    "sheet_id": "s085",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Uxi",
+    "character_desc": "Mascote UX Designer: traça um caminho de jornada do usuário com um coração no fim.",
+    "nano_prompt": "A single full-body generic mascot tracing a neon user-journey path across wireframe boards ending in a heart, empathetic pose, rendered as glowing bent neon-glass tubes with bright pink glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r024",
+    "sheet_id": "s085",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Sisdê",
+    "character_desc": "Mascote Design Systems Engineer: organiza uma grade de swatches de componentes reutilizáveis.",
+    "nano_prompt": "A single full-body generic mascot arranging a neon grid of reusable component swatches and design tokens, systematic tidy pose, rendered as glowing bent neon-glass tubes with bright cyan glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r025",
+    "sheet_id": "s085",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Aces",
+    "character_desc": "Mascote Accessibility Specialist: exibe o símbolo universal de acesso e uma orelha atenta.",
+    "nano_prompt": "A single full-body generic mascot presenting a neon universal-access person symbol and a listening ear icon, inclusive welcoming pose, rendered as glowing bent neon-glass tubes with bright green glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r026",
+    "sheet_id": "s085",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Perfô",
+    "character_desc": "Mascote Web Performance Engineer: aponta para um velocímetro no verde com um cronômetro.",
+    "nano_prompt": "A single full-body generic mascot pointing at a neon speedometer gauge in the green zone, holding a stopwatch, energetic fast pose, rendered as glowing bent neon-glass tubes with bright lime glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r027",
+    "sheet_id": "s085",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Císs",
+    "character_desc": "Mascote CSS Specialist: pinta um layout com rolo, cercado de chaves { }.",
+    "nano_prompt": "A single full-body generic mascot painting a neon layout with a paint roller, surrounded by floating curly-brace style rules, stylish pose, rendered as glowing bent neon-glass tubes with bright magenta glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r028",
+    "sheet_id": "s085",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Anima",
+    "character_desc": "Mascote Animation Engineer: salta entre arcos de movimento e diamantes de keyframe.",
+    "nano_prompt": "A single full-body generic mascot mid-bounce between neon motion arcs with keyframe diamonds on a timeline, lively springy pose, rendered as glowing bent neon-glass tubes with bright orange glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r029",
+    "sheet_id": "s085",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Mobi",
+    "character_desc": "Mascote Mobile Dev: segura um smartphone brilhante com um app aberto.",
+    "nano_prompt": "A single full-body generic mascot holding a glowing neon smartphone showing an app screen, tapping it, on-the-go pose, rendered as glowing bent neon-glass tubes with bright cyan glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r030",
+    "sheet_id": "s085",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Iô",
+    "character_desc": "Mascote iOS Dev: segura um telefone com uma maçã de néon ao lado.",
+    "nano_prompt": "A single full-body generic mascot holding a neon smartphone beside a glowing apple shape, polished minimalist pose, rendered as glowing bent neon-glass tubes with bright teal glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r031",
+    "sheet_id": "s085",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Droid",
+    "character_desc": "Mascote Android Dev: usa antenas de robô androide e segura um telefone.",
+    "nano_prompt": "A single full-body generic mascot wearing neon android-robot antennae, holding a phone, friendly bot-like pose, rendered as glowing bent neon-glass tubes with bright lime glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r032",
+    "sheet_id": "s085",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Renative",
+    "character_desc": "Mascote React Native Dev: órbita de átomo girando ao redor de um telefone.",
+    "nano_prompt": "A single full-body generic mascot holding a phone inside a spinning neon atom-orbit ring, cross-platform confident pose, rendered as glowing bent neon-glass tubes with bright cyan glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r033",
+    "sheet_id": "s085",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Flutty",
+    "character_desc": "Mascote Flutter Dev: asas de borboleta de néon e um telefone com app fluido.",
+    "nano_prompt": "A single full-body generic mascot with glowing neon butterfly wings holding a phone showing a smooth app, graceful pose, rendered as glowing bent neon-glass tubes with bright blue glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r034",
+    "sheet_id": "s085",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Sciê",
+    "character_desc": "Mascote Data Scientist: ergue um becher borbulhante ao lado de um gráfico de dispersão.",
+    "nano_prompt": "A single full-body generic mascot holding a bubbling neon beaker beside a scatter-plot of dots, curious analytical pose, glasses, rendered as glowing bent neon-glass tubes with bright violet glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r035",
+    "sheet_id": "s085",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Émel",
+    "character_desc": "Mascote ML Engineer: cercado por nós de rede neural que se acendem em cadeia.",
+    "nano_prompt": "A single full-body generic mascot surrounded by a neon neural-network of connected glowing nodes lighting up in sequence, training pose, rendered as glowing bent neon-glass tubes with bright magenta glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r036",
+    "sheet_id": "s085",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Mlopy",
+    "character_desc": "Mascote MLOps Engineer: laço infinito com um cérebro-engrenagem no centro.",
+    "nano_prompt": "A single full-body generic mascot holding a neon infinity loop with a brain-gear at its center, deploying-a-model pose, rendered as glowing bent neon-glass tubes with bright teal glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r037",
+    "sheet_id": "s085",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Resa",
+    "character_desc": "Mascote AI Researcher: cérebro brilhante, lâmpada de ideia e papers voando, óculos.",
+    "nano_prompt": "A single full-body generic mascot with a glowing neon brain and lightbulb above, floating research papers and glasses, thoughtful pose, rendered as glowing bent neon-glass tubes with bright gold glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r038",
+    "sheet_id": "s085",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Prompty",
+    "character_desc": "Mascote Prompt Engineer: bolha de fala e varinha de faíscas conjurando texto.",
+    "nano_prompt": "A single full-body generic mascot holding a neon chat speech-bubble and a sparkle wand conjuring glyphs, clever creative pose, rendered as glowing bent neon-glass tubes with bright pink glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r039",
+    "sheet_id": "s085",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Enelpê",
+    "character_desc": "Mascote NLP Engineer: ondas de fala saindo de uma boca com bolhas de diálogo.",
+    "nano_prompt": "A single full-body generic mascot emitting neon speech-wave ripples from a talking mouth into dialogue bubbles, communicative pose, rendered as glowing bent neon-glass tubes with bright cyan glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r040",
+    "sheet_id": "s085",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Cévê",
+    "character_desc": "Mascote Computer Vision Engineer: um olho-lente com caixas de detecção ao redor.",
+    "nano_prompt": "A single full-body generic mascot featuring a neon camera-lens eye with bounding-box detection frames around objects, observant pose, rendered as glowing bent neon-glass tubes with bright lime glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r041",
+    "sheet_id": "s085",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Analu",
+    "character_desc": "Mascote Data Analyst: segura uma prancheta de barras e aponta uma tendência.",
+    "nano_prompt": "A single full-body generic mascot holding a neon bar-chart clipboard and pointing at a rising trend with a magnifier, insightful pose, rendered as glowing bent neon-glass tubes with bright orange glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r042",
+    "sheet_id": "s085",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Biba",
+    "character_desc": "Mascote BI Analyst: painel de dashboard com medidores e um gráfico de pizza.",
+    "nano_prompt": "A single full-body generic mascot presenting a neon dashboard panel with gauges and a pie chart, executive-summary pose, rendered as glowing bent neon-glass tubes with bright violet glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r043",
+    "sheet_id": "s085",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Aná",
+    "character_desc": "Mascote Analytics Engineer: canaliza dados por um funil até um gráfico limpo.",
+    "nano_prompt": "A single full-body generic mascot channeling data through a neon funnel into a clean chart, transforming-pipeline pose, rendered as glowing bent neon-glass tubes with bright teal glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r044",
+    "sheet_id": "s085",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Vizu",
+    "character_desc": "Mascote Data Viz Specialist: equilibra um gráfico de pizza e uma curva de linha coloridos.",
+    "nano_prompt": "A single full-body generic mascot balancing a colorful neon pie chart and a line graph, artistic data-storytelling pose, rendered as glowing bent neon-glass tubes with bright magenta glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r045",
+    "sheet_id": "s085",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Devô",
+    "character_desc": "Mascote DevOps Engineer: laço infinito de néon com uma chave inglesa.",
+    "nano_prompt": "A single full-body generic mascot holding a neon infinity loop with a wrench, bridging code and ops, capable pose, rendered as glowing bent neon-glass tubes with bright green glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r046",
+    "sheet_id": "s085",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Éserê",
+    "character_desc": "Mascote SRE: monitora uma linha de batimento cardíaco com um pager e um escudo.",
+    "nano_prompt": "A single full-body generic mascot watching a neon heartbeat monitor line, holding a pager and a small shield, on-call vigilant pose, rendered as glowing bent neon-glass tubes with bright lime glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r047",
+    "sheet_id": "s085",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Plata",
+    "character_desc": "Mascote Platform Engineer: em pé sobre uma laje-plataforma com blocos de base.",
+    "nano_prompt": "A single full-body generic mascot standing on a glowing neon platform slab built of foundation blocks, supporting others, sturdy pose, rendered as glowing bent neon-glass tubes with bright cyan glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r048",
+    "sheet_id": "s085",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Nuvê",
+    "character_desc": "Mascote Cloud Architect: desenha uma nuvem com uma régua e conexões.",
+    "nano_prompt": "A single full-body generic mascot sketching a big neon cloud with a ruler and connection lines, architecting-in-the-sky pose, rendered as glowing bent neon-glass tubes with bright blue glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r049",
+    "sheet_id": "s085",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Kubi",
+    "character_desc": "Mascote Kubernetes Admin: pilota um leme de navio (roda do Kubernetes).",
+    "nano_prompt": "A single full-body generic mascot steering a neon ship's-wheel helm (Kubernetes wheel), captaining containers, commanding pose, rendered as glowing bent neon-glass tubes with bright teal glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r050",
+    "sheet_id": "s085",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Netô",
+    "character_desc": "Mascote Network Engineer: teia de nós conectados e um cabo RJ45.",
+    "nano_prompt": "A single full-body generic mascot holding a neon RJ45 cable connecting a web of glowing network nodes, wiring-things pose, rendered as glowing bent neon-glass tubes with bright amber glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r051",
+    "sheet_id": "s085",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Sisa",
+    "character_desc": "Mascote Systems Administrator: janela de terminal aberta e uma caneca fumegante.",
+    "nano_prompt": "A single full-body generic mascot in front of a neon terminal window with a blinking prompt, holding a steaming mug, keeping-things-up pose, rendered as glowing bent neon-glass tubes with bright lime glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r052",
+    "sheet_id": "s085",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Relê",
+    "character_desc": "Mascote Release Engineer: lança um foguete com uma etiqueta de versão.",
+    "nano_prompt": "A single full-body generic mascot launching a neon rocket tagged with a version label, shipping-a-release triumphant pose, rendered as glowing bent neon-glass tubes with bright orange glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r053",
+    "sheet_id": "s085",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Bildo",
+    "character_desc": "Mascote Build Engineer: martelo e uma caixa-pacote montada de tijolos.",
+    "nano_prompt": "A single full-body generic mascot holding a neon hammer beside an assembled package box of bricks, compiling-the-build pose, rendered as glowing bent neon-glass tubes with bright gold glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r054",
+    "sheet_id": "s085",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Cicidí",
+    "character_desc": "Mascote CI/CD Engineer: esteira em laço com um checkmark de aprovação.",
+    "nano_prompt": "A single full-body generic mascot operating a neon conveyor-belt loop with a green approval checkmark, automated-flow pose, rendered as glowing bent neon-glass tubes with bright green glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r055",
+    "sheet_id": "s085",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Segu",
+    "character_desc": "Mascote Security Engineer: escudo de néon e um cadeado fechado.",
+    "nano_prompt": "A single full-body generic mascot holding a neon shield with a closed padlock, defensive protective guardian pose, rendered as glowing bent neon-glass tubes with bright cyan glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r056",
+    "sheet_id": "s085",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Penta",
+    "character_desc": "Mascote Penetration Tester: capuz de néon e uma gazua testando uma fechadura.",
+    "nano_prompt": "A single full-body generic mascot wearing a neon hoodie, holding a lockpick probing a padlock, sneaky ethical-hacker pose, rendered as glowing bent neon-glass tubes with bright magenta glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r057",
+    "sheet_id": "s085",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Apsec",
+    "character_desc": "Mascote AppSec Engineer: escudo sobre uma janela de aplicativo.",
+    "nano_prompt": "A single full-body generic mascot holding a neon shield over an app window, hardening the application, watchful pose, rendered as glowing bent neon-glass tubes with bright teal glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r058",
+    "sheet_id": "s085",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cripto",
+    "character_desc": "Mascote Cryptographer: chave de néon e uma roda de cifra girando.",
+    "nano_prompt": "A single full-body generic mascot holding a neon key beside a spinning cipher wheel, encrypting-secrets clever pose, rendered as glowing bent neon-glass tubes with bright violet glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r059",
+    "sheet_id": "s085",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Compli",
+    "character_desc": "Mascote Compliance Officer: prancheta de checklist e um martelinho de juiz.",
+    "nano_prompt": "A single full-body generic mascot holding a neon checklist clipboard and a small gavel, verifying-rules upright pose, rendered as glowing bent neon-glass tubes with bright gold glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r060",
+    "sheet_id": "s085",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Priva",
+    "character_desc": "Mascote Privacy Engineer: máscara incógnita, cadeado e um olho riscado.",
+    "nano_prompt": "A single full-body generic mascot wearing a neon incognito mask, holding a padlock with a crossed-out eye, protecting-data pose, rendered as glowing bent neon-glass tubes with bright blue glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r061",
+    "sheet_id": "s085",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Insi",
+    "character_desc": "Mascote Incident Responder: luz de sirene piscando e um extintor.",
+    "nano_prompt": "A single full-body generic mascot holding a neon fire extinguisher under a flashing siren light, calm-in-crisis responder pose, rendered as glowing bent neon-glass tubes with bright orange glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r062",
+    "sheet_id": "s085",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Treta",
+    "character_desc": "Mascote Threat Modeler: peça de cavalo de xadrez sobre uma árvore de ataque.",
+    "nano_prompt": "A single full-body generic mascot holding a neon chess-knight over an attack-tree diagram, anticipating-threats strategic pose, rendered as glowing bent neon-glass tubes with bright magenta glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r063",
+    "sheet_id": "s085",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Kju",
+    "character_desc": "Mascote QA Engineer: rede de caçar bugs, checklist e uma lupa.",
+    "nano_prompt": "A single full-body generic mascot holding a neon bug-catching net and a checklist with a magnifier, hunting-defects careful pose, rendered as glowing bent neon-glass tubes with bright lime glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r064",
+    "sheet_id": "s085",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Sidete",
+    "character_desc": "Mascote SDET: braço robótico rodando testes automatizados com checkmarks verdes.",
+    "nano_prompt": "A single full-body generic mascot operating a neon robotic arm running automated tests with green checkmark gears, automation pose, rendered as glowing bent neon-glass tubes with bright green glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r065",
+    "sheet_id": "s085",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Perfê",
+    "character_desc": "Mascote Performance Tester: cronômetro e um medidor de carga sob pressão.",
+    "nano_prompt": "A single full-body generic mascot holding a neon stopwatch beside a load meter under stress bars, load-testing intense pose, rendered as glowing bent neon-glass tubes with bright cyan glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r066",
+    "sheet_id": "s085",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Manu",
+    "character_desc": "Mascote Manual Tester: mão apontadora clicando e um checklist a mão.",
+    "nano_prompt": "A single full-body generic mascot with a neon pointing hand clicking a button and a handwritten checklist, meticulous manual pose, rendered as glowing bent neon-glass tubes with bright teal glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r067",
+    "sheet_id": "s085",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Acê",
+    "character_desc": "Mascote Accessibility Tester: orelha de leitor de tela, ícone de acesso e um check.",
+    "nano_prompt": "A single full-body generic mascot with a neon screen-reader ear, an accessibility icon and a checkmark, verifying-inclusion pose, rendered as glowing bent neon-glass tubes with bright amber glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r068",
+    "sheet_id": "s085",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Doqui",
+    "character_desc": "Mascote Technical Writer: pena de néon escrevendo num documento.",
+    "nano_prompt": "A single full-body generic mascot holding a neon quill pen writing on a glowing document page, clarifying-the-docs tidy pose, rendered as glowing bent neon-glass tubes with bright violet glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r069",
+    "sheet_id": "s085",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Advô",
+    "character_desc": "Mascote Developer Advocate: megafone e um coração feito de código.",
+    "nano_prompt": "A single full-body generic mascot holding a neon megaphone next to a code-heart, rallying-the-community enthusiastic pose, rendered as glowing bent neon-glass tubes with bright pink glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r070",
+    "sheet_id": "s085",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Contê",
+    "character_desc": "Mascote Content Strategist: calendário editorial em grade e um lápis.",
+    "nano_prompt": "A single full-body generic mascot holding a neon editorial calendar grid and a pencil, planning-content organized pose, rendered as glowing bent neon-glass tubes with bright orange glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r071",
+    "sheet_id": "s085",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Ítô",
+    "character_desc": "Mascote Localization Engineer: globo terrestre cercado de bolhas de fala idiomas.",
+    "nano_prompt": "A single full-body generic mascot holding a neon globe surrounded by multiple language speech-bubbles, translating-worldwide pose, rendered as glowing bent neon-glass tubes with bright cyan glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r072",
+    "sheet_id": "s085",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Prodê",
+    "character_desc": "Mascote Product Designer: prancheta de arte com a ferramenta caneta (pen tool).",
+    "nano_prompt": "A single full-body generic mascot working a neon artboard with a vector pen-tool, crafting-the-product design pose, rendered as glowing bent neon-glass tubes with bright teal glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r073",
+    "sheet_id": "s085",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Vidê",
+    "character_desc": "Mascote Visual Designer: paleta de cores e um pincel pintando.",
+    "nano_prompt": "A single full-body generic mascot holding a neon color palette and a brush painting a swatch, expressive visual pose, rendered as glowing bent neon-glass tubes with bright magenta glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r074",
+    "sheet_id": "s085",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Intera",
+    "character_desc": "Mascote Interaction Designer: cursor e ondas de toque (tap ripples).",
+    "nano_prompt": "A single full-body generic mascot holding a neon cursor above tap-ripple rings on a button, designing-interaction playful pose, rendered as glowing bent neon-glass tubes with bright lime glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r075",
+    "sheet_id": "s085",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Moti",
+    "character_desc": "Mascote Motion Designer: rastros de movimento em espiral e uma fita de filme.",
+    "nano_prompt": "A single full-body generic mascot surrounded by neon swirling motion trails and a film-strip, animating-in-motion dynamic pose, rendered as glowing bent neon-glass tubes with bright gold glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r076",
+    "sheet_id": "s085",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Ilu",
+    "character_desc": "Mascote Illustrator: lápis de néon e uma tela de esboço.",
+    "nano_prompt": "A single full-body generic mascot holding a neon pencil sketching on a canvas easel, drawing-by-hand creative pose, rendered as glowing bent neon-glass tubes with bright pink glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r077",
+    "sheet_id": "s085",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Asseti",
+    "character_desc": "Mascote Asset Designer: folha de sprites em grade de peças de jogo.",
+    "nano_prompt": "A single full-body generic mascot presenting a neon sprite-sheet grid of game asset tiles, exporting-assets tidy pose, rendered as glowing bent neon-glass tubes with bright cyan glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r078",
+    "sheet_id": "s085",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Brandi",
+    "character_desc": "Mascote Brand Designer: marca-logo abstrata e uma paleta de cores da marca.",
+    "nano_prompt": "A single full-body generic mascot holding an abstract neon logo-mark shape and a brand color palette, defining-identity confident pose, rendered as glowing bent neon-glass tubes with bright violet glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r079",
+    "sheet_id": "s085",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Sonô",
+    "character_desc": "Mascote Sound Designer: fones de ouvido e uma forma de onda de áudio.",
+    "nano_prompt": "A single full-body generic mascot wearing neon headphones beside an audio waveform, mixing-sound groovy pose, rendered as glowing bent neon-glass tubes with bright teal glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r080",
+    "sheet_id": "s085",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Tridê",
+    "character_desc": "Mascote 3D Artist: esfera e cubo em wireframe girando.",
+    "nano_prompt": "A single full-body generic mascot holding a neon wireframe sphere and cube, sculpting-in-3D immersive pose, rendered as glowing bent neon-glass tubes with bright lime glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r081",
+    "sheet_id": "s085",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Gamê",
+    "character_desc": "Mascote Game Designer: dado d20 e um controle de videogame.",
+    "nano_prompt": "A single full-body generic mascot holding a neon d20 dice and a game controller, designing-the-game playful pose, rendered as glowing bent neon-glass tubes with bright magenta glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r082",
+    "sheet_id": "s085",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Levu",
+    "character_desc": "Mascote Level Designer: grade de tilemap com uma bandeira de fim de fase.",
+    "nano_prompt": "A single full-body generic mascot building a neon tilemap grid with a level flag, laying-out-a-level focused pose, rendered as glowing bent neon-glass tubes with bright orange glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r083",
+    "sheet_id": "s085",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Narra",
+    "character_desc": "Mascote Narrative Designer: livro aberto e uma árvore de diálogo ramificada.",
+    "nano_prompt": "A single full-body generic mascot holding a neon open book with a branching dialogue tree, telling-the-story expressive pose, rendered as glowing bent neon-glass tubes with bright gold glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r084",
+    "sheet_id": "s085",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Gamedô",
+    "character_desc": "Mascote Game Developer: controle de videogame com faíscas de engrenagens de código.",
+    "nano_prompt": "A single full-body generic mascot holding a neon game controller with code-gear sparks, building-the-game energetic pose, rendered as glowing bent neon-glass tubes with bright cyan glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r085",
+    "sheet_id": "s085",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Xadê",
+    "character_desc": "Mascote Graphics/Shader Engineer: prisma refratando raios de luz sobre uma malha triangular.",
+    "nano_prompt": "A single full-body generic mascot holding a neon prism refracting light rays over a triangle mesh, rendering-pixels dazzling pose, rendered as glowing bent neon-glass tubes with bright pink glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r086",
+    "sheet_id": "s085",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Embê",
+    "character_desc": "Mascote Embedded Engineer: corpo de microchip com perninhas de circuito.",
+    "nano_prompt": "A single full-body generic mascot with a neon microchip body and circuit-trace legs, programming-the-hardware compact pose, rendered as glowing bent neon-glass tubes with bright lime glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r087",
+    "sheet_id": "s085",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Firmô",
+    "character_desc": "Mascote Firmware Engineer: chip com uma seta de flash gravando.",
+    "nano_prompt": "A single full-body generic mascot holding a neon chip with a flashing download arrow writing firmware, low-level focused pose, rendered as glowing bent neon-glass tubes with bright teal glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r088",
+    "sheet_id": "s085",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Aiotê",
+    "character_desc": "Mascote IoT Engineer: ondas de wi-fi conectando sensores espalhados.",
+    "nano_prompt": "A single full-body generic mascot emitting neon wifi waves connecting scattered sensor devices, networking-things curious pose, rendered as glowing bent neon-glass tubes with bright cyan glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r089",
+    "sheet_id": "s085",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Bloqui",
+    "character_desc": "Mascote Blockchain Dev: corrente de blocos ligados de néon.",
+    "nano_prompt": "A single full-body generic mascot holding a neon chain of linked blocks, building-a-ledger decentralized pose, rendered as glowing bent neon-glass tubes with bright gold glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r090",
+    "sheet_id": "s085",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Contrató",
+    "character_desc": "Mascote Smart Contract Auditor: pergaminho de contrato, lupa e um checkmark.",
+    "nano_prompt": "A single full-body generic mascot inspecting a neon contract scroll with a magnifier and a checkmark, auditing-the-code careful pose, rendered as glowing bent neon-glass tubes with bright magenta glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r091",
+    "sheet_id": "s085",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Arvê",
+    "character_desc": "Mascote AR/VR Engineer: óculos de VR e cubos flutuando ao redor.",
+    "nano_prompt": "A single full-body generic mascot wearing neon VR goggles with floating holographic cubes around, entering-the-metaverse immersive pose, rendered as glowing bent neon-glass tubes with bright violet glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r092",
+    "sheet_id": "s085",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Robô",
+    "character_desc": "Mascote Robotics Engineer: corpo robótico segurando uma chave inglesa.",
+    "nano_prompt": "A single full-body generic mascot a neon robot-bodied mascot holding a wrench, building-robots mechanical pose, rendered as glowing bent neon-glass tubes with bright cyan glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r093",
+    "sheet_id": "s085",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Grô",
+    "character_desc": "Mascote Growth Engineer: seta ascendente e um funil de aquisição.",
+    "nano_prompt": "A single full-body generic mascot holding a rising neon growth arrow beside an acquisition funnel, scaling-up ambitious pose, rendered as glowing bent neon-glass tubes with bright lime glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r094",
+    "sheet_id": "s085",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Sío",
+    "character_desc": "Mascote SEO Specialist: lupa e barras de ranking subindo.",
+    "nano_prompt": "A single full-body generic mascot holding a neon magnifier over rising rank bars, climbing-the-results optimistic pose, rendered as glowing bent neon-glass tubes with bright orange glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r095",
+    "sheet_id": "s085",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Markê",
+    "character_desc": "Mascote Marketing Technologist: funil, engrenagem e um megafone.",
+    "nano_prompt": "A single full-body generic mascot juggling a neon funnel, a gear and a megaphone, automating-campaigns savvy pose, rendered as glowing bent neon-glass tubes with bright pink glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r096",
+    "sheet_id": "s085",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Solu",
+    "character_desc": "Mascote Solutions Engineer: peça de quebra-cabeça encaixando e um headset.",
+    "nano_prompt": "A single full-body generic mascot fitting a neon puzzle piece into a solution while wearing a headset, problem-solving helpful pose, rendered as glowing bent neon-glass tubes with bright teal glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r097",
+    "sheet_id": "s085",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Supô",
+    "character_desc": "Mascote Support Engineer: headset e uma boia salva-vidas.",
+    "nano_prompt": "A single full-body generic mascot wearing a neon headset and holding a life-ring, helping-a-customer friendly pose, rendered as glowing bent neon-glass tubes with bright cyan glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r098",
+    "sheet_id": "s085",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Salê",
+    "character_desc": "Mascote Sales Engineer: aperto de mãos, gravata e um gráfico subindo.",
+    "nano_prompt": "A single full-body generic mascot offering a neon handshake wearing a tie beside a rising chart, closing-the-deal confident pose, rendered as glowing bent neon-glass tubes with bright gold glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r099",
+    "sheet_id": "s085",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Finô",
+    "character_desc": "Mascote FinOps Analyst: cifrão dentro de uma nuvem e uma calculadora.",
+    "nano_prompt": "A single full-body generic mascot holding a neon dollar-sign inside a cloud and a calculator, optimizing-cloud-cost thrifty pose, rendered as glowing bent neon-glass tubes with bright green glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s085-r100",
+    "sheet_id": "s085",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Legu",
+    "character_desc": "Mascote Legal Counsel: balança da justiça e um martelinho de juiz.",
+    "nano_prompt": "A single full-body generic mascot holding a neon scales-of-justice and a gavel, advising-on-law upright pose, rendered as glowing bent neon-glass tubes with bright violet glow and soft luminous bloom, a simple rounded cheerful cartoon mascot silhouette standing front-facing full-body, dark glass tube outlines, vibrant electric nightlife neon-sign aesthetic, subtle reflective halo, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

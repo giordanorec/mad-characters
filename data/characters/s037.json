@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s037-r001",
+    "sheet_id": "s037",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Mestre Aurélio",
+    "character_desc": "Mestre-pintor que concebe a grande composição do ateliê. Segura o cartão de estudo em escala e um compasso, planejando o afresco inteiro.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a master painter planning the grand composition, holding a large master cartoon sketch and a brass compass, a rolled fresco blueprint under the arm, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r002",
+    "sheet_id": "s037",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Léo do Cavalete",
+    "character_desc": "Pintor-chefe que guia os aprendizes. Empunha paleta e tento (bastão de apoio), orientando pinceladas.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a lead studio painter guiding apprentices, holding a loaded palette and a mahlstick, brushes tucked behind the ear, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r003",
+    "sheet_id": "s037",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Estêvão Veterano",
+    "character_desc": "Mestre veterano de afrescos. Traz o esboço do andaime e muitos pincéis, referência do ateliê.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a veteran fresco master, clutching a bundle of many brushes and a scaffolding study sketch, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r004",
+    "sheet_id": "s037",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Prima Constança",
+    "character_desc": "Grande mestra consagrada. Coroa de louros de pintura e paleta imponente, a autoridade do estilo.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a grand old master painter, a painted laurel wreath, an oversized ornate palette, brushes fanned like a crown, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r005",
+    "sheet_id": "s037",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Ester Regente",
+    "character_desc": "Gerente do ateliê. Organiza paletas e um livro-razão de comissões, coordenando os pintores.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as an atelier manager artist, holding an open commissions ledger and organizing a rack of palettes, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r006",
+    "sheet_id": "s037",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Pilar Musa",
+    "character_desc": "Artista voltada ao patrono. Apresenta uma tela-visão emoldurada, traduzindo desejos em imagem.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a patron-facing visionary painter, presenting a small framed vision-canvas, quill and wishlist scroll in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r007",
+    "sheet_id": "s037",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Otávio Encomenda",
+    "character_desc": "Dono da encomenda. Segura a tela comissionada e esboços priorizados numerados.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a commission-owner painter, holding the commissioned canvas and a stack of prioritized numbered sketches, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r008",
+    "sheet_id": "s037",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Prisca Coordena",
+    "character_desc": "Coordena vários murais ao mesmo tempo. Carrega planos enrolados de múltiplas obras.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a multi-mural coordinating painter, carrying several rolled mural plans and a program board, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r009",
+    "sheet_id": "s037",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Jorge Prazos",
+    "character_desc": "Guardião do cronograma. Traz um rolo de linha do tempo e uma ampulheta.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a schedule-keeping painter, holding a timeline scroll and an hourglass, a gantt-like study sketch, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r010",
+    "sheet_id": "s037",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Simão Facilita",
+    "character_desc": "Facilitador do ateliê. Sino de cavalete e swatches adesivos coloridos para destravar o time.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a facilitating studio painter, ringing a small easel bell, colored paint-swatch sticky notes in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r011",
+    "sheet_id": "s037",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Bento Armadura",
+    "character_desc": "Escultor que ergue a estrutura interna sob a estátua. Trabalha a armação de arame e barro.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a sculptor building the inner armature, shaping a wire-and-clay armature behind a half-formed statue, sculpting tools in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r012",
+    "sheet_id": "s037",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Ápio Pedestal",
+    "character_desc": "Desenha pedestais e encaixes que conectam as peças. Mostra moldes de interface.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a pedestal-and-joint designing sculptor, holding interlocking connector molds and a pedestal blueprint, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r013",
+    "sheet_id": "s037",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Micaela Miúda",
+    "character_desc": "Escultora de muitas estatuetas pequenas e independentes. Bandeja cheia de figurinhas.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a sculptor of many small figurines, holding a tray of many tiny independent clay figurines and a fine chisel, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r014",
+    "sheet_id": "s037",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Duto Damião",
+    "character_desc": "Muralista que conduz tinta por tubos e canais até a parede. Segura mangueiras de pigmento.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a muralist channeling paint through tubes, holding paint-conveying tubes and channels feeding a fresh mural, funnel in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r015",
+    "sheet_id": "s037",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Iara Pigmentos",
+    "character_desc": "Mistura e canaliza pigmentos em tinas. Traz baldes de cor e um pilão.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a pigment-mixing engineer artist, stirring vats of raw pigment, carrying pigment buckets and a grinding pestle, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r016",
+    "sheet_id": "s037",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Dora Arquivo",
+    "character_desc": "Guardiã do arquivo de pigmentos. Gaveteiro de cores rotulado e chave.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a keeper of the pigment archive, standing by a labeled pigment drawer cabinet, holding a color-archive key, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r017",
+    "sheet_id": "s037",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Solano Lente",
+    "character_desc": "Bibliotecário de cores que consulta gavetas com lupa, achando o tom exato.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a pigment-librarian querying color drawers, peering through a magnifying lens at a color-drawer index card, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r018",
+    "sheet_id": "s037",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Célia Presta",
+    "character_desc": "Mantém tintas pré-misturadas prontas numa paleta de acesso rápido.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a ready-mix paint caching artist, holding a quick-access palette of pre-mixed ready paints, spare pots at the belt, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r019",
+    "sheet_id": "s037",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Quim Fila",
+    "character_desc": "Organiza pincéis e telas em ordem, entregando um a um.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a brush-and-canvas queue engineer artist, arranging brushes and small canvases in a strict ordered line, ticket in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r020",
+    "sheet_id": "s037",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Sara Busca",
+    "character_desc": "Encontra a referência certa num enorme portfólio. Segura lupa e ficha de índice.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a reference-finding search artist, flipping a huge portfolio, holding a magnifier and an index tab, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r021",
+    "sheet_id": "s037",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Fábio Retrato",
+    "character_desc": "Retratista focado na superfície visível, o rosto e o acabamento que o público vê.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a surface-focused portrait painter, painting the visible face on a canvas, fine detail brush and small mirror in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r022",
+    "sheet_id": "s037",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Ugo Moldura",
+    "character_desc": "Pinta as superfícies ornamentais da moldura, a interface entre obra e sala.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as an ornamental frame-surface painter, gilding and painting an ornate picture frame, fine liner brush in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r023",
+    "sheet_id": "s037",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Xênia Olhar",
+    "character_desc": "Organiza a composição para o olhar do espectador. Usa um visor de enquadramento.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a composition-arranging UX painter, holding a wooden framing viewfinder, arranging a scene study, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r024",
+    "sheet_id": "s037",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Sílvio Padrão",
+    "character_desc": "Mantém a carta de cores padronizada do ateliê. Grande amostrário de swatches.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a color-standard system painter, holding a large standardized swatch chart and matching paint chips, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r025",
+    "sheet_id": "s037",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Alda Contraste",
+    "character_desc": "Garante formas legíveis e alto contraste, para todos enxergarem a obra.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a high-contrast accessibility painter, holding a bold high-contrast palette and a contrast-checking card, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r026",
+    "sheet_id": "s037",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Vera Alla-Prima",
+    "character_desc": "Esboça rápido, estudos de velocidade em uma pincelada. Cronômetro na mão.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a fast alla-prima speed painter, dashing a quick alla prima sketch, holding a stopwatch and one big brush, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r027",
+    "sheet_id": "s037",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Cássio Ornato",
+    "character_desc": "Pintor de ornamentos e padrões decorativos que embelezam a superfície.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a decorative ornament-and-pattern painter, painting an intricate decorative border pattern, fine detail brushes, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r028",
+    "sheet_id": "s037",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Nina Sequência",
+    "character_desc": "Estuda o movimento em poses sequenciais. Tiras de estudos de pose.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a motion-study sequence painter, holding strips of sequential pose studies, brush mid-stroke, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r029",
+    "sheet_id": "s037",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Téo Miniatura",
+    "character_desc": "Pintor de miniaturas em telinha portátil que cabe na mão.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a portable miniature painter, holding a tiny handheld portable canvas and a very fine brush, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r030",
+    "sheet_id": "s037",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Ivo Marfim",
+    "character_desc": "Miniaturista refinado que pinta sobre marfim polido.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a refined miniature painter on ivory, painting a delicate miniature on polished ivory, jeweler's loupe in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r031",
+    "sheet_id": "s037",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "André Esmalte",
+    "character_desc": "Miniaturista que pinta sobre esmalte verde vivo.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a miniature painter on green enamel, painting a small portrait on a bright-green enamel plaque, fine stylus in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r032",
+    "sheet_id": "s037",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Rita Dupla",
+    "character_desc": "Pinta duas miniaturas ao mesmo tempo com o mesmo jogo de pincéis.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a dual-miniature painter, painting two small canvases at once with one shared brush set, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r033",
+    "sheet_id": "s037",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Flora Painel",
+    "character_desc": "Pinta em tela e painel simultaneamente com pincéis unificados.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a unified panel-and-canvas painter, painting on both a canvas and a wood panel at once, one unified brush kit, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r034",
+    "sheet_id": "s037",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Cida Análise",
+    "character_desc": "Analisa pigmentos sob lupa, a ciência das cores. Prisma e amostras.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a pigment-analyzing color scientist painter, studying pigment samples under a magnifier, a small prism in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r035",
+    "sheet_id": "s037",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Melra Engenho",
+    "character_desc": "Treina uma engenhoca aprendiz que mistura pigmento. Rodas dentadas.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a pigment-mixing machine trainer painter, tending a gear-driven pigment-mixing apprentice contraption, oil can in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r036",
+    "sheet_id": "s037",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Osmar Moinho",
+    "character_desc": "Mantém o moinho de moer pigmento rodando confiável.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a pigment-mill maintaining painter, oiling the running pigment-grinding mill, wrench and pestle in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r037",
+    "sheet_id": "s037",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Ada Prisma",
+    "character_desc": "Teórica experimental da cor. Investiga com prisma e espectro pintado.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as an experimental color-theory researcher painter, holding a glass prism casting a painted spectrum, notes and quill in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r038",
+    "sheet_id": "s037",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Lúcio Musa",
+    "character_desc": "Direção do retrato por notas sussurradas à musa. Cartão de instruções.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a muse-directing prompt painter, whispering to a painted muse figure, holding a written instruction card, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r039",
+    "sheet_id": "s037",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Nara Ilumina",
+    "character_desc": "Iluminadora que transforma palavras em imagens na margem do manuscrito.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a word-to-image illuminator painter, illuminating a manuscript margin, turning letters into tiny painted scenes, gold-leaf brush, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r040",
+    "sheet_id": "s037",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Vito Olho",
+    "character_desc": "Pintor com uma lente-olho que estuda formas e volumes.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a form-studying vision painter, holding an eye-shaped lens studying the shapes of a still life, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r041",
+    "sheet_id": "s037",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Dina Gráfico",
+    "character_desc": "Pinta gráficos e curvas na tela, a analista de dados do ateliê.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a chart-painting data analyst artist, painting neat curves and bars on a canvas graph, ruler-brush in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r042",
+    "sheet_id": "s037",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Bruno Painel-BI",
+    "character_desc": "Pinta painéis-natureza-morta de instrumentos de medição.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a dashboard still-life painter, painting a still life of gauges and dials, holding a measuring caliper, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r043",
+    "sheet_id": "s037",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Aline Refino",
+    "character_desc": "Refina esboços brutos em estudos limpos e organizados.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a raw-to-clean study refining painter, cleaning up a messy sketch into a tidy study, eraser and fine brush in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r044",
+    "sheet_id": "s037",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Dulce Infográfico",
+    "character_desc": "Cria infográficos pintados elegantes e claros.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as an elegant infographic painter, painting a clear elegant infographic panel, compass and fine liner in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r045",
+    "sheet_id": "s037",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Val Preparo",
+    "character_desc": "Faz-tudo do ateliê que prepara telas e chassis para todos.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a canvas-prepping studio handyman painter, stretching and priming a fresh canvas, staple hammer and gesso brush in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r046",
+    "sheet_id": "s037",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Rui Forja",
+    "character_desc": "Mantém o forno e a iluminação do ateliê confiáveis, vigia do fogo.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a kiln-and-light reliability painter, tending the studio kiln flame, holding a lantern and a firewatch bell, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r047",
+    "sheet_id": "s037",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Bia Cavalete",
+    "character_desc": "Constrói os cavaletes e a infraestrutura do ateliê.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as an easel-building platform painter, assembling a sturdy wooden easel, holding a mallet and joinery pegs, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r048",
+    "sheet_id": "s037",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Cloé Pavilhão",
+    "character_desc": "Projeta um vasto pavilhão de pintura ao ar livre.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a vast open-air pavilion architect painter, holding a plan for a huge plein-air painting pavilion, drafting the layout, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r049",
+    "sheet_id": "s037",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Kai Maestro",
+    "character_desc": "Orquestra uma frota de cavaletes como um maestro.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as an easel-fleet orchestrating painter, conducting a row of many easels with a baton-brush, one hand on a master easel, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r050",
+    "sheet_id": "s037",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Neide Cordame",
+    "character_desc": "Passa a fiação de luz e cordas entre os ateliês.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a studio light-rigging network painter, running light cords and pulleys between studios, coil of rope over the shoulder, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r051",
+    "sheet_id": "s037",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Sid Chaveiro",
+    "character_desc": "Mantém o ateliê em ordem, guardião de chaves e ferramentas.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a studio-maintaining sysadmin painter, holding a ring of studio keys and a maintenance toolbox, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r052",
+    "sheet_id": "s037",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Rael Verniz",
+    "character_desc": "Enverniza e despacha as pinturas finalizadas em caixotes.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a varnish-and-ship release painter, varnishing a finished painting beside a shipping crate, brush and hammer in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r053",
+    "sheet_id": "s037",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Bel Chassi",
+    "character_desc": "Estica e imprime telas, montador de chassis.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a canvas-building frame joiner painter, joining a stretcher frame and priming canvas, corner clamp in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r054",
+    "sheet_id": "s037",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Caio Esteira",
+    "character_desc": "Cuida da esteira de secagem contínua das telas.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a continuous drying-rack CI/CD painter, tending an assembly-line of drying racks of small canvases, cranking the belt, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r055",
+    "sheet_id": "s037",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Gael Guarda",
+    "character_desc": "Guardião da galeria que inspeciona molduras e fechos.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a gallery-guarding security painter, inspecting frame locks with a lantern, holding a security seal, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r056",
+    "sheet_id": "s037",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Vesta Falsária",
+    "character_desc": "Falsária que testa as fechaduras da galeria por dentro.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as an art-forger penetration painter, picking a gallery display lock, holding a lockpick and a test copy canvas, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r057",
+    "sheet_id": "s037",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Hugo Reforço",
+    "character_desc": "Reforça a tela contra dano, aplica velaturas protetoras.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a canvas-hardening appsec painter, applying protective glaze layers to a canvas, patch cloth and brush in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r058",
+    "sheet_id": "s037",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Íris Anamorfose",
+    "character_desc": "Esconde imagens secretas em anamorfose e cifra.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a secret-image cipher painter, painting a hidden anamorphic image, holding a decoding cylinder mirror, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r059",
+    "sheet_id": "s037",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Mauro Selo",
+    "character_desc": "Certifica a proveniência das obras com selos e carimbos.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a provenance-certifying compliance painter, stamping a provenance certificate with a wax seal, ledger in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r060",
+    "sheet_id": "s037",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Lena Véu",
+    "character_desc": "Obscurece e anonimiza rostos nos retratos por privacidade.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a face-anonymizing privacy painter, softly veiling a portrait's face with a gauze, blurring brush in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r061",
+    "sheet_id": "s037",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Zé Restauro",
+    "character_desc": "Restaurador que corre para consertar uma tela danificada.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as an emergency restorer painter, rushing to patch a torn painting, holding fine tweezers and a repair brush, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r062",
+    "sheet_id": "s037",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Cléo Fissura",
+    "character_desc": "Estuda onde a tela pode rachar antes de acontecer.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a crack-modeling threat painter, examining a canvas map of potential cracks, marking weak spots with chalk, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r063",
+    "sheet_id": "s037",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Nilo Crítico",
+    "character_desc": "Crítico que examina as telas em busca de falhas com loupe.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a flaw-inspecting critic painter, scrutinizing a painting with a loupe, red marking pencil in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r064",
+    "sheet_id": "s037",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Bea Gabarito",
+    "character_desc": "Inspeção automática com um gabarito de medição sobre a tela.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as an automated-inspection SDET painter, laying a measuring grid frame over a canvas, checklist stylus in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r065",
+    "sheet_id": "s037",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Ted Secagem",
+    "character_desc": "Testa quanto a tinta aguenta e quão rápido seca, sob esforço.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a paint-endurance performance tester painter, timing paint drying with a stopwatch, heat lamp and gauge in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r066",
+    "sheet_id": "s037",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Rosa Manual",
+    "character_desc": "Inspeciona cada pincelada à mão, minuciosa.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a hand-inspecting manual tester painter, checking each brushstroke by hand with a fine loupe and pointer, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r067",
+    "sheet_id": "s037",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Alan Visão",
+    "character_desc": "Confere a legibilidade da obra à distância e o contraste.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as an accessibility-checking tester painter, viewing a painting from afar through a contrast card, squinting to test visibility, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r068",
+    "sheet_id": "s037",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Ivo Escriba",
+    "character_desc": "Escriba que ilumina o manual do ateliê.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a manual-illuminating scribe painter, writing an illuminated studio handbook, quill and gold-leaf brush in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r069",
+    "sheet_id": "s037",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Duda Demonstra",
+    "character_desc": "Pintor viajante que demonstra técnicas para uma plateia.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a traveling demo-advocate painter, demonstrating a brushstroke to an unseen crowd, palette raised, easel beside, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r070",
+    "sheet_id": "s037",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Cíntia Roteiro",
+    "character_desc": "Planeja a narrativa da exposição, a curadoria do percurso.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as an exhibition-narrative strategist painter, holding an exhibition floor-plan scroll and a curatorial sketch, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r071",
+    "sheet_id": "s037",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Levi Rótulos",
+    "character_desc": "Repinta placas e rótulos em muitos estilos e idiomas.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a multilingual sign-relabeling painter, repainting several small labels in different scripts, tiny lettering brush in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r072",
+    "sheet_id": "s037",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Théa Conceito",
+    "character_desc": "Artista-projetista que concebe a peça inteira, do conceito ao esboço.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a whole-piece concept designer painter, sketching a full concept study on a large pad, charcoal and brush in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r073",
+    "sheet_id": "s037",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Rafa Colorista",
+    "character_desc": "Colorista focado na beleza e na harmonia da paleta.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a beauty-focused colorist painter, holding a lush harmonious palette, mixing a glowing accent color, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r074",
+    "sheet_id": "s037",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Duo Cinético",
+    "character_desc": "Escultor cinético com partes móveis interativas.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as an interactive kinetic sculptor painter, adjusting a moving hinged sculpture element, small gear and lever in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r075",
+    "sheet_id": "s037",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Mira Folioscópio",
+    "character_desc": "Pintora de animação em folioscópio (flipbook).",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a flipbook motion painter, flicking a hand-painted flipbook of frames, tiny brush in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r076",
+    "sheet_id": "s037",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Gil Ilustra",
+    "character_desc": "Ilustrador clássico com pena, nanquim e pincel.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a classic illustrator painter, holding a dip pen, ink bottle and brush over an illustration board, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r077",
+    "sheet_id": "s037",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Bruna Adereços",
+    "character_desc": "Produz adereços e pequenos elementos do ateliê.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a studio-prop asset painter, holding a tray of small painted props and set pieces, sculpting knife in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r078",
+    "sheet_id": "s037",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Nuno Emblema",
+    "character_desc": "Desenha o emblema e o monograma do ateliê.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a studio-emblem brand painter, painting an ornate atelier monogram crest on a shield panel, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r079",
+    "sheet_id": "s037",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Cora Sinestesia",
+    "character_desc": "Artista sinestésica que 'pinta música', diapasão na mão.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a synesthetic sound painter, painting swirling color-music, holding a tuning fork to the ear, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r080",
+    "sheet_id": "s037",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Ravi Maquete",
+    "character_desc": "Escultor que modela uma maquete em barro fresco.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a clay-maquette 3D sculptor, modeling a small clay maquette on a turntable, sculpting loop in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r081",
+    "sheet_id": "s037",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Uli Diorama",
+    "character_desc": "Concebe um jogo de tabuleiro pintado em diorama.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a painted-board game designer painter, arranging a small painted diorama board with pieces, design sketch in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r082",
+    "sheet_id": "s037",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Elis Cenário",
+    "character_desc": "Pinta cenários de paisagem para o palco.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a stage-scenery level painter, painting a large landscape backdrop flat, long-handled brush in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r083",
+    "sheet_id": "s037",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Ciro Painéis",
+    "character_desc": "Pintor de história que narra em painéis sequenciais.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a story-panel narrative painter, painting a sequence of narrative story panels, storyboard scroll in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r084",
+    "sheet_id": "s037",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Bel Autômato",
+    "character_desc": "Constrói um diorama-autômato pintado e mecânico.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a mechanical automaton diorama builder painter, assembling a painted clockwork diorama, winding key and brush in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r085",
+    "sheet_id": "s037",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Sol Chiaroscuro",
+    "character_desc": "Especialista em luz e sombra, mestre do claro-escuro.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a chiaroscuro light-and-shadow painter, holding a lantern to cast dramatic light on a study, shading stump in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r086",
+    "sheet_id": "s037",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Kim Relojoeiro",
+    "character_desc": "Miniaturista que embute engrenagens num relógio pintado.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as an embedded-gear miniaturist painter, fitting tiny gears into a painted clock face, jeweler's tweezers in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r087",
+    "sheet_id": "s037",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Nero Caixinha",
+    "character_desc": "Esmalta as engrenagens internas de uma caixa de música.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a music-box firmware enameler painter, enameling the inner mechanism of a music box, fine stylus in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r088",
+    "sheet_id": "s037",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Ola Sininhos",
+    "character_desc": "Conecta pequenos sensores e sininhos pintados pelo ateliê.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as an IoT bell-network painter, stringing small painted sensor-bells across the studio, coil of wire in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r089",
+    "sheet_id": "s037",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Zeca Medalha",
+    "character_desc": "Gravador de medalhões encadeados em corrente.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a chain-medallion engraver painter, engraving linked chain medallions, burin and a chained pendant in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r090",
+    "sheet_id": "s037",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Nara Notária",
+    "character_desc": "Notária que inspeciona contratos gravados e selos.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a seal-inspecting contract auditor painter, examining an engraved contract plaque, loupe and wax seal in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r091",
+    "sheet_id": "s037",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Vic Estéreo",
+    "character_desc": "Pintor estereoscópico com lentes duplas e óculos.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a stereoscopic AR/VR painter, wearing dual-lens stereoscopic goggles, painting a paired 3D image, twin brush in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r092",
+    "sheet_id": "s037",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Rob Braço",
+    "character_desc": "Constrói um autômato pintor de braço mecânico.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a painting-robot automaton engineer painter, building a mechanical painting arm holding a brush, oil can and wrench in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r093",
+    "sheet_id": "s037",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Gui Escala",
+    "character_desc": "Muralista que amplia um pequeno esboço para uma parede gigante.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a mural-scaling growth painter, gridding up a tiny sketch onto a giant wall, plumb line and big brush in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r094",
+    "sheet_id": "s037",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Sena Tabuleta",
+    "character_desc": "Pintor de tabuletas que torna a galeria fácil de achar.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a signboard SEO painter, painting a bold directional gallery signboard, lettering brush and arrow stencil, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r095",
+    "sheet_id": "s037",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Marta Cartaz",
+    "character_desc": "Artista de cartazes e litografias promocionais.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a poster-and-lithograph marketing painter, holding a fresh printed poster and a lithography stone, roller in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r096",
+    "sheet_id": "s037",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Sol Sob-Medida",
+    "character_desc": "Retratista sob medida que ajusta a obra ao cliente.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a bespoke solutions portrait painter, matching a portrait to a client swatch, holding a fitting sketch and tape measure, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r097",
+    "sheet_id": "s037",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Zé Balcão",
+    "character_desc": "Restaurador de balcão que conserta lascas e dúvidas.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a help-desk restorer painter, fixing a chipped painting at a help-desk easel, tiny repair brush and note in hand, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r098",
+    "sheet_id": "s037",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Duca Mostra",
+    "character_desc": "Portraitista carismático que apresenta telas-amostra.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a charming sample-showing sales painter, presenting a sample canvas with a flourish, portfolio of samples under the arm, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r099",
+    "sheet_id": "s037",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Val Contas",
+    "character_desc": "Pintor-contador do ateliê, livro-razão e moedas na paleta.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as an atelier accountant FinOps painter, holding a ledger and an abacus, coins arranged like a paint palette, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s037-r100",
+    "sheet_id": "s037",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Nóris Notário",
+    "character_desc": "Notário da guilda com pena e selo de lacre.",
+    "nano_prompt": "Impressionist self-portrait, half-length bust framing, of an atelier artist as a guild-notary legal painter, holding a legal parchment, a quill and a red wax seal stamp, wearing a paint-smudged smock, painted with loose visible brushstrokes and dabs of broken color, soft dappled natural light, muted palette with vibrant accents, textured painterly canvas feel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

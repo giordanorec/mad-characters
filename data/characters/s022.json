@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s022-r001",
+    "sheet_id": "s022",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Allfödr, o Traçador",
+    "character_desc": "Deus-patriarca esculpido segurando um báculo rúnico que projeta um mapa de constelações — o arquiteto que desenha a solução inteira antes da primeira pedra.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Arquiteto de Solução, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, holding a tall runic staff projecting a glowing carved star-map of interconnected halls, blueprint scroll of runes across the chest, one all-seeing carved eye, crown of antlers, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r002",
+    "sheet_id": "s022",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Þórvaldr, Punho de Trovão",
+    "character_desc": "Deus do trovão liderando a tropa, martelo erguido que reúne os guerreiros — o tech lead que puxa o time na batalha do código.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Tech Lead, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, raising a carved war-hammer that gathers the warband, banner-rune on the shoulder, commanding open hand rallying unseen warriors, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r003",
+    "sheet_id": "s022",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Sigrún, a Veterana",
+    "character_desc": "Deusa-guerreira sênior de muitas batalhas, ombreiras gastas e medalhões de runas — a staff engineer que resolve o que ninguém alcança.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Staff Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, battle-worn carved shoulder pauldrons layered with rune-medallions, a broken-and-remended blade held calmly, many scar-runes on the face, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r004",
+    "sheet_id": "s022",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Jarl Óðinbjörn",
+    "character_desc": "Deus-príncipe de domínio amplo, coroa de galhos entalhados e cetro duplo — o principal engineer que rege reinos inteiros de sistema.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Principal Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, twin carved scepters crossed, broad crown of branching antlers, wide cloak carved with maps of many realms, imperial calm stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r005",
+    "sheet_id": "s022",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Móðir Frigga",
+    "character_desc": "Deusa-mãe do salão que cuida dos guerreiros, chave do hidromel e tear de destinos — a engineering manager que sustenta o time.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Engineering Manager, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, holding a great carved ring of keys and a small spindle of fate-thread, warm maternal expression, brooch marking the head of the hall, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r006",
+    "sheet_id": "s022",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Véa, a Visionária",
+    "character_desc": "Deusa que ergue a maçã de ouro do valor — a product manager que decide o que vale ser forjado.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Product Manager, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, lifting a carved golden apple etched with runes of worth, roadmap-scroll tucked at the belt, discerning gaze weighing value, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r007",
+    "sheet_id": "s022",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Eignar, o Dono do Feito",
+    "character_desc": "Deus-guardião de um baú de tesouros priorizados — o product owner que zela pelo backlog.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Product Owner, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, guarding an open carved chest of stacked rune-tablets ranked by priority, one tablet raised in decision, protective posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r008",
+    "sheet_id": "s022",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Skipari Vegr",
+    "character_desc": "Deus dos caminhos que alinha muitas jornadas num só rumo — o program manager que sincroniza várias frentes.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Program Manager, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, holding several carved boat-prows bundled toward one horizon, a rune-braided rope tying multiple threads, guiding outstretched arm, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r009",
+    "sheet_id": "s022",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Tímavörðr",
+    "character_desc": "Deus do tempo e da rota, ampulheta de areia rúnica na mão — o project manager que guarda prazos e escopo.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Project Manager, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, clutching a carved rune-sand hourglass and a milestone-marked oar, tight-lipped focused expression, checklist-runes on the vambrace, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r010",
+    "sheet_id": "s022",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Hringjari, o Facilitador",
+    "character_desc": "Deus dos ciclos que toca o sino do ritual — o scrum master que mantém a cadência das cerimônias.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Scrum Master, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, ringing a small carved ritual bell, a looping circular rune-band held aloft symbolizing the sprint cycle, encouraging open stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r011",
+    "sheet_id": "s022",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Grunnr Smiðr",
+    "character_desc": "Deus-ferreiro dos alicerces ocultos, forja e bigorna nas costas — o backend dev que constrói o que sustenta tudo.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Backend Developer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, carved anvil strapped on the back, gripping smith's tongs holding a glowing rune-ingot, sturdy sleeves rolled, soot-marks, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r012",
+    "sheet_id": "s022",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Portvörðr Bragi",
+    "character_desc": "Deus dos portões que talha contratos de passagem — o API designer que define as interfaces.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying API Designer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, holding two interlocking carved gate-halves shaped like a handshake, key-runes and socket-runes engraved on the palms, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r013",
+    "sheet_id": "s022",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Sundra, a Repartida",
+    "character_desc": "Deusa que se divide em muitas figurinhas menores acopladas — a microservices engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Microservices Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, surrounded by several tiny carved twin-idols linked by rune-threads, central figure holding one detachable module-idol, modular seams, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r014",
+    "sheet_id": "s022",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Rennandi Straumr",
+    "character_desc": "Deus-canal por onde flui a água rúnica de calha em calha — o pipeline developer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Pipeline Developer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, channeling glowing rune-water through carved wooden troughs from hand to hand, valve-runes on the forearms, flow-lines in the grain, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r015",
+    "sheet_id": "s022",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Brunnvörðr",
+    "character_desc": "Deus dos poços profundos que canaliza rios de dados — o data engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Data Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, hauling carved buckets of glowing data-runes up from a deep well, aqueduct-runes carved across the chest, rope over the shoulder, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r016",
+    "sheet_id": "s022",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Hvelfingr, o Guardião da Cripta",
+    "character_desc": "Deus que zela pelo grande cofre-arquivo entalhado — o DBA.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Database Administrator, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, one hand on a massive carved vault-door of indexed rune-drawers, ring of catalog-keys, orderly ledger-runes, watchful stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r017",
+    "sheet_id": "s022",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Spurning Rúna",
+    "character_desc": "Deus dos enigmas que fala a língua exata das consultas — o SQL specialist.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying SQL Specialist, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, holding a carved query-scroll shaped like a SELECT sigil, pointing to a precise rune-row in a lattice tablet, sharp knowing look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r018",
+    "sheet_id": "s022",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Skjótr, o Veloz Lembrado",
+    "character_desc": "Deus que guarda cópias prontas na palma para não repetir a jornada — o caching engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Caching Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, holding a small glowing carved keepsake-orb of instant-recall runes, a duplicate mini-idol tucked ready in the other hand, swift lean, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r019",
+    "sheet_id": "s022",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Biðröð Vörðr",
+    "character_desc": "Deus da fila ordenada que passa mensagens em bastões — o message queue engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Message Queue Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, passing carved message-batons along a queue of notches, first-in-first-out runes on the rail, orderly handoff gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r020",
+    "sheet_id": "s022",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Leitari, o Buscador",
+    "character_desc": "Deus rastreador com lanterna-runa que acha qualquer coisa no salão — o search engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Search Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, raising a carved rune-lantern illuminating an indexed shelf, magnifier-crystal of runes in hand, tracking gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r021",
+    "sheet_id": "s022",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Ásýnd, a Face do Salão",
+    "character_desc": "Deusa que talha a fachada visível do templo — a frontend developer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Frontend Developer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, holding a carved ornate facade-panel with rune-windows, small chisel shaping a visible surface, presenting gesture toward the viewer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r022",
+    "sheet_id": "s022",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Skjaldrún",
+    "character_desc": "Deusa que monta escudos-componentes reusáveis na parede — a UI engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying UI Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, assembling carved interlocking shield-panels (buttons and cards) onto a framed board, component-runes glowing at the joints, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r023",
+    "sheet_id": "s022",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Vegvísir Huld",
+    "character_desc": "Deusa dos caminhos claros que guia o viajante pelo salão — a UX designer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying UX Designer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, holding a large carved wayfinding compass-rune, a path of footprints traced on a tablet, empathetic guiding gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r024",
+    "sheet_id": "s022",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Samræmi, o Harmonizador",
+    "character_desc": "Deus que forja o molde único de que nascem todas as peças — o design systems engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Design Systems Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, holding a carved master-mold stamping identical rune-tokens, a palette of standardized carved swatches on the belt, orderly rows, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r025",
+    "sheet_id": "s022",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Öllum Fær",
+    "character_desc": "Deus que abre o salão a todos, rampa e mãos-guia entalhadas — o accessibility specialist.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Accessibility Specialist, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, carving a ramp-rune and a guiding-hand sigil, holding an ear-rune and eye-rune pendant for all senses, welcoming inclusive posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r026",
+    "sheet_id": "s022",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Léttfótr, o Ligeiro",
+    "character_desc": "Deus que aliviou o barco de todo peso morto — o web performance engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Web Performance Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, holding a feather-light carved boat-hull stripped bare, stopwatch-rune glowing fast, discarded ballast-stones at the feet, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r027",
+    "sheet_id": "s022",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Litklæði Snorra",
+    "character_desc": "Deus do adorno que pinta e alinha as vestes do salão — o CSS specialist.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying CSS Specialist, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, holding carved paint-runes and an alignment-plumb line, draping a precisely folded rune-embroidered cloth, exacting eye for layout, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r028",
+    "sheet_id": "s022",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Hreyfing, a que Dá Vida",
+    "character_desc": "Deusa que faz as figuras esculpidas parecerem mover-se — a animation engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Animation Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, surrounded by carved motion-arc runes and blur-lines, holding a sequence of tiny pose-idols mid-stride, dynamic flowing gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r029",
+    "sheet_id": "s022",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Farfugl Vé",
+    "character_desc": "Deus viajante do salão de bolso que se carrega na palma — o mobile developer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Mobile Developer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, cradling a small carved portable shrine-tablet with rune-glyph icons, thumb poised to tap, on-the-move traveling cloak, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r030",
+    "sheet_id": "s022",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Eplakóngr",
+    "character_desc": "Deus polido do pomar refinado, maçã entalhada e vestes lisas — o iOS developer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying iOS Developer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, holding a smooth carved rune-apple, sleek minimalist robes with rounded corners, refined polished finish on the grain, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r031",
+    "sheet_id": "s022",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Grœnvörðr",
+    "character_desc": "Deus verde do autômato amigável de barriga aberta — o Android developer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Android Developer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, beside a small carved green rune-automaton with antenna-ears, holster of modular tool-runes, open friendly stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r032",
+    "sheet_id": "s022",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Tvíbrú, a Ponte Dupla",
+    "character_desc": "Deusa de duas faces que serve dois reinos com um só corpo — a React Native developer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying React Native Developer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, one carved figure with two mirrored faces (one apple-marked, one green-marked) sharing a single rune-heart, bridge-rune across the chest, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r033",
+    "sheet_id": "s022",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Fjaðrgyðja",
+    "character_desc": "Deusa da borboleta de madeira que voa em todos os reinos com um só molde — a Flutter developer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Flutter Developer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, holding a large carved butterfly-rune whose single wing-mold prints many realm-sigils, fluid single-canvas panel in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r034",
+    "sheet_id": "s022",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Spádís Rúna",
+    "character_desc": "Deusa-vidente que lê presságios nos ossos-runa — a data scientist.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Data Scientist, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, casting carved rune-bones into a divination bowl reading patterns, chart-runes forming in the smoke, contemplative prophetic gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r035",
+    "sheet_id": "s022",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Vélandi, o Domador",
+    "character_desc": "Deus que treina uma fera-runa a partir de dados — o ML engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying ML Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, guiding a carved rune-beast on a data-leash, holding a training-goad of glowing weights, focused trainer stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r036",
+    "sheet_id": "s022",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Hirðir Vélar",
+    "character_desc": "Deus-pastor que mantém a fera-runa alimentada e no pasto — o MLOps engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying MLOps Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, leading the carved rune-beast into a fenced pipeline-pen, feeding it data-runes on a schedule, shepherd's crook and monitoring-eye, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r037",
+    "sheet_id": "s022",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Djúphugr",
+    "character_desc": "Deus pensador que perscruta o desconhecido além dos mapas — o AI researcher.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying AI Researcher, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, gazing into a carved swirling rune-vortex of unknown glyphs, quill etching new sigils on a fresh tablet, deep contemplative brow, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r038",
+    "sheet_id": "s022",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Orðsmiðr Braga",
+    "character_desc": "Deus da palavra exata que sussurra ordens à fera-runa — o prompt engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Prompt Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, whispering into a carved speaking-horn inscribed with precise command-runes, a scroll of crafted phrases, artful persuasive gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r039",
+    "sheet_id": "s022",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Málrún, a Tecelã de Fala",
+    "character_desc": "Deusa que fia a linguagem humana em fios de runa — a NLP engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying NLP Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, weaving carved word-threads into a loom of language-runes, a tongue-sigil pendant, parsing tree-branch rune in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r040",
+    "sheet_id": "s022",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Sjónarauga",
+    "character_desc": "Deus do olho que reconhece formas em qualquer imagem — o computer vision engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Computer Vision Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, holding a large carved all-seeing lens-rune scanning a grid of shape-glyphs, bounding-box runes framing objects, keen scanning eye, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r041",
+    "sheet_id": "s022",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Talnavörðr",
+    "character_desc": "Deus contador que soma e separa as pedras-runa do salão — o data analyst.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Data Analyst, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, sorting carved counting-stones into rune-labeled piles, a tally-tablet and abacus-runes, measuring analytical squint, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r042",
+    "sheet_id": "s022",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Yfirlit Hilda",
+    "character_desc": "Deusa do panorama que ergue painéis de resumo do reino — a BI analyst.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying BI Analyst, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, presenting a carved dashboard-panel of rune-gauges and bar-glyphs, pointing to a key trend-rune, executive summarizing gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r043",
+    "sheet_id": "s022",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Hreinsari Rúna",
+    "character_desc": "Deus que lapida os dados brutos em runas limpas e prontas — o analytics engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Analytics Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, polishing rough rune-stones into clean carved tablets, a transformation-funnel of glyphs, tidy labeled rows in hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r044",
+    "sheet_id": "s022",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Myndgyðja",
+    "character_desc": "Deusa que talha os números em belas figuras visíveis — a data viz specialist.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Data Viz Specialist, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, sculpting glowing carved chart-forms (pie and line runes) from raw number-stones, an artful palette of graph-sigils, presenting flourish, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r045",
+    "sheet_id": "s022",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Brúarsmiðr Vé",
+    "character_desc": "Deus-ponte entre a forja e o campo de batalha — o DevOps engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying DevOps Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, holding a carved bridge-span joining a forge-rune to a shield-rune, a looping infinity-rune tool-belt, connecting both-hands gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r046",
+    "sheet_id": "s022",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Vörðr Óslítandi",
+    "character_desc": "Deus que jura manter o salão sempre de pé — o site reliability engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Site Reliability Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, standing guard with a carved uptime-shield of nine-nines runes, an alert-horn at the belt, ever-vigilant unbreaking stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r047",
+    "sheet_id": "s022",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Grundvöllr, o Chão dos Deuses",
+    "character_desc": "Deus que ergue o próprio salão onde os outros deuses trabalham — o platform engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Platform Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, holding a carved foundation-platform on which tiny worker-idols stand, self-service tool-runes offered outward, supporting base posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r048",
+    "sheet_id": "s022",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Skýjajarl",
+    "character_desc": "Deus-senhor das nuvens que ordena reinos etéreos — o cloud architect.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Cloud Architect, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, gesturing over carved floating cloud-realm islands linked by rune-bridges, a scaling-lever in hand, lofty commanding gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r049",
+    "sheet_id": "s022",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Stýrimaðr Hjalmar",
+    "character_desc": "Deus-timoneiro que rege uma frota de contêineres-drakkar — o Kubernetes admin.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Kubernetes Admin, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, at a carved ship's-helm steering a fleet of small container-longships, orchestration-runes on the wheel, seven-spoke helm crown, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r050",
+    "sheet_id": "s022",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Vefari Nóttar",
+    "character_desc": "Deus que tece a teia de estradas rúnicas entre os salões — o network engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Network Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, weaving a carved web of glowing route-threads between node-idols, a signal-horn and cable-braid, connective spanning gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r051",
+    "sheet_id": "s022",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Húsvörðr Áki",
+    "character_desc": "Deus zelador que mantém as máquinas do salão azeitadas — o systems administrator.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Systems Administrator, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, oiling a carved rune-mechanism with a keyring and wrench-rune, patch-runes stitched on the apron, dependable caretaker stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r052",
+    "sheet_id": "s022",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Sendiboði Rúna",
+    "character_desc": "Deus que lança o novo drakkar ao mar em cada estação — o release engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Release Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, cutting a carved launch-rope releasing a version-marked longship, tag-runes numbering the hull, ceremonial launching gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r053",
+    "sheet_id": "s022",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Samansettr",
+    "character_desc": "Deus que junta as tábuas soltas num casco pronto — o build engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Build Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, assembling scattered carved plank-runes into one finished hull, a compile-hammer glowing, artifact-crate at the side, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r054",
+    "sheet_id": "s022",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Færiband Ulf",
+    "character_desc": "Deus da esteira automática que forja-testa-lança sem parar — o CI/CD engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying CI/CD Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, tending a carved rune-conveyor cycling idols through forge, test, and gate arches, green pass-runes lighting up, automated flow gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r055",
+    "sheet_id": "s022",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Skjaldbjörn Vörðr",
+    "character_desc": "Deus-urso do escudo que barra invasores do salão — o security engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Security Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, raising a carved rune-shield and lock-sigil against unseen intruders, ward-runes glowing on the rim, defensive braced stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r056",
+    "sheet_id": "s022",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Laumufari",
+    "character_desc": "Deus infiltrador que testa as brechas das muralhas — o penetration tester.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Penetration Tester, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, picking a carved rune-lock with skeleton-key glyphs, hooded cloak, probing a crack in a shield-wall, sly testing grin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r057",
+    "sheet_id": "s022",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Vopnasmiðr Heið",
+    "character_desc": "Deus que endurece as armas-código contra falhas — o AppSec engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying AppSec Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, inspecting a carved blade for hairline flaw-runes, hardening-hammer and shield-code tablet, meticulous armorer's eye, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r058",
+    "sheet_id": "s022",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Leyndarún, a Cifradora",
+    "character_desc": "Deusa que sela mensagens em runas indecifráveis — a cryptographer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Cryptographer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, locking a carved scroll into a rotating rune-cipher wheel, a key-rune and lock-rune paired, secretive sealing gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r059",
+    "sheet_id": "s022",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Lögvörðr Sifja",
+    "character_desc": "Deusa que guarda as leis-runa gravadas em pedra — a compliance officer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Compliance Officer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, holding a carved law-stone tablet of regulation-runes, a scales-sigil at the belt, stamp-of-approval rune, upright lawful posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r060",
+    "sheet_id": "s022",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Hulda Nafnleynd",
+    "character_desc": "Deusa que oculta os nomes dos mortais em névoa-runa — a privacy engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Privacy Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, wrapping carved name-tablets in a veil of masking-runes, a redaction-cloth and consent-token, protective concealing gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r061",
+    "sheet_id": "s022",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Eldslökkvir",
+    "character_desc": "Deus que corre para apagar os incêndios do salão — o incident responder.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Incident Responder, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, rushing with a carved alarm-horn and water-rune bucket toward a flame-glyph, rolled sleeves, urgent responder stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r062",
+    "sheet_id": "s022",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Forsjáll Grímr",
+    "character_desc": "Deus que imagina o ataque antes que ele venha — o threat modeler.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Threat Modeler, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, studying a carved war-map of possible siege-runes and attack-arrows, a masked helm, plotting foreseeing gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r063",
+    "sheet_id": "s022",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Reynari, o Provador",
+    "character_desc": "Deus que testa cada arma antes da batalha — o QA engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying QA Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, striking a carved blade against a proof-anvil checking for cracks, a checklist-tablet of pass and fail runes, scrutinizing eye, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r064",
+    "sheet_id": "s022",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Sjálfreynir Vé",
+    "character_desc": "Deus dos autômatos-testadores que provam sem descanso — o SDET.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying SDET (Automação), carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, commanding a row of tiny carved tester-automatons striking shields in unison, a script-scroll of automation-runes, hands-off overseer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r065",
+    "sheet_id": "s022",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Þolreynir",
+    "character_desc": "Deus que mede quanto peso o salão aguenta antes de ceder — o performance tester.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Performance Tester, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, piling carved load-stones onto a straining beam measuring a stress-gauge rune, stopwatch-sigil, testing-the-limit stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r066",
+    "sheet_id": "s022",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Handreynir Ósk",
+    "character_desc": "Deus que examina cada peça com as próprias mãos — o manual tester.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Manual Tester, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, carefully turning a carved artifact over by hand inspecting each rune-face, magnifier-lens, deliberate hands-on gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r067",
+    "sheet_id": "s022",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Öllum Reynir",
+    "character_desc": "Deus que testa se o salão acolhe de fato a todos — o accessibility tester.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Accessibility Tester, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, checking a carved ramp-rune and ear/eye sigils against a compliance-tablet, guiding-hand glyph, thorough inclusive inspection, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r068",
+    "sheet_id": "s022",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Skrifari Sögu",
+    "character_desc": "Deus escriba que grava as sagas em tábuas de runa — o technical writer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Technical Writer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, carving neat rune-lines onto a manual-tablet with a quill-chisel, an open guidebook-scroll, careful documenting gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r069",
+    "sheet_id": "s022",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Kallari Braga",
+    "character_desc": "Deus arauto que proclama as sagas ao povo — o developer advocate.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Developer Advocate, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, raising a carved proclamation-horn addressing a crowd, a saga-scroll and demo-token in hand, charismatic outward gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r070",
+    "sheet_id": "s022",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Söguráð, a Estrategista",
+    "character_desc": "Deusa que planeja quais sagas contar e em que ordem — a content strategist.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Content Strategist, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, arranging carved story-tablets on a planning-board of theme-runes, a quill and calendar-rune, thoughtful arranging gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r071",
+    "sheet_id": "s022",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Tungumál Iðunn",
+    "character_desc": "Deusa que traduz as sagas para as línguas de todos os reinos — a localization engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Localization Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, holding a carved multi-tongue rune-wheel translating a scroll into many scripts, world-map sigil, adapting bilingual gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r072",
+    "sheet_id": "s022",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Formgyðja Sól",
+    "character_desc": "Deusa que molda a experiência inteira do artefato — a product designer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Product Designer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, shaping a carved holistic artifact-idol balancing form and function runes, sketch-tablet and user-heart sigil, holistic crafting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r073",
+    "sheet_id": "s022",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Fegurð Vaka",
+    "character_desc": "Deusa que talha a beleza visível de cada peça — a visual designer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Visual Designer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, polishing a carved ornate rune-panel of balanced colors and shapes, a palette-sigil and golden-ratio rune, aesthetic refining eye, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r074",
+    "sheet_id": "s022",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Snerting Dofri",
+    "character_desc": "Deus do toque que define como se responde a cada gesto — o interaction designer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Interaction Designer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, demonstrating a carved tap-and-response rune-panel with feedback-glyphs, a gesture-arc sigil, hands showing an interaction, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r075",
+    "sheet_id": "s022",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Sveifla, a que Balança",
+    "character_desc": "Deusa do movimento gracioso das figuras do salão — a motion designer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Motion Designer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, trailing carved motion-arcs and easing-curve runes around a gliding idol, a timeline-ribbon of keyframe glyphs, graceful sweeping gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r076",
+    "sheet_id": "s022",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Teiknari Hlín",
+    "character_desc": "Deusa que desenha as criaturas e cenas das sagas — a illustrator.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Illustrator, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, sketching a carved fantastical rune-creature onto a panel with a drawing-chisel, ink-runes and brush, imaginative drawing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r077",
+    "sheet_id": "s022",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Gripasmiðr",
+    "character_desc": "Deus que talha os pequenos ícones e adornos do salão — o asset designer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Asset Designer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, arranging a carved tray of tiny icon-idols and ornament-runes, a fine chisel and sprite-sheet tablet, meticulous crafting gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r078",
+    "sheet_id": "s022",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Merkismaðr Óð",
+    "character_desc": "Deus que forja o brasão e a marca do clã — o brand designer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Brand Designer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, presenting a carved clan-emblem shield with a signature rune-sigil, a color-palette totem and logo-stamp, proud branding gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r079",
+    "sheet_id": "s022",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Ómgyðja",
+    "character_desc": "Deusa do som que talha os ecos e cânticos do salão — a sound designer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Sound Designer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, cupping a carved ringing bell and wave-rune horn, sound-ripple glyphs radiating, tuned listening expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r080",
+    "sheet_id": "s022",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Þrívíddr Hörð",
+    "character_desc": "Deus escultor que dá volume e profundidade às figuras — o 3D artist.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying 3D Artist, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, sculpting a carved wireframe-idol gaining rounded rune-volume, a modeling-chisel and turntable base, dimensional shaping gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r081",
+    "sheet_id": "s022",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Leikstjóri Freyr",
+    "character_desc": "Deus que arquiteta as regras do jogo do salão — o game designer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Game Designer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, holding a carved rule-tablet with dice-runes and a balance-scale of fun, a game-board sigil, orchestrating playful gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r082",
+    "sheet_id": "s022",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Heimasmiðr Vé",
+    "character_desc": "Deus que talha os salões e labirintos onde a aventura acontece — o level designer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Level Designer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, building a carved miniature dungeon-map with path-runes and trap-glyphs, spawn-point sigils, arranging the world by hand, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r083",
+    "sheet_id": "s022",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Sagnamaðr Kveld",
+    "character_desc": "Deus contador que tece a trama das jornadas — o narrative designer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Narrative Designer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, unrolling a carved branching story-scroll of quest-runes and choice-forks, a saga-quill, spellbinding storyteller gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r084",
+    "sheet_id": "s022",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Leiksmiðr Bragi",
+    "character_desc": "Deus-artífice que dá vida jogável ao mundo esculpido — o game developer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Game Developer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, wiring a carved playable rune-world with input-glyphs and physics-runes, a controller-sigil totem, hands animating the scene, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r085",
+    "sheet_id": "s022",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Ljósrún, a que Pinta a Luz",
+    "character_desc": "Deusa que talha o brilho e a sombra das superfícies — a graphics/shader engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Graphics/Shader Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, casting carved light-ray and shadow runes across a rendered surface-panel, a prism-sigil refracting glyphs, luminous shaping gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r086",
+    "sheet_id": "s022",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Smávélasmiðr",
+    "character_desc": "Deus que forja os minúsculos cérebros-runa das máquinas — o embedded engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Embedded Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, soldering a carved tiny circuit-rune board with a fine iron, chip-idol in the palm, close precise micro-crafting focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r087",
+    "sheet_id": "s022",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Kjarnaorð Dvalinn",
+    "character_desc": "Deus dwarf que grava a alma-runa dentro do metal — o firmware engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Firmware Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, engraving deep core-runes into a carved metal chip-tablet, a burin and low-level sigil, dwarven meticulous carving gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r088",
+    "sheet_id": "s022",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Netþing Álfa",
+    "character_desc": "Deus que liga mil pequenos objetos-runa numa só teia — o IoT engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying IoT Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, linking many carved tiny sensor-idols by rune-threads to a hub-totem, signal-waves radiating, connecting web gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r089",
+    "sheet_id": "s022",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Keðjuvörðr",
+    "character_desc": "Deus da corrente eterna de elos-runa imutáveis — o blockchain developer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Blockchain Developer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, forging a carved unbreakable chain of block-runes each sealed with a hash-glyph, a distributed-ledger tablet, forging gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r090",
+    "sheet_id": "s022",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Sáttmálarýnir",
+    "character_desc": "Deus que audita os pactos-runa gravados na corrente — o smart contract auditor.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Smart Contract Auditor, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, scrutinizing a carved contract-link of the rune-chain with a magnifier for flaw-glyphs, an audit-seal stamp, careful examining eye, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r091",
+    "sheet_id": "s022",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Hillingasmiðr",
+    "character_desc": "Deus que talha miragens sobre o mundo real — o AR/VR engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying AR/VR Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, holding a carved visor-rune projecting overlaid phantom-glyphs onto the air, a portal-frame sigil, immersive reaching gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r092",
+    "sheet_id": "s022",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Járngangari Móði",
+    "character_desc": "Deus que constrói autômatos de ferro que se movem sós — o robotics engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Robotics Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, beside a carved articulated iron-golem idol with joint-runes, holding a control-totem and gear-sigil, engineering pointing gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r093",
+    "sheet_id": "s022",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Vaxtargoð Freyja",
+    "character_desc": "Deusa da fartura que faz o clã multiplicar — a growth engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Growth Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, coaxing a carved sprouting rune-tree with an upward growth-arrow, funnel-of-followers glyphs, a seed-of-metrics in hand, nurturing gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r094",
+    "sheet_id": "s022",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Leiðarljós Heimdall",
+    "character_desc": "Deus vigia que faz o salão ser achado de longe — o SEO specialist.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying SEO Specialist, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, standing atop a carved beacon-tower emitting keyword-runes, a spyglass and ranking-ladder sigil, far-seeing guiding gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r095",
+    "sheet_id": "s022",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Kaupmaðr Njörð",
+    "character_desc": "Deus mercador que afina as ferramentas de proclamação do clã — o marketing technologist.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Marketing Technologist, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, juggling carved campaign-tool runes and an audience-net, a funnel-sigil and coin-of-conversion, savvy merchant gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r096",
+    "sheet_id": "s022",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Ráðgjafi Vé",
+    "character_desc": "Deus conselheiro que molda a solução ao pedido do visitante — o solutions engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Solutions Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, presenting a carved custom-fit artifact matching a client-rune keyhole, a demo-scroll and adapter-sigil, consultative offering gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r097",
+    "sheet_id": "s022",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Bjargvættr Sif",
+    "character_desc": "Deus-espírito socorrista que atende o aflito do salão — o support engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Support Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, extending a carved helping-hand rune to a troubled traveler-idol, a ticket-scroll and toolkit-sigil, reassuring supportive gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r098",
+    "sheet_id": "s022",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Sölufari Bragi",
+    "character_desc": "Deus que demonstra o poder do artefato ao futuro aliado — o sales engineer.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Sales Engineer, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, showcasing a carved gleaming artifact to an impressed onlooker-idol, a value-scroll and handshake-rune, persuasive presenting gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r099",
+    "sheet_id": "s022",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Fésýslu Gullveig",
+    "character_desc": "Deusa que pesa o ouro-runa gasto em cada reino — a FinOps analyst.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying FinOps Analyst, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, weighing carved gold-coin runes on a cost-scale, a spend-ledger tablet and budget-cap sigil, frugal calculating gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s022-r100",
+    "sheet_id": "s022",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Lögmaðr Forseti",
+    "character_desc": "Deus dos juízos que zela pelos pactos e leis do clã — o legal counsel.",
+    "nano_prompt": "Hand-carved wooden figurine of a Norse deity embodying Legal Counsel, carved oak and ash wood with visible chisel marks and flowing wood grain, softly glowing engraved runes tracing the edges, warm amber torchlight, bust portrait framing head and shoulders, holding a carved balanced scale-of-justice rune and a sealed contract-scroll, a gavel-sigil, solemn judicious posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

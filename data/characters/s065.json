@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s065-r001",
+    "sheet_id": "s065",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Arqui-bactéria",
+    "character_desc": "Micróbio-mestre que planeja a colônia inteira; segura uma planta baciloscópica de biofilme e um compasso, com capacete de arquiteto.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, wearing a tiny architect hard hat, holding a rolled blueprint of a biofilm colony and a small compass, pointing forward confidently, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r002",
+    "sheet_id": "s065",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Líder-Coco",
+    "character_desc": "Bactéria coordenadora do cacho celular; aponta a direção com uma bandeirinha e usa um crachá de liderança de flagelo.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, wearing a small leader badge, holding a little pennant flag and gesturing to lead a cluster of tiny cells, confident guiding pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r003",
+    "sheet_id": "s065",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Estafibáculo",
+    "character_desc": "Célula veterana super estável; carrega um báculo de sabedoria e várias medalhas de gerações passadas.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, wearing several achievement medals, holding a wise elder staff, calm authoritative expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r004",
+    "sheet_id": "s065",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Principa-Célula",
+    "character_desc": "Micróbio-decano da placa de Petri; usa uma coroa discreta de estrutura molecular e apoia num bastão de comando.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, wearing a subtle molecular-structure crown, holding a command baton, dignified proud posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r005",
+    "sheet_id": "s065",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Geren-Micro",
+    "character_desc": "Bactéria gestora que cuida do bem-estar da colônia; segura uma prancheta com gráfico de crescimento e um coração de apoio.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a clipboard with a colony growth chart and a small supportive heart shape, warm caring smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r006",
+    "sheet_id": "s065",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Produto-Cílio",
+    "character_desc": "Micróbio que decide o que a colônia constrói; segura um mapa de rota e uma lâmpada de ideia sobre a membrana.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a small roadmap scroll with a glowing idea lightbulb floating above, thoughtful visionary expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r007",
+    "sheet_id": "s065",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Dono-Coco",
+    "character_desc": "Bactéria guardiã da lista de tarefas; abraça um pergaminho de backlog e prioriza com um selo de estrela.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, hugging a backlog scroll and holding a star priority stamp, decisive focused look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r008",
+    "sheet_id": "s065",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Progra-Micróbio",
+    "character_desc": "Célula que sincroniza várias colônias; equilibra vários pratos giratórios de biofilme numa engrenagem grande.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, juggling several spinning biofilm plates around a big gear, coordinated multitasking pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r009",
+    "sheet_id": "s065",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Projeto-Bacilo",
+    "character_desc": "Bactéria em forma de bastonete que cronometra tudo; segura um cronograma de Gantt e uma ampulheta.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, rod-shaped body, holding a tiny Gantt-chart timeline and an hourglass, organized busy expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r010",
+    "sheet_id": "s065",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Scrum-Esporo",
+    "character_desc": "Esporo animado que remove obstáculos; segura um quadro kanban minúsculo e um apito de facilitador.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, spore-shaped body, holding a tiny kanban board and a facilitator whistle, energetic cheerful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r011",
+    "sheet_id": "s065",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Back-Bacilo",
+    "character_desc": "Bactéria operária dos bastidores; carrega servidores minúsculos empilhados e uma chave inglesa de flagelo.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, rod-shaped body, carrying a stack of tiny server racks and a small wrench, hardworking focused look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r012",
+    "sheet_id": "s065",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "API-Cocus",
+    "character_desc": "Micróbio conector que abre portas entre células; segura uma chave-encaixe em forma de endpoint e uma tomada de conexão.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding an endpoint-shaped connector key and a plug socket, friendly linking gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r013",
+    "sheet_id": "s065",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Micro-serviço",
+    "character_desc": "Colônia de micro-bactérias independentes; carrega vários cubinhos-container ligados por filamentos.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, surrounded by several tiny linked container cubes connected by filaments, modular tidy arrangement, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r014",
+    "sheet_id": "s065",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Pipe-Flagelo",
+    "character_desc": "Bactéria que canaliza nutrientes num duto; segura um tubo de pipeline por onde escorrem dados-gotícula.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a transparent pipeline tube with data droplets flowing through, streaming attentive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r015",
+    "sheet_id": "s065",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Dado-Cílio",
+    "character_desc": "Micróbio que garimpa e move nutrientes; empurra um vagonete cheio de cristais-dado por trilhos de cílio.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, pushing a mine cart full of glowing data crystals along cilia rails, industrious expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r016",
+    "sheet_id": "s065",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "DBA-Coco",
+    "character_desc": "Bactéria bibliotecária da célula; guarda gavetas-arquivo de DNA e carrega um molho de chaves de acesso.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, beside tidy DNA filing drawers, holding a ring of access keys, orderly guardian pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r017",
+    "sheet_id": "s065",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "SQL-Espirilo",
+    "character_desc": "Bactéria espiralada que consulta o genoma; segura uma lupa sobre uma fita de código genético.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, spiral-shaped body, holding a magnifying glass over a genetic query strip, precise searching expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r018",
+    "sheet_id": "s065",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Cache-Vacúolo",
+    "character_desc": "Micróbio com vacúolo de armazenamento rápido; guarda snacks-dado numa geladeirinha reluzente.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a shiny mini fridge storing quick data snacks in a vacuole, speedy ready pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r019",
+    "sheet_id": "s065",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Fila-Bacilo",
+    "character_desc": "Bactéria carteira que enfileira mensagens; entrega envelopes-vesícula numa esteira ordenada.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, rod-shaped body, sorting message envelope vesicles onto an orderly conveyor belt, dispatching pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r020",
+    "sheet_id": "s065",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Busca-Cílio",
+    "character_desc": "Micróbio farejador; usa uma lupa gigante e um radar de cílio para encontrar moléculas.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a big magnifying glass with a small cilia radar dish, searching alert expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r021",
+    "sheet_id": "s065",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Front-Coco",
+    "character_desc": "Bactéria vitrinista; segura um quadro-tela com botões fofos e um pincel de interface.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a small screen frame with cute UI buttons and an interface paintbrush, welcoming presenting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r022",
+    "sheet_id": "s065",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "UI-Vesícula",
+    "character_desc": "Micróbio montador de botões; equilibra blocos de componentes coloridos empilhados.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, stacking colorful UI component blocks, tidy building expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r023",
+    "sheet_id": "s065",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "UX-Ameba",
+    "character_desc": "Ameba empática que estuda o usuário; segura um mapa de jornada e um coraçãozinho de empatia.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, amoeba-shaped soft body, holding a user journey map scroll and a small empathy heart, thoughtful caring look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r024",
+    "sheet_id": "s065",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Sistema-Coco",
+    "character_desc": "Bactéria organizadora de peças-padrão; carrega uma caixa de peças-Lego de design idênticas.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a neat box of identical modular design puzzle pieces, systematic organized pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r025",
+    "sheet_id": "s065",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Acesso-Cílio",
+    "character_desc": "Micróbio inclusivo; segura uma bengala-guia e um símbolo universal de acessibilidade.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a guide cane and a universal accessibility symbol sign, warm inclusive expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r026",
+    "sheet_id": "s065",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Veloz-Flagelo",
+    "character_desc": "Bactéria super rápida; usa tênis minúsculos e segura um cronômetro de performance.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, wearing tiny running sneakers, holding a stopwatch, speedy dashing pose with motion lines, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r027",
+    "sheet_id": "s065",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "CSS-Cocus",
+    "character_desc": "Micróbio estilista; segura uma paleta de pigmentos e um rolinho de pintura de membrana.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a pigment color palette and a small paint roller, artistic styling pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r028",
+    "sheet_id": "s065",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Anima-Cílio",
+    "character_desc": "Bactéria dançarina; deixa um rastro de quadros-chave enquanto pula com pompons de cílio.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, mid-jump leaving a trail of keyframe afterimages, holding cilia pom-poms, lively animated pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r029",
+    "sheet_id": "s065",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Móbile-Bacilo",
+    "character_desc": "Bactéria portátil; segura um celularzinho-membrana e uma antena de flagelo.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, rod-shaped body, holding a tiny smartphone made of membrane and a flagellum antenna, on-the-go pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r030",
+    "sheet_id": "s065",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "iOS-Coco",
+    "character_desc": "Micróbio elegante e polido; segura uma maçãzinha-organela reluzente e um parafuso minimalista.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a shiny apple-shaped organelle and a minimalist screw, sleek polished expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r031",
+    "sheet_id": "s065",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Andro-Cílio",
+    "character_desc": "Bactéria verdinha e versátil; segura um robôzinho-mascote de folha e chaves de fenda.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, green-tinted body, holding a little leaf-robot mascot and a screwdriver, playful versatile pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r032",
+    "sheet_id": "s065",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "React-Ameba",
+    "character_desc": "Ameba que se molda em duas plataformas; equilibra dois telefones-membrana num átomo giratório.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, amoeba-shaped body, balancing two membrane phones around a spinning atom symbol, adaptive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r033",
+    "sheet_id": "s065",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Flutter-Cocus",
+    "character_desc": "Micróbio com asinhas de borboleta; segura um pincel único que pinta duas telas iguais.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, with tiny butterfly wings, holding one brush painting two identical screens, graceful flitting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r034",
+    "sheet_id": "s065",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Ciência-Cílio",
+    "character_desc": "Bactéria pesquisadora; segura um béquer borbulhante e um gráfico de dispersão de moléculas.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a bubbling beaker and a scatter-plot chart of molecules, curious analytical expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r035",
+    "sheet_id": "s065",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "ML-Neurônio",
+    "character_desc": "Micróbio com organela-cérebro brilhante; treina um mini-modelo em forma de rede de nós.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, with a glowing brain organelle, holding a small node-network model, thoughtful training pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r036",
+    "sheet_id": "s065",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "MLOps-Bacilo",
+    "character_desc": "Bactéria que mantém o modelo vivo; segura uma engrenagem-cérebro sobre uma esteira de deploy.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, rod-shaped body, holding a brain-gear over a deployment conveyor loop, maintaining pipeline pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r037",
+    "sheet_id": "s065",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Pesqui-Espirilo",
+    "character_desc": "Bactéria espiralada de laboratório; usa óculos de fundo de garrafa e segura um artigo-pergaminho científico.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, spiral body, wearing round thick glasses, holding a rolled scientific paper, pondering discovery pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r038",
+    "sheet_id": "s065",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Prompt-Cílio",
+    "character_desc": "Micróbio sussurrador de IA; segura um balão de fala mágico e uma varinha de comando.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a glowing speech-bubble scroll and a magic command wand, coaxing expressive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r039",
+    "sheet_id": "s065",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "NLP-Coco",
+    "character_desc": "Bactéria que entende línguas; flutua entre balõezinhos de fala de vários idiomas com um dicionário.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, surrounded by little multilingual speech bubbles, holding a small dictionary, listening comprehending pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r040",
+    "sheet_id": "s065",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Visão- Olho",
+    "character_desc": "Micróbio com um grande olho-lente; segura uma câmera minúscula que reconhece formas.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, with one big camera-lens eye, holding a tiny camera scanning shapes, observant recognizing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r041",
+    "sheet_id": "s065",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Analista-Cílio",
+    "character_desc": "Bactéria que lê padrões; segura uma prancheta com gráfico de barras e uma lupa.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a clipboard with a bar chart and a magnifying glass, examining focused expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r042",
+    "sheet_id": "s065",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "BI-Cocus",
+    "character_desc": "Micróbio de painéis; equilibra um dashboard-membrana com pizza e linhas coloridas.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a membrane dashboard panel with pie and line charts, presenting insightful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r043",
+    "sheet_id": "s065",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Analytics-Bacilo",
+    "character_desc": "Bactéria encanadora de dados; conecta tubos que transformam nutrientes em relatórios limpos.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, rod-shaped body, connecting pipes that turn raw droplets into clean report cards, tidy modeling pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r044",
+    "sheet_id": "s065",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Viz-Ameba",
+    "character_desc": "Ameba artista de dados; pinta um gráfico bonito num cavalete com pincéis coloridos.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, amoeba body, painting a beautiful chart on a small easel with colorful brushes, artistic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r045",
+    "sheet_id": "s065",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "DevOps-Flagelo",
+    "character_desc": "Bactéria multitarefa da infra; segura uma chave inglesa e um símbolo infinito de ciclo.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a big wrench and a glowing infinity loop symbol, busy fixing coordinated pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r046",
+    "sheet_id": "s065",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "SRE-Coco",
+    "character_desc": "Micróbio bombeiro-guardião; usa capacete e segura um extintor com um monitor de sinais vitais.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, wearing a rescue helmet, holding a small fire extinguisher and a vital-signs monitor, alert on-call pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r047",
+    "sheet_id": "s065",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Plata-Bacilo",
+    "character_desc": "Bactéria que constrói a base para outras; segura uma plataforma-tijolo onde outras célulinhas pousam.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, rod-shaped body, holding up a sturdy platform brick where tiny cells stand, supportive building pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r048",
+    "sheet_id": "s065",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Nuvem-Cílio",
+    "character_desc": "Micróbio arquiteto do céu; flutua sobre uma nuvem fofa segurando uma planta de servidores.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, floating on a fluffy cloud, holding a blueprint of cloud servers, visionary airy pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r049",
+    "sheet_id": "s065",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "K8s-Timoneiro",
+    "character_desc": "Bactéria capitã; segura um leme de navio (timão) e organiza containers-caixa em fila.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a ship's helm wheel, arranging container boxes in orderly rows, steering captain pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r050",
+    "sheet_id": "s065",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Rede-Espirilo",
+    "character_desc": "Bactéria espiralada cabeadora; segura um novelo de cabos de rede e um switch minúsculo.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, spiral body, holding a bundle of network cables and a tiny switch, connecting wiring pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r051",
+    "sheet_id": "s065",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "SysAdmin-Coco",
+    "character_desc": "Micróbio zelador do sistema; usa cinto de ferramentas e segura um terminal-membrana.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, wearing a tool belt, holding a membrane terminal screen, dependable caretaker pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r052",
+    "sheet_id": "s065",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Release-Bacilo",
+    "character_desc": "Bactéria que solta versões; segura uma caixa-presente etiquetada com um foguetinho de lançamento.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, rod-shaped body, holding a gift-boxed release package with a tiny launch rocket, ceremonial pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r053",
+    "sheet_id": "s065",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Build-Flagelo",
+    "character_desc": "Micróbio montador; opera uma fábrica-organela que compila peças numa esteira.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, operating a tiny factory organelle assembling parts on a belt, constructing focused pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r054",
+    "sheet_id": "s065",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "CICD-Cílio",
+    "character_desc": "Bactéria de esteira contínua; corre por uma esteira em loop entregando pacotes verdes de aprovação.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, running on a looping conveyor belt delivering green approved packages, continuous flowing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r055",
+    "sheet_id": "s065",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Segura-Coco",
+    "character_desc": "Bactéria guarda-costas; usa capacete e segura um escudo-membrana com cadeado.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, wearing a helmet, holding a membrane shield with a padlock emblem, protective vigilant pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r056",
+    "sheet_id": "s065",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Pen-Espirilo",
+    "character_desc": "Bactéria espiã espiralada; usa capuz e segura uma gazua digital testando uma fechadura.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, spiral body, wearing a hoodie, holding a digital lockpick probing a padlock, sneaky testing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r057",
+    "sheet_id": "s065",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "AppSec-Cílio",
+    "character_desc": "Micróbio blindador de código; segura uma lupa e um escudo pequeno sobre uma app-organela.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a magnifying glass and a small shield over an app organelle, inspecting guarding pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r058",
+    "sheet_id": "s065",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Cripto-Bacilo",
+    "character_desc": "Bactéria embaralhadora; segura um cadeado-enigma e uma chave dupla entrelaçada.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, rod-shaped body, holding an enigma padlock and an intertwined key pair, secretive clever pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r059",
+    "sheet_id": "s065",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Compli-Coco",
+    "character_desc": "Micróbio fiscal das regras; segura uma prancheta com selo de conformidade e um checklist.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a clipboard with a compliance seal and a checklist, orderly checking expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r060",
+    "sheet_id": "s065",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Privaci-Ameba",
+    "character_desc": "Ameba que esconde segredos; envolve dados-pessoais numa capa protetora com um véu.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, amoeba body, wrapping personal-data droplets in a protective cloak and veil, discreet shielding pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r061",
+    "sheet_id": "s065",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Socorro-Flagelo",
+    "character_desc": "Bactéria plantonista; usa capacete de resgate e segura um pager piscando com sirene.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, wearing a rescue helmet, holding a flashing pager with a small siren, urgent responding pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r062",
+    "sheet_id": "s065",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Ameaça-Cílio",
+    "character_desc": "Micróbio detetive; estuda um quadro de ameaças com fios vermelhos e uma lupa.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, studying a red-string threat board with a magnifying glass, analytical detective pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r063",
+    "sheet_id": "s065",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "QA-Coco",
+    "character_desc": "Bactéria inspetora; segura uma lupa e um carimbo de aprovado sobre uma amostra.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a magnifying glass and an approved stamp over a sample, careful checking expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r064",
+    "sheet_id": "s065",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "SDET-Robô",
+    "character_desc": "Bactéria com bracinho robótico; um pequeno robô-cílio executa testes automáticos por ela.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, with a small robotic cilia arm running automated test checkmarks, efficient automation pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r065",
+    "sheet_id": "s065",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Perf-Flagelo",
+    "character_desc": "Micróbio de teste de carga; empurra pesos-halteres medindo estresse com um manômetro.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, pushing dumbbell weights while reading a stress gauge, straining measuring pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r066",
+    "sheet_id": "s065",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Manual-Cílio",
+    "character_desc": "Bactéria minuciosa; percorre um checklist de papel item por item com um lápis.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, walking through a long paper checklist with a pencil, meticulous ticking pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r067",
+    "sheet_id": "s065",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Acesso-QA",
+    "character_desc": "Micróbio que testa inclusão; usa fones e venda testando uma interface com uma bengala.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, wearing headphones and a blindfold, testing an interface with a guide cane, empathetic testing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r068",
+    "sheet_id": "s065",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Doc-Bacilo",
+    "character_desc": "Bactéria escriba; segura uma pena de flagelo e um manual-pergaminho aberto.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, rod-shaped body, holding a flagellum quill pen and an open manual scroll, writing studious pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r069",
+    "sheet_id": "s065",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Advoga-Coco",
+    "character_desc": "Micróbio comunicador; segura um megafone e um balãozinho de comunidade com corações.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a megaphone and a community speech bubble with hearts, enthusiastic outreach pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r070",
+    "sheet_id": "s065",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Conteúdo-Cílio",
+    "character_desc": "Bactéria planejadora de narrativa; organiza cartõezinhos de história num mural.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, arranging little story cards on a small board, strategic planning pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r071",
+    "sheet_id": "s065",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "i18n-Ameba",
+    "character_desc": "Ameba tradutora; segura um globo minúsculo cercado de balões de fala de idiomas.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, amoeba body, holding a tiny globe surrounded by multilingual speech bubbles, welcoming worldly pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r072",
+    "sheet_id": "s065",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Produto-Design",
+    "character_desc": "Bactéria criadora de experiências; segura um esboço de wireframe e um lápis-flagelo.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a wireframe sketch and a flagellum pencil, thoughtful crafting expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r073",
+    "sheet_id": "s065",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Visual-Coco",
+    "character_desc": "Micróbio esteta; segura uma paleta de cores e um pincel fino diante de um quadro.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a color palette and a fine brush before a small canvas, artistic composed pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r074",
+    "sheet_id": "s065",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Intera-Cílio",
+    "character_desc": "Bactéria que desenha toques; aponta para botões que respondem com brilho ao seu cílio.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, pointing at glowing responsive buttons reacting to its cilia touch, interactive playful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r075",
+    "sheet_id": "s065",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Motion-Flagelo",
+    "character_desc": "Micróbio de movimento; deixa rastro curvo de setas animadas enquanto gira alegre.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, spinning joyfully leaving a curved trail of animated motion arrows, dynamic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r076",
+    "sheet_id": "s065",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Ilustra-Ameba",
+    "character_desc": "Ameba desenhista; segura um caderno de esboços e um lápis grande, coberta de tintinha.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, amoeba body, holding a sketchbook and a big pencil, splattered with tiny paint dots, drawing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r077",
+    "sheet_id": "s065",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Asset-Coco",
+    "character_desc": "Bactéria produtora de peças; organiza um estojo de ícones e sprites brilhantes.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, arranging a tray of shiny icons and sprite assets, tidy productive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r078",
+    "sheet_id": "s065",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Marca-Cílio",
+    "character_desc": "Micróbio identitário; segura um selo de logo e um cartão com paleta de marca.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a logo stamp and a brand palette card, confident branding pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r079",
+    "sheet_id": "s065",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Som-Bacilo",
+    "character_desc": "Bactéria musical; usa fones e segura um microfone com ondas sonoras saindo.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, rod-shaped body, wearing headphones, holding a microphone with sound waves rippling out, rhythmic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r080",
+    "sheet_id": "s065",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "3D-Cocus",
+    "character_desc": "Micróbio escultor; molda um cubo-organela em wireframe 3D com as mãozinhas.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, sculpting a 3D wireframe organela cube with its little hands, modeling focused pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r081",
+    "sheet_id": "s065",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Game-Cílio",
+    "character_desc": "Bactéria brincalhona; segura um controle de videogame-membrana e um dado.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a membrane game controller and a dice, playful gaming pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r082",
+    "sheet_id": "s065",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Level-Bacilo",
+    "character_desc": "Bactéria construtora de fases; monta um mapinha de labirinto com peças-bloco.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, rod-shaped body, building a small maze map from block pieces, designing constructive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r083",
+    "sheet_id": "s065",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Narra-Ameba",
+    "character_desc": "Ameba contadora de histórias; segura um livro aberto com um balãozinho de fala mágico.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, amoeba body, holding an open storybook with a magical speech bubble, storytelling expressive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r084",
+    "sheet_id": "s065",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Game-Dev",
+    "character_desc": "Micróbio programador de jogos; segura um controle e um teclado-flagelo com faíscas de código.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a game controller and a flagellum keyboard sparkling with code, coding-play pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r085",
+    "sheet_id": "s065",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Shader-Coco",
+    "character_desc": "Bactéria que pinta luz; segura um pincel que emite gradientes brilhantes de shader.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a brush emitting glowing shader gradients, luminous rendering pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r086",
+    "sheet_id": "s065",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Embed-Bacilo",
+    "character_desc": "Bactéria minúscula em chip; sentada sobre uma plaquinha de circuito com solda.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, rod-shaped body, sitting on a tiny circuit board with a soldering iron, compact tinkering pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r087",
+    "sheet_id": "s065",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Firm-Cílio",
+    "character_desc": "Micróbio do baixo nível; segura um chip-organela e um cabo de gravação de firmware.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a chip organelle and a firmware flashing cable, low-level focused pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r088",
+    "sheet_id": "s065",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "IoT-Coco",
+    "character_desc": "Bactéria conectada; cercada de mini-aparelhos-organela (lâmpada, sensor) ligados por ondas.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, surrounded by mini smart-device organelles (bulb, sensor) linked by wireless waves, connected pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r089",
+    "sheet_id": "s065",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Bloco-Espirilo",
+    "character_desc": "Bactéria espiralada da corrente; carrega blocos-cristal encadeados por elos.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, spiral body, carrying crystal blocks chained by links, secure ledger pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r090",
+    "sheet_id": "s065",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Contrato-Cílio",
+    "character_desc": "Micróbio auditor de contratos; lê um pergaminho-código com lupa e carimbo de verificação.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, reading a code-contract scroll with a magnifying glass and a verify stamp, scrutinizing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r091",
+    "sheet_id": "s065",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "AR-VR-Coco",
+    "character_desc": "Bactéria imersiva; usa um óculos-visor de realidade virtual com hologramas flutuando.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, wearing a VR visor headset with tiny floating holograms around, immersed wondering pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r092",
+    "sheet_id": "s065",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Robo-Bacilo",
+    "character_desc": "Bactéria engenheira de robôs; segura um controle e ao lado um robôzinho-organela com garras.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, rod-shaped body, holding a controller beside a small robot organelle with claws, building pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r093",
+    "sheet_id": "s065",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Growth-Flagelo",
+    "character_desc": "Micróbio que faz a colônia crescer; segura um foguetinho e um gráfico de curva subindo.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a tiny rocket and an upward growth curve chart, energetic launching pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r094",
+    "sheet_id": "s065",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "SEO-Cílio",
+    "character_desc": "Bactéria farejadora de topo; segura uma lupa mirando uma estrela de ranking no topo de uma lista.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a magnifying glass aimed at a top-ranked star on a list, climbing optimizing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r095",
+    "sheet_id": "s065",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "MarTech-Coco",
+    "character_desc": "Micróbio de campanhas; segura um funil por onde caem novos micróbios-clientes e um megafone.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a funnel dropping in new customer microbes and a small megaphone, promoting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r096",
+    "sheet_id": "s065",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Solução-Bacilo",
+    "character_desc": "Bactéria que encaixa soluções; conecta a peça certa entre duas engrenagens que não giravam.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, rod-shaped body, fitting a matching puzzle piece between two stuck gears, problem-solving pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r097",
+    "sheet_id": "s065",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Suporte-Coco",
+    "character_desc": "Micróbio prestativo; usa headset de atendimento e segura um coração com uma chave-solução.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, wearing a support headset, holding a heart and a solution key, helpful caring pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r098",
+    "sheet_id": "s065",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Vendas-Cílio",
+    "character_desc": "Bactéria carismática; segura uma maleta-membrana e aperta um flagelo em cumprimento.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, holding a membrane briefcase, extending a flagellum for a handshake, charismatic friendly pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r099",
+    "sheet_id": "s065",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "FinOps-Bacilo",
+    "character_desc": "Bactéria contadora; segura uma calculadora-organela e um cofrinho com moedas-nutriente.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, rod-shaped body, holding a calculator organelle and a piggy bank with nutrient coins, thrifty pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s065-r100",
+    "sheet_id": "s065",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Legal-Coco",
+    "character_desc": "Micróbio advogado; usa golinha branca de toga e segura uma balança da justiça minúscula.",
+    "nano_prompt": "Scientific cartoon illustration of a cute rounded single-celled microbe character with a soft translucent membrane body, big friendly sparkling eyes and a cheerful smile, tiny wiggling flagella and cilia, soft pastel colors, clean bold outlines, educational biology textbook style, full body single microbe, wearing a small white legal collar, holding a tiny scales of justice, dignified judicious pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

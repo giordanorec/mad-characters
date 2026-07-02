@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s095-r001",
+    "sheet_id": "s095",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Mestre Kenzō",
+    "character_desc": "Arquiteto-mor de templos: desenha a estrutura antes de erguer.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese master temple architect unrolling a large scroll blueprint of a multi-tier pagoda, holding a carpenter's square and inked line reel, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, serene commanding gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r002",
+    "sheet_id": "s095",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Kajitori",
+    "character_desc": "Timoneiro-veterano que guia a tripulação de pescadores pela onda.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese veteran ship helmsman gripping a boat rudder and a signaling war-fan, leading an unseen crew, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, steady confident look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r003",
+    "sheet_id": "s095",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Takumi",
+    "character_desc": "Mestre-artesão itinerante de mão calejada e muitos formões.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese seasoned wandering master craftsman with a full chisel toolbox slung open, many gleaming tools, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, calm expert focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r004",
+    "sheet_id": "s095",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Genrō",
+    "character_desc": "Ancião-sensei cuja palavra é lei entre os construtores.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese venerable elder sensei master holding a grand calligraphy brush and a carved master's seal, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, wise composed expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r005",
+    "sheet_id": "s095",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Oyakata",
+    "character_desc": "Chefe de troupe que organiza pessoas antes de tarefas.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese theater troupe boss holding a personnel roster scroll and a wooden abacus, gesturing to organize, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, warm authoritative smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r006",
+    "sheet_id": "s095",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Akindo",
+    "character_desc": "Mercador que pesa o que vale a pena vender ao público.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese market merchant weighing goods on a hand balance while reading a customer wishlist scroll, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, shrewd thoughtful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r007",
+    "sheet_id": "s095",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Nushi",
+    "character_desc": "Administrador de propriedade que ordena as prioridades e carimba.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese estate steward holding a priority ledger and a red name-seal stamp, marking order of tasks, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, decisive calm gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r008",
+    "sheet_id": "s095",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Michibiki",
+    "character_desc": "Guia de comboio que coordena muitos barcos rumo ao mesmo porto.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese convoy guide-master holding a routed map and two signal flags coordinating several boats, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, directing confident pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r009",
+    "sheet_id": "s095",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Banshō",
+    "character_desc": "Mestre da estação de posta com cronograma e ampulheta.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese post-station master holding a scheduling scroll, an hourglass and a checklist tally board, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, punctual attentive look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r010",
+    "sheet_id": "s095",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Taikō",
+    "character_desc": "Baterista do dojô que marca o ritmo de cada ciclo.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese dojo taiko drummer with a large drum and bamboo counting sticks keeping cadence, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, energetic rhythmic pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r011",
+    "sheet_id": "s095",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Kamado",
+    "character_desc": "Cozinheiro da casa de máquinas que alimenta a fornalha oculta.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese apron-clad backstage hearth cook stoking a hidden furnace with a bellows and long ladle, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, diligent hardworking look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r012",
+    "sheet_id": "s095",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Torii",
+    "character_desc": "Guardião do portão que entrega fichas de passagem casadas.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese ornate-gate keeper handing out paired tally sticks and passage tokens at a torii threshold, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, polite orderly gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r013",
+    "sheet_id": "s095",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Ningyō",
+    "character_desc": "Titereiro que comanda muitos bonecos, cada um numa só tarefa.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese bunraku puppeteer manipulating several small single-task puppets on strings, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, focused multitasking look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r014",
+    "sheet_id": "s095",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Suirō",
+    "character_desc": "Mestre de aquedutos que canaliza água por canos de bambu.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese irrigation aqueduct master channeling water through bamboo pipes beside a small water wheel, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, practical flowing focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r015",
+    "sheet_id": "s095",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Kura",
+    "character_desc": "Guardião do celeiro que move fardos de grão para os armazéns.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese rice-granary keeper carrying and stacking grain bales, holding a storehouse ledger, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, sturdy dependable look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r016",
+    "sheet_id": "s095",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Bunko",
+    "character_desc": "Arquivista-mor do depósito de pergaminhos, senhor das chaves.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese grand archive librarian holding a huge ring of keys before indexed scroll shelves, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, meticulous guardian gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r017",
+    "sheet_id": "s095",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Motome",
+    "character_desc": "Escriba preciso que busca o pergaminho exato no arquivo.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese precise scribe pointing a brush at one specific scroll pulled from a card catalog, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, sharp seeking expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r018",
+    "sheet_id": "s095",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Chaya",
+    "character_desc": "Mestre de chá que mantém água quente pronta para servir na hora.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese tea master with an insulated thermal kettle and rows of quick-serve cups always ready, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, calm ready smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r019",
+    "sheet_id": "s095",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Hikyaku",
+    "character_desc": "Mensageiro expresso com caixas de recado enfileiradas em ordem.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese express courier holding an ordered stack of message tubes and lined-up letter boxes, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, brisk reliable look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r020",
+    "sheet_id": "s095",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Sagashi",
+    "character_desc": "Rastreador que acha o que procura com espelho-lupa de bronze.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese tracker holding a polished bronze hand-mirror as a lens and a tracking scroll, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, keen searching gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r021",
+    "sheet_id": "s095",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Omote",
+    "character_desc": "Pintor de fachada que arruma a vitrine da loja.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese shop-front sign painter arranging a storefront display and hanging a noren curtain, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, tidy inviting look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r022",
+    "sheet_id": "s095",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Chōchin",
+    "character_desc": "Lanterneiro que monta painéis de lanterna, peça por peça.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese paper-lantern maker assembling modular lantern panels into a glowing lantern, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, careful crafting focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r023",
+    "sheet_id": "s095",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Niwa",
+    "character_desc": "Paisagista de jardim que dispõe pedras para um caminho agradável.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese garden landscape designer arranging stepping stones from a garden plan, guiding a visitor, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, gentle welcoming smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r024",
+    "sheet_id": "s095",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Katagami",
+    "character_desc": "Artesão de estênceis reutilizáveis de padrões idênticos.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese katagami stencil craftsman holding a stack of identical reusable pattern stencils, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, precise consistent look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r025",
+    "sheet_id": "s095",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Michiyuki",
+    "character_desc": "Guia gentil que conduz o viajante cego por caminho seguro.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese kind guide leading a blind traveler, holding a belled walking staff and a tactile signboard, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, compassionate attentive gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r026",
+    "sheet_id": "s095",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Hayakago",
+    "character_desc": "Corredor de palanquim leve que corta peso por velocidade.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese swift palanquin runner with a stripped-down lightweight palanquin, a feather and an hourglass, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, swift eager expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r027",
+    "sheet_id": "s095",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Someya",
+    "character_desc": "Tintureiro que alinha padrões de tecido com perfeição.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese kimono textile dyer aligning fabric-bolt patterns with an alignment ruler and dye brushes, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, exacting artistic focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r028",
+    "sheet_id": "s095",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Utsuroi",
+    "character_desc": "Showman do zootropo que gira imagens em sequência.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese zoetrope showman spinning a rotating picture drum holding sequential motion cards, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, playful mesmerized look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r029",
+    "sheet_id": "s095",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Furoshiki",
+    "character_desc": "Mascate com loja dobrável portátil nas costas.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese traveling peddler carrying a compact folding shop-box and a small handheld case, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, adaptable cheerful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r030",
+    "sheet_id": "s095",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Ringo",
+    "character_desc": "Artesão refinado do estojo de laca vermelho-maçã, minimalista.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese refined artisan holding a polished apple and a sleek red-lacquer tablet-box, elegant minimalist, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, poised elegant expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r031",
+    "sheet_id": "s095",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Karakuri",
+    "character_desc": "Fabricante de bonecos mecânicos, um autômato verde nas mãos.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese mechanical doll tinkerer holding a green clockwork karakuri automaton and tiny tools, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, curious inventive look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r032",
+    "sheet_id": "s095",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Ryōmen",
+    "character_desc": "Fabricante de leque de dupla face: um serve a duas casas.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese double-fan maker presenting a single two-sided folding fan serving two households, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, clever versatile smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r033",
+    "sheet_id": "s095",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Chōchō",
+    "character_desc": "Empinador de pipa-borboleta cuja pipa voa em toda parte.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese butterfly-kite maker with one butterfly kite and a single brush painting many at once, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, light joyful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r034",
+    "sheet_id": "s095",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Hoshimi",
+    "character_desc": "Astrônomo-adivinho que lê padrões nas cartas celestes.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese astronomer-diviner reading a star chart with an astrolabe and divination sticks, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, contemplative insightful gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r035",
+    "sheet_id": "s095",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Takajō",
+    "character_desc": "Falcoeiro que treina a ave de caça a aprender.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese falconer with a trained hunting falcon on the arm and a training lure, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, patient training focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r036",
+    "sheet_id": "s095",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Umaya",
+    "character_desc": "Mestre de estábulo que mantém os cavalos treinados prontos.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese stable-master leading a harnessed horse, holding a feeding-and-deploy schedule, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, steady dependable look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r037",
+    "sheet_id": "s095",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Kenkyū",
+    "character_desc": "Alquimista-monge que experimenta fórmulas novas em jarros.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese scholar-monk alchemist studying glowing elixir jars and a research notebook, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, inquisitive absorbed expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r038",
+    "sheet_id": "s095",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Renga",
+    "character_desc": "Poeta que compõe versos precisos para invocar respostas.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese renga poet holding poem cards (tanzaku) and a brush composing precise linked verse, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, thoughtful eloquent look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r039",
+    "sheet_id": "s095",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Kotoba",
+    "character_desc": "Tradutor-erudito que analisa textos entre idiomas.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese translator scholar with multilingual scrolls and a magnifier over characters, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, analytical scholarly gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r040",
+    "sheet_id": "s095",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Manako",
+    "character_desc": "Mestre da perspectiva que observa por uma grade de visão.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese master of perspective peering through a gridded viewing frame, painted eyes on a board, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, observant precise look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r041",
+    "sheet_id": "s095",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Soroban",
+    "character_desc": "Contador que soma cifras do mercado no ábaco.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese accountant working a large abacus over tally sheets of market figures, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, sharp calculating focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r042",
+    "sheet_id": "s095",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Byōbu",
+    "character_desc": "Estrategista com biombo de gráficos aconselhando o daimyô.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese strategist beside a folding screen painted with bar charts, pointing with a stick, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, advisory confident look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r043",
+    "sheet_id": "s095",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Sokuryō",
+    "character_desc": "Agrimensor que mede e limpa dados do terreno.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese land surveyor holding a measuring chain and a clean survey map, marking measurements, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, meticulous methodical gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r044",
+    "sheet_id": "s095",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Nishiki",
+    "character_desc": "Impressor-mestre que produz belas estampas de gráficos coloridos.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese master printmaker holding a colorful multi-color chart woodblock and a baren pad, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, proud artistic smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r045",
+    "sheet_id": "s095",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Hashi",
+    "character_desc": "Construtor de pontes que une as duas margens.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese bridge-builder holding a bridge blueprint and a connecting rope spanning two banks, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, collaborative steady look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r046",
+    "sheet_id": "s095",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Hikeshi",
+    "character_desc": "Bombeiro de torre de vigia, pronto para responder a incêndios.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese fire-brigade watchman raising a matoi standard, holding fire hooks and an alert bell, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, vigilant ready expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r047",
+    "sheet_id": "s095",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Ishizue",
+    "character_desc": "Pedreiro que assenta a base sobre a qual outros constroem.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese foundation stonemason laying cut foundation stones with a builder's level, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, solid grounded look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r048",
+    "sheet_id": "s095",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Kumo",
+    "character_desc": "Sábio das nuvens que projeta pavilhões flutuantes.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese sky sage seated on a cloud unrolling a cloud-scroll with a floating pavilion model, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, lofty visionary gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r049",
+    "sheet_id": "s095",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Minato",
+    "character_desc": "Mestre do porto que orquestra contêineres e navios.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese harbor-master directing stacked cargo crates with docking signal flags and a helm, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, commanding orchestrating look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r050",
+    "sheet_id": "s095",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Tsūshin",
+    "character_desc": "Guardião de pombos-correio que conecta os postos.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese carrier-pigeon keeper releasing messenger pigeons linked by connecting cords, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, alert connecting expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r051",
+    "sheet_id": "s095",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Rusui",
+    "character_desc": "Zelador do castelo com molho de chaves, mantém tudo de pé.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese castle caretaker with a big keyring, an oil lamp and a maintenance logbook, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, reliable watchful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r052",
+    "sheet_id": "s095",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Shinsui",
+    "character_desc": "Lançador cerimonial que solta o navio recém-pronto.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese ceremonial ship-launcher holding a mallet, a launch ribbon and a sake cup, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, celebratory decisive look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r053",
+    "sheet_id": "s095",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Miyadaiku",
+    "character_desc": "Carpinteiro-mestre que encaixa a estrutura sem pregos.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese master temple carpenter fitting wooden joinery pieces with mallet and chisel, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, precise craftsmanlike focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r054",
+    "sheet_id": "s095",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Guruma",
+    "character_desc": "Operador da roda-d'água de baldes contínuos.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese water-wheel operator turning a continuous bucket-chain wheel of flowing water, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, steady tireless look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r055",
+    "sheet_id": "s095",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Mamori",
+    "character_desc": "Samurai da guarda do portão, com fechadura e escudo.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese gate-guard samurai holding a heavy iron lock, a shield and a spear, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, stern protective gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r056",
+    "sheet_id": "s095",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Shinobi",
+    "character_desc": "Ninja que testa as defesas do castelo esgueirando-se.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese shinobi ninja in dark garb holding a grappling hook and lockpicks, probing defenses, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, cunning stealthy look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r057",
+    "sheet_id": "s095",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Yoroi",
+    "character_desc": "Armeiro que inspeciona a armadura em busca de brechas.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese armorer inspecting samurai armor on a stand with an inspection glass and small hammer, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, scrutinizing careful expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r058",
+    "sheet_id": "s095",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Angō",
+    "character_desc": "Escriba-cifrador de pergaminhos secretos com roda de cifra.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese cipher scribe holding a cipher wheel, a coded scroll and a wax seal, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, secretive clever gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r059",
+    "sheet_id": "s095",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Bugyō",
+    "character_desc": "Magistrado que porta os códigos de lei e o selo oficial.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese magistrate holding a law-code scroll, a magistrate's fan and an official seal, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, authoritative solemn look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r060",
+    "sheet_id": "s095",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Kakushi",
+    "character_desc": "Guardião da privacidade com biombo, máscara e pincel de censura.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese privacy keeper holding a folding privacy screen, a mask and a redaction brush, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, discreet protective expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r061",
+    "sheet_id": "s095",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Kyūkyū",
+    "character_desc": "Socorrista de emergência com bomba de água e caixa de remédios.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese emergency responder rushing with a fire pump, a medicine chest and an alarm bell, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, urgent focused look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r062",
+    "sheet_id": "s095",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Gunshi",
+    "character_desc": "Tático militar que estuda o mapa de ataque com pedras de go.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese military tactician studying an enemy attack map, placing go stones and holding a war fan, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, calculating strategic gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r063",
+    "sheet_id": "s095",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Kentei",
+    "character_desc": "Inspetor de qualidade que examina lâminas em busca de falhas.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese quality inspector examining a sword blade for flaws with a magnifier and checklist, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, meticulous critical look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r064",
+    "sheet_id": "s095",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Kikai",
+    "character_desc": "Mestre do boneco-alvo automático de treino repetível.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese automated test-dummy master beside a karakuri training contraption of gears, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, methodical inventive focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r065",
+    "sheet_id": "s095",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Chikara",
+    "character_desc": "Testador de força que carrega pesos até o limite.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese strength tester loading heavy stone weights with a gauge and an hourglass timer, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, determined straining look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r066",
+    "sheet_id": "s095",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Mikiki",
+    "character_desc": "Provador meticuloso que amostra cada prato à mão.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese meticulous taster sampling each dish by hand with tasting spoons and a checklist, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, careful discerning expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r067",
+    "sheet_id": "s095",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Tebiki",
+    "character_desc": "Guia que testa o caminho vendado para todos poderem passar.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese access tester with a blindfold, a testing cane and a tactile map checking a path, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, empathetic thorough look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r068",
+    "sheet_id": "s095",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Fude",
+    "character_desc": "Calígrafo que escreve pergaminhos de instrução claros.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese calligrapher scribe writing a clear instruction scroll with brush and inkstone, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, clear articulate focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r069",
+    "sheet_id": "s095",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Katari",
+    "character_desc": "Contador de histórias itinerante que atrai a plateia com o leque.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese traveling storyteller with a folding fan and a small stage drawing a crowd of scrolls, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, charismatic engaging smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r070",
+    "sheet_id": "s095",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Hanmoto",
+    "character_desc": "Editor de casa impressora que planeja uma série de livros.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese publishing-house editor with stacked books, a planning board and a brush, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, organizing strategic look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r071",
+    "sheet_id": "s095",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Tsūji",
+    "character_desc": "Intérprete de Dejima que traduz para comerciantes estrangeiros.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese Dejima interpreter holding multilingual placards, a dictionary and a small globe, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, attentive bridging expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r072",
+    "sheet_id": "s095",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Shokunin",
+    "character_desc": "Artesão que molda uma peça de laca do início ao fim.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese master craftsman shaping a half-finished lacquer bowl with sketches and fine tools, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, devoted crafting focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r073",
+    "sheet_id": "s095",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Eshi",
+    "character_desc": "Pintor de biombos que compõe uma bela imagem.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese screen painter composing a painting on an easel with color pots and a brush, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, artistic absorbed gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r074",
+    "sheet_id": "s095",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Ugoki",
+    "character_desc": "Designer de mecanismos que cria como as coisas respondem ao toque.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese interaction craftsman demonstrating a responsive sliding-door model with hinges by hand, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, engaged inventive look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r075",
+    "sheet_id": "s095",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Mai",
+    "character_desc": "Coreógrafo de dança-leque que mostra o movimento fluido.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese fan-dance choreographer with flowing dance fans trailing motion ribbons, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, graceful flowing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r076",
+    "sheet_id": "s095",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Egaki",
+    "character_desc": "Ilustrador ukiyo-e que esboça figuras a pincel.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese ukiyo-e illustrator sketching figures in a sketchbook with a brush, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, creative lively focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r077",
+    "sheet_id": "s095",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Netsuke",
+    "character_desc": "Entalhador que produz muitos pequenos objetos detalhados.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese netsuke carver with a tray of tiny carved figurines and a carving knife, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, meticulous patient look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r078",
+    "sheet_id": "s095",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Monshō",
+    "character_desc": "Designer de brasão que cria um emblema com selo.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese family-crest designer holding a crest stencil, a seal and an emblem banner, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, confident identity-proud gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r079",
+    "sheet_id": "s095",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Oto",
+    "character_desc": "Músico de shamisen e taiko que faz o som.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese musician holding a shamisen and a small taiko drum radiating sound ripples, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, expressive rhythmic look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r080",
+    "sheet_id": "s095",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Chōkoku",
+    "character_desc": "Escultor que talha uma figura tridimensional em madeira.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese sculptor carving a three-dimensional Buddha figure with a chisel on a turntable, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, focused sculpting concentration, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r081",
+    "sheet_id": "s095",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Asobi",
+    "character_desc": "Mestre de jogos que projeta um tabuleiro com regras.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese board-game master designing a go/shogi board with pieces and a rules scroll, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, playful strategic smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r082",
+    "sheet_id": "s095",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Bonkei",
+    "character_desc": "Construtor de paisagem em bandeja que compõe o cenário.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese tray-landscape builder crafting a miniature garden of tiny mountains and paths, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, imaginative meticulous focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r083",
+    "sheet_id": "s095",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Monogatari",
+    "character_desc": "Dramaturgo de nô com máscara e pergaminho de roteiro.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese noh playwright holding a noh mask, a script scroll and a brush, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, dramatic thoughtful gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r084",
+    "sheet_id": "s095",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Omocha",
+    "character_desc": "Brinquedista que constrói brinquedos mecânicos jogáveis.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese toy-maker building a playable mechanical spinning-top game with tools, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, joyful inventive smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r085",
+    "sheet_id": "s095",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Kagerō",
+    "character_desc": "Mestre da luz e sombra que cria degradês luminosos.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese master of light and shadow holding gradient light-prints, a crystal prism and a lantern, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, dreamy luminous gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r086",
+    "sheet_id": "s095",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Uchi",
+    "character_desc": "Relojoeiro que embute mecanismos minúsculos dentro da caixa.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese clockwork tinkerer embedding tiny gears inside a small wooden case, using a loupe, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, precise intimate focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r087",
+    "sheet_id": "s095",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Kaji",
+    "character_desc": "Ferreiro que forja o mecanismo-núcleo, coração da máquina.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese blacksmith forging a small core mechanism plate, hammer raised, engraving marks, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, strong determined look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r088",
+    "sheet_id": "s095",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Fūrin",
+    "character_desc": "Fabricante de sino-de-vento que conecta muitos chimes sensíveis.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese wind-bell maker holding many small connected wind chimes strung on cords, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, attentive networked expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r089",
+    "sheet_id": "s095",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Kusari",
+    "character_desc": "Guardião do livro-corrente de blocos ligados por selos.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese ledger keeper holding a long chained sequence of sealed record blocks, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, vigilant methodical look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r090",
+    "sheet_id": "s095",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Shōmon",
+    "character_desc": "Notário que inspeciona contratos selados em busca de armadilhas.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese notary inspecting a sealed contract scroll with a magnifier and verification seal, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, suspicious careful gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r091",
+    "sheet_id": "s095",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Utsushi",
+    "character_desc": "Showman da lanterna mágica que projeta mundos ilusórios.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese magic-lantern showman projecting illusory floating imagery through a viewing box, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, wondrous immersive look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r092",
+    "sheet_id": "s095",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Jidō",
+    "character_desc": "Mestre de autômato que apresenta um servo mecânico de tamanho real.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese grand karakuri master presenting a life-size mechanical servant with control levers, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, proud commanding expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r093",
+    "sheet_id": "s095",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Seichō",
+    "character_desc": "Jardineiro que enxerta e multiplica plantas para crescer rápido.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese gardener grafting sprouting seedlings, watering a fast-climbing growth-chart vine, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, optimistic nurturing smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r094",
+    "sheet_id": "s095",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Michishirube",
+    "character_desc": "Colocador de marcos que orienta viajantes até a loja.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese signpost placer positioning roadside markers and ranking flags with a compass, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, directional strategic look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r095",
+    "sheet_id": "s095",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Hikifuda",
+    "character_desc": "Arauto da vila que distribui panfletos de propaganda.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese town crier distributing advertising handbills with a conch megaphone and a banner, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, lively persuasive smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r096",
+    "sheet_id": "s095",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Awase",
+    "character_desc": "Casamenteiro que ajusta a ferramenta certa ao problema do cliente.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese solutions matchmaker fitting the right tool from a kit to a client's request blueprint, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, helpful attentive look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r097",
+    "sheet_id": "s095",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Tasuke",
+    "character_desc": "Estalajadeiro-boticário que resolve males dos viajantes no balcão.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese helpful innkeeper-apothecary at a help counter with medicine drawers and a lantern, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, kind reassuring smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r098",
+    "sheet_id": "s095",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Akinai",
+    "character_desc": "Mercador persuasivo que exibe as mercadorias com charme técnico.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese persuasive merchant showcasing wares with a demonstration model and a ledger, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, charming convincing look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r099",
+    "sheet_id": "s095",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Ryōgae",
+    "character_desc": "Cambista econômico que conta moedas otimizando o custo.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese thrifty money-changer weighing coins on scales with strings of cash and a ledger, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, careful frugal gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s095-r100",
+    "sheet_id": "s095",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Hōritsu",
+    "character_desc": "Conselheiro-magistrado sábio com códigos de lei e leque de juiz.",
+    "nano_prompt": "Classic Hokusai ukiyo-e woodblock print, full-body standing Edo-period Japanese wise magistrate-advisor holding bound law codes, an official seal and a judge's fan, kimono patterned with the Great Wave off Kanagawa motif, bold black keyblock outlines, flat Prussian-blue indigo and ochre color fields, soft bokashi tonal gradients, visible woodgrain and aged mulberry-paper texture, contemplative judicious expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

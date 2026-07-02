@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s100-r001",
+    "sheet_id": "s100",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Auguste, o Paisagista",
+    "character_desc": "Um paisagista de jardim que rascunha a planta de uma ponte e alamedas; dentro do impressionismo ele é o arquiteto — a planta enrolada, o esquadro e o gesto de quem projeta o todo comunicam o papel.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a distinguished belle-epoque garden landscaper unrolling a large architectural plan of a bridge and tree-lined paths, brass set-square and plumb line in hand, one arm sweeping to sketch the whole design in the air, confident visionary expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r002",
+    "sheet_id": "s100",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Capitão Rémy",
+    "character_desc": "O timoneiro-líder de uma equipe de remadores, dando o ritmo com o remo e a bandeirola de largada — o Tech Lead que guia a tripulação.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a rowing-crew captain standing in striped boating attire, holding a long oar in one hand and a small red signal flag in the other, directing an unseen crew, steady commanding gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r003",
+    "sheet_id": "s100",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Mestre Théodore",
+    "character_desc": "Um jardineiro-mestre veterano com nível de latão e tesoura de poda, autoridade calma que orienta os outros — o Staff Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a seasoned master gardener in a work smock, holding a large brass spirit level and gleaming pruning shears, calm authoritative bearing, sleaves at his shoulders, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r004",
+    "sheet_id": "s100",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Le Vieux Camille",
+    "character_desc": "O pintor-mentor mais respeitado do ateliê, palheta na mão e coroa de louros discreta, supervisionando com sabedoria — o Principal Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a distinguished elderly master painter with white beard, holding a well-used wooden palette and brushes, a subtle laurel wreath, wise mentoring smile, overseeing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r005",
+    "sheet_id": "s100",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Anfitrião Léon",
+    "character_desc": "O anfitrião cordial do café que organiza o grupo, relógio de bolso e livro de reservas em mãos — o Engineering Manager.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a genial cafe host in waistcoat and apron, pocket watch open in one hand and a guest ledger under his arm, warm organizing smile welcoming a group, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r006",
+    "sheet_id": "s100",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Madame Colette",
+    "character_desc": "Uma elegante mecenas que seleciona flores no mercado, decidindo o que vale cultivar — a Product Manager que prioriza.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of an elegant lady patron in a summer dress and hat, curating a market basket of hand-picked flowers, thoughtfully choosing one bloom, discerning expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r007",
+    "sheet_id": "s100",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Dona Séraphine",
+    "character_desc": "A dona da propriedade com o pergaminho de escritura e um cesto de frutas maduras, orgulhosa do que é seu — a Product Owner.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a proud estate owner in a fine gown holding a rolled property deed and a basket of ripe fruit, protective satisfied posture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r008",
+    "sheet_id": "s100",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Chefe de Estação Gustave",
+    "character_desc": "O chefe da estação ferroviária coordenando os trens (motivo Gare Saint-Lazare), relógio e quadro de horários — o Program Manager.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a railway station master in uniform cap, holding a large pocket watch and a schedule board, steam curling around him, coordinating attentive stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r009",
+    "sheet_id": "s100",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Regente Bertrand",
+    "character_desc": "O organizador da regata com cronômetro, bandeira e mapa do percurso — o Project Manager que fecha o cronograma.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a regatta organizer in blazer and straw boater, holding a stopwatch and a course map, a small flag tucked under his arm, focused planning look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r010",
+    "sheet_id": "s100",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Timoneiro Odette",
+    "character_desc": "A coxswain que marca a cadência dos remadores com pequeno megafone e macete de ritmo — a Scrum Master.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a rowing coxswain in a light jacket, small brass megaphone in one hand and a rhythm mallet in the other, calling cadence, encouraging expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r011",
+    "sheet_id": "s100",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Marceneiro Henri",
+    "character_desc": "Um construtor de barcos na carcaça de um casco, malho e formão, serragem no ar — o Backend Developer que ergue a estrutura.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a boat builder in rolled sleeves and apron working a wooden hull, wooden mallet and chisel in hand, wood shavings floating, sturdy focused craftsman, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r012",
+    "sheet_id": "s100",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Engenheiro Fabien",
+    "character_desc": "Apresenta a maquete de uma graciosa passarela de ferro, elo entre as margens — o API Designer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a bridge engineer presenting a small elegant wrought-iron footbridge model on his palm, offering a connecting handshake, precise proud gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r013",
+    "sheet_id": "s100",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Guardião Marcel",
+    "character_desc": "O guardião de uma pequena frota de barquinhos amarrados, cuidando de cada um — o Microservices Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a fleet keeper on a jetty tending many small tethered rowboats, holding several mooring ropes fanned out, attentive multitasking pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r014",
+    "sheet_id": "s100",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Écluse Basile",
+    "character_desc": "O guarda-eclusa que abre os canais e deixa a água correr, manivela da comporta na mão — o Pipeline Developer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a canal lock-keeper in cap and vest, turning a large iron lock crank, water channels flowing at his feet, steady controlling stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r015",
+    "sheet_id": "s100",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Moleiro Théo",
+    "character_desc": "O moleiro guardião da roda d'água, canalizando sacas de grão pelo moinho — o Data Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a miller beside a water-wheel, carrying a grain sack over his shoulder and guiding a millstream chute, dusty diligent worker, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r016",
+    "sheet_id": "s100",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Sommelier Aurélien",
+    "character_desc": "O mestre da adega, lanterna e livro-razão entre barris rotulados — o DBA que guarda e organiza os dados.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a cellar master in a wine cave holding a lantern and a leather ledger, rows of labeled barrels behind, careful custodial expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r017",
+    "sheet_id": "s100",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Arquivista Lucien",
+    "character_desc": "O arquivista que ordena fichas num catálogo, lupa em punho para achar rápido — o SQL Specialist.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of an archivist sorting index cards in a wooden card-catalog drawer, magnifying glass in hand, meticulous searching look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r018",
+    "sheet_id": "s100",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Glaçon Émile",
+    "character_desc": "O guardião da casa de gelo que estoca blocos para busca instantânea, tenaz e caixa fria — o Caching Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of an icehouse keeper holding large ice tongs gripping a clear ice block, a cold crate at his side, brisk efficient stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r019",
+    "sheet_id": "s100",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Postier Adrien",
+    "character_desc": "O separador dos correios diante dos escaninhos, cartas empilhadas em ordem — o Message Queue Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a postal sorter at a wall of pigeonholes, an orderly stack of letters in hand, methodically queuing mail, tidy focused pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r020",
+    "sheet_id": "s100",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Explorador Sylvain",
+    "character_desc": "O lampião-escoteiro com luneta e lanterna, procurando o que se busca — o Search Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a lamplighter-scout with a brass spyglass raised to one eye and a lantern in the other hand, searching the distance, keen expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r021",
+    "sheet_id": "s100",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Vitrinista Margot",
+    "character_desc": "A decoradora de vitrine que arruma uma bela montra com fita e pincel — o Frontend Developer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a shop-window dresser arranging a pretty storefront display, holding a ribbon and a fine brush, tasteful arranging gesture, cheerful, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r022",
+    "sheet_id": "s100",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Décorateur Pascal",
+    "character_desc": "O decorador de interiores pendurando painéis emoldurados, nível e amostras de cor — o UI Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of an interior decorator hanging framed decorative panels, a small level and color swatches in hand, precise tasteful pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r023",
+    "sheet_id": "s100",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Passeur Amélie",
+    "character_desc": "A projetista de caminhos de jardim que assenta pedras para um passeio fácil, mapa de trilha na mão — a UX Designer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a garden-path designer laying flat stepping stones for an easy stroll, holding a small walking map, gently guiding gesture, considerate look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r024",
+    "sheet_id": "s100",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Azulejista Corentin",
+    "character_desc": "O criador de padrões que carrega uma bandeja de azulejos combinantes e estênceis — o Design Systems Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a tile-pattern maker holding a tray of matching hand-painted tiles and stencils, arranging a repeating motif, systematic tidy pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r025",
+    "sheet_id": "s100",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Ouvreuse Rosalie",
+    "character_desc": "A gentil recepcionista que oferece uma rampa e bengala-guia a um convidado, acolhedora — a Accessibility Specialist.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a kindly usher setting down a small ramp and offering a guiding cane, welcoming an unseen guest with an inclusive open gesture, warm smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r026",
+    "sheet_id": "s100",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Coursier Félix",
+    "character_desc": "O ágil mensageiro de velocípede afinado para velocidade, cronômetro no pescoço — o Web Performance Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a swift bicycle courier beside an early velocipede, cap and tight jacket, stopwatch on a cord, poised to dash, energetic expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r027",
+    "sheet_id": "s100",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Alfaiate Justine",
+    "character_desc": "A alfaiate de moda drapeando tecido com alfinetes e fita métrica, estilizando a forma — a CSS Specialist.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a fashion tailor draping flowing fabric on a form, pins in her cuff and a measuring tape around her neck, styling gesture, chic focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r028",
+    "sheet_id": "s100",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Marionnettiste Gaspard",
+    "character_desc": "O titeriteiro que gira um zootrópio dando vida ao movimento — o Animation Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a puppeteer spinning a small zoetrope drum with painted frames, marionette strings in the other hand, delighted animating gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r029",
+    "sheet_id": "s100",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Ombrelier Delphine",
+    "character_desc": "A fabricante de sombrinhas com uma sombrinha dobrável compacta, portátil e leve — a Mobile Developer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a parasol maker holding a neat folding parasol half-open, several compact parasols at her side, portable elegant pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r030",
+    "sheet_id": "s100",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Gantier Léonard",
+    "character_desc": "O luveiro refinado exibindo uma luva de botões de pérola, polida e exclusiva — o iOS Developer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of an elegant glovemaker presenting a single polished pearl-buttoned kid glove on a stand, refined precise gesture, poised bearing, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r031",
+    "sheet_id": "s100",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Automate Vincent",
+    "character_desc": "O funileiro de engenhocas com um pequeno autômato mecânico verde na mão — o Android Developer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a clockwork tinkerer holding a small green mechanical automaton figure, tiny wrench in the other hand, inventive playful look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r032",
+    "sheet_id": "s100",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Réversible Manon",
+    "character_desc": "A alfaiate de casacos reversíveis mostrando uma peça que serve dos dois lados — o React Native Developer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a tailor showing off a reversible coat flipped to reveal two different linings, holding it open with both hands, clever proud smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r033",
+    "sheet_id": "s100",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Éventail Clarisse",
+    "character_desc": "A leque-maker que agita um leque dobrável pintado, delicado e fluido — o Flutter Developer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a fan maker fluttering an open painted folding fan, a few closed fans tucked at her waist, graceful airy motion, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r034",
+    "sheet_id": "s100",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Naturalista Théophile",
+    "character_desc": "O naturalista com rede de borboletas e frascos de espécimes, examinando padrões — o Data Scientist.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a naturalist with a butterfly net over his shoulder, holding a glass specimen jar up with a magnifier, curiously examining patterns, studious look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r035",
+    "sheet_id": "s100",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Colombophile Isaure",
+    "character_desc": "A treinadora de pombos-correio ensinando as aves, apito e gaiola — a ML Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a pigeon trainer with a homing pigeon on her wrist, a training whistle and a small cage, patient teaching gesture, gentle focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r036",
+    "sheet_id": "s100",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Serrista Norbert",
+    "character_desc": "O guardião da estufa que mantém fileiras de mudas, regador e termômetro — o MLOps Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a greenhouse keeper among rows of potted seedlings, watering can in one hand and a thermometer in the other, tending maintenance pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r037",
+    "sheet_id": "s100",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Astrônomo Ludovic",
+    "character_desc": "O astrônomo com luneta e carta celeste, olhos no alto em busca do desconhecido — o AI Researcher.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of an astronomer with a brass telescope on a tripod and a rolled star chart, gazing upward in wonder, contemplative discovering expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r038",
+    "sheet_id": "s100",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Orateur Baptiste",
+    "character_desc": "O poeta-orador eloquente com pena e pergaminho, gesticulando para persuadir — o Prompt Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of an eloquent poet-orator holding a quill and an unrolled scroll, one hand raised in a persuasive rhetorical gesture, expressive articulate look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r039",
+    "sheet_id": "s100",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Truchement Rosine",
+    "character_desc": "A tradutora poliglota com dicionários e uma trombeta de fala, ligando línguas — a NLP Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a polyglot translator holding two thick dictionaries and a small speaking trumpet, mid-interpretation gesture, attentive multilingual air, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r040",
+    "sheet_id": "s100",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Silhouettiste Marius",
+    "character_desc": "O retratista com câmara obscura e caderno de esboços, lendo um rosto — o Computer Vision Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a portrait sketcher holding a small camera-obscura box and a sketchpad, studying an unseen face, perceptive observing gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r041",
+    "sheet_id": "s100",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Comptable Adèle",
+    "character_desc": "A guarda-livros do mercado que soma no ábaco entre livros-razão — a Data Analyst.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a market accountant seated-forward pose holding an abacus and an open ledger, tallying figures, sharp precise concentration, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r042",
+    "sheet_id": "s100",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Graphiste Edmond",
+    "character_desc": "O desenhista de gráficos ao cavalete apresentando um diagrama de barras à mão — o BI Analyst.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a chart-maker at an easel presenting a hand-drawn bar chart on paper, pointer stick in hand, explanatory confident gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r043",
+    "sheet_id": "s100",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Géomètre Solange",
+    "character_desc": "A agrimensora com teodolito medindo a terra, precisa e metódica — a Analytics Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a land surveyor behind a brass theodolite on a tripod, holding a measuring chain, sighting a measurement, methodical precise stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r044",
+    "sheet_id": "s100",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Cartographe Anatole",
+    "character_desc": "O cartógrafo que pinta um mapa ilustrado e decorativo, dado vira imagem — o Data Viz Specialist.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a cartographer painting a decorative illustrated map on a board, fine brush and compass in hand, artistic proud presenting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r045",
+    "sheet_id": "s100",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Charpentier Roland",
+    "character_desc": "O carpinteiro faz-tudo com cinto de ferramentas erguendo um andaime — o DevOps Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a handy carpenter with a full leather tool-belt raising a wooden scaffold, hammer in hand, capable building stance, rolled sleeves, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r046",
+    "sheet_id": "s100",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Veilleur Damien",
+    "character_desc": "O vigia noturno-bombeiro com lanterna e balde de incêndio, sempre alerta — o Site Reliability Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a night watchman with a raised lantern and a fire bucket, vigilant alert posture scanning for trouble, steady dependable look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r047",
+    "sheet_id": "s100",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Maçon Gérard",
+    "character_desc": "O pedreiro de fundações assentando blocos de pedra para a plataforma, colher de pedreiro — o Platform Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a foundation mason laying large stone platform blocks with a trowel and mortar, level line at hand, solid grounded stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r048",
+    "sheet_id": "s100",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Aéronaute Célestin",
+    "character_desc": "O balonista que sobe na cesta de vime rumo ao céu — o Cloud Architect.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a hot-air balloonist stepping from a wicker basket gondola, holding mooring ropes with a striped balloon rising above, visionary skyward gaze, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r049",
+    "sheet_id": "s100",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Batelier Ferdinand",
+    "character_desc": "O barqueiro-timoneiro que conduz muitas barcaças enfileiradas com o leme — o Kubernetes Admin.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a helmsman-ferryman steering with a long tiller, guiding a line of small linked barges behind him, orchestrating calm command, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r050",
+    "sheet_id": "s100",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Télégraphiste Aline",
+    "character_desc": "A linheira do telégrafo estendendo fios entre postes, conectando pontos — a Network Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a telegraph linewoman stringing wire between poles, a coil of cable over her shoulder and pliers in hand, connecting practical pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r051",
+    "sheet_id": "s100",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Concierge Barnabé",
+    "character_desc": "O zelador da propriedade com um molho enorme de chaves e almotolia — o Systems Administrator.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of an estate caretaker holding a big ring of iron keys and an oil can, keeping things running, unflappable dependable expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r052",
+    "sheet_id": "s100",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Crieur Léopold",
+    "character_desc": "O arauto que anuncia o lançamento com sino de mão, voz para todos — o Release Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a town crier ringing a hand bell, other arm raised announcing, tricorne-like cap, proclaiming a release with a bold open-mouthed call, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r053",
+    "sheet_id": "s100",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Briquetier Firmin",
+    "character_desc": "O mestre do forno que ergue uma parede tijolo a tijolo, montando o todo — o Build Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a brick kiln master assembling a wall brick by brick, trowel and a stack of bricks in his arms, steady constructive stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r054",
+    "sheet_id": "s100",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Meunier Aristide",
+    "character_desc": "O operador de esteira do moinho, manivela girando pães em fila de montagem — o CI/CD Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a mill conveyor operator turning a hand-crank belt carrying a row of loaves in sequence, continuous automated motion, efficient look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r055",
+    "sheet_id": "s100",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Gardien Ambroise",
+    "character_desc": "O guardião do portão do castelo com chave grande e escudo, inspecionando quem entra — o Security Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a castle gatekeeper holding a large iron key and a round shield, inspecting an entrance, watchful protective stance, stern fair expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r056",
+    "sheet_id": "s100",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Furet Léandre",
+    "character_desc": "O gatuno mascarado que testa uma fechadura com gazuas, provando as defesas — o Penetration Tester.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a playful masked cat-burglar in dark cap testing a padlock with lock picks, mischievous testing grin, crouched probing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r057",
+    "sheet_id": "s100",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Serrurier Éloi",
+    "character_desc": "O chaveiro que instala uma fechadura robusta na porta, blindando o acesso — o AppSec Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a locksmith fitting a sturdy lock onto a door, ring of picks and a strong padlock in hand, careful securing gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r058",
+    "sheet_id": "s100",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Chiffreur Hippolyte",
+    "character_desc": "O escrivão de cifras com bastão-cítala e carta lacrada, guardando segredos — o Cryptographer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a cipher clerk holding a wooden scytale cipher rod and a wax-sealed letter, decoding gesture, secretive clever expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r059",
+    "sheet_id": "s100",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Notário Prosper",
+    "character_desc": "O notário-magistrado com carimbo, selo e livro de regras, verificando conformidade — o Compliance Officer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a notary in a formal coat holding an official stamp and wax seal over a rulebook, verifying compliance, exacting solemn look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r060",
+    "sheet_id": "s100",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Valet Séverin",
+    "character_desc": "O valete discreto que fecha a cortina protegendo a privacidade, envelope lacrado — o Privacy Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a discreet valet drawing a heavy curtain closed with one hand, holding a sealed envelope in the other, protective private gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r061",
+    "sheet_id": "s100",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Pompier Casimir",
+    "character_desc": "O capitão da brigada de incêndio com capacete e mangueira, urgência de resposta — o Incident Responder.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a fire-brigade captain in a gleaming helmet gripping a water hose, urgent action stance rushing to a blaze, resolute expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r062",
+    "sheet_id": "s100",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Stratège Ghislain",
+    "character_desc": "O estrategista de xadrez sobre o tabuleiro, antecipando o ataque com a luneta — o Threat Modeler.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a chess strategist leaning over a board with pieces, a small spyglass in hand, anticipating an opponent's move, shrewd calculating look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r063",
+    "sheet_id": "s100",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Inspetora Blanche",
+    "character_desc": "A inspetora de qualidade que examina frutas com lupa e descarta a podre — a QA Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a quality inspector examining an apple with a magnifier over a crate of fruit, setting aside a bad one, discerning scrutinizing expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r064",
+    "sheet_id": "s100",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Automaticien Régis",
+    "character_desc": "O testador-autômato operando uma engenhoca mecânica de ensaios com alavanca — o SDET.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of an automation tester operating a mechanical testing contraption, pulling a lever that repeats a check, methodical inventive pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r065",
+    "sheet_id": "s100",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Chrono Valentine",
+    "character_desc": "A treinadora de cronômetro medindo o corredor sob pressão, apito na mão — o Performance Tester.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a stopwatch trainer timing a sprinting runner, whistle to her lips and stopwatch raised, measuring performance, intense focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r066",
+    "sheet_id": "s100",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Relectrice Josephine",
+    "character_desc": "A revisora cuidadosa que confere cada item à mão com sua lista — o Manual Tester.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a careful proofreader checking items one by one against a handwritten checklist, quill ticking a box, patient thorough expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r067",
+    "sheet_id": "s100",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Éprouveuse Mathilde",
+    "character_desc": "A avaliadora que testa rampa e corrimão de olhos vendados e bengala, empática — o Accessibility Tester.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of an accessibility tester trying a ramp and handrail while blindfolded, feeling ahead with a white cane, empathetic testing pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r068",
+    "sheet_id": "s100",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Escriba Fulbert",
+    "character_desc": "O escriba-calígrafo à escrivaninha com pena e manuscrito, documentando tudo — o Technical Writer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a scribe-calligrapher standing at a slanted writing desk, quill in hand over an illuminated manuscript, diligent documenting focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r069",
+    "sheet_id": "s100",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Bonimenteur Octave",
+    "character_desc": "O palestrante carismático de rua que fala à multidão com um livro aberto — o Developer Advocate.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a charismatic street lecturer on a small crate addressing a crowd, open book in one hand and the other flung wide, engaging enthusiastic gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r070",
+    "sheet_id": "s100",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Rédacteur Clément",
+    "character_desc": "O editor de jornal que compõe a diagramação da folha com cola e tesoura — o Content Strategist.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a newspaper editor arranging a broadsheet layout on a board, paste brush and shears in hand, planning column structure, decisive look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r071",
+    "sheet_id": "s100",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Poteau Béatrice",
+    "character_desc": "A pintora de placas multilíngues com bandeiras de nações e um manual de frases — o Localization Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a multilingual signpost painter beside a post with arrows in several languages, small national flags and a phrasebook in hand, careful adapting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r072",
+    "sheet_id": "s100",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Potier Anselme",
+    "character_desc": "O oleiro que modela um vaso no torno e ergue a peça acabada, produto elegante — o Product Designer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a potter shaping a vase at a spinning wheel, presenting a finished elegant vessel in his hands, muddy apron, satisfied crafting expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r073",
+    "sheet_id": "s100",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Peintre Océane",
+    "character_desc": "A pintora ao cavalete com palheta e pincel em riste, arquétipo do artista — o Visual Designer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a painter at an easel with a loaded palette and a poised brush, stepping back to judge the canvas, absorbed artistic gaze, paint-flecked smock, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r074",
+    "sheet_id": "s100",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Pantin Gaultier",
+    "character_desc": "O fabricante de brinquedos mecânicos com um pula-pula de cordinha interativo — o Interaction Designer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a mechanical-toy maker holding a pull-string jumping-jack puppet, demonstrating its motion, playful engaging gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r075",
+    "sheet_id": "s100",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Chorégraphe Ninon",
+    "character_desc": "A coreógrafa de balé posando a bailarina com gesto amplo e gracioso — o Motion Designer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a ballet choreographer guiding a dancer's pose with a sweeping graceful gesture, ribboned slippers at her feet, fluid elegant motion, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r076",
+    "sheet_id": "s100",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Illustrateur Sidoine",
+    "character_desc": "O ilustrador de pena e tinta segurando uma grande prancha ilustrada — o Illustrator.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a pen-and-ink illustrator holding up a large finished illustrated plate, dip pen in the other hand, proud detailed presenting pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r077",
+    "sheet_id": "s100",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Accessoiriste Firminie",
+    "character_desc": "A cenógrafa de adereços com um carrinho de props pintados de palco — o Asset Designer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a stage prop-maker beside a small cart loaded with colorful painted stage props, holding one prop up, resourceful arranging gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r078",
+    "sheet_id": "s100",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Enseigniste Godefroy",
+    "character_desc": "O pintor de emblemas que segura um brasão-letreiro de loja pintado à mão — o Brand Designer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a heraldic sign painter holding a hand-painted shop emblem crest, brush and gold paint in hand, presenting a bold identity, confident look, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r079",
+    "sheet_id": "s100",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Musicien Alphonse",
+    "character_desc": "O músico de rua com realejo/sanfona, atento ao som e à atmosfera — o Sound Designer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a street musician playing a hand-cranked hurdy-gurdy, head tilted listening to the tone, expressive musical absorption, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r080",
+    "sheet_id": "s100",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Sculpteur Ombeline",
+    "character_desc": "A escultora de mármore com cinzel e uma estatueta, empoeirada de trabalho — o 3D Artist.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a marble sculptor with mallet and chisel beside a small statuette, marble dust on her apron, shaping form with focused craft, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r081",
+    "sheet_id": "s100",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Maître Fortuné",
+    "character_desc": "O mestre de jogos com bolas de pétanque e livro de regras, lúdico e justo — o Game Designer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a game-master holding a set of petanque boules and a rulebook, inviting a game with a playful gesture, cheerful clever expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r082",
+    "sheet_id": "s100",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Labyrinthe Perrine",
+    "character_desc": "A jardineira do labirinto de sebes projetando o traçado com sua planta — o Level Designer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a hedge-maze gardener holding a maze plan and pruning shears, gesturing toward a labyrinth layout, inventive planning pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r083",
+    "sheet_id": "s100",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Conteur Melchior",
+    "character_desc": "O bardo contador de histórias com livro ilustrado aberto sob a lanterna — o Narrative Designer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a storytelling bard holding an open illustrated storybook, a lantern casting warm light, mid-tale captivating gesture, expressive eyes, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r084",
+    "sheet_id": "s100",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Forain Urbain",
+    "character_desc": "O montador de carrossel ajustando um cavalinho do carrossel, chave em mão — o Game Developer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a carousel builder fitting a painted merry-go-round horse, wrench in hand, playful assembling stance among bright fairground parts, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r085",
+    "sheet_id": "s100",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Verrier Lumière",
+    "character_desc": "O artesão de vitral erguendo um painel de vidro luminoso à luz — o Graphics/Shader Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a stained-glass artisan holding a luminous colored glass panel up to the light, lead came and cutter in hand, glowing awe expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r086",
+    "sheet_id": "s100",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Horloger Isidore",
+    "character_desc": "O relojoeiro com lupa montando engrenagens minúsculas num pequeno estojo — o Embedded Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a watchmaker with a loupe in his eye assembling tiny gears with fine tweezers over a small watch case, intent precise micro-focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r087",
+    "sheet_id": "s100",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Boîte-à-musique Reine",
+    "character_desc": "A fabricante de caixinha de música cravando o cilindro rotativo que a faz tocar — o Firmware Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a music-box maker pinning the rotating brass cylinder of a music box, tiny hammer and pins in hand, delicate embedding focus, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r088",
+    "sheet_id": "s100",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Girouette Nestor",
+    "character_desc": "O fabricante de instrumentos com barômetro e sensores conectados no jardim — o IoT Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a weather-instrument maker holding a barometer, a weathervane and small connected garden sensors on a wire, tinkering connective pose, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r089",
+    "sheet_id": "s100",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Chaînier Onésime",
+    "character_desc": "O forjador que forja elos metálicos entrelaçados e guarda um livro de registros — o Blockchain Developer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a chain-maker forging interlocking metal links at a small anvil, an immutable ledger book at his side, steady forging stance, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r090",
+    "sheet_id": "s100",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Vérificateur Placide",
+    "character_desc": "O notário que examina com lupa o selo de um contrato acorrentado — o Smart Contract Auditor.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a notary examining a chain-linked contract seal with a magnifier, quill ready to certify, scrutinizing rigorous expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r091",
+    "sheet_id": "s100",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Stéréoscope Aurore",
+    "character_desc": "A observadora que ergue um estereoscópio aos olhos, maravilhada com a ilusão — o AR/VR Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a viewer holding a wooden stereoscope up to her eyes, a stereo card in hand, wonderstruck immersive expression, leaning into the illusion, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r092",
+    "sheet_id": "s100",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Mécanicien Timothée",
+    "character_desc": "O construtor de autômatos ao lado de uma figura mecânica de latão — o Robotics Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of an automaton-maker standing beside a life-size brass mechanical figure, wrench and oil can in hand, proud tinkering gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r093",
+    "sheet_id": "s100",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Semeur Florent",
+    "character_desc": "O semeador que espalha sementes com uma trepadeira crescendo veloz — o Growth Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a seed-sower scattering seed from a shoulder pouch, a fast-climbing vine spiraling up beside him, optimistic expansive gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r094",
+    "sheet_id": "s100",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Panneau Victorine",
+    "character_desc": "A que planta um letreiro proeminente na encruzilhada, indicando o caminho — o SEO Specialist.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a signpost placer positioning a prominent directional signpost at a crossroads, angling it for visibility, strategic pointing gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r095",
+    "sheet_id": "s100",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Afficheur Gustin",
+    "character_desc": "O colador de cartazes com um pôster Belle Époque de propaganda e brocha de cola — o Marketing Technologist.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a bill-poster pasting a colorful belle-epoque advertising poster on a board, paste brush in hand, promotional flourish, lively expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r096",
+    "sheet_id": "s100",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Commis Séraphin",
+    "character_desc": "O prestativo caixeiro que demonstra um aparelho ao cliente, gesticulando a solução — o Solutions Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a helpful shop clerk demonstrating a small device to an unseen customer, presenting it in open palms, attentive helpful gesture, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r097",
+    "sheet_id": "s100",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Concierge Philomène",
+    "character_desc": "A concierge simpática no balcão de atendimento com sineta de serviço, atenta — o Support Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a friendly concierge at a service desk, one hand tapping a small brass service bell, attentive welcoming smile, ready-to-help lean, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r098",
+    "sheet_id": "s100",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Marchand Théobald",
+    "character_desc": "O charmoso vendedor de mercado apresentando as mercadorias com gesto persuasivo — o Sales Engineer.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a charming market vendor presenting wares from a display tray with a persuasive sweeping gesture, warm convincing smile, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r099",
+    "sheet_id": "s100",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Changeur Eustache",
+    "character_desc": "O banqueiro-cambista à mesa com balança de moedas e livro-razão, pesando o valor — o FinOps Analyst.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a money-changer at a table with a coin balance scale and a ledger, weighing gold coins, careful cost-conscious expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s100-r100",
+    "sheet_id": "s100",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Avocat Isambart",
+    "character_desc": "O advogado togado com código de leis e balança da justiça, ponderando o direito — o Legal Counsel.",
+    "nano_prompt": "Impressionist oil painting in the loose broken-color brushstrokes of Claude Monet, luminous dappled sunlight, vibrant plein-air palette, soft feathered edges, visible thick daubs of paint; a single full-length standing figure of a robed advocate holding a heavy law book and small balance scales of justice, weighing a judgment, dignified measured expression, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]

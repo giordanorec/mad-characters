@@ -1,0 +1,1002 @@
+[
+  {
+    "char_id": "s090-r001",
+    "sheet_id": "s090",
+    "role_id": "r001",
+    "role_slug": "arquiteto",
+    "role_name": "Arquiteto de Solução",
+    "character_name": "Bronzarq",
+    "character_desc": "Mascote de bronze que rege a obra: um arquiteto de solução com planta enrolada e compasso.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding a rolled blueprint scroll in one arm and a large drafting compass in the other, a tiny building maquette at its feet, wearing a sculpted hard hat, reading clearly as Arquiteto de Solução, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r002",
+    "sheet_id": "s090",
+    "role_id": "r002",
+    "role_slug": "tech-lead",
+    "role_name": "Tech Lead",
+    "character_name": "Lidino",
+    "character_desc": "Mascotinho que puxa o time: tech lead apontando o rumo com uma bússola erguida.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, raising a bronze compass overhead pointing forward, a small pennant flag on its back, confident guiding pose, reading clearly as Tech Lead, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r003",
+    "sheet_id": "s090",
+    "role_id": "r003",
+    "role_slug": "staff-engineer",
+    "role_name": "Staff Engineer",
+    "character_name": "Staffy",
+    "character_desc": "Mascote veterano staff engineer com múltiplas engrenagens que gira sozinho.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, surrounded by three interlocking bronze gears it turns with both hands, a wise beard sculpted, standing tall, reading clearly as Staff Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r004",
+    "sheet_id": "s090",
+    "role_id": "r004",
+    "role_slug": "principal-engineer",
+    "role_name": "Principal Engineer",
+    "character_name": "Prince-Bronze",
+    "character_desc": "Principal engineer coroado que segura o cetro-chave da arquitetura.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, wearing a small sculpted crown and holding a key-topped scepter, a gearwheel medallion on its chest, reading clearly as Principal Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r005",
+    "sheet_id": "s090",
+    "role_id": "r005",
+    "role_slug": "eng-manager",
+    "role_name": "Engineering Manager",
+    "character_name": "Gerentino",
+    "character_desc": "Engineering manager mascote que equilibra pratos girando de tarefas.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, balancing several spinning plates on thin rods, a clipboard tucked under one arm, calm smiling face, reading clearly as Engineering Manager, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r006",
+    "sheet_id": "s090",
+    "role_id": "r006",
+    "role_slug": "product-manager",
+    "role_name": "Product Manager",
+    "character_name": "Produto",
+    "character_desc": "Product manager mascote com lâmpada de ideia e mapa de rota.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding a glowing idea lightbulb in one hand and an unfurled roadmap map in the other, reading clearly as Product Manager, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r007",
+    "sheet_id": "s090",
+    "role_id": "r007",
+    "role_slug": "product-owner",
+    "role_name": "Product Owner",
+    "character_name": "Ownerzinho",
+    "character_desc": "Product owner mascote guardião do backlog empilhado em cartõezinhos.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, hugging a tall stack of small index cards labeled by notches, a priority ribbon across its chest, reading clearly as Product Owner, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r008",
+    "sheet_id": "s090",
+    "role_id": "r008",
+    "role_slug": "program-manager",
+    "role_name": "Program Manager",
+    "character_name": "Programino",
+    "character_desc": "Program manager mascote que costura vários fios num mesmo novelo.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, gathering several bronze threads into one big knotted ball, a schedule ribbon draped over its shoulder, reading clearly as Program Manager, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r009",
+    "sheet_id": "s090",
+    "role_id": "r009",
+    "role_slug": "project-manager",
+    "role_name": "Project Manager",
+    "character_name": "Projetino",
+    "character_desc": "Project manager mascote com ampulheta e prancheta de cronograma.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding an hourglass in one hand and a Gantt-chart tablet in the other, tiny milestone flags at its base, reading clearly as Project Manager, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r010",
+    "sheet_id": "s090",
+    "role_id": "r010",
+    "role_slug": "scrum-master",
+    "role_name": "Scrum Master",
+    "character_name": "Scrumby",
+    "character_desc": "Scrum master mascote agitando um sino de cerimônia com quadro de post-its.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, ringing a small ceremony bell, a mini sticky-note board strapped to its back, cheerful facilitator pose, reading clearly as Scrum Master, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r011",
+    "sheet_id": "s090",
+    "role_id": "r011",
+    "role_slug": "backend-dev",
+    "role_name": "Backend Developer",
+    "character_name": "Backy",
+    "character_desc": "Backend developer mascote abraçando um servidor-torre com tubos.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, hugging a small server tower with pipes and cables, a wrench holstered at its side, reading clearly as Backend Developer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r012",
+    "sheet_id": "s090",
+    "role_id": "r012",
+    "role_slug": "api-designer",
+    "role_name": "API Designer",
+    "character_name": "Apizinho",
+    "character_desc": "API designer mascote que oferece plugues de encaixe perfeitos.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding two matching bronze connector plugs about to snap together, sockets sculpted on its belly, reading clearly as API Designer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r013",
+    "sheet_id": "s090",
+    "role_id": "r013",
+    "role_slug": "microservices-eng",
+    "role_name": "Microservices Engineer",
+    "character_name": "Microzinho",
+    "character_desc": "Microservices engineer mascote cercado de cubinhos independentes que se conectam.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, juggling several tiny linked cube modules connected by thin tubes, modular blocks at its feet, reading clearly as Microservices Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r014",
+    "sheet_id": "s090",
+    "role_id": "r014",
+    "role_slug": "pipeline-dev",
+    "role_name": "Pipeline Developer",
+    "character_name": "Pipeline-Pat",
+    "character_desc": "Pipeline developer mascote canalizando fluxo por dutos em série.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, guiding a stream of small orbs through a series of connected bronze pipes and funnels, reading clearly as Pipeline Developer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r015",
+    "sheet_id": "s090",
+    "role_id": "r015",
+    "role_slug": "data-engineer",
+    "role_name": "Data Engineer",
+    "character_name": "Dataeng",
+    "character_desc": "Data engineer mascote transportando baldes de dados por uma esteira.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, carrying two data buckets on a shoulder yoke over a small conveyor belt, funnel hat, reading clearly as Data Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r016",
+    "sheet_id": "s090",
+    "role_id": "r016",
+    "role_slug": "dba",
+    "role_name": "Database Administrator",
+    "character_name": "Dibão",
+    "character_desc": "DBA mascote guardião do baú-banco com cadeado e cilindros de disco.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, standing guard over a cylindrical database drum with a padlock, a big ring of keys in hand, reading clearly as Database Administrator, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r017",
+    "sheet_id": "s090",
+    "role_id": "r017",
+    "role_slug": "sql-specialist",
+    "role_name": "SQL Specialist",
+    "character_name": "Sequelzinho",
+    "character_desc": "SQL specialist mascote com lupa lendo tabelas em pergaminho gradeado.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding a magnifying glass over a grid-lined query scroll, a small table-grid emblem on chest, reading clearly as SQL Specialist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r018",
+    "sheet_id": "s090",
+    "role_id": "r018",
+    "role_slug": "caching-engineer",
+    "role_name": "Caching Engineer",
+    "character_name": "Cachê",
+    "character_desc": "Caching engineer mascote raposa-rápida guardando frascos etiquetados na estante.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, shelving small labeled bronze jars on a rack at lightning speed, a stopwatch pendant, reading clearly as Caching Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r019",
+    "sheet_id": "s090",
+    "role_id": "r019",
+    "role_slug": "queue-engineer",
+    "role_name": "Message Queue Engineer",
+    "character_name": "Fileirinha",
+    "character_desc": "Message queue engineer mascote enfileirando envelopes numa correia FIFO.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, feeding a line of small envelopes into one end of a queue chute, orderly single-file line, reading clearly as Message Queue Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r020",
+    "sheet_id": "s090",
+    "role_id": "r020",
+    "role_slug": "search-engineer",
+    "role_name": "Search Engineer",
+    "character_name": "Buscão",
+    "character_desc": "Search engineer mascote com lanterna-lupa iluminando um índice.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, aiming a lantern-magnifier at an open index ledger, a compass rose on its chest, reading clearly as Search Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r021",
+    "sheet_id": "s090",
+    "role_id": "r021",
+    "role_slug": "frontend-dev",
+    "role_name": "Frontend Developer",
+    "character_name": "Fronty",
+    "character_desc": "Frontend developer mascote pintando uma telinha-janela com pincel.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, painting a small window-screen frame with a brush, a color swatch palette in the other hand, reading clearly as Frontend Developer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r022",
+    "sheet_id": "s090",
+    "role_id": "r022",
+    "role_slug": "ui-engineer",
+    "role_name": "UI Engineer",
+    "character_name": "Uizinho",
+    "character_desc": "UI engineer mascote montando botõezinhos e sliders num painel.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, assembling little buttons, toggles and sliders onto a bronze panel, tiny screwdriver in hand, reading clearly as UI Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r023",
+    "sheet_id": "s090",
+    "role_id": "r023",
+    "role_slug": "ux-designer",
+    "role_name": "UX Designer",
+    "character_name": "Uxita",
+    "character_desc": "UX designer mascote com mapa de jornada e lupa de empatia sobre um coração.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding a winding journey-map ribbon and a heart-shaped magnifier, thoughtful caring pose, reading clearly as UX Designer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r024",
+    "sheet_id": "s090",
+    "role_id": "r024",
+    "role_slug": "design-systems-eng",
+    "role_name": "Design Systems Engineer",
+    "character_name": "Sistemita",
+    "character_desc": "Design systems engineer mascote organizando blocos-token idênticos em grade.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, arranging identical modular tokens into a neat grid tray, a ruler-guide across its chest, reading clearly as Design Systems Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r025",
+    "sheet_id": "s090",
+    "role_id": "r025",
+    "role_slug": "a11y-specialist",
+    "role_name": "Accessibility Specialist",
+    "character_name": "Acessa",
+    "character_desc": "Accessibility specialist mascote com bengala guia e símbolo universal no peito.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding a guide cane and a small ear-and-eye emblem, a universal-access badge on chest, welcoming gesture, reading clearly as Accessibility Specialist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r026",
+    "sheet_id": "s090",
+    "role_id": "r026",
+    "role_slug": "web-perf-engineer",
+    "role_name": "Web Performance Engineer",
+    "character_name": "Perfy-Web",
+    "character_desc": "Web performance engineer mascote-guepardo com cronômetro e mola de velocidade.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, crouched in a sprint pose holding a stopwatch, a coiled speed spring under its feet, speed-line fins, reading clearly as Web Performance Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r027",
+    "sheet_id": "s090",
+    "role_id": "r027",
+    "role_slug": "css-specialist",
+    "role_name": "CSS Specialist",
+    "character_name": "Cssito",
+    "character_desc": "CSS specialist mascote estilizando caixinhas com pincel e régua de margem.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, styling nested boxes with a brush and a margin ruler, cascading layered plates on its back, reading clearly as CSS Specialist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r028",
+    "sheet_id": "s090",
+    "role_id": "r028",
+    "role_slug": "animation-engineer",
+    "role_name": "Animation Engineer",
+    "character_name": "Animê-Bronze",
+    "character_desc": "Animation engineer mascote com tira de quadros-chave em arco de movimento.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding a filmstrip of keyframes bending in a motion arc, tiny motion-trail fins behind it, reading clearly as Animation Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r029",
+    "sheet_id": "s090",
+    "role_id": "r029",
+    "role_slug": "mobile-dev",
+    "role_name": "Mobile Developer",
+    "character_name": "Mobito",
+    "character_desc": "Mobile developer mascote segurando um telefoninho de bronze com carinho.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, cradling a small bronze smartphone slab, a signal-wave emblem above its head, reading clearly as Mobile Developer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r030",
+    "sheet_id": "s090",
+    "role_id": "r030",
+    "role_slug": "ios-dev",
+    "role_name": "iOS Developer",
+    "character_name": "Maçãzita",
+    "character_desc": "iOS developer mascote polido com uma maçãzinha mordida na mão.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding a small bitten apple fruit, sleek polished finish, a rounded phone in its pocket, reading clearly as iOS Developer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r031",
+    "sheet_id": "s090",
+    "role_id": "r031",
+    "role_slug": "android-dev",
+    "role_name": "Android Developer",
+    "character_name": "Robozito",
+    "character_desc": "Android developer mascote com carapaça de robô-inseto e anteninhas.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, wearing a little robot-bug shell with two antennae, holding a green droid figurine, reading clearly as Android Developer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r032",
+    "sheet_id": "s090",
+    "role_id": "r032",
+    "role_slug": "react-native-dev",
+    "role_name": "React Native Developer",
+    "character_name": "Reactito",
+    "character_desc": "React Native mascote com átomo orbitando entre dois telefones.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding a spinning atom orbital while standing between two small phone slabs, bridge motif at feet, reading clearly as React Native Developer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r033",
+    "sheet_id": "s090",
+    "role_id": "r033",
+    "role_slug": "flutter-dev",
+    "role_name": "Flutter Developer",
+    "character_name": "Flutby",
+    "character_desc": "Flutter developer mascote borboleta-de-bronze com asa única e telefone.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, with a single stylized butterfly wing and a phone slab, fluttering pose, bird-blue patina accents, reading clearly as Flutter Developer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r034",
+    "sheet_id": "s090",
+    "role_id": "r034",
+    "role_slug": "data-scientist",
+    "role_name": "Data Scientist",
+    "character_name": "Cientista-D",
+    "character_desc": "Data scientist mascote com balão de gráfico e frasco de experimento.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding a scatter-plot orb in one hand and a lab flask in the other, a bar-chart crest on head, reading clearly as Data Scientist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r035",
+    "sheet_id": "s090",
+    "role_id": "r035",
+    "role_slug": "ml-engineer",
+    "role_name": "ML Engineer",
+    "character_name": "Emelê",
+    "character_desc": "ML engineer mascote treinando uma rede-neuro em forma de teia esférica.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, cupping a spherical neural-net web of nodes and threads, gear-and-brain emblem on chest, reading clearly as ML Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r036",
+    "sheet_id": "s090",
+    "role_id": "r036",
+    "role_slug": "mlops-engineer",
+    "role_name": "MLOps Engineer",
+    "character_name": "Melops",
+    "character_desc": "MLOps engineer mascote com esteira circular alimentando um cérebro-modelo.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, feeding a brain-shaped model through a looping conveyor of gears, deploy rocket badge, reading clearly as MLOps Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r037",
+    "sheet_id": "s090",
+    "role_id": "r037",
+    "role_slug": "ai-researcher",
+    "role_name": "AI Researcher",
+    "character_name": "Pesquisa-IA",
+    "character_desc": "AI researcher mascote curioso com cérebro-lâmpada e pergaminho de teoria.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding a brain-lightbulb aloft and a rolled theory scroll, thoughtful star-eyes, reading clearly as AI Researcher, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r038",
+    "sheet_id": "s090",
+    "role_id": "r038",
+    "role_slug": "llm-prompt",
+    "role_name": "Prompt Engineer",
+    "character_name": "Promptino",
+    "character_desc": "Prompt engineer mascote sussurrando a um cérebro-caixa com balão de fala.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, whispering into a speech-bubble aimed at a small brain-box, a quill pen in hand, reading clearly as Prompt Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r039",
+    "sheet_id": "s090",
+    "role_id": "r039",
+    "role_slug": "nlp-engineer",
+    "role_name": "NLP Engineer",
+    "character_name": "Enelpê",
+    "character_desc": "NLP engineer mascote decifrando balões de fala em símbolos.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, translating floating speech bubbles into symbol tiles, an open dictionary at its feet, reading clearly as NLP Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r040",
+    "sheet_id": "s090",
+    "role_id": "r040",
+    "role_slug": "cv-engineer",
+    "role_name": "Computer Vision Engineer",
+    "character_name": "Visão-CV",
+    "character_desc": "Computer vision engineer mascote com olho-câmera gigante e grade de detecção.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, with one big camera-eye lens and a detection-frame reticle in its hands, scan-line motif, reading clearly as Computer Vision Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r041",
+    "sheet_id": "s090",
+    "role_id": "r041",
+    "role_slug": "data-analyst",
+    "role_name": "Data Analyst",
+    "character_name": "Analista-D",
+    "character_desc": "Data analyst mascote apontando para um gráfico de barras em placa.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, pointing at a bar-chart tablet with a pointer stick, a pie-chart badge on chest, reading clearly as Data Analyst, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r042",
+    "sheet_id": "s090",
+    "role_id": "r042",
+    "role_slug": "bi-analyst",
+    "role_name": "BI Analyst",
+    "character_name": "Bizinho",
+    "character_desc": "BI analyst mascote com painel-dashboard de mostradores.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding a dashboard panel with little gauges and dials, insight lightbulb on top, reading clearly as BI Analyst, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r043",
+    "sheet_id": "s090",
+    "role_id": "r043",
+    "role_slug": "analytics-engineer",
+    "role_name": "Analytics Engineer",
+    "character_name": "Analytica",
+    "character_desc": "Analytics engineer mascote transformando dados brutos em cubo polido.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, polishing a rough data lump into a clean faceted cube, funnel-and-gear tool in hand, reading clearly as Analytics Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r044",
+    "sheet_id": "s090",
+    "role_id": "r044",
+    "role_slug": "dataviz-specialist",
+    "role_name": "Data Viz Specialist",
+    "character_name": "Vizuca",
+    "character_desc": "Data viz specialist mascote-artista pintando um gráfico colorido em cavalete.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, painting a vivid chart on a small easel canvas, a palette of chart shapes in hand, reading clearly as Data Viz Specialist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r045",
+    "sheet_id": "s090",
+    "role_id": "r045",
+    "role_slug": "devops-installer",
+    "role_name": "DevOps Engineer",
+    "character_name": "Devopsy",
+    "character_desc": "DevOps engineer mascote girando o loop-infinito com chave e caixa de deploy.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, spinning an infinity-loop hoop, a wrench in one hand and a shipping crate at its feet, reading clearly as DevOps Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r046",
+    "sheet_id": "s090",
+    "role_id": "r046",
+    "role_slug": "sre",
+    "role_name": "Site Reliability Engineer",
+    "character_name": "Esrezinho",
+    "character_desc": "SRE mascote bombeiro-guardião com extintor e monitor de sinais.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding a small fire extinguisher and a heartbeat-monitor tablet, alert but calm firefighter helmet, reading clearly as Site Reliability Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r047",
+    "sheet_id": "s090",
+    "role_id": "r047",
+    "role_slug": "platform-engineer",
+    "role_name": "Platform Engineer",
+    "character_name": "Platô",
+    "character_desc": "Platform engineer mascote erguendo uma plataforma-palco sobre pilares.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, lifting a small stage platform on bronze pillars for others to stand on, toolbelt with modular parts, reading clearly as Platform Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r048",
+    "sheet_id": "s090",
+    "role_id": "r048",
+    "role_slug": "cloud-architect",
+    "role_name": "Cloud Architect",
+    "character_name": "Nuvenzita",
+    "character_desc": "Cloud architect mascote sentado sobre uma nuvem de bronze com planta.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, perched on a stylized bronze cloud holding a blueprint, tiny server pillars floating around, reading clearly as Cloud Architect, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r049",
+    "sheet_id": "s090",
+    "role_id": "r049",
+    "role_slug": "k8s-admin",
+    "role_name": "Kubernetes Admin",
+    "character_name": "Cubernauta",
+    "character_desc": "Kubernetes admin mascote timoneiro segurando um leme de sete raios.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, gripping a seven-spoke ship helm wheel, stacked container cubes balanced on its back, captain hat, reading clearly as Kubernetes Admin, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r050",
+    "sheet_id": "s090",
+    "role_id": "r050",
+    "role_slug": "network-engineer",
+    "role_name": "Network Engineer",
+    "character_name": "Netito",
+    "character_desc": "Network engineer mascote tecendo cabos entre nós-esferas.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, weaving bronze cables between glowing node spheres, a patch-panel vest with ports, reading clearly as Network Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r051",
+    "sheet_id": "s090",
+    "role_id": "r051",
+    "role_slug": "sysadmin",
+    "role_name": "Systems Administrator",
+    "character_name": "Sysadão",
+    "character_desc": "Systems administrator mascote com molho enorme de chaves e monitor.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, carrying a huge ring of keys and a small terminal monitor, utility overalls, watchful pose, reading clearly as Systems Administrator, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r052",
+    "sheet_id": "s090",
+    "role_id": "r052",
+    "role_slug": "release-engineer",
+    "role_name": "Release Engineer",
+    "character_name": "Releasy",
+    "character_desc": "Release engineer mascote com tag-etiqueta e foguetinho de lançamento.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding a version tag label and a small launch rocket, a checkered flag on its shoulder, reading clearly as Release Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r053",
+    "sheet_id": "s090",
+    "role_id": "r053",
+    "role_slug": "build-engineer",
+    "role_name": "Build Engineer",
+    "character_name": "Buildão",
+    "character_desc": "Build engineer mascote-forjador martelando peças num só bloco.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, hammering scattered parts into a single solid block on an anvil, apron and mallet, reading clearly as Build Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r054",
+    "sheet_id": "s090",
+    "role_id": "r054",
+    "role_slug": "cicd-engineer",
+    "role_name": "CI/CD Engineer",
+    "character_name": "Ciciby",
+    "character_desc": "CI/CD engineer mascote girando a esteira-loop de testar e entregar.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, turning a looping conveyor belt of gears with a checkmark stamp, pipeline segments at feet, reading clearly as CI/CD Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r055",
+    "sheet_id": "s090",
+    "role_id": "r055",
+    "role_slug": "security-auditor",
+    "role_name": "Security Engineer",
+    "character_name": "Segurino",
+    "character_desc": "Security engineer mascote com escudo-cadeado e lupa de ameaças.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding a lock-emblazoned shield and a small threat magnifier, helmet with visor, reading clearly as Security Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r056",
+    "sheet_id": "s090",
+    "role_id": "r056",
+    "role_slug": "pentester",
+    "role_name": "Penetration Tester",
+    "character_name": "Pentão",
+    "character_desc": "Penetration tester mascote com gazua-chave e capuz espreitando a fechadura.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, picking a big padlock with a lockpick, wearing a hooded cloak, sneaky grin, reading clearly as Penetration Tester, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r057",
+    "sheet_id": "s090",
+    "role_id": "r057",
+    "role_slug": "appsec-engineer",
+    "role_name": "AppSec Engineer",
+    "character_name": "Apsequita",
+    "character_desc": "AppSec engineer mascote blindando um app-telefone com placas de escudo.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, bolting shield plates onto a small app slab, a bug caught in tweezers, reading clearly as AppSec Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r058",
+    "sheet_id": "s090",
+    "role_id": "r058",
+    "role_slug": "cryptographer",
+    "role_name": "Cryptographer",
+    "character_name": "Criptô",
+    "character_desc": "Cryptographer mascote com cadeado-enigma e roda de cifra.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, turning a rotating cipher wheel next to a locked keyhole, key-and-scroll motif, reading clearly as Cryptographer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r059",
+    "sheet_id": "s090",
+    "role_id": "r059",
+    "role_slug": "compliance-officer",
+    "role_name": "Compliance Officer",
+    "character_name": "Complay",
+    "character_desc": "Compliance officer mascote com balança da justiça e carimbo de aprovação.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding scales of justice and an approval stamp, a checklist ribbon across chest, reading clearly as Compliance Officer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r060",
+    "sheet_id": "s090",
+    "role_id": "r060",
+    "role_slug": "privacy-engineer",
+    "role_name": "Privacy Engineer",
+    "character_name": "Privô",
+    "character_desc": "Privacy engineer mascote guardando dados pessoais sob um domo-escudo.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, sheltering little data figures under a protective bronze dome, a mask-and-lock emblem, reading clearly as Privacy Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r061",
+    "sheet_id": "s090",
+    "role_id": "r061",
+    "role_slug": "incident-responder",
+    "role_name": "Incident Responder",
+    "character_name": "Incidente",
+    "character_desc": "Incident responder mascote com pager tocando e extintor a postos.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding a buzzing pager and a fire extinguisher, a siren beacon on its helmet, ready stance, reading clearly as Incident Responder, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r062",
+    "sheet_id": "s090",
+    "role_id": "r062",
+    "role_slug": "threat-modeler",
+    "role_name": "Threat Modeler",
+    "character_name": "Ameacinha",
+    "character_desc": "Threat modeler mascote desenhando setas de ataque num tabuleiro-mapa.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, drawing attack arrows on a small board map with chess-like pieces, a magnifier at its side, reading clearly as Threat Modeler, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r063",
+    "sheet_id": "s090",
+    "role_id": "r063",
+    "role_slug": "qa-tester",
+    "role_name": "QA Engineer",
+    "character_name": "Cuê-Ei",
+    "character_desc": "QA engineer mascote inspecionando com lupa e prancheta de checklist.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, inspecting through a magnifier with a checklist clipboard, a bug specimen pinned to its chest, reading clearly as QA Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r064",
+    "sheet_id": "s090",
+    "role_id": "r064",
+    "role_slug": "sdet",
+    "role_name": "SDET (Automação)",
+    "character_name": "Esditão",
+    "character_desc": "SDET mascote-robô lançando testes automáticos por uma catapulta.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, operating a small catapult firing checkmark orbs at targets, a robot-arm accessory, reading clearly as SDET (Automação), centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r065",
+    "sheet_id": "s090",
+    "role_id": "r065",
+    "role_slug": "perf-tester",
+    "role_name": "Performance Tester",
+    "character_name": "Perftesta",
+    "character_desc": "Performance tester mascote empurrando peso num medidor de estresse.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, pushing a heavy weight onto a load gauge dial that reads high, stopwatch necklace, reading clearly as Performance Tester, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r066",
+    "sheet_id": "s090",
+    "role_id": "r066",
+    "role_slug": "manual-tester",
+    "role_name": "Manual Tester",
+    "character_name": "Manualzita",
+    "character_desc": "Manual tester mascote clicando telas uma a uma com dedo e caderneta.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, tapping a small screen with a pointing finger while holding a notebook of notes, patient pose, reading clearly as Manual Tester, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r067",
+    "sheet_id": "s090",
+    "role_id": "r067",
+    "role_slug": "a11y-tester",
+    "role_name": "Accessibility Tester",
+    "character_name": "Acessa-Q",
+    "character_desc": "Accessibility tester mascote checando app com bengala e checklist inclusivo.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, testing a small app slab with a guide cane and an accessibility checklist, ear-eye emblem, reading clearly as Accessibility Tester, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r068",
+    "sheet_id": "s090",
+    "role_id": "r068",
+    "role_slug": "docs-writer",
+    "role_name": "Technical Writer",
+    "character_name": "Escribinha",
+    "character_desc": "Technical writer mascote com pena de bronze e manual aberto.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, writing in an open manual book with a large quill pen, ink pot at its feet, reading clearly as Technical Writer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r069",
+    "sheet_id": "s090",
+    "role_id": "r069",
+    "role_slug": "dev-advocate",
+    "role_name": "Developer Advocate",
+    "character_name": "Advogadev",
+    "character_desc": "Developer advocate mascote com megafone e coração-código.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, raising a megaphone and holding a heart with a code bracket, friendly waving pose, reading clearly as Developer Advocate, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r070",
+    "sheet_id": "s090",
+    "role_id": "r070",
+    "role_slug": "content-strategist",
+    "role_name": "Content Strategist",
+    "character_name": "Contentê",
+    "character_desc": "Content strategist mascote organizando cartões de história num mural.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, arranging story cards on a small mural board with a compass, a pen behind its ear, reading clearly as Content Strategist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r071",
+    "sheet_id": "s090",
+    "role_id": "r071",
+    "role_slug": "i18n-engineer",
+    "role_name": "Localization Engineer",
+    "character_name": "Iãozinho",
+    "character_desc": "Localization engineer mascote com globo e balões de fala em várias línguas.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, spinning a small bronze globe with speech bubbles of different scripts around it, reading clearly as Localization Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r072",
+    "sheet_id": "s090",
+    "role_id": "r072",
+    "role_slug": "product-designer",
+    "role_name": "Product Designer",
+    "character_name": "Prodesign",
+    "character_desc": "Product designer mascote unindo lápis, lupa e telinha num só suporte.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding a combined pencil-magnifier-screen tool, sketch prototype at its feet, reading clearly as Product Designer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r073",
+    "sheet_id": "s090",
+    "role_id": "r073",
+    "role_slug": "visual-designer",
+    "role_name": "Visual Designer",
+    "character_name": "Visuca",
+    "character_desc": "Visual designer mascote com paleta de bronze e pincel largo.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding a painter palette and a broad brush, color swatch fan in the other hand, reading clearly as Visual Designer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r074",
+    "sheet_id": "s090",
+    "role_id": "r074",
+    "role_slug": "interaction-designer",
+    "role_name": "Interaction Designer",
+    "character_name": "Interaça",
+    "character_desc": "Interaction designer mascote conectando gestos por setas de fluxo.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, linking gesture icons with curved flow arrows on a panel, a tap-ripple emblem, reading clearly as Interaction Designer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r075",
+    "sheet_id": "s090",
+    "role_id": "r075",
+    "role_slug": "motion-designer",
+    "role_name": "Motion Designer",
+    "character_name": "Motita",
+    "character_desc": "Motion designer mascote com tira de quadros curvando num arco animado.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, sweeping a curved motion-arc filmstrip through the air, trailing motion fins, reading clearly as Motion Designer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r076",
+    "sheet_id": "s090",
+    "role_id": "r076",
+    "role_slug": "illustrator",
+    "role_name": "Illustrator",
+    "character_name": "Ilustrino",
+    "character_desc": "Illustrator mascote com prancha, lápis grande e mão manchada de tinta.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding a drawing tablet and an oversized pencil, an ink-stained hand, sketch pinned on chest, reading clearly as Illustrator, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r077",
+    "sheet_id": "s090",
+    "role_id": "r077",
+    "role_slug": "asset-designer",
+    "role_name": "Asset Designer",
+    "character_name": "Assetão",
+    "character_desc": "Asset designer mascote com bandeja de ícones e sprites empilhados.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, carrying a tray of little icon tiles and sprite sheets, a stamp tool in hand, reading clearly as Asset Designer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r078",
+    "sheet_id": "s090",
+    "role_id": "r078",
+    "role_slug": "brand-designer",
+    "role_name": "Brand Designer",
+    "character_name": "Brandy",
+    "character_desc": "Brand designer mascote polindo um selo-emblema de marca.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, polishing a round brand emblem seal, a color swatch ribbon and logo grid at its feet, reading clearly as Brand Designer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r079",
+    "sheet_id": "s090",
+    "role_id": "r079",
+    "role_slug": "sound-designer",
+    "role_name": "Sound Designer",
+    "character_name": "Soundino",
+    "character_desc": "Sound designer mascote com fones e onda sonora esculpida saindo do alto-falante.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, wearing headphones and cradling a small speaker emitting a carved sound wave, tuning knob, reading clearly as Sound Designer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r080",
+    "sheet_id": "s090",
+    "role_id": "r080",
+    "role_slug": "3d-artist",
+    "role_name": "3D Artist",
+    "character_name": "Trêdê",
+    "character_desc": "3D artist mascote esculpindo um wireframe-esfera com estilete.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, sculpting a faceted wireframe sphere with a stylus, a mesh grid emblem on chest, reading clearly as 3D Artist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r081",
+    "sheet_id": "s090",
+    "role_id": "r081",
+    "role_slug": "game-designer",
+    "role_name": "Game Designer",
+    "character_name": "Gamito",
+    "character_desc": "Game designer mascote com dado gigante, joystick e tabuleiro de regras.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding an oversized bronze die and a joystick, a rulebook board strapped on its back, reading clearly as Game Designer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r082",
+    "sheet_id": "s090",
+    "role_id": "r082",
+    "role_slug": "level-designer",
+    "role_name": "Level Designer",
+    "character_name": "Levelzão",
+    "character_desc": "Level designer mascote construindo um mapa-labirinto em blocos.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, assembling a maze-map from modular blocks with flag markers, a mini pickaxe tool, reading clearly as Level Designer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r083",
+    "sheet_id": "s090",
+    "role_id": "r083",
+    "role_slug": "narrative-designer",
+    "role_name": "Narrative Designer",
+    "character_name": "Narrô",
+    "character_desc": "Narrative designer mascote com livro-ramificado de diálogos.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding an open book with branching dialogue paths and speech bubbles, a quill and mask, reading clearly as Narrative Designer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r084",
+    "sheet_id": "s090",
+    "role_id": "r084",
+    "role_slug": "game-dev",
+    "role_name": "Game Developer",
+    "character_name": "Gamedev",
+    "character_desc": "Game developer mascote com joystick numa mão e engrenagem-motor na outra.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, gripping a bronze joystick and an engine gear cog, a pixel-heart badge on chest, reading clearly as Game Developer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r085",
+    "sheet_id": "s090",
+    "role_id": "r085",
+    "role_slug": "graphics-engineer",
+    "role_name": "Graphics/Shader Engineer",
+    "character_name": "Shaderzita",
+    "character_desc": "Graphics/shader engineer mascote com prisma refratando um feixe.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding a triangular prism splitting a light beam into facets, a render-cube on its shoulder, reading clearly as Graphics/Shader Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r086",
+    "sheet_id": "s090",
+    "role_id": "r086",
+    "role_slug": "embedded-engineer",
+    "role_name": "Embedded Engineer",
+    "character_name": "Embedy",
+    "character_desc": "Embedded engineer mascote soldando numa plaquinha de circuito minúscula.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, soldering a tiny circuit board with an iron, a chip embedded on its belly, loupe over one eye, reading clearly as Embedded Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r087",
+    "sheet_id": "s090",
+    "role_id": "r087",
+    "role_slug": "firmware-engineer",
+    "role_name": "Firmware Engineer",
+    "character_name": "Firminho",
+    "character_desc": "Firmware engineer mascote injetando código num chip com seringa-flash.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, flashing a chip with a syringe-programmer tool, a ROM cartridge holstered, focused frown, reading clearly as Firmware Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r088",
+    "sheet_id": "s090",
+    "role_id": "r088",
+    "role_slug": "iot-engineer",
+    "role_name": "IoT Engineer",
+    "character_name": "Iotê",
+    "character_desc": "IoT engineer mascote cercado de gadgets-esferas conectados por sinal.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, surrounded by little sensor orbs connected by wireless-wave arcs, an antenna on its head, reading clearly as IoT Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r089",
+    "sheet_id": "s090",
+    "role_id": "r089",
+    "role_slug": "blockchain-dev",
+    "role_name": "Blockchain Developer",
+    "character_name": "Bloquito",
+    "character_desc": "Blockchain developer mascote encadeando blocos-cubo com elos.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, linking cube blocks into a chain with bronze links, a coin medallion on chest, reading clearly as Blockchain Developer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r090",
+    "sheet_id": "s090",
+    "role_id": "r090",
+    "role_slug": "smartcontract-auditor",
+    "role_name": "Smart Contract Auditor",
+    "character_name": "Contratão",
+    "character_desc": "Smart contract auditor mascote inspecionando um contrato-cubo com lupa.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, examining a chained contract cube through a magnifier, a checklist stamp in hand, wary look, reading clearly as Smart Contract Auditor, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r091",
+    "sheet_id": "s090",
+    "role_id": "r091",
+    "role_slug": "arvr-engineer",
+    "role_name": "AR/VR Engineer",
+    "character_name": "Realvê",
+    "character_desc": "AR/VR engineer mascote com viseira-headset e portal-janela flutuante.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, wearing a VR headset visor and holding a floating portal frame showing depth, hand controllers, reading clearly as AR/VR Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r092",
+    "sheet_id": "s090",
+    "role_id": "r092",
+    "role_slug": "robotics-engineer",
+    "role_name": "Robotics Engineer",
+    "character_name": "Robótico",
+    "character_desc": "Robotics engineer mascote com braço-robô articulado e controle.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, operating an articulated robot arm with a joystick controller, gear-and-bolt shoulder plate, reading clearly as Robotics Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r093",
+    "sheet_id": "s090",
+    "role_id": "r093",
+    "role_slug": "growth-engineer",
+    "role_name": "Growth Engineer",
+    "character_name": "Grôuzita",
+    "character_desc": "Growth engineer mascote regando um broto-gráfico que sobe em flecha.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, watering a sprouting arrow-shaped growth chart with a can, an upward-trend badge, reading clearly as Growth Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r094",
+    "sheet_id": "s090",
+    "role_id": "r094",
+    "role_slug": "seo-specialist",
+    "role_name": "SEO Specialist",
+    "character_name": "Seozinho",
+    "character_desc": "SEO specialist mascote içando um site ao topo com lupa e flecha de rank.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, hoisting a small web-page slab up a ranking ladder with a magnifier and up-arrow, reading clearly as SEO Specialist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r095",
+    "sheet_id": "s090",
+    "role_id": "r095",
+    "role_slug": "marketing-tech",
+    "role_name": "Marketing Technologist",
+    "character_name": "Marketô",
+    "character_desc": "Marketing technologist mascote com funil de captação e engrenagem de automação.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, pouring little user figures through a marketing funnel driven by a gear, megaphone at side, reading clearly as Marketing Technologist, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r096",
+    "sheet_id": "s090",
+    "role_id": "r096",
+    "role_slug": "solutions-engineer",
+    "role_name": "Solutions Engineer",
+    "character_name": "Soluçá",
+    "character_desc": "Solutions engineer mascote encaixando peças de quebra-cabeça para o cliente.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, fitting two puzzle pieces together toward a handshake, a demo screen tablet under its arm, reading clearly as Solutions Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r097",
+    "sheet_id": "s090",
+    "role_id": "r097",
+    "role_slug": "support-engineer",
+    "role_name": "Support Engineer",
+    "character_name": "Suportino",
+    "character_desc": "Support engineer mascote com headset e kit de ferramentas de socorro.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, wearing a call-center headset and holding a first-aid toolkit, a friendly reassuring wave, reading clearly as Support Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r098",
+    "sheet_id": "s090",
+    "role_id": "r098",
+    "role_slug": "sales-engineer",
+    "role_name": "Sales Engineer",
+    "character_name": "Salesô",
+    "character_desc": "Sales engineer mascote apresentando um produto-troféu com aperto de mão.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, presenting a small product trophy while offering a handshake, a demo chart board and briefcase, reading clearly as Sales Engineer, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r099",
+    "sheet_id": "s090",
+    "role_id": "r099",
+    "role_slug": "finops",
+    "role_name": "FinOps Analyst",
+    "character_name": "Finopy",
+    "character_desc": "FinOps analyst mascote pesando moedas-nuvem numa balança de custos.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, weighing cloud-shaped coins on a cost scale, a calculator slab and dollar medallion, reading clearly as FinOps Analyst, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  },
+  {
+    "char_id": "s090-r100",
+    "sheet_id": "s090",
+    "role_id": "r100",
+    "role_slug": "legal-counsel",
+    "role_name": "Legal Counsel",
+    "character_name": "Legalzito",
+    "character_desc": "Legal counsel mascote com balança da justiça e livro de leis lacrado.",
+    "nano_prompt": "Aged bronze cast sculpture of a rounded chibi mascot figurine, full body standing on a small round bronze pedestal base, cute simplified proportions with a big oval head and stubby limbs, weathered bronze metal with green verdigris patina in the crevices and warm golden-brown highlights on raised surfaces, soft museum studio lighting, holding scales of justice and a sealed law tome, a gavel at its side, formal bow tie collar, reading clearly as Legal Counsel, centered single character, consistent framing, uniform chroma-key green background (#00b140), no text, no logo, high detail"
+  }
+]
